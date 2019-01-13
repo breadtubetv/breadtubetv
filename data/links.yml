@@ -1,10 +1,22 @@
 tiles:
 -
+  name: "The Young Turks"
+  url: "https://www.youtube.com/user/TheYoungTurks"
+  img: "https://yt3.ggpht.com/a-/AAuE7mCCTD6oG3lfHpYeUTtQ8CetTVT5XTj1OQX8RA=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics", "history"]
+  subscribers: 781853
+-
   name: "Internet Comment Etiquette with Erik"
   url: "https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ"
   img: "https://yt3.ggpht.com/a-/AAuE7mADAIYhRNywHeGO6W5TvHaAwjXlWMn_ihuMDA=s288-mo-c-c0xffffffff-rj-k-no"
   tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 781853
+-
+  name: "Democracy Now"
+  url: "https://www.youtube.com/user/democracynow"
+  img: "https://yt3.ggpht.com/a-/AAuE7mDrb867RxUzjHAKADr9KJj_ngvV852gKzlQDA=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics", "history"]
+  subscribers: 462792
 -
   name: "Contrapoints"
   url: "https://www.youtube.com/contrapoints"
@@ -12,23 +24,35 @@ tiles:
   tags: ["culture", "philosophy", "economics", "politics"]
   subscribers: 399836
 -
+  name: "hbomberguy"
+  url: "https://www.youtube.com/hbomberguy"
+  img: "https://yt3.ggpht.com/a-/AAuE7mA_W3v3drmlTZHGDSfXHaY0B4vyxLuh6YsXOw=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics"]
+  subscribers: 325262
+-
   name: "Philsophy Tube"
   url: "https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ"
   img: "https://yt3.ggpht.com/a-/AAuE7mC9hlgF_-hKKqmHSBxb8Q3WoUNOG1L3kmjrCQ=s288-mo-c-c0xffffffff-rj-k-no"
   tags: ["culture", "philosophy", "economics", "politics"]
   subscribers: 295581
 -
-  name: "Shaun"
-  url: "https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ"
-  img: "https://yt3.ggpht.com/a-/AAuE7mA_m5N8rT3wcDGc7_iuEOgNMOCkPTocYYLU6w=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics", "history"]
-  subscribers: 180487
--
   name: "Peter Coffin"
   url: "https://www.youtube.com/petercoffin"
   img: "https://yt3.ggpht.com/a-/AAuE7mCTDq3T_8iR5suPZovtqdh4T1HyYjxZFCbZJA=s176-c-k-c0x00ffffff-no-rj-mo"
   tags: ["culture", "philosophy", "economics", "politics"]
   subscribers: 236769
+-
+  name: "Three Arrows"
+  url: "https://www.youtube.com/threearrows"
+  img: "https://yt3.ggpht.com/a-/AAuE7mCSrxk7icCZVJ9fGaN3C_EhmOxM8fsn-ihmnA=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics", "history"]
+  subscribers: 180487
+-
+  name: "Shaun"
+  url: "https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ"
+  img: "https://yt3.ggpht.com/a-/AAuE7mA_m5N8rT3wcDGc7_iuEOgNMOCkPTocYYLU6w=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics", "history"]
+  subscribers: 180487
 -
   name: "Thought Slime"
   url: "https://www.youtube.com/thoughtslime"
