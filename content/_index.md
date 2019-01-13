@@ -1,3 +1,3 @@
 ---
-title: BreadTube.tv (ALPHA)
+title: BreadTube.tv
 ---
