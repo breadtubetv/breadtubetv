@@ -1,0 +1,55 @@
+tiles:
+-
+  name: "Internet Comment Etiquette with Erik"
+  url: "https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ"
+  img: "https://yt3.ggpht.com/a-/AAuE7mADAIYhRNywHeGO6W5TvHaAwjXlWMn_ihuMDA=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics", "history"]
+  subscribers: 781853
+-
+  name: "Contrapoints"
+  url: "https://www.youtube.com/contrapoints"
+  img: "https://yt3.ggpht.com/a-/AAuE7mCuocR5clQlciCrc7qXmTMUWuq6iyDZ-GzEDA=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics"]
+  subscribers: 399836
+-
+  name: "Philsophy Tube"
+  url: "https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ"
+  img: "https://yt3.ggpht.com/a-/AAuE7mC9hlgF_-hKKqmHSBxb8Q3WoUNOG1L3kmjrCQ=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics"]
+  subscribers: 295581
+-
+  name: "Shaun"
+  url: "https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ"
+  img: "https://yt3.ggpht.com/a-/AAuE7mA_m5N8rT3wcDGc7_iuEOgNMOCkPTocYYLU6w=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics", "history"]
+  subscribers: 180487
+-
+  name: "Peter Coffin"
+  url: "https://www.youtube.com/petercoffin"
+  img: "https://yt3.ggpht.com/a-/AAuE7mCTDq3T_8iR5suPZovtqdh4T1HyYjxZFCbZJA=s176-c-k-c0x00ffffff-no-rj-mo"
+  tags: ["culture", "philosophy", "economics", "politics"]
+  subscribers: 236769
+-
+  name: "Thought Slime"
+  url: "https://www.youtube.com/thoughtslime"
+  img: "https://yt3.ggpht.com/a-/AAuE7mB8INMJ8HIopOJU8O-Q09ll00_h9KtvIb8sUQ=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics"]
+  subscribers: 19904
+-
+  name: "NonCompete"
+  url: "https://www.youtube.com/noncompete"
+  img: "https://yt3.ggpht.com/a-/AAuE7mCzRwiJSsSkUWcfwmmIvDHyskbHiaKU-wLouQ=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics"]
+  subscribers: 19276
+-
+  name: "Radical Review"
+  url: "https://www.youtube.com/radicalreviewer"
+  img: "https://yt3.ggpht.com/a-/AAuE7mBZ8ECC8SgcefL40JO4vyB1ROYtEiT-AiXQFw=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics"]
+  subscribers: 2805
+-
+  name: "Angie Speaks"
+  url: "https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ"
+  img: "https://yt3.ggpht.com/a-/AAuE7mBdk7gH5WLBoaQEAn2TmdGdQcrvvDiKPwWO7A=s100-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics"]
+  subscribers: 8367

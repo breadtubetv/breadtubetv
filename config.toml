@@ -1,0 +1,31 @@
+baseURL = "https://breadtube.tv/"
+languageCode = "en-us"
+title = "BreadTube"
+theme = "slate"
+
+# https://fontawesome.com/v4.7.0/cheatsheet/
+
+[[ params.nav ]]
+name = "Culture"
+tag = "culture"
+icon = "users"
+
+[[ params.nav ]]
+name = "Philosophy"
+tag = "philosophy"
+icon = "graduation-cap"
+
+[[ params.nav ]]
+name = "Economics"
+tag = "economics"
+icon = "money"
+
+[[ params.nav ]]
+name = "Politics"
+tag = "politics"
+icon = "handshake-o"
+
+[[ params.nav ]]
+name = "History"
+tag = "history"
+icon = "institution"
