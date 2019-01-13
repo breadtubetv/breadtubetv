@@ -54,6 +54,12 @@ tiles:
   tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 180487
 -
+  name: "BadMouseProductions"
+  url: "https://www.youtube.com/user/xaxie1"
+  img: "https://yt3.ggpht.com/a-/AAuE7mBwpZ6AQT8_gmpuMS55r4KDMFoaw3VKwP0mxQ=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics", "history"]
+  subscribers: 49927
+-
   name: "Thought Slime"
   url: "https://www.youtube.com/thoughtslime"
   img: "https://yt3.ggpht.com/a-/AAuE7mB8INMJ8HIopOJU8O-Q09ll00_h9KtvIb8sUQ=s288-mo-c-c0xffffffff-rj-k-no"
@@ -66,7 +72,7 @@ tiles:
   tags: ["culture", "philosophy", "economics", "politics"]
   subscribers: 19276
 -
-  name: "Radical Review"
+  name: "Radical Reviewer"
   url: "https://www.youtube.com/radicalreviewer"
   img: "https://yt3.ggpht.com/a-/AAuE7mBZ8ECC8SgcefL40JO4vyB1ROYtEiT-AiXQFw=s288-mo-c-c0xffffffff-rj-k-no"
   tags: ["culture", "philosophy", "economics", "politics"]
