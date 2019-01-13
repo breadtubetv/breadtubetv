@@ -1,0 +1,3 @@
+# Redirect default Netlify subdomain to primary domain
+http://breadtubetv.netlify.com/* http://breadtube.tv/:splat 301!
+https://breadtubetv.netlify.com/* http://breadtube.tv/:splat 301!
