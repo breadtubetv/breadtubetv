@@ -3,119 +3,144 @@ tiles:
   name: "The Young Turks"
   url: "https://www.youtube.com/user/TheYoungTurks"
   img: "https://yt3.ggpht.com/a-/AAuE7mCCTD6oG3lfHpYeUTtQ8CetTVT5XTj1OQX8RA=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 781853
+  tags: []
 -
   name: "Internet Comment Etiquette with Erik"
   url: "https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ"
   img: "https://yt3.ggpht.com/a-/AAuE7mADAIYhRNywHeGO6W5TvHaAwjXlWMn_ihuMDA=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 781853
+  tags: []
 -
   name: "Democracy Now"
   url: "https://www.youtube.com/user/democracynow"
   img: "https://yt3.ggpht.com/a-/AAuE7mDrb867RxUzjHAKADr9KJj_ngvV852gKzlQDA=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 462792
+  tags: []
 -
   name: "The Majority Report"
   url: "https://www.youtube.com/user/SamSeder"
   img: "https://yt3.ggpht.com/a-/AAuE7mDb_SdeVTkMHeuBU4y5-mngk7_DAxoYIUiy=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 429963
+  tags: []
 -
   name: "Contrapoints"
   url: "https://www.youtube.com/contrapoints"
   img: "https://yt3.ggpht.com/a-/AAuE7mCuocR5clQlciCrc7qXmTMUWuq6iyDZ-GzEDA=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics"]
   subscribers: 399836
+  tags: []
 -
   name: "hbomberguy"
   url: "https://www.youtube.com/hbomberguy"
   img: "https://yt3.ggpht.com/a-/AAuE7mA_W3v3drmlTZHGDSfXHaY0B4vyxLuh6YsXOw=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics"]
   subscribers: 325262
+  tags: []
 -
   name: "Philsophy Tube"
   url: "https://www.youtube.com/channel/UC2PA-AKmVpU6NKCGtZq_rKQ"
   img: "https://yt3.ggpht.com/a-/AAuE7mC9hlgF_-hKKqmHSBxb8Q3WoUNOG1L3kmjrCQ=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics"]
   subscribers: 295581
+  tags: []
 -
   name: "Peter Coffin"
   url: "https://www.youtube.com/petercoffin"
   img: "https://yt3.ggpht.com/a-/AAuE7mCTDq3T_8iR5suPZovtqdh4T1HyYjxZFCbZJA=s176-c-k-c0x00ffffff-no-rj-mo"
-  tags: ["culture", "philosophy", "economics", "politics"]
   subscribers: 236769
+  tags: []
+-
+  name: "friendlyjordies"
+  url: "https://www.youtube.com/user/friendlyjordies"
+  img: "https://yt3.ggpht.com/a-/AAuE7mCgygxpMMOI94lzF5LykKEbeAI-f_ocTwY37Q=s288-mo-c-c0xffffffff-rj-k-no"
+  subscribers: 207601
+  tags: []
 -
   name: "Three Arrows"
   url: "https://www.youtube.com/threearrows"
   img: "https://yt3.ggpht.com/a-/AAuE7mCSrxk7icCZVJ9fGaN3C_EhmOxM8fsn-ihmnA=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 180487
+  tags: []
 -
   name: "Shaun"
   url: "https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ"
   img: "https://yt3.ggpht.com/a-/AAuE7mA_m5N8rT3wcDGc7_iuEOgNMOCkPTocYYLU6w=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 180487
+  tags: []
 -
   name: "The Juice Media"
   url: "https://www.youtube.com/user/thejuicemedia"
   img: "https://yt3.ggpht.com/a-/AAuE7mDB3mdGdcoFX3wYtTu9MjWPje_XLFw87X2Lvw=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 163668
+  tags: []
+-
+  name: "Some More News"
+  url: "https://www.youtube.com/channel/UCvlj0IzjSnNoduQF0l3VGng"
+  img: "https://yt3.ggpht.com/a-/AAuE7mCSbeSk8WuQTXpV8lrhc0JPfE0K3JEu10hB_Q=s288-mo-c-c0xffffffff-rj-k-no"
+  subscribers: 143273
+  tags: []
 -
   name: "Empire Files"
   url: "https://www.youtube.com/empirefiles"
   img: "https://yt3.ggpht.com/a-/AAuE7mC--IoqIVotQZEyfQFZI4IlXVMjZNzb8324fA=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 108370
+  tags: []
 -
   name: "Democracy At Work"
   url: "https://www.youtube.com/user/democracyatwrk"
   img: "https://yt3.ggpht.com/a-/AAuE7mCYF6cfo6LLYtvU4muTWB03x3qG0452jkBXHw=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 73439
+  tags: []
 -
   name: "BadMouse Productions"
   url: "https://www.youtube.com/user/xaxie1"
   img: "https://yt3.ggpht.com/a-/AAuE7mBwpZ6AQT8_gmpuMS55r4KDMFoaw3VKwP0mxQ=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 49927
+  tags: []
+-
+  name: "Zero Books"
+  url: "https://www.youtube.com/channel/UCyoQK-mZXr2ws4C0nXGCH1w"
+  img: "https://yt3.ggpht.com/a-/AAuE7mBnObJCDlzDyOz_GPPLy01owxyOriZiyBQqTw=s288-mo-c-c0xffffffff-rj-k-no"
+  subscribers: 36622
+  tags: []
 -
   name: "Mexie"
   url: "https://www.youtube.com/channel/UCepkun0sH16b-mqxBN22ogA"
   img: "https://yt3.ggpht.com/a-/AAuE7mAjjyQseWNHXQU8aBHUoE3BxxvTdPzc7mTHQQ=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 26058
+  tags: []
 -
   name: "Thought Slime"
   url: "https://www.youtube.com/thoughtslime"
   img: "https://yt3.ggpht.com/a-/AAuE7mB8INMJ8HIopOJU8O-Q09ll00_h9KtvIb8sUQ=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics"]
   subscribers: 19904
+  tags: []
 -
   name: "NonCompete"
   url: "https://www.youtube.com/noncompete"
   img: "https://yt3.ggpht.com/a-/AAuE7mCzRwiJSsSkUWcfwmmIvDHyskbHiaKU-wLouQ=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics"]
   subscribers: 19276
+  tags: []
 -
   name: "Radical Reviewer"
   url: "https://www.youtube.com/radicalreviewer"
   img: "https://yt3.ggpht.com/a-/AAuE7mBZ8ECC8SgcefL40JO4vyB1ROYtEiT-AiXQFw=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics"]
   subscribers: 2805
+  tags: []
 -
   name: "Kenny Logan"
   url: "https://www.youtube.com/user/ploppy111"
   img: "https://yt3.ggpht.com/a-/AAuE7mAn2ig0Bh6mAEhiCuvCafddN2eAUZflezDxVg=s288-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics"]
   subscribers: 10303
+  tags: []
 -
   name: "Angie Speaks"
   url: "https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ"
   img: "https://yt3.ggpht.com/a-/AAuE7mBdk7gH5WLBoaQEAn2TmdGdQcrvvDiKPwWO7A=s100-mo-c-c0xffffffff-rj-k-no"
-  tags: ["culture", "philosophy", "economics", "politics"]
   subscribers: 8367
+  tags: []
+-
+  name: "Erin Collective"
+  url: "https://www.youtube.com/channel/UCrH-hm2BOaOgxlPr1gxcttQ"
+  img: "https://yt3.ggpht.com/a-/AAuE7mB4bcInr9zrhiyeIoZ7325se811Y2BQpayNDQ=s288-mo-c-c0xffffffff-rj-k-no"
+  subscribers: 515
+  tags: []
+
