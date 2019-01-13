@@ -18,6 +18,12 @@ tiles:
   tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 462792
 -
+  name: "The Majority Report"
+  url: "https://www.youtube.com/user/SamSeder"
+  img: "https://yt3.ggpht.com/a-/AAuE7mDb_SdeVTkMHeuBU4y5-mngk7_DAxoYIUiy=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics", "history"]
+  subscribers: 429963
+-
   name: "Contrapoints"
   url: "https://www.youtube.com/contrapoints"
   img: "https://yt3.ggpht.com/a-/AAuE7mCuocR5clQlciCrc7qXmTMUWuq6iyDZ-GzEDA=s288-mo-c-c0xffffffff-rj-k-no"
@@ -54,11 +60,35 @@ tiles:
   tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 180487
 -
+  name: "The Juice Media"
+  url: "https://www.youtube.com/user/thejuicemedia"
+  img: "https://yt3.ggpht.com/a-/AAuE7mDB3mdGdcoFX3wYtTu9MjWPje_XLFw87X2Lvw=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics", "history"]
+  subscribers: 163668
+-
+  name: "Empire Files"
+  url: "https://www.youtube.com/empirefiles"
+  img: "https://yt3.ggpht.com/a-/AAuE7mC--IoqIVotQZEyfQFZI4IlXVMjZNzb8324fA=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics", "history"]
+  subscribers: 108370
+-
+  name: "Democracy At Work"
+  url: "https://www.youtube.com/user/democracyatwrk"
+  img: "https://yt3.ggpht.com/a-/AAuE7mCYF6cfo6LLYtvU4muTWB03x3qG0452jkBXHw=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics", "history"]
+  subscribers: 73439
+-
   name: "BadMouse Productions"
   url: "https://www.youtube.com/user/xaxie1"
   img: "https://yt3.ggpht.com/a-/AAuE7mBwpZ6AQT8_gmpuMS55r4KDMFoaw3VKwP0mxQ=s288-mo-c-c0xffffffff-rj-k-no"
   tags: ["culture", "philosophy", "economics", "politics", "history"]
   subscribers: 49927
+-
+  name: "Mexie"
+  url: "https://www.youtube.com/channel/UCepkun0sH16b-mqxBN22ogA"
+  img: "https://yt3.ggpht.com/a-/AAuE7mAjjyQseWNHXQU8aBHUoE3BxxvTdPzc7mTHQQ=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics", "history"]
+  subscribers: 26058
 -
   name: "Thought Slime"
   url: "https://www.youtube.com/thoughtslime"
@@ -77,6 +107,12 @@ tiles:
   img: "https://yt3.ggpht.com/a-/AAuE7mBZ8ECC8SgcefL40JO4vyB1ROYtEiT-AiXQFw=s288-mo-c-c0xffffffff-rj-k-no"
   tags: ["culture", "philosophy", "economics", "politics"]
   subscribers: 2805
+-
+  name: "Kenny Logan"
+  url: "https://www.youtube.com/user/ploppy111"
+  img: "https://yt3.ggpht.com/a-/AAuE7mAn2ig0Bh6mAEhiCuvCafddN2eAUZflezDxVg=s288-mo-c-c0xffffffff-rj-k-no"
+  tags: ["culture", "philosophy", "economics", "politics"]
+  subscribers: 10303
 -
   name: "Angie Speaks"
   url: "https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ"
