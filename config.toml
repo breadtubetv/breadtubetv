@@ -5,7 +5,7 @@ title = "BreadTube.tv"
 # https://fontawesome.com/v4.7.0/cheatsheet/
 
 [ params ]
-OpenLinksInNewWindow = false
+OpenLinksInNewWindow = true
 
 [[ params.nav ]]
 name = "Reddit"
