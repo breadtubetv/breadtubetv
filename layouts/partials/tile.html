@@ -1,4 +1,4 @@
-<a class="p-2" style="max-width: 160px" href="{{ .Link.url }}" data-groups='{{ if .Link.tags }}{{ delimit .Link.tags "," }}{{ end }}'{{ if .Jump }} target="_blank"{{ end }}>
-  <img class="img-fluid" src="{{ .Link.img }}"></img>
-  <span class="pt-2 font-weight-bold d-inline-block tile-title">{{ .Link.name }}</span>
+<a class="tile p-1 mb-2" href="{{ .Link.url }}" data-groups='{{ if .Link.tags }}{{ delimit .Link.tags "," }}{{ end }}'{{ if .Jump }} target="_blank"{{ end }}>
+  <img class="tile-img img-fluid" src="{{ .Link.img }}"></img>
+  <span class="tile-title pt-2 font-weight-bold d-inline-block">{{ .Link.name }}</span>
 </a>
