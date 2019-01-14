@@ -14,12 +14,12 @@ icon = "reddit"
 
 [[ params.nav ]]
 name = "Discord"
-tag = "https://discord.gg/5MGeFv9"
+href = "https://discord.gg/KeFgnP7"
 icon = "discord"
 
 [[ params.nav ]]
 name = "Twitter"
-tag = "https://twitter.com/breadtubetv"
+href = "https://twitter.com/breadtubetv"
 icon = "twitter"
 
 [[ params.nav ]]
