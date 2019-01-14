@@ -4,14 +4,17 @@
     {{ partial "head.html" . }}
   </head>
   <body>
-    {{ partial "nav.html" . }}
-    <!-- Code that all your templates share, like a header -->
-    {{ block "main" . }}
-      <!-- The part of the page that begins to differ between templates -->
-    {{ end }}
-    {{ block "footer" . }}
-    <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
-    {{ end }}
+    <div class="container-fluid">
+      <div class="row">
+        <div id="navigation" class="col-1 pt-3">
+          {{ partial "nav.html" . }}
+        </div>
+        <div id="main" class="col pt-2">
+          {{ block "main" . }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
     {{ partial "foot.html" . }}
   </body>
 </html>

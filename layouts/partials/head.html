@@ -1,8 +1,5 @@
 <meta charset="utf-8">
-<title>{{ block "title" . }}
-  <!-- Blocks may include default content. -->
-  {{ .Site.Title }}
-{{ end }}</title>
+<title>{{ .Site.Title }}</title>
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -12,4 +9,35 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 
-<link rel="stylesheet" href="css/slate.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+<style>
+  body {
+    background-color: rgb(101, 115, 131);
+    background-image: radial-gradient(ellipse farthest-side at center top,#fcfcfc 0,#657383 100%);
+    background-attachment: fixed;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+  }
+
+  a, a:hover, a:active {
+    color: white;
+    text-decoration: none;
+  }
+
+  .tile-title {
+    font-size: 14px;
+    line-height: 16px;
+  }
+
+  #navigation {
+    max-width: 42px;
+  }
+
+  #main {
+  }
+</style>
