@@ -26,3 +26,13 @@ brew install hugo
 brew serve
 open localhost:1313
 ```
+
+## Staging
+
+Pull requests are automatically deployed to a self contained environment for review.
+
+## Production
+
+### Hosting
+
+While this is a simple Hugo website, hosting is on [netlify.com](https://netlify.com).
