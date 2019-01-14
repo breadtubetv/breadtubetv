@@ -8,12 +8,9 @@ a, a:hover, a:active {
 }
 
 .tile {
-  max-width: 150px;
-}
-
-.tile {
   position: relative;
   display: inline-block;
+  max-width: 158px;
   -webkit-transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
   transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
@@ -42,11 +39,10 @@ a, a:hover, a:active {
 }
 
 .tile:hover::after {
-    opacity: 1;
+  opacity: 1;
 }
 
 .tile-title {
-  font-size: 15px;
   line-height: 17px;
 }
 
