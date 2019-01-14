@@ -38,7 +38,7 @@ a, a:hover, a:active {
 .tile:hover {
   -webkit-transform: scale(1.25, 1.25);
   transform: scale(1.25, 1.25);
-  z-index: 2;
+  z-index: 100;
 }
 
 .tile:hover::after {
