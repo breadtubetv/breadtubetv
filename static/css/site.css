@@ -10,10 +10,29 @@ a, a:hover, a:active {
 .tile {
   position: relative;
   display: inline-block;
-  max-width: 158px;
+  max-width: 160px;
   -webkit-transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
   transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
+
+@media (max-width: 575.98px) {
+  .tile {
+    max-width: 50%;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .tile {
+    max-width: 33%;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .tile {
+    max-width: 25%;
+  }
+}
+
 
 /* http://tobiasahlin.com/blog/how-to-animate-box-shadow/ */
 .tile::after {
