@@ -1,31 +1,28 @@
 baseURL = "https://breadtube.tv/"
 languageCode = "en-us"
 title = "BreadTube.tv"
-theme = "slate"
 
 # https://fontawesome.com/v4.7.0/cheatsheet/
 
-[[ params.nav ]]
-name = "Culture"
-tag = "culture"
-icon = "users"
+[ params ]
+OpenLinksInNewWindow = true
 
 [[ params.nav ]]
-name = "Philosophy"
-tag = "philosophy"
-icon = "graduation-cap"
+name = "Reddit"
+href = "https://reddit.com/r/breadtube"
+icon = "reddit"
 
 [[ params.nav ]]
-name = "Economics"
-tag = "economics"
-icon = "money"
+name = "Discord"
+href = "https://discord.gg/KeFgnP7"
+icon = "discord"
 
 [[ params.nav ]]
-name = "Politics"
-tag = "politics"
-icon = "handshake-o"
+name = "Twitter"
+href = "https://twitter.com/breadtubetv"
+icon = "twitter"
 
 [[ params.nav ]]
-name = "History"
-tag = "history"
-icon = "institution"
+name = "Github"
+href = "https://github.com/breadtubetv/breadtubetv"
+icon = "github"

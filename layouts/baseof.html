@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {{ partial "head.html" . }}
+  </head>
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        <div id="navigation" class="col-1 pt-3">
+          {{ partial "nav.html" . }}
+        </div>
+        <div id="main" class="col pt-3 pl-0">
+          {{ block "main" . }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ partial "foot.html" . }}
+  </body>
+</html>
