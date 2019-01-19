@@ -1,0 +1,6 @@
+<h2>{{ .page.Title }}</h2>
+<div class="row">
+  {{ range .videos }}
+    {{ partial "video.html" . }}
+  {{ end }}
+</div>
