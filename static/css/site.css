@@ -29,8 +29,10 @@ a, a:hover, a:active {
   text-decoration: underline;
 }
 
-.card.card-video {
-  float: left;
+.card.card-video .h5 {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: hidden;
 }
 
 .tile {
@@ -49,22 +51,11 @@ a, a:hover, a:active {
   .tile {
     width: 50%;
   }
-
-  .card.card-video {
-    width: 100%;
-    margin-bottom: 5%;
-  }
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
   .tile {
     width: 33%;
-  }
-
-  .card.card-video {
-    width: 32%;
-    margin-right: 1%;
-    margin-bottom: 1%;
   }
 }
 
@@ -77,14 +68,6 @@ a, a:hover, a:active {
     content: "";
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
     background-color: rgb(101, 115, 131);
-  }
-}
-
-@media (min-width: 768px) {
-  .card.card-video {
-    width: 24%;
-    margin-right: 1%;
-    margin-bottom: 1%;
   }
 }
 
