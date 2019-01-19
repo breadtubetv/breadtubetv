@@ -27,3 +27,11 @@ icon = "twitter"
 name = "Github"
 href = "https://github.com/breadtubetv/breadtubetv"
 icon = "github"
+
+[[ menu.main ]]
+name = "Channels"
+url = "/"
+
+[[ menu.main ]]
+name = "Playlists"
+url = "/playlists/"

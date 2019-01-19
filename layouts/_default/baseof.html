@@ -4,12 +4,13 @@
     {{ partial "head.html" . }}
   </head>
   <body>
+    {{ partial "navigation.html" . }}
     <div class="container-fluid">
       <div class="row">
-        <div id="sidebar" class="col-1 pt-3 pr-2 pb-0 pl-2">
+        <div id="sidebar" class="col-1 pr-2 pb-0 pl-2">
           {{ partial "sidebar.html" . }}
         </div>
-        <div id="main" class="col pt-3 pl-0">
+        <div id="main" class="col pl-0">
           {{ block "main" . }}
           {{ end }}
         </div>
