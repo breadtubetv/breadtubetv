@@ -1,0 +1,19 @@
+{{ $videos := $.Site.Data.videos }}
+{{ $channels := $.Site.Data.channels }}
+{{ $playlist := . }}
+{{ $playlistVideos := slice }}
+{{ range $playlist.Params.videos }}
+  {{ $video := index $videos . }}
+  {{ $playlistVideos = $playlistVideos | append $video }}
+{{ end }}
+
+<div class="row">
+  {{ range $playlistVideos }}
+    {{ $video := . }}
+    {{ $channelSlug := $video.channel }}
+    {{ range where $channels "slug" $channelSlug }}
+      {{ $channel := . }}
+      {{ partial "video/card.html" (dict "video" $video "channel" $channel) }}
+    {{ end }}
+  {{ end }}
+</div>

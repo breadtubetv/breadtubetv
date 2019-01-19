@@ -2,13 +2,14 @@ body {
   background-color: rgb(101, 115, 131);
 }
 
-a, a:hover, a:active {
+a,
+a:hover,
+a:active {
   color: white;
-  text-decoration: none;
 }
 
 #sidebar {
-  max-width: 42px;
+  max-width: 50px;
 }
 
 #site-title {
@@ -16,6 +17,21 @@ a, a:hover, a:active {
   font-size: 18px;
   font-weight: bold;
   text-align: center;
+}
+
+#site-title a,
+#site-title a:hover,
+#site-title a:active,
+#page-title a,
+#page-title a:hover,
+#page-title a:active {
+  text-decoration: none;
+}
+
+
+.card a {
+  color: black;
+  text-decoration: underline;
 }
 
 .tile {
@@ -32,19 +48,19 @@ a, a:hover, a:active {
 
 @media (max-width: 575.98px) {
   .tile {
-    max-width: 50%;
+    width: 50%;
   }
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
   .tile {
-    max-width: 33%;
+    width: 33%;
   }
 }
 
 @media (min-width: 768px) and  (max-width: 991.98px) {
   .tile {
-    max-width: 25%;
+    width: 25%;
   }
 
   .tile::after {
@@ -73,8 +89,8 @@ a, a:hover, a:active {
   }
 
   .tile:hover {
-    -webkit-transform: scale(1.25, 1.25);
-    transform: scale(1.25, 1.25);
+    -webkit-transform: scale(1.05, 1.05);
+    transform: scale(1.05, 1.05);
     z-index: 100;
   }
 

@@ -15,7 +15,7 @@ icon = "reddit"
 
 [[ params.nav ]]
 name = "Discord"
-href = "https://discord.gg/KeFgnP7"
+href = "https://discord.gg/5MGeFv9"
 icon = "discord"
 
 [[ params.nav ]]
@@ -24,6 +24,24 @@ href = "https://twitter.com/breadtubetv"
 icon = "twitter"
 
 [[ params.nav ]]
+name = "Facebook"
+href = "https://www.facebook.com/BreadTubeTV/"
+icon = "facebook"
+
+[[ params.nav ]]
+name = "Tumblr"
+href = "https://breadtubetv.tumblr.com/"
+icon = "tumblr"
+
+[[ params.nav ]]
 name = "Github"
 href = "https://github.com/breadtubetv/breadtubetv"
 icon = "github"
+
+[[ menu.main ]]
+name = "Channels"
+url = "/"
+
+[[ menu.main ]]
+name = "Playlists"
+url = "/playlists/"
