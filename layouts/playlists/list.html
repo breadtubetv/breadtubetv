@@ -2,7 +2,7 @@
   <h1 id="page-title" class="mb-0">{{ .Title }}</h1>
 
   {{ range where .Pages.ByDate.Reverse "Section" "playlists" }}
-    {{ partial "playlist_row.html" . }}
+    {{ partial "playlist/row.html" . }}
   {{ end }}
 
   {{ .Content }}
