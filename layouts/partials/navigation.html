@@ -1,4 +1,4 @@
-<ul class="nav" style="padding-left: 38px">
+<ul class="nav">
   {{- $currentPage := . -}}
   {{ range .Site.Menus.main -}}
     <li class="nav-item{{ if $currentPage.IsMenuCurrent "main" . }} font-weight-bold active{{ end }}">
