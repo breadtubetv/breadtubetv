@@ -7,8 +7,15 @@ a, a:hover, a:active {
   text-decoration: none;
 }
 
-#navigation {
+#sidebar {
   max-width: 42px;
+}
+
+#site-title {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
 }
 
 .tile {
