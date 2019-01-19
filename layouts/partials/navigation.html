@@ -1,7 +1,7 @@
 <ul class="nav">
   {{- $currentPage := . -}}
   {{ range .Site.Menus.main -}}
-    <li class="nav-item{{ if $currentPage.IsMenuCurrent "main" . }} font-weight-bold active{{ end }}">
+    <li class="nav-item{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} font-weight-bold active{{ end }}">
       <a href="{{ .URL | absLangURL }}" class="nav-link pb-1">{{ .Name }}</a>
     </li>
   {{- end }}

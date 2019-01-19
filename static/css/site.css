@@ -88,8 +88,8 @@ a, a:hover, a:active {
   }
 
   .tile:hover {
-    -webkit-transform: scale(1.25, 1.25);
-    transform: scale(1.25, 1.25);
+    -webkit-transform: scale(1.05, 1.05);
+    transform: scale(1.05, 1.05);
     z-index: 100;
   }
 

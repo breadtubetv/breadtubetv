@@ -1,5 +1,4 @@
 {{ define "main" }}
-  <h2 class="mb-0"><a href="/playlists">Playlists</a></h2>
   <h1 class="font-weight-bold"><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
   {{ partial "playlist/videos.html" . }}
 {{ end }}
