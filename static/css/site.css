@@ -29,12 +29,6 @@ a, a:hover, a:active {
   text-decoration: underline;
 }
 
-.card.card-video .h5 {
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: hidden;
-}
-
 .tile {
   position: relative;
   display: inline-block;

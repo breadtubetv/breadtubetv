@@ -1,7 +1,7 @@
 {{ define "main" }}
   <h1 id="page-title" class="mb-0">{{ .Title }}</h1>
 
-  {{ range where .Pages "Section" "playlists" }}
+  {{ range where .Pages.ByDate.Reverse "Section" "playlists" }}
     {{ partial "playlist_row.html" . }}
   {{ end }}
 
