@@ -2,9 +2,10 @@ body {
   background-color: rgb(101, 115, 131);
 }
 
-a, a:hover, a:active {
+a,
+a:hover,
+a:active {
   color: white;
-  text-decoration: none;
 }
 
 #sidebar {
@@ -18,11 +19,15 @@ a, a:hover, a:active {
   text-align: center;
 }
 
-#page-title {
-  color: white;
-  font-size: 36px;
-  font-weight: bold;
+#site-title a,
+#site-title a:hover,
+#site-title a:active,
+#page-title a,
+#page-title a:hover,
+#page-title a:active {
+  text-decoration: none;
 }
+
 
 .card a {
   color: black;
