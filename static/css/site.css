@@ -45,10 +45,6 @@ a, a:hover, a:active {
   .tile {
     width: 50%;
   }
-
-  .card-video {
-    width: 100%;
-  }
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
