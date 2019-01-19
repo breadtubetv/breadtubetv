@@ -1,0 +1,13 @@
+{{ $videos := $.Site.Data.videos }}
+{{ $playlist := . }}
+{{ $pageVideos := slice }}
+{{ range $playlist.Params.videos }}
+  {{ $video := index $videos . }}
+  {{ $pageVideos = $pageVideos | append $video }}
+{{ end }}
+
+<div class="row">
+  {{ range $pageVideos }}
+    {{ partial "video.html" . }}
+  {{ end }}
+</div>
