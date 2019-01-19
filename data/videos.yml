@@ -1,18 +1,21 @@
-TebCHHCw9rY:
-  name: CTRL+ALT+DEL | SLA:3
-  id: TebCHHCw9rY
-  channel: hbomberguy
-  series: Serious Lore Analysis
-  source: youtube
-5gnlhmaM-dM:
-  name: Elon Musk
-  id: 5gnlhmaM-dM
-  channel: Philosophy Tube
-  series: Philosophy Tube
-  source: youtube
 4LqZdkkBDas:
   name: Jordan Peterson
   id: 4LqZdkkBDas
   channel: Contrapoints
   series: Contrapoints
   source: youtube
+  description: A response.
+5gnlhmaM-dM:
+  name: Elon Musk
+  id: 5gnlhmaM-dM
+  channel: Philosophy Tube
+  series: Philosophy Tube
+  source: youtube
+  description: It's Elon Musk Vs Slavoj Žižek in the war for ironic counterculture. Whoever wins, we lose...
+TebCHHCw9rY:
+  name: CTRL+ALT+DEL | SLA:3
+  id: TebCHHCw9rY
+  channel: hbomberguy
+  series: Serious Lore Analysis
+  source: youtube
+  description: In attempting to go fast, Hareton Splimby suffers a great loss, and must move past it and heal.

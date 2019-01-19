@@ -1,0 +1,13 @@
+<div class="col col-sm-6 col-md-4 col-xl-3 mb-4 d-flex">
+  <div class="card card-video flex-fill">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ .id }}"></iframe>
+    </div>
+    <div class="card-body pt-3 pb-3 pl-3 pr-3">
+      <h3 class="h5 font-weight-bold mb-1"><a href="https://youtu.be/{{ .id }}" target="_blank">{{ .name }}</a></h3>
+      <h4 class="h6 font-weight-bold mb-2">{{ .channel }}</h4>
+      <p class="mb-0">{{ .description }}</p>
+    </div>
+  </div>
+</div>
+
