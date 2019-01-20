@@ -154,3 +154,9 @@
   url: "https://www.youtube.com/channel/UCLtRV0bzB5vW-91B4TomNuA"
   subscribers: 226
   tags: ["breadtube"]
+-
+  name: "Dirk Kelly"
+  slug: "dirkkelly"
+  url: "https://www.youtube.com/dirkkelly"
+  subscribers: 11
+  tags: ["breadtube"]
