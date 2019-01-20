@@ -10,7 +10,7 @@ If you're a creator we really want to know what information you would like on he
 
 [The Issues](https://github.com/breadtubetv/breadtubetv/issues) section is a great place to add ideas about expanding the platform
 
-You can also visit the website to find our Discord and other platforms and reach out to them.
+You can also visit [BreadTube.tv](https://breadtube.tv) to find other platforms where this content is being distributed.
 
 ## Development
 
