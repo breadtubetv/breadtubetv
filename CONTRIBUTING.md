@@ -6,9 +6,9 @@ We're looking for any help you can offer, including but not limited to advising 
 
 If you're a creator we really want to know what information you would like on here, and also if you would like your own free and open source version of the platform, eg YOURCHANNEL.breadtube.tv or yourchannel.tv (all hosting costs will be covered by donors).
 
-We'd like more input from other to expand on these guidelines, for now check out the README https://github.com/breadtubetv/breadtubetv/#breadtubetv
+[README](https://github.com/breadtubetv/breadtubetv/#breadtubetv) is the first place to go to learn everything about the project.
 
-The issues section is a great place to add ideas about expanding the platform https://github.com/breadtubetv/breadtubetv/issues
+[The Issues](https://github.com/breadtubetv/breadtubetv/issues) section is a great place to add ideas about expanding the platform
 
 You can also visit the website to find our Discord and other platforms and reach out to them.
 
@@ -22,3 +22,4 @@ You can also visit the website to find our Discord and other platforms and reach
 - Add the channels you need to [`data/channels.yml`](https://github.com/breadtubetv/breadtubetv/blob/master/data/channels.yml)
 
 Thank you
+[BreadTube.tv Team](https://github.com/orgs/breadtubetv/people)
