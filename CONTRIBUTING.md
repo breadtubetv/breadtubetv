@@ -2,7 +2,9 @@
 
 Thank you so much for helping us build an open platform for simplifying the sharing of the massively important content coming out of the [BreadTube.tv](https://BreadTube.tv) platform and the BreadTube content distribution movement.
 
-We're looking for any help you can offer, including advising us on what playlists we should put together, but definitely not limited to that.
+We're looking for any help you can offer, including but not limited to advising us on what playlists we should put together.
+
+If you're a creator we really want to know what information you would like on here, and also if you would like your own free and open source version of the platform, eg YOURCHANNEL.breadtube.tv or yourchannel.tv (all hosting costs will be covered by donors).
 
 We'd like more input from other to expand on these guidelines, for now check out the README https://github.com/breadtubetv/breadtubetv/#breadtubetv
 
