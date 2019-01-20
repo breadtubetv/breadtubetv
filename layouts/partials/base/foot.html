@@ -5,8 +5,8 @@
   $(document).ready(function() {
     $('.modal-video').on('show.bs.modal', function (event) {
       var iframe = $(event.currentTarget).find('iframe')[0];
-      var originalHref = $(iframe).attr('href');
-      $(iframe).attr('href', originalHref + '?autoplay=1');
+      var originalSrc = $(iframe).attr('src');
+      $(iframe).attr('src', originalSrc + '?autoplay=1');
     });
   });
 </script>
