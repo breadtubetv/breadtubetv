@@ -3,7 +3,7 @@
   {{ $tags := .Params.tags | default .Site.Params.defaultTags }}
   {{ range .Site.Data.channels }}
     {{ if or (eq (len $tags) 0) (intersect $tags .tags) }}
-      {{ partial "tile.html" (dict "Link" . "Jump" $jump) }}
+      {{ partial "channels/card.html" (dict "Link" . "Jump" $jump) }}
     {{ end }}
   {{ end }}
 </div>
