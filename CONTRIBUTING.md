@@ -4,7 +4,7 @@ Thank you so much for helping us build [BreadTube.tv](https://BreadTube.tv), an 
 
 We're looking for any help you can offer, including but not limited to advising us on what playlists we should put together.
 
-If you're a creator we really want to know what information you would like on here, and also if you would like your own free and open source version of the platform, eg YOURCHANNEL.breadtube.tv or yourchannel.tv (all hosting costs will be covered by donors).
+If you're a creator we really want to know what information you would like on here, and also if you would like your own free and open source version of the platform, eg [yourchannel.breadtube.tv](#contributing) or [yourchannel.tv](#contributing) _(all hosting costs will be covered by donors)_.
 
 [README](https://github.com/breadtubetv/breadtubetv/#breadtubetv) is the first place to go to learn everything about the project.
 
