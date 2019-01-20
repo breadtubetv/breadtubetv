@@ -7,7 +7,10 @@
       <h3 class="h4 font-weight-bold mb-2">
         <a href="https://youtu.be/{{ .video.id }}" target="_blank">{{ .video.title }}</a></h3>
       <h4 class="h6 mb-3">
-        <a href="{{ .channel.url }}" class="text-muted" target="_blank">{{ .channel.name }}</a>
+        <a href="{{ .channel.url }}" class="text-muted" target="_blank">
+          <img class="img-channel rounded-circle border" src="/img/channels/{{ .channel.slug }}.jpg"></img>
+          {{ .channel.name }}
+        </a>
       </h4>
       <p class="mb-0">{{ .video.description }}</p>
     </div>
