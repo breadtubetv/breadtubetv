@@ -22,12 +22,15 @@ hugo serve
 open localhost:1313
 ```
 
+## [Contributing](https://github.com/breadtubetv/breadtubetv/blob/master/CONTRIBUTING.md)
+
 ### Creating a Playlist
 
-- Create a new page under content/playlists/ (ProTip: Copy an existing one)
-- Add the videos you need to `data/videos.yml`
-- Add the channels you need to `data/channels.yml`
-- Add the video urls to the list
+- [Create a New File](https://github.com/breadtubetv/breadtubetv/new/master/content/playlists) under [content/playlists/](https://github.com/breadtubetv/breadtubetv/tree/master/content/playlists) (ProTip: [Copy an existing one](https://github.com/breadtubetv/breadtubetv/blob/master/content/playlists/welcome.md))
+- Add the video ids you want into the new [Playlist Front Matter](https://gohugo.io/content-management/front-matter/)
+- Add the videos you need to [`data/videos.yml`](https://github.com/breadtubetv/breadtubetv/blob/master/data/videos.yml)
+- Add the channels you need to [`data/channels.yml`](https://github.com/breadtubetv/breadtubetv/blob/master/data/channels.yml)
+
 
 ## Staging
 
