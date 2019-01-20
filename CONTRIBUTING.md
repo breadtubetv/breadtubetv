@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you so much for helping us build an open platform for simplifying the sharing of the massively important content coming out of the [BreadTube.tv](https://BreadTube.tv) platform and the BreadTube content distribution movement.
+Thank you so much for helping us build [BreadTube.tv](https://BreadTube.tv), an open source media distribution platform for simplifying the sharing of the massively important content coming out of the BreadTube movement.
 
 We're looking for any help you can offer, including but not limited to advising us on what playlists we should put together.
 
