@@ -21,5 +21,5 @@ You can also visit the website to find our Discord and other platforms and reach
 - Add the videos you need to [`data/videos.yml`](https://github.com/breadtubetv/breadtubetv/blob/master/data/videos.yml)
 - Add the channels you need to [`data/channels.yml`](https://github.com/breadtubetv/breadtubetv/blob/master/data/channels.yml)
 
-Thank you
+Thank you.   
 [BreadTube.tv Team](https://github.com/orgs/breadtubetv/people)
