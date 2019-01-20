@@ -77,6 +77,12 @@
   subscribers: 143273
   tags: ["breadtube"]
 -
+  name: "Kat Blaque"
+  slug: "kaqblaque"
+  url: "https://www.youtube.com/user/TransDIYer"
+  subscribers: 135526
+  tags: []
+-
   name: "Empire Files"
   slug: "empirefiles"
   url: "https://www.youtube.com/empirefiles"
@@ -88,6 +94,12 @@
   url: "https://www.youtube.com/democracyatwrk"
   subscribers: 73439
   tags: ["breadtube"]
+-
+  name: "Beau of the Fifth Column"
+  slug: "beau"
+  url: "https://www.youtube.com/channel/UC0YvoAYGgdOfySQSLcxtu1w"
+  subscribers: 71157
+  tags: []
 -
   name: "BadMouse Productions"
   slug: "xaxie1"
