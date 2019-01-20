@@ -1,4 +1,4 @@
 ---
 title: BreadTube.tv
-tags: [socialism]
+tags: [breadtube]
 ---
