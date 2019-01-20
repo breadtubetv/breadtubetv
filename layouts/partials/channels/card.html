@@ -1,4 +1,4 @@
 <a class="tile p-1 mb-2" href="{{ .channel.url }}" data-groups='{{ if .channel.tags }}{{ delimit .channel.tags "," }}{{ end }}' target="_blank">
-  <img class="tile-img img-fluid" src="/img/channels/{{ .channel.slug }}.jpg"></img>
+  <img class="tile-img img-fluid" src="/img/channels/{{ .channel.slug }}.jpg" alt="{{ .channel.name }}"></img>
   <span class="tile-title pt-2 font-weight-bold d-inline-block">{{ .channel.name }}</span>
 </a>
