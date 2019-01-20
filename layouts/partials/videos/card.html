@@ -1,13 +1,17 @@
 <div class="col-12 col-sm-6 col-md-4 col-xl-3 mb-4 d-flex">
   <div class="card card-video flex-fill">
     <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/{{ .video.id }}"></iframe>
+      <iframe title="{{ .video.title }}" class="embed-responsive-item" src="https://www.youtube.com/embed/{{ .video.id }}"></iframe>
     </div>
+    <!-- img alt="{{ .video.title }}" class="img-video card-img-top" src="http://i3.ytimg.com/vi/{{ .video.id }}/hqdefault.jpg" /-->
     <div class="card-body pt-3 pb-3 pl-3 pr-3">
       <h3 class="h4 font-weight-bold mb-2">
         <a href="https://youtu.be/{{ .video.id }}" target="_blank">{{ .video.title }}</a></h3>
       <h4 class="h6 mb-3">
-        <a href="{{ .channel.url }}" class="text-muted" target="_blank">{{ .channel.name }}</a>
+        <a href="{{ .channel.url }}" class="text-muted" target="_blank">
+          <img alt="{{ .channel.name }}" class="img-channel rounded-circle border" src="/img/channels/{{ .channel.slug }}.jpg"></img>
+          {{ .channel.name }}
+        </a>
       </h4>
       <p class="mb-0">{{ .video.description }}</p>
     </div>

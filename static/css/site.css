@@ -28,9 +28,16 @@ a:active {
   text-decoration: none;
 }
 
+.nav-item a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
 
 .card a {
   color: black;
+}
+
+.card a:hover {
   text-decoration: underline;
 }
 
@@ -44,6 +51,11 @@ a:active {
 
 .tile-title {
   line-height: 17px;
+}
+
+.card-video .img-channel {
+  width: 26px;
+  margin-top: -2px;
 }
 
 @media (max-width: 575.98px) {
