@@ -13,7 +13,7 @@
     {{ $channelSlug := $video.channel }}
     {{ range where $channels "slug" $channelSlug }}
       {{ $channel := . }}
-      {{ partial "video/card.html" (dict "video" $video "channel" $channel) }}
+      {{ partial "videos/card.html" (dict "video" $video "channel" $channel) }}
     {{ end }}
   {{ end }}
 </div>

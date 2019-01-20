@@ -1,6 +1,6 @@
 {{ define "main" }}
   {{ range where .Pages.ByDate.Reverse "Section" "playlists" }}
-    {{ partial "playlist/row.html" . }}
+    {{ partial "playlists/row.html" . }}
   {{ end }}
 
   {{ .Content }}
