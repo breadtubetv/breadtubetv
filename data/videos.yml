@@ -29,14 +29,28 @@ TebCHHCw9rY:
 9Sc67W4ilVI:
   id: 9Sc67W4ilVI
   title: Snowflakes-- The Right's War on the Individual
-  description: Look, sometimes a video gets away from me, and I've filmed and edited it, and I step back and say to myself, was there a point I was trying to make here? ANYWAY.
-  series:
   channel: thoughtslime
+  description: Look, sometimes a video gets away from me, and I've filmed and edited it, and I step back and say to myself, was there a point I was trying to make here? ANYWAY.
+  series: thoughtslime
   source: youtube
 4ZnHwc6TfB0:
   id: 4ZnHwc6TfB0
   title: Why Criticize Capitalism?
+  channel: petercoffin
   description: Seen the Resist Capitalism iPhone Case? Think it's hypocritical? Have you ever tried not participating in neoliberalism or capitalism? Why criticize capitalism?
   series: │█║▌ 𝚅𝙴𝚁𝚈 𝙸𝙼𝙿𝙾𝚁𝚃𝙰𝙽𝚃 𝙳𝙾𝙲𝚂⁸
-  channel: petercoffin
+  source: youtube
+bxffxnrQDiE:
+  id: bxffxnrQDiE
+  title: "#EarthStrike Promotional Video"
+  channel: earthstrike
+  description: The world’s leading climate scientists have warned us that we have until 2030 to prevent temperatures from exceeding 1.5 degrees Celsius. That’s a little over twelve years - by environmental standards, the blink of an eye.
+  series: Earth Strike
+  source: youtube
+QLey2i0hYlc:
+  id: QLey2i0hYlc
+  title: "EarthStrike Jan 15th Promo"
+  channel: earthstrike
+  description:
+  series: earthstrike
   source: youtube
