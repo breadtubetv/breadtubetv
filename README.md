@@ -24,6 +24,14 @@ open localhost:1313
 
 ## [Contributing](https://github.com/breadtubetv/breadtubetv/blob/master/CONTRIBUTING.md)
 
+### Adding a Channel
+
+#### [Walkthrough Video](https://youtu.be/jpOun7YXFpg)
+
+- Edit [`data/channels.yml`](https://github.com/breadtubetv/breadtubetv/blob/master/data/channels.yml)
+- Put the channel information in (order by subscribers)
+- Download the image and save it to [`static/img/channels/`](https://github.com/breadtubetv/breadtubetv/blob/master/static/img/channels)
+
 ### Creating a Playlist
 
 - [Create a New File](https://github.com/breadtubetv/breadtubetv/new/master/content/playlists) under [content/playlists/](https://github.com/breadtubetv/breadtubetv/tree/master/content/playlists) (ProTip: [Copy an existing one](https://github.com/breadtubetv/breadtubetv/blob/master/content/playlists/welcome.md))
