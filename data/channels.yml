@@ -167,6 +167,12 @@
   subscribers: 12421
   tags: ["breadtube"]
 -
+  name: "Hakim"
+  slug: "hakim"
+  url: "https://www.youtube.com/channel/UCPPZoYsfoSekIpLcz9plX1Q"
+  subscribers: 10661
+  tags: ["breadtube"]
+-
   name: "Claudia Brown"
   slug: "claudiabrown"
   url: "https://www.youtube.com/channel/UCQlNT2xADrXblBd1Tz1Fjzg"
