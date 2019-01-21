@@ -11,6 +11,12 @@
   subscribers: 781853
   tags: []
 -
+  name: "Secular Talk"
+  slug: "kylekulinski"
+  url: "https://www.youtube.com/channel/UCldfgbzNILYZA4dmDt4Cd6A"
+  subscribers: 625130
+  tags: ["breadtube"]
+-
   name: "Democracy Now"
   slug: "democracynow"
   url: "https://www.youtube.com/democracynow"
@@ -101,6 +107,12 @@
   subscribers: 36622
   tags: ["breadtube"]
 -
+  name: "Hasan Piker"
+  slug: "hasanabi"
+  url: "https://www.youtube.com/channel/UCtoaZpBnrd0lhycxYJ4MNOQ"
+  subscribers: 28198
+  tags: ["breadtube"]
+-
   name: "Mexie"
   slug: "mexie"
   url: "https://www.youtube.com/Mexie"
@@ -117,6 +129,12 @@
   slug: "noncompete"
   url: "https://www.youtube.com/noncompete"
   subscribers: 19276
+  tags: ["breadtube"]
+-
+  name: "Graham Elwood"
+  slug: "politicalvigilante"
+  url: "https://www.youtube.com/channel/UCX1rle36wIlP9ry8uidnCsA"
+  subscribers: 12421
   tags: ["breadtube"]
 -
   name: "Radical Reviewer"
@@ -159,22 +177,4 @@
   slug: "dirkkelly"
   url: "https://www.youtube.com/dirkkelly"
   subscribers: 11
-  tags: ["breadtube"]
--
-  name: "Hasan Piker"
-  slug: "hasanabi"
-  url: "https://www.youtube.com/channel/UCtoaZpBnrd0lhycxYJ4MNOQ"
-  subscribers: 28198
-  tags: ["breadtube"]
--
-  name: "Graham Elwood"
-  slug: "politicalvigilante"
-  url: "https://www.youtube.com/channel/UCX1rle36wIlP9ry8uidnCsA"
-  subscribers: 12421
-  tags: ["breadtube"]
--
-  name: "Secular Talk"
-  slug: "kylekulinski"
-  url: "https://www.youtube.com/channel/UCldfgbzNILYZA4dmDt4Cd6A"
-  subscribers: 625130
   tags: ["breadtube"]
