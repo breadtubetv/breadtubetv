@@ -53,6 +53,11 @@ a:active {
   line-height: 17px;
 }
 
+.tile-img {
+  height: 152px;
+  width: 152px;
+}
+
 .card-video .img-channel {
   width: 26px;
   margin-top: -2px;
