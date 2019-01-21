@@ -2,7 +2,9 @@
 
 This project aims to list anti-establishment public YouTubers for simplified onboarding of new members to the cause.
 
-Growing from that base we want to build a platform which elevates content creators far beyond what YouTube can currently offer, and gives them resiliance from being censored or deplatformed.
+[Check out the announcement on r/breadtube to follow the discussion](https://www.reddit.com/r/BreadTube/comments/ahxwrm/breadtubetv_is_live_and_open_source_you_can_help/).
+
+Growing from this base we want to build a platform which elevates content creators far beyond what YouTube can currently offer, and gives them resiliance from being censored or deplatformed.
 
 For now though this is a *_really simple_* website
 
@@ -10,6 +12,8 @@ For now though this is a *_really simple_* website
 - Videos can be added to the homepage under `data/channels.yml`
 - Playlists can be created to link to videos and channels
 - Social media can be changed in`config.toml`.
+
+We'd like to simplify the process for adding content, [this is a project you can help with](https://github.com/breadtubetv/breadtubetv/issues/22)!
 
 ## Dependencies
 
