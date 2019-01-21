@@ -71,11 +71,23 @@
   subscribers: 180487
   tags: ["breadtube"]
 -
+  name: "potholer54"
+  slug: "potholer54"
+  url: "https://www.youtube.com/channel/UCljE1ODdSF7LS9xx9eWq0GQ"
+  subscribers: 175241
+  tags: ["breadtube"]
+-
   name: "The Juice Media"
   slug: "thejuicemedia"
   url: "https://www.youtube.com/thejuicemedia"
   subscribers: 163668
   tags: []
+-
+  name: "Innuendo Studios"
+  slug: "innuendostudios"
+  url: "https://www.youtube.com/user/mrskimps"
+  subscribers: 144281
+  tags: ["breadtube"]
 -
   name: "Some More News"
   slug: "somemorenews"
@@ -93,6 +105,12 @@
   slug: "democracyatwrk"
   url: "https://www.youtube.com/democracyatwrk"
   subscribers: 73439
+  tags: ["breadtube"]
+-
+  name: "C0nc0rdance"
+  slug: "c0nc0rdance"
+  url: "https://youtube.com/C0nc0rdance"
+  subscribers: 53618
   tags: ["breadtube"]
 -
   name: "BadMouse Productions"
@@ -131,16 +149,58 @@
   subscribers: 19276
   tags: ["breadtube"]
 -
+  name: "DemocraticSocialist01"
+  slug: "democraticsocialist01"
+  url: "https://www.youtube.com/user/MrReco12"
+  subscribers: 12825
+  tags: ["breadtube"]
+-
   name: "Graham Elwood"
   slug: "politicalvigilante"
   url: "https://www.youtube.com/channel/UCX1rle36wIlP9ry8uidnCsA"
   subscribers: 12421
   tags: ["breadtube"]
 -
+  name: "Claudia Brown"
+  slug: "claudiabrown"
+  url: "https://www.youtube.com/channel/UCQlNT2xADrXblBd1Tz1Fjzg"
+  subscribers: 9877
+  tags: ["breadtube"]
+-
+  name: "anactualjoke"
+  slug: "anactualjoke"
+  url: "https://www.youtube.com/channel/UC-CDQ-MPUdBWcjB7SrD1HZA"
+  subscribers: 8603
+  tags: ["breadtube"]
+-
+  name: "brendanmcooney"
+  slug: "brendanmcooney"
+  url: "https://www.youtube.com/brendanmcooney"
+  subscribers: 7773
+  tags: ["breadtube"]
+-
+  name: "Red Star Videos"
+  slug: "redstarvideos"
+  url: "https://www.youtube.com/channel/UCPF2TnvBH88EKgmS-TAMM4w"
+  subscribers: 7640
+  tags: ["breadtube"]
+-
+  name: "SJW101, the political gamer"
+  slug: "sjw101thepoliticalgamer"
+  url: "https://www.youtube.com/channel/UC764VuoDeKiOyhTw8ZMjQFA"
+  subscribers: 2876
+  tags: ["breadtube"]
+-
   name: "Radical Reviewer"
   slug: "radicalreviewer"
   url: "https://www.youtube.com/radicalreviewer"
   subscribers: 2805
+  tags: ["breadtube"]
+-
+  name: "Benji Adam Whiskettes"
+  slug: benjiadamwhiskettes
+  url: "https://www.youtube.com/channel/UCDG87s_QtD4YrIamqb9k5WQ"
+  subscribers: 2573
   tags: ["breadtube"]
 -
   name: "Kenny Logan"
