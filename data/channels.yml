@@ -9,12 +9,18 @@
   slug: "commentiquette"
   url: "https://www.youtube.com/commentiquette"
   subscribers: 781853
-  tags: []
+  tags: ["breadtube"]
 -
   name: "Secular Talk"
   slug: "kylekulinski"
   url: "https://www.youtube.com/channel/UCldfgbzNILYZA4dmDt4Cd6A"
   subscribers: 625130
+  tags: ["breadtube"]
+-
+  name: "Lindsay Ellis"
+  slug: "lindsayellis"
+  url: "https://www.youtube.com/channel/UCG1h-Wqjtwz7uUANw6gazRw"
+  subscribers: 548462
   tags: ["breadtube"]
 -
   name: "Democracy Now"
@@ -27,12 +33,24 @@
   slug: "samseder"
   url: "https://www.youtube.com/SamSeder"
   subscribers: 429963
-  tags: []
+  tags: ["breadtube"]
+-
+  name: "Pop Culture Detective"
+  slug: "popculturedetective"
+  url: "https://www.youtube.com/channel/UCHiwtz2tCEfS17N9A-WoSSw"
+  subscribers: 413208
+  tags: ["breadtube"]
 -
   name: "Contrapoints"
   slug: "contrapoints"
   url: "https://www.youtube.com/contrapoints"
   subscribers: 399836
+  tags: ["breadtube"]
+-
+  name: "Knowing Better"
+  slug: "knowingbetter"
+  url: "https://www.youtube.com/channel/UC8XjmAEDVZSCQjI150cb4QA"
+  subscribers: 374865
   tags: ["breadtube"]
 -
   name: "hbomberguy"
@@ -45,6 +63,12 @@
   slug: "thephilosophytube"
   url: "https://www.youtube.com/thephilosophytube"
   subscribers: 295581
+  tags: ["breadtube"]
+-
+  name: "Folding Ideas"
+  slug: "foldingideas"
+  url: "https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ"
+  subscribers: 257451
   tags: ["breadtube"]
 -
   name: "Peter Coffin"
@@ -101,6 +125,12 @@
   subscribers: 135526
   tags: ["breadtube"]
 -
+  name: "Big Joel"
+  slug: "bigjoel"
+  url: "https://www.youtube.com/channel/UCaN8DZdc8EHo5y1LsQWMiig"
+  subscribers: 127975
+  tags: ["breadtube"]
+-
   name: "Empire Files"
   slug: "empirefiles"
   url: "https://www.youtube.com/empirefiles"
@@ -121,8 +151,26 @@
 -
   name: "Creationist Cat"
   slug: "creationistcat"
-  url: "https://www.youtube.com/creationistcat"
+  url: "https://www.youtube.com/user/creationistcat"
   subscribers: 67484
+  tags: ["breadtube"]
+-
+  name: "Renegade Cut"
+  slug: "renegadecut"
+  url: "https://www.youtube.com/channel/UC9infsKo33_2LUoiqXGgQWg"
+  subscribers: 67148
+  tags: ["breadtube"]
+-
+  name: "Cuck Philosophy"
+  slug: "cuckphilosophy"
+  url: "https://www.youtube.com/channel/UCSkzHxIcfoEr69MWBdo0ppg"
+  subscribers: 65989
+  tags: ["breadtube"]
+-
+  name: "Kyle Kallgren BHH"
+  slug: "kylekallgrenbhh"
+  url: "https://www.youtube.com/channel/UC0KaZd_ki4l2EUc1GY9u5Ew"
+  subscribers: 61992
   tags: ["breadtube"]
 -
   name: "C0nc0rdance"
@@ -137,6 +185,36 @@
   subscribers: 49927
   tags: ["breadtube"]
 -
+  name: "Libertarian Socialist Rants"
+  slug: "libertariansocialistrants"
+  url: "https://www.youtube.com/channel/UCVY0aIaw-V9GbWmlab4Z_dw"
+  subscribers: 47365
+  tags: ["breadtube"]
+-
+  name: "Richard D Wolff"
+  slug: "richarddwolff"
+  url: "https://www.youtube.com/channel/UCB-5u8VgFc_TI1aAj8_SmDA"
+  subscribers: 46898
+  tags: ["breadtube"]
+-
+  name: "Step Back History"
+  slug: "stepbackhistory"
+  url: "https://www.youtube.com/channel/UCxTdWpLJurbGlFMWOwXWG_A"
+  subscribers: 44136
+  tags: ["breadtube"]
+-
+  name: "Jack Saint / LackingSaint"
+  slug: "jacksaintlackingsaint"
+  url: "https://www.youtube.com/user/LackingSaint"
+  subscribers: 42887
+  tags: ["breadtube"]
+-
+  name: "TMM"
+  slug: "tmm"
+  url: "https://www.youtube.com/channel/UCQb22imbIqKKWOC98C8Rm2A"
+  subscribers: 41824
+  tags: ["breadtube"]
+-
   name: "Zero Books"
   slug: "zerobooks"
   url: "https://www.youtube.com/channel/UCyoQK-mZXr2ws4C0nXGCH1w"
@@ -149,10 +227,34 @@
   subscribers: 28198
   tags: ["breadtube"]
 -
+  name: "Essence of Thought"
+  slug: "essenceofthought"
+  url: "https://www.youtube.com/user/EssenceOfThought"
+  subscribers: 28751
+  tags: ["breadtube"]
+-
   name: "Mexie"
   slug: "mexie"
   url: "https://www.youtube.com/Mexie"
   subscribers: 26058
+  tags: ["breadtube"]
+-
+  name: "donoteat01"
+  slug: "donoteat01"
+  url: "https://www.youtube.com/user/donoteat01"
+  subscribers: 25034
+  tags: ["breadtube"]
+-
+  name: "Eric Taxxon"
+  slug: "erictaxxon"
+  url: "https://www.youtube.com/channel/UCOjLfFE0TABS9bk05oH-kgw"
+  subscribers: 23591
+  tags: ["breadtube"]
+-
+  name: "Thom Avella"
+  slug: "thomavella"
+  url: "https://www.youtube.com/channel/UCw-4391y4Lm0LZz2Z6pau9Q"
+  subscribers: 23586
   tags: ["breadtube"]
 -
   name: "Thought Slime"
@@ -161,10 +263,40 @@
   subscribers: 19904
   tags: ["breadtube"]
 -
+  name: "Xexizy"
+  slug: "xexizy"
+  url: "https://www.youtube.com/channel/UCDULjo1v2Hivuu4h4LZSTUQ"
+  subscribers: 19559
+  tags: ["breadtube"]
+-
   name: "NonCompete"
   slug: "noncompete"
   url: "https://www.youtube.com/noncompete"
   subscribers: 19276
+  tags: ["breadtube"]
+-
+  name: "azureScapegoat"
+  slug: "azurescapegoat"
+  url: "https://www.youtube.com/channel/UCXIN3HIH0eon5hVYYpnoNuQ"
+  subscribers: 19054
+  tags: ["breadtube"]
+-
+  name: "Bat'ko"
+  slug: "batko"
+  url: "https://www.youtube.com/channel/UC_oi8JESlRbOQW5n7Pl07NA"
+  subscribers: 17461
+  tags: ["breadtube"]
+-
+  name: "Rational Disconnect"
+  slug: "rationaldisconnect"
+  url: "https://www.youtube.com/channel/UCViO5gRp5Boa6QslAo-gPAQ"
+  subscribers: 16323
+  tags: ["breadtube"]
+-
+  name: "anarchopac"
+  slug: "anarchopac"
+  url: "https://www.youtube.com/user/anarchopac"
+  subscribers: 15438
   tags: ["breadtube"]
 -
   name: "Democratic Socialist 01"
@@ -185,6 +317,18 @@
   subscribers: 10661
   tags: ["breadtube"]
 -
+  name: "PoliDice"
+  slug: "polidice"
+  url: "https://www.youtube.com/channel/UCjs0WTUUKk8tvsbG9so6Iag"
+  subscribers: 10381
+  tags: ["breadtube"]
+-
+  name: "Kenny Logan"
+  slug: "ploppy111"
+  url: "https://www.youtube.com/ploppy111"
+  subscribers: 10303
+  tags: ["breadtube"]
+-
   name: "Claudia Brown"
   slug: "claudiabrown"
   url: "https://www.youtube.com/channel/UCQlNT2xADrXblBd1Tz1Fjzg"
@@ -197,6 +341,18 @@
   subscribers: 8603
   tags: ["breadtube"]
 -
+  name: "Angie Speaks"
+  slug: "angiespeaks"
+  url: "https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ"
+  subscribers: 8367
+  tags: ["breadtube"]
+-
+  name: "Kristi Winters"
+  slug: "kristiwinters"
+  url: "https://www.youtube.com/channel/UC3TbT_taTdB5_pxcHnNNHAg"
+  subscribers: 8251
+  tags: ["breadtube"]
+-
   name: "brendanmcooney"
   slug: "brendanmcooney"
   url: "https://www.youtube.com/brendanmcooney"
@@ -207,6 +363,30 @@
   slug: "redstarvideos"
   url: "https://www.youtube.com/channel/UCPF2TnvBH88EKgmS-TAMM4w"
   subscribers: 7640
+  tags: ["breadtube"]
+-
+  name: "Tovarishch Endymion"
+  slug: "tovarishchendymion"
+  url: "https://www.youtube.com/channel/UCTG-iJm0HtjWVOAwN8sA4Xg"
+  subscribers: 5982
+  tags: ["breadtube"]
+-
+  name: "Maria the Witch"
+  slug: "mariathewitch"
+  url: "https://www.youtube.com/channel/UCrd-uibzFaauNlPB8-OJ_qQ"
+  subscribers: 5947
+  tags: ["breadtube"]
+-
+  name: "Flea Market Socialist"
+  slug: "fleamarketsocialist"
+  url: "https://www.youtube.com/user/NuLLx42"
+  subscribers: 5043
+  tags: ["breadtube"]
+-
+  name: "Mia Mulder"
+  slug: "miamulder"
+  url: "https://www.youtube.com/channel/UC_OttpBEWWzSUlZbk5qmhSA"
+  subscribers: 3721
   tags: ["breadtube"]
 -
   name: "SJW101, the political gamer"
@@ -222,27 +402,45 @@
   tags: ["breadtube"]
 -
   name: "Benji Adam Whiskettes"
-  slug: benjiadamwhiskettes
+  slug: "benjiadamwhiskettes"
   url: "https://www.youtube.com/channel/UCDG87s_QtD4YrIamqb9k5WQ"
   subscribers: 2573
   tags: ["breadtube"]
 -
-  name: "Kenny Logan"
-  slug: "ploppy111"
-  url: "https://www.youtube.com/ploppy111"
-  subscribers: 10303
+  name: "Sarcasmitron"
+  slug: "sarcasmitron"
+  url: "https://www.youtube.com/channel/UC6WD1VImCVeOuNccuqDzAdA"
+  subscribers: 2040
   tags: ["breadtube"]
 -
-  name: "Angie Speaks"
-  slug: "angiespeaks"
-  url: "https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ"
-  subscribers: 8367
+  name: "José"
+  slug: "jose"
+  url: "https://www.youtube.com/channel/UCeDKIj0G5XbultKOQnacu_w"
+  subscribers: 1963
+  tags: ["breadtube"]
+-
+  name: "Never Speak in Absolutes"
+  slug: "neverspeakinabsolutes"
+  url: "https://www.youtube.com/channel/UCavgbmwn4yxtOPeEvv_7OVg"
+  subscribers: 1691
+  tags: ["breadtube"]
+-
+  name: "BlackGoat 666"
+  slug: "blackgoat666"
+  url: "https://www.youtube.com/channel/UCbbsW7_Esx8QZ8PgJ13pGxw"
+  subscribers: 849
   tags: ["breadtube"]
 -
   name: "Christopher Szabo"
   slug: "christopherszabo"
   url: "https://www.youtube.com/channel/UCLzx8lUHtURlm3amY2Xivng"
-  subsribers: 750
+  subscribers: 750
+  tags: ["breadtube"]
+-
+  name: "YUGOPNIK"
+  slug: "yugopnik"
+  url: "https://www.youtube.com/channel/UCs8mbJ-M142ZskR5VR0gBig"
+  subscribers: 740
   tags: ["breadtube"]
 -
   name: "Erin Collective"
@@ -251,14 +449,32 @@
   subscribers: 515
   tags: ["breadtube"]
 -
+  name: "For Harriet"
+  slug: "forharrietdotcom"
+  url: "https://www.youtube.com/user/ForHarrietdotcom"
+  subscribers:
+  tags: ["breadtube"]
+-
+  name: "In Otter Words"
+  slug: "inotterwords"
+  url: "https://www.youtube.com/channel/UCH0ca3eEQP_rnAHNI68qg2w/feed"
+  subscribers: 306
+  tags: ["breadtube"]
+-
   name: "Earth Strike"
   slug: "earthstrike"
   url: "https://www.youtube.com/channel/UCLtRV0bzB5vW-91B4TomNuA"
   subscribers: 226
   tags: ["breadtube"]
 -
+  name: "Aphreditto"
+  slug: "aphreditto"
+  url: "https://www.youtube.com/channel/UC4cBSjn3x4BimpTEP-104kA"
+  subscribers: 158
+  tags: ["breadtube"]
+-
   name: "Dirk Kelly"
   slug: "dirkkelly"
   url: "https://www.youtube.com/dirkkelly"
-  subscribers: 11
+  subscribers: 12
   tags: ["breadtube"]
