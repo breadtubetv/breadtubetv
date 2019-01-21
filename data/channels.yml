@@ -107,6 +107,12 @@
   subscribers: 73439
   tags: ["breadtube"]
 -
+  name: "Creationist Cat"
+  slug: "creationistcat"
+  url: "https://www.youtube.com/creationistcat"
+  subscribers: 67484
+  tags: ["breadtube"]
+-
   name: "C0nc0rdance"
   slug: "c0nc0rdance"
   url: "https://youtube.com/C0nc0rdance"
