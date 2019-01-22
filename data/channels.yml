@@ -95,6 +95,12 @@
   subscribers: 143273
   tags: ["breadtube"]
 -
+  name: "Kat Blaque"
+  slug: "katblaque"
+  url: "https://www.youtube.com/user/TransDIYer"
+  subscribers: 135526
+  tags: ["breadtube"]
+-
   name: "Empire Files"
   slug: "empirefiles"
   url: "https://www.youtube.com/empirefiles"
@@ -105,6 +111,12 @@
   slug: "democracyatwrk"
   url: "https://www.youtube.com/democracyatwrk"
   subscribers: 73439
+  tags: ["breadtube"]
+-
+  name: "Beau of the Fifth Column"
+  slug: "beauofthefifthcolumn"
+  url: "https://www.youtube.com/channel/UC0YvoAYGgdOfySQSLcxtu1w"
+  subscribers: 71157
   tags: ["breadtube"]
 -
   name: "Creationist Cat"
