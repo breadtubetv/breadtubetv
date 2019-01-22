@@ -58,7 +58,7 @@ identifier = "addplaylist"
 url = "/contribute/add-playlist/"
 
 [[menu.main]]
-name = "Add Video"
+name = "Add Channel"
 parent = "contribute"
-identifier = "addvideo"
-url = "/contribute/add-video/"
+identifier = "addchannel"
+url = "/contribute/add-channel/"
