@@ -262,3 +262,33 @@
   url: "https://www.youtube.com/dirkkelly"
   subscribers: 11
   tags: ["breadtube"]
+-
+  name: "let's talk about stuff."
+  slug: "letstalkaboutstuff"
+  url: "https://www.youtube.com/channel/UCjSJq8eE73nCc9mtSMkNh6g"
+  subscribers: 8379
+  tags: ["breadtube"]
+-
+  name: "Donoteat01"
+  slug: "donoteat01"
+  url: "https://www.youtube.com/user/donoteat01"
+  subscribers: 25441
+  tags: ["breadtube"]
+-
+  name: "Jack Saint / LackingSaint"
+  slug: "lackingsaint"
+  url: "https://www.youtube.com/user/LackingSaint"
+  subscribers: 5879
+  tags: ["breadtube"]
+-
+  name: "Cuck Philosophy"
+  slug: "cuckphilosophy"
+  url: "https://www.youtube.com/channel/UCSkzHxIcfoEr69MWBdo0ppg"
+  subscribers: 66067
+  tags: ["breadtube"]
+-
+  name: "Lindsay Ellis"
+  slug: "lindsayellis"
+  url: "https://www.youtube.com/channel/UCG1h-Wqjtwz7uUANw6gazRw"
+  subscribers: 548886
+  tags: []
