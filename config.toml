@@ -45,3 +45,20 @@ url = "/"
 [[ menu.main ]]
 name = "Playlists"
 url = "/playlists/"
+
+[[ menu.main ]]
+name = "Contribute"
+identifier = "contribute"
+url = "/contribute/"
+
+[[menu.main]]
+name = "Add Playlist"
+parent = "contribute"
+identifier = "addplaylist"
+url = "/contribute/add-playlist/"
+
+[[menu.main]]
+name = "Add Video"
+parent = "contribute"
+identifier = "addvideo"
+url = "/contribute/add-video/"

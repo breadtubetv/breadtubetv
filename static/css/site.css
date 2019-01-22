@@ -28,6 +28,19 @@ a:active {
   text-decoration: none;
 }
 
+.dropdown-menu.show {
+  background: rgb(101, 115, 131);
+}
+
+.dropdown-item li:hover {
+  background-color: transparent;
+}
+
+.dropdown-item a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 .nav-item a:hover {
   text-decoration: underline;
   cursor: pointer;
