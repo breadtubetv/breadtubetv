@@ -257,6 +257,12 @@
   subscribers: 23586
   tags: ["breadtube"]
 -
+  name: "The Michael Brooks Show"
+  slug: "tmbs"
+  url: "https://www.youtube.com/TheMichaelBrooksShow"
+  subscribers: 22939
+  tags: ["breadtube"]
+-
   name: "Thought Slime"
   slug: "thoughtslime"
   url: "https://www.youtube.com/thoughtslime"
