@@ -1,5 +1,9 @@
-body {
+body, .sticky-top {
   background-color: rgb(101, 115, 131);
+}
+
+.sticky-offset {
+  top: 36px;
 }
 
 a,
@@ -9,7 +13,12 @@ a:active {
 }
 
 #sidebar {
-  max-width: 50px;
+  width: 50px;
+  position: fixed;
+}
+
+#main {
+  margin-left: 50px;
 }
 
 #site-title {
