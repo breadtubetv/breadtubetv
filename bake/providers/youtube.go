@@ -22,8 +22,9 @@ import (
 )
 
 func LoadYoutube() map[string]interface{} {
-	var funcMap = make(map[string]interface{})
-	return funcMap
+	return map[string]interface{}{
+		"config": Config,
+	}
 }
 
 func Config() {

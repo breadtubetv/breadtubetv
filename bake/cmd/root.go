@@ -13,7 +13,11 @@ import (
 
 var cfgFile string
 
-// load all providers
+/*
+	This map is set up so that we can call functions dynamically for providers.
+
+	e.g. Providers["youtube"]["config"].(func(string))("somestring")
+*/
 var Providers = map[string]map[string]interface{}{
 	"youtube": providers.LoadYoutube(),
 }

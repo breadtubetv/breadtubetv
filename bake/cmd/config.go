@@ -14,7 +14,15 @@ var configCmd = &cobra.Command{
 	Long: fmt.Sprintf(`Allows you to configure providers for Bake.
 	
 	Available providers: %s`, strings.Join(ProviderNames(), ", ")),
+	Args: cobra.ExactArgs(1),
 	Run: func(cmd *cobra.Command, args []string) {
+		var provider = args[0]
+
+		if _, ok := Providers[provider]; !ok {
+			panic(fmt.Sprintf("No provider existed called %s", provider))
+		}
+
+		Providers[provider]["config"].(func())()
 	},
 }
 
