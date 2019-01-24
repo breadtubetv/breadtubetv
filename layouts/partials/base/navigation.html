@@ -1,4 +1,4 @@
-<ul class="nav">
+<ul class="nav sticky-top">
   {{- $currentPage := . -}}
   {{ range .Site.Menus.main -}}
     <li class="nav-item{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} font-weight-bold active{{ end }}">
