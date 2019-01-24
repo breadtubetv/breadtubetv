@@ -95,6 +95,7 @@ func importChannel(channelUrl string) {
 
 	channelList := ChannelList{}
 
+	// TODO: refactor into utils/channel.go - Load()
 	dat, err := ioutil.ReadFile(CHANNEL_FILE)
 	check(err)
 	err = yaml.Unmarshal([]byte(dat), &channelList)
@@ -102,6 +103,7 @@ func importChannel(channelUrl string) {
 		log.Fatalf("error: %v", err)
 	}
 
+	// TODO: refactor into utils/channel.go - Exists()
 	// check that it's not already in the list
 	var urlList []string
 	for _, channel := range channelList {
@@ -121,6 +123,7 @@ func importChannel(channelUrl string) {
 		return
 	}
 
+	// TODO: refactor into util/channel.go - Add()
 	// let's add it to the list
 	channel := Channel{
 		Name:        channelName,
@@ -131,11 +134,13 @@ func importChannel(channelUrl string) {
 
 	channelList = append(channelList, channel)
 
+	// TODO: refactor into util/channel.go - Sort()
 	// sort the list by subscriber count
 	sort.Slice(channelList, func(i, j int) bool {
 		return channelList[i].Subscribers > channelList[j].Subscribers
 	})
 
+	// TODO: refactor into util/channel.go - Save()
 	log.Printf("Writing channels back to %s", CHANNEL_FILE)
 
 	dat, err = yaml.Marshal(&channelList)
