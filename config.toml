@@ -51,14 +51,14 @@ name = "Contribute"
 identifier = "contribute"
 url = "/contribute/"
 
-[[menu.main]]
+[[ menu.main ]]
 name = "Add Playlist"
 parent = "contribute"
 identifier = "addplaylist"
-url = "/contribute/add-playlist/"
+url = "/playlists/new/"
 
-[[menu.main]]
+[[ menu.main ]]
 name = "Add Channel"
 parent = "contribute"
 identifier = "addchannel"
-url = "/contribute/add-channel/"
+url = "/channels/new/"
