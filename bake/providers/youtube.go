@@ -3,7 +3,6 @@ package providers
 import (
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
 	"log"
 	"net"
 	"net/http"
@@ -13,17 +12,18 @@ import (
 	"os/user"
 	"path/filepath"
 	"runtime"
-	"sort"
 	"strings"
 
+	"github.com/breadtubetv/bake/util"
 	"github.com/gosimple/slug"
 	"golang.org/x/net/context"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"
-	yaml "gopkg.in/yaml.v2"
 
 	"google.golang.org/api/youtube/v3"
 )
+
+const ACCESS_JSON = `{"installed":{"client_id":"660935947237-ajqve9kv3n0nnhonhnc5j638fsfan31o.apps.googleusercontent.com","project_id":"sacred-dahlia-229511","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"piloG0CTWO7PVlbwX8drp6xU","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}`
 
 func LoadYoutube() map[string]interface{} {
 	return map[string]interface{}{
@@ -42,16 +42,6 @@ func config() {
 
 	log.Printf("Successfully authenticated and cached credentials.")
 }
-
-type Channel struct {
-	Name        string        `yaml:"name"`
-	Slug        string        `yaml:"slug"`
-	URL         string        `yaml:"url"`
-	Subscribers uint64        `yaml:"subscribers"`
-	Tags        []interface{} `yaml:"tags"`
-}
-
-type ChannelList []Channel
 
 const CHANNEL_FILE = "../data/channels.yml"
 
@@ -93,39 +83,14 @@ func importChannel(channelUrl string) {
 
 	log.Printf("Title: %s, Count: %d\n", channelName, channelSubscriberCount)
 
-	channelList := ChannelList{}
+	channelList := util.LoadChannels("../data/channels")
 
-	// TODO: refactor into utils/channel.go - Load()
-	dat, err := ioutil.ReadFile(CHANNEL_FILE)
-	check(err)
-	err = yaml.Unmarshal([]byte(dat), &channelList)
-	if err != nil {
-		log.Fatalf("error: %v", err)
-	}
-
-	// TODO: refactor into utils/channel.go - Exists()
-	// check that it's not already in the list
-	var urlList []string
-	for _, channel := range channelList {
-		urlList = append(urlList, channel.URL)
-	}
-
-	found := false
-	for _, url := range urlList {
-		if url == strings.TrimRight(channelUrl, "/") {
-			found = true
-			break
-		}
-	}
-
-	if found {
-		log.Fatalf("Channel already exists in list!")
+	if channelList.Contains(channelUrl) {
+		log.Fatalf("Channel %s already exists!", channelUrl)
 		return
 	}
 
-	// TODO: refactor into util/channel.go - Add()
-	// let's add it to the list
-	channel := Channel{
+	channel := util.Channel{
 		Name:        channelName,
 		Slug:        slug.Make(channelName),
 		URL:         strings.TrimRight(channelUrl, "/"),
@@ -134,22 +99,7 @@ func importChannel(channelUrl string) {
 
 	channelList = append(channelList, channel)
 
-	// TODO: refactor into util/channel.go - Sort()
-	// sort the list by subscriber count
-	sort.Slice(channelList, func(i, j int) bool {
-		return channelList[i].Subscribers > channelList[j].Subscribers
-	})
-
-	// TODO: refactor into util/channel.go - Save()
-	log.Printf("Writing channels back to %s", CHANNEL_FILE)
-
-	dat, err = yaml.Marshal(&channelList)
-	if err != nil {
-		log.Fatalf("error: %v", err)
-	}
-
-	ioutil.WriteFile(CHANNEL_FILE, dat, os.ModePerm)
-
+	util.SaveChannels(channelList, "../data/channels")
 }
 
 const launchWebServer = true
@@ -185,10 +135,7 @@ https://developers.google.com/api-client-library/python/guide/aaa_client_secrets
 func getClient(scope string) *http.Client {
 	ctx := context.Background()
 
-	b, err := ioutil.ReadFile("client_secret.json")
-	if err != nil {
-		log.Fatalf("Unable to read client secret file: %v", err)
-	}
+	b := []byte(ACCESS_JSON)
 
 	// If modifying the scope, delete your previously saved credentials
 	// at ~/.credentials/youtube-go.json
