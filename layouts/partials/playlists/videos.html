@@ -11,9 +11,11 @@
   {{ range $playlistVideos }}
     {{ $video := . }}
     {{ $channelSlug := $video.channel }}
-    {{ range where $channels "slug" $channelSlug }}
-      {{ $channel := . }}
-      {{ partial "videos/card.html" (dict "video" $video "channel" $channel) }}
+    {{ range $channels }}
+      {{ if eq .slug $channelSlug }}
+        {{ $channel := . }}
+        {{ partial "videos/card.html" (dict "video" $video "channel" $channel) }}
+      {{ end }}
     {{ end }}
   {{ end }}
 </div>
