@@ -13,21 +13,26 @@ import (
 	"os/user"
 	"path/filepath"
 	"runtime"
+	"sort"
+	"strings"
 
+	"github.com/gosimple/slug"
 	"golang.org/x/net/context"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"
+	yaml "gopkg.in/yaml.v2"
 
 	"google.golang.org/api/youtube/v3"
 )
 
 func LoadYoutube() map[string]interface{} {
 	return map[string]interface{}{
-		"config": Config,
+		"config":         config,
+		"channel_import": importChannel,
 	}
 }
 
-func Config() {
+func config() {
 	client := getClient(youtube.YoutubeReadonlyScope)
 
 	_, err := youtube.New(client)
@@ -38,7 +43,126 @@ func Config() {
 	log.Printf("Successfully authenticated and cached credentials.")
 }
 
+type Channel struct {
+	Name        string        `yaml:"name"`
+	Slug        string        `yaml:"slug"`
+	URL         string        `yaml:"url"`
+	Subscribers uint64        `yaml:"subscribers"`
+	Tags        []interface{} `yaml:"tags"`
+}
+
+type ChannelList []Channel
+
+const CHANNEL_FILE = "../data/channels.yml"
+
+func loadChannels() {
+
+}
+
+func importChannel(channelUrl string) {
+	// check if they gave us the whole url, and strip off the start if they did
+	id := strings.TrimRight(strings.Replace(channelUrl, "https://www.youtube.com/channel/", "", 1), "/")
+
+	client := getClient(youtube.YoutubeReadonlyScope)
+
+	service, err := youtube.New(client)
+	if err != nil {
+		log.Fatalf("Error creating YouTube client: %v", err)
+		return
+	}
+
+	call := service.Channels.List("snippet,statistics")
+	if id != "" {
+		call = call.Id(id)
+	}
+	response, err := call.Do()
+	handleError(err, "")
+
+	if len(response.Items) == 0 {
+		log.Printf("Could not find channel from URL.")
+		return
+	}
+
+	channelName := ""
+	channelSubscriberCount := uint64(0)
+	for _, item := range response.Items {
+		channelName = item.Snippet.Title
+		channelSubscriberCount = item.Statistics.SubscriberCount
+		break
+	}
+
+	log.Printf("Title: %s, Count: %d\n", channelName, channelSubscriberCount)
+
+	channelList := ChannelList{}
+
+	dat, err := ioutil.ReadFile(CHANNEL_FILE)
+	check(err)
+	err = yaml.Unmarshal([]byte(dat), &channelList)
+	if err != nil {
+		log.Fatalf("error: %v", err)
+	}
+
+	// check that it's not already in the list
+	var urlList []string
+	for _, channel := range channelList {
+		urlList = append(urlList, channel.URL)
+	}
+
+	found := false
+	for _, url := range urlList {
+		if url == strings.TrimRight(channelUrl, "/") {
+			found = true
+			break
+		}
+	}
+
+	if found {
+		log.Fatalf("Channel already exists in list!")
+		return
+	}
+
+	// let's add it to the list
+	channel := Channel{
+		Name:        channelName,
+		Slug:        slug.Make(channelName),
+		URL:         strings.TrimRight(channelUrl, "/"),
+		Subscribers: channelSubscriberCount,
+	}
+
+	channelList = append(channelList, channel)
+
+	// sort the list by subscriber count
+	sort.Slice(channelList, func(i, j int) bool {
+		return channelList[i].Subscribers > channelList[j].Subscribers
+	})
+
+	log.Printf("Writing channels back to %s", CHANNEL_FILE)
+
+	dat, err = yaml.Marshal(&channelList)
+	if err != nil {
+		log.Fatalf("error: %v", err)
+	}
+
+	ioutil.WriteFile(CHANNEL_FILE, dat, os.ModePerm)
+
+}
+
 const launchWebServer = true
+
+func check(e error) {
+	if e != nil {
+		panic(e)
+	}
+}
+
+func handleError(err error, message string) {
+	if message == "" {
+		message = "Error making API call"
+	}
+	if err != nil {
+		log.Fatalf(message+": %v", err.Error())
+	}
+}
 
 const missingClientSecretsMessage = `
 Please configure OAuth 2.0

@@ -16,6 +16,7 @@ package cmd
 
 import (
 	"fmt"
+	"log"
 	"strings"
 
 	"github.com/spf13/cobra"
@@ -25,19 +26,20 @@ import (
 var importCmd = &cobra.Command{
 	Use:   "import [provider] [channel_url]",
 	Short: "Import a Channel into BreadtubeTV",
-	Long: `Add the supplied channel into BreadtubeTV, without having to edit JSON.
+	Long: fmt.Sprintf(`Add the supplied channel into BreadtubeTV, without having to edit JSON.
 	
-	Providers:
-	- youtube`,
+	Available providers: %s`, strings.Join(ProviderNames(), ", ")),
 	Args: cobra.ExactArgs(2),
 	Run: func(cmd *cobra.Command, args []string) {
-		//var provider = args[0]
+		var provider = args[0]
 		var channelUrl = args[1]
 
-		// check if they gave us the whole url, and strip off the start if they did
-		channelUrl = strings.Replace(channelUrl, "https://www.youtube.com/channel/", "", 1)
+		if _, ok := Providers[provider]; !ok {
+			panic(fmt.Sprintf("No provider existed called %s", provider))
+		}
 
-		fmt.Printf("Importing %s...\n", channelUrl)
+		log.Printf("Importing %s...\n", channelUrl)
+		Providers[provider]["channel_import"].(func(string))(channelUrl)
 	},
 }
 
