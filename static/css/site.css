@@ -1,5 +1,9 @@
-body {
+body, .sticky-top {
   background-color: rgb(101, 115, 131);
+}
+
+.sticky-offset {
+  top: 36px;
 }
 
 a,
@@ -9,7 +13,12 @@ a:active {
 }
 
 #sidebar {
-  max-width: 50px;
+  width: 50px;
+  position: fixed;
+}
+
+#main {
+  margin-left: 50px;
 }
 
 #site-title {
@@ -50,25 +59,24 @@ a:active {
   color: black;
 }
 
-.card a:hover {
+.card-video a:hover {
   text-decoration: underline;
 }
 
-.tile {
-  position: relative;
-  display: inline-block;
-  max-width: 160px;
-  -webkit-transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
-  transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+a.card-channel {
+  color: #000;
 }
 
-.tile-title {
-  line-height: 17px;
+a.card-channel:hover {
+  text-decoration: none;
 }
 
-.tile-img {
-  height: 152px;
-  width: 152px;
+a.card-channel:hover .title {
+  text-decoration: underline;
+}
+
+.card-channel .card-body {
+  background-color: white;
 }
 
 .card-video .img-channel {
@@ -76,33 +84,14 @@ a:active {
   margin-top: -2px;
 }
 
-@media (max-width: 575.98px) {
-  .tile {
-    width: 50%;
-  }
-}
-
-@media (min-width: 576px) and (max-width: 767.98px) {
-  .tile {
-    width: 33%;
-  }
-}
-
-@media (min-width: 768px) and  (max-width: 991.98px) {
-  .tile {
-    width: 25%;
-  }
-
-  .tile::after {
-    content: "";
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-    background-color: rgb(101, 115, 131);
-  }
-}
-
 /* http://tobiasahlin.com/blog/how-to-animate-box-shadow/ */
 @media (min-width: 992px) {
-  .tile::after {
+  .card-column {
+    min-width: 220px;
+    max-width: 220px;
+  }
+
+  .card-channel::after {
     content: "";
     border-radius: 5px;
     position: absolute;
@@ -118,13 +107,13 @@ a:active {
     transition: all 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
   }
 
-  .tile:hover {
+  .card-channel:hover {
     -webkit-transform: scale(1.05, 1.05);
     transform: scale(1.05, 1.05);
     z-index: 100;
   }
 
-  .tile:hover::after {
+  .card-channel:hover::after {
     opacity: 1;
   }
 }
