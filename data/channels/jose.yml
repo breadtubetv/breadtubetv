@@ -1,5 +1,6 @@
-name: "José"
-slug: "jose"
-url: "https://www.youtube.com/channel/UCeDKIj0G5XbultKOQnacu_w"
+name: José
+slug: jose
+url: https://www.youtube.com/channel/UCeDKIj0G5XbultKOQnacu_w
 subscribers: 1963
-tags: ["breadtube"]
+tags:
+- breadtube

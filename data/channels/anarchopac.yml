@@ -1,6 +1,6 @@
-name: "anarchopac"
-slug: "anarchopac"
-url: "https://www.youtube.com/user/anarchopac"
-description: "I'm a disabled pan-sexual trans woman who talks about anarchism, feminism and marxism."
+name: anarchopac
+slug: anarchopac
+url: https://www.youtube.com/user/anarchopac
 subscribers: 15438
-tags: ["breadtube"]
+tags:
+- breadtube

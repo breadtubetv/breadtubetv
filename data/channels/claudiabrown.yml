@@ -1,6 +1,6 @@
-name: "Claudia Brown"
-slug: "claudiabrown"
-url: "https://www.youtube.com/channel/UCQlNT2xADrXblBd1Tz1Fjzg"
-description: "Hello everyone! I make youtube videos talking about feminism."
+name: Claudia Brown
+slug: claudiabrown
+url: https://www.youtube.com/channel/UCQlNT2xADrXblBd1Tz1Fjzg
 subscribers: 9877
-tags: ["breadtube"]
+tags:
+- breadtube

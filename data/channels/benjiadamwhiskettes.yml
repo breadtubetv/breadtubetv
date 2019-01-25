@@ -1,6 +1,6 @@
-name: "Benji Adam Whiskettes"
-slug: "benjiadamwhiskettes"
-url: "https://www.youtube.com/channel/UCDG87s_QtD4YrIamqb9k5WQ"
-description: "(communist video essays)"
+name: Benji Adam Whiskettes
+slug: benjiadamwhiskettes
+url: https://www.youtube.com/channel/UCDG87s_QtD4YrIamqb9k5WQ
 subscribers: 2573
-tags: ["breadtube"]
+tags:
+- breadtube

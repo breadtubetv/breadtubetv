@@ -1,6 +1,6 @@
-name: "Thom Avella"
-slug: "thomavella"
-url: "https://www.youtube.com/channel/UCw-4391y4Lm0LZz2Z6pau9Q"
-description: "Gender-neutral video essayist and musician, seeking to spread the good word of libertarian socialism far and wide. they/them."
+name: Thom Avella
+slug: thomavella
+url: https://www.youtube.com/channel/UCw-4391y4Lm0LZz2Z6pau9Q
 subscribers: 23586
-tags: ["breadtube"]
+tags:
+- breadtube

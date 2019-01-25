@@ -1,6 +1,6 @@
-name: "HBomber Guy"
-slug: "hbomberguy"
-url: "https://www.youtube.com/hbomberguy"
-description: "Internet? (media analysis and left video essay)"
+name: HBomber Guy
+slug: hbomberguy
+url: https://www.youtube.com/hbomberguy
 subscribers: 325262
-tags: ["breadtube"]
+tags:
+- breadtube

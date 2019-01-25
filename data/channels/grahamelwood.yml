@@ -1,6 +1,6 @@
-name: "Graham Elwood"
-slug: "grahamelwood"
-url: "https://www.youtube.com/channel/UCX1rle36wIlP9ry8uidnCsA"
-description: "Official YouTube channel of Comedian/Filmmaker Graham Elwood (Director of Earbuds)"
+name: Graham Elwood
+slug: grahamelwood
+url: https://www.youtube.com/channel/UCX1rle36wIlP9ry8uidnCsA
 subscribers: 12421
-tags: ["breadtube"]
+tags:
+- breadtube

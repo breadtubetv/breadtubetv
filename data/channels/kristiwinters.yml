@@ -1,6 +1,6 @@
-name: "Kristi Winters"
-slug: "kristiwinters"
-url: "https://www.youtube.com/channel/UC3TbT_taTdB5_pxcHnNNHAg"
-description: "Progressive. Feminist. Atheist. Social scientist. Nerd."
+name: Kristi Winters
+slug: kristiwinters
+url: https://www.youtube.com/channel/UC3TbT_taTdB5_pxcHnNNHAg
 subscribers: 8251
-tags: ["breadtube"]
+tags:
+- breadtube

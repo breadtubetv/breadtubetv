@@ -1,6 +1,6 @@
-name: "Hasan Piker"
-slug: "hasanabi"
-url: "https://www.youtube.com/channel/UCtoaZpBnrd0lhycxYJ4MNOQ"
-description: "The revolution will not be televised."
+name: Hasan Piker
+slug: hasanabi
+url: https://www.youtube.com/channel/UCtoaZpBnrd0lhycxYJ4MNOQ
 subscribers: 28198
-tags: ["breadtube"]
+tags:
+- breadtube

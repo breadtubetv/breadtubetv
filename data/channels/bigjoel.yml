@@ -1,6 +1,6 @@
-name: "Big Joel"
-slug: "bigjoel"
-url: "https://www.youtube.com/channel/UCaN8DZdc8EHo5y1LsQWMiig"
-description: "I make video essays and deep dives about movies and other things."
+name: Big Joel
+slug: bigjoel
+url: https://www.youtube.com/channel/UCaN8DZdc8EHo5y1LsQWMiig
 subscribers: 127975
-tags: ["breadtube"]
+tags:
+- breadtube

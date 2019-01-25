@@ -1,6 +1,6 @@
-name: "Step Back History"
-slug: "stepbackhistory"
-url: "https://www.youtube.com/channel/UCxTdWpLJurbGlFMWOwXWG_A"
-description: "Step Back is a history channel that invites you to consider the past and how it connects to today. We make videos that take a historical topic and look at it from a new angle."
+name: Step Back History
+slug: stepbackhistory
+url: https://www.youtube.com/channel/UCxTdWpLJurbGlFMWOwXWG_A
 subscribers: 44136
-tags: ["breadtube"]
+tags:
+- breadtube

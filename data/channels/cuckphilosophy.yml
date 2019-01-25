@@ -1,6 +1,6 @@
-name: "Cuck Philosophy"
-slug: "cuckphilosophy"
-url: "https://www.youtube.com/channel/UCSkzHxIcfoEr69MWBdo0ppg"
-description: "Leftist video essays on various topics and media."
+name: Cuck Philosophy
+slug: cuckphilosophy
+url: https://www.youtube.com/channel/UCSkzHxIcfoEr69MWBdo0ppg
 subscribers: 65989
-tags: ["breadtube"]
+tags:
+- breadtube

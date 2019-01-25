@@ -1,6 +1,6 @@
-name: "Angie Speaks"
-slug: "angiespeaks"
-url: "https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ"
-description: "Anarchist Leftist channel with a creative and mystical flair!"
+name: Angie Speaks
+slug: angiespeaks
+url: https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ
 subscribers: 8367
-tags: ["breadtube"]
+tags:
+- breadtube

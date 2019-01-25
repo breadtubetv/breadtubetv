@@ -1,5 +1,6 @@
-name: "PoliDice"
-slug: "polidice"
-url: "https://www.youtube.com/channel/UCjs0WTUUKk8tvsbG9so6Iag"
+name: PoliDice
+slug: polidice
+url: https://www.youtube.com/channel/UCjs0WTUUKk8tvsbG9so6Iag
 subscribers: 10381
-tags: ["breadtube"]
+tags:
+- breadtube

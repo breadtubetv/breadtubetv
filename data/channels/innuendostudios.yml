@@ -1,6 +1,6 @@
-name: "Innuendo Studios"
-slug: "innuendostudios"
-url: "https://www.youtube.com/user/mrskimps"
-description: "I make video essays about games, web culture, and social politics."
+name: Innuendo Studios
+slug: innuendostudios
+url: https://www.youtube.com/user/mrskimps
 subscribers: 144281
-tags: ["breadtube"]
+tags:
+- breadtube
