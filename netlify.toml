@@ -1,4 +1,5 @@
 [build]
+  base = "breadtubetv"
   publish = "public"
   command = "hugo"
 
