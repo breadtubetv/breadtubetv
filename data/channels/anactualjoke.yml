@@ -1,6 +1,13 @@
-name: "anactualjoke"
+name: "AnActualJoke"
 slug: "anactualjoke"
-url: "https://www.youtube.com/channel/UC-CDQ-MPUdBWcjB7SrD1HZA"
 description: Anarchist Trans Girl. She/Her. Making Video Essays and hot takes
-subscribers: 8603
+providers:
+  youtube:
+    name: "anactualjoke"
+    url: "https://www.youtube.com/channel/UC-CDQ-MPUdBWcjB7SrD1HZA"
+    subscribers: 8603
+  patreon:
+    name: "AnActualJoke"
+    url: "https://www.patreon.com/anactualjoke"
+    decription: "Video Essays"
 tags: ["breadtube"]
