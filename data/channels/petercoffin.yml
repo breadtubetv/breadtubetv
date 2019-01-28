@@ -1,6 +1,13 @@
 name: "Peter Coffin"
 slug: "petercoffin"
-url: "https://www.youtube.com/petercoffin"
 description: "The official channel of satirist and weirdo Peter Coffin. Home to Very Important Documentaries (infotainment) and Adversaries (commercial critique)."
-subscribers: 236769
+providers:
+  youtube:
+    name: "Peter Coffin"
+    url: "https://www.youtube.com/petercoffin"
+    subscribers: 236769
+  patreon:
+    name: "Peter Coffin"
+    url: "https://www.patreon.com/petercoffin"
+    decription: "earnest, truthful propoganda"
 tags: ["breadtube"]
