@@ -1,4 +1,5 @@
-<div class="d-flex flex-wrap">
+<h2 class="visually-hidden">List of Channels</h2>
+<ul class="list plain-list">
   {{ $jump := .Site.Params.targetBlank | default true }}
   {{ $tags := .Params.tags | default .Site.Params.defaultTags }}
   {{ range .Site.Data.channels }}
@@ -6,4 +7,4 @@
       {{ partial "channels/card.html" (dict "channel" . "target_blank" $jump) }}
     {{ end }}
   {{ end }}
-</div>
+</ul>

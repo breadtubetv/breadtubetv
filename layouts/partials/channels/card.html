@@ -1,12 +1,24 @@
-<div class="card-column col-12 col-sm-6 col-md-4 col-lg-3 col-xl mb-3 pl-2 pr-2 d-flex">
-  <a href="{{ or .channel.providers.youtube.url .channel.url }}" target="_blank" class="card card-channel flex-fill">
-    <img src="/img/channels/{{ .channel.slug }}.jpg" class="img-video card-img-top" src="https://i3.ytimg.com/vi/{{ .video.id }}/hqdefault.jpg" /c>
-    <div class="card-body pt-1 pb-1 pl-2 pr-1">
-      {{ if .channel.subscribers }}
-        <small class="d-block font-weight-bold text-muted">{{ lang.NumFmt 0 .channel.subscribers }} Subscribers</small>
-      {{ end }}
-      <h3 class="h6 mb-0 title font-weight-bold d-inline-block">{{ .channel.name }}</h3>
-      <small class="d-block mb-1">{{ .channel.description | markdownify }}</small>
+<li>
+  <div class="channel">
+    <div class="channel-image">
+      <div class="channel-imageWrap">
+        <img src="/img/channels/{{ .channel.slug }}.jpg" />
+      </div>
     </div>
-  </a>
-</div>
+    <div class="channel-text">
+      <div class="channel-title">
+        <a class="channel-link" href="{{ or .channel.providers.youtube.url .channel.url }}" target="_blank">
+          {{ .channel.name }}
+        </a>
+      </div>
+      <div class="channel-description">
+        {{ .channel.description | markdownify }}
+      </div>
+      {{ if .channel.subscribers }}
+        <div class="channel-metadata">
+          {{ lang.NumFmt 0 .channel.subscribers }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</li>

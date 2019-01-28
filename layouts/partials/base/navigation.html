@@ -1,8 +1,14 @@
-<ul class="nav sticky-top">
-  {{- $currentPage := . -}}
-  {{ range .Site.Menus.main -}}
-    <li class="nav-item{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} font-weight-bold active{{ end }}">
-      <a href="{{ .URL | absLangURL }}" class="nav-link pb-1">{{ .Name }}</a>
-    </li>
-  {{- end }}
+<nav class="nav">
+  <ul class="nav-list plain-list">
+    {{- $currentPage := . -}}
+    {{ range .Site.Menus.main -}}
+      <li>
+        {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
+          <strong class="nav-link is-active">{{ .Name }}</strong>
+        {{ else }}
+          <a href="{{ .URL | absLangURL }}" class="nav-link">{{ .Name }}</a>
+        {{ end }}
+      </li>
+    {{- end }}
+  </ul>
 </ul>

@@ -1,47 +1,11 @@
 baseURL = "https://breadtube.tv/"
 languageCode = "en-us"
-title = "BreadTube.tv"
+title = "BreadTube"
 
 [ params ]
-description = "YouTube but actually good"
+description = "Quality content going aginst the prevailing winds of the internet."
 targetBlank = true
 defaultTags = []
-
-# https://fontawesome.com/v4.7.0/cheatsheet/
-[[ params.nav ]]
-name = "Reddit"
-href = "/reddit"
-icon = "reddit"
-
-[[ params.nav ]]
-name = "Discord"
-href = "/discord"
-icon = "discord"
-
-[[ params.nav ]]
-name = "Twitter"
-href = "/twitter"
-icon = "twitter"
-
-[[ params.nav ]]
-name = "Facebook"
-href = "/facebook"
-icon = "facebook"
-
-[[ params.nav ]]
-name = "Tumblr"
-href = "/tumblr"
-icon = "tumblr"
-
-[[ params.nav ]]
-name = "YouTube"
-href = "/youtube"
-icon = "youtube"
-
-[[ params.nav ]]
-name = "Github"
-href = "/github"
-icon = "github"
 
 [[ menu.main ]]
 name = "Channels"
@@ -50,3 +14,27 @@ url = "/"
 [[ menu.main ]]
 name = "Playlists"
 url = "/playlists/"
+
+[[ menu.footer ]]
+name = "Discord"
+url = "/discord"
+
+[[ menu.footer ]]
+name = "Twitter"
+url = "/twitter"
+
+[[ menu.footer ]]
+name = "Facebook"
+url = "/facebook"
+
+[[ menu.footer ]]
+name = "Tumblr"
+url = "/tumblr"
+
+[[ menu.footer ]]
+name = "YouTube"
+url = "/youtube"
+
+[[ menu.footer ]]
+name = "Github"
+url = "/github"

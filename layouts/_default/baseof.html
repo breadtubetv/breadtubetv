@@ -4,16 +4,16 @@
     {{ partial "base/head.html" . }}
   </head>
   <body>
-    <div class="container-fluid">
-      <div class="row">
-        {{ partial "base/sidebar.html" . }}
-        <div id="main" class="col pl-0">
-          {{ partial "base/navigation.html" . }}
-          {{ block "main" . }}
-          {{ end }}
-        </div>
-      </div>
-    </div>
+    <header class="header container">
+      <h1 class="header-logo">{{ .Site.Title }}</h1>
+      <p class="header-into">{{ .Site.Params.description }}</p>
+      {{ partial "base/navigation.html" . }}
+    </header>
+    <main class="container">
+      {{ block "main" . }}
+      {{ end }}
+    </main>
+    {{ partial "base/footer.html" . }}
     {{ partial "base/foot.html" . }}
   </body>
 </html>
