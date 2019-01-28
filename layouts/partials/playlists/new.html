@@ -1,34 +1,32 @@
-<div class="col-12 col-sm-6">
-  <div class="card flex-fill">
-      <form name="add_playlist" method="POST" data-netlify="true" netlify-honeypot="important-field">
-          <p class="d-none">
-              <label>Don’t fill this out if you're human: <input name="important-field" /></label>
-          </p>
-          <div class="form-group">
-            <label for="playlistName">Playlist Name: </label>
-            <input class="form-control" id="playlistName" type="text" name="PLAYLIST_NAME" />
-          </div>
-          <div class="form-group">
-            <label for="videoUrl">Video URLs: </label>
-            <input class="form-control" id="videoUrl" type="text" name="VIDEO_URL" />
-            <input class="form-control" type="text" name="VIDEO_URL_0" />
-            <input class="form-control" type="text" name="VIDEO_URL_1" />
-            <input class="form-control" type="text" name="VIDEO_URL_2" />
-            <input class="form-control" type="text" name="VIDEO_URL_3" />
-            <input class="form-control" type="text" name="VIDEO_URL_4" />
-            <input class="form-control" type="text" name="VIDEO_URL_5" />
-            <input class="form-control" type="text" name="VIDEO_URL_6" />
-            <input class="form-control" type="text" name="VIDEO_URL_7" />
-            <input class="form-control" type="text" name="VIDEO_URL_8" />
-            <input class="form-control" type="text" name="VIDEO_URL_9" />
-          </div>
-          <div class="form-group">
-            <label for="submitterEmail">Your Email Address: </label>
-            <input class="form-control"  id="submitterEmail" type="email" name="SUBMITTER_EMAIL" placeholder="Enter email"/>
-            <small id="emailHelp" class="form-text text-muted">We'll use this solely to keep you informed of this addition</small>
-          </div>
-          <div data-netlify-recaptcha="true"></div>
-          <button type="submit" class="btn btn-primary">Send</button>
-      </form>
-  </div>
+<div class="flex-fill">
+  <form name="add_playlist" method="POST" data-netlify="true" netlify-honeypot="important-field">
+    <p class="d-none">
+    <label>Don’t fill this out if you're human: <input name="important-field" /></label>
+    </p>
+    <div class="form-group">
+      <label for="playlistName">Name</label>
+      <input class="form-control" id="playlistName" type="text" name="PLAYLIST_NAME" />
+    </div>
+    <div class="form-group">
+      <label for="videoUrl">Video URLs</label>
+      <input class="form-control" id="videoUrl" type="text" name="VIDEO_URL" />
+      <input class="form-control" type="text" name="VIDEO_URL_0" />
+      <input class="form-control" type="text" name="VIDEO_URL_1" />
+      <input class="form-control" type="text" name="VIDEO_URL_2" />
+      <input class="form-control" type="text" name="VIDEO_URL_3" />
+      <input class="form-control" type="text" name="VIDEO_URL_4" />
+      <input class="form-control" type="text" name="VIDEO_URL_5" />
+      <input class="form-control" type="text" name="VIDEO_URL_6" />
+      <input class="form-control" type="text" name="VIDEO_URL_7" />
+      <input class="form-control" type="text" name="VIDEO_URL_8" />
+      <input class="form-control" type="text" name="VIDEO_URL_9" />
+    </div>
+    <div class="form-group">
+      <label for="submitterEmail">Your Email Address</label>
+      <input class="form-control"  id="submitterEmail" type="email" name="SUBMITTER_EMAIL" placeholder="Enter email"/>
+      <small id="emailHelp" class="form-text text-muted">We'll use this solely to keep you informed of this addition.</small>
+    </div>
+    <div data-netlify-recaptcha="true"></div>
+    <button type="submit" class="btn btn-success font-weight-bold mt-1">Send Playlist</button>
+  </form>
 </div>

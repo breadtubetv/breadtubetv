@@ -46,15 +46,18 @@ icon = "github"
 [[ menu.main ]]
 name = "Channels"
 url = "/"
+weight = -2
 
 [[ menu.main ]]
 name = "Playlists"
 url = "/playlists/"
+weight = -1
 
 [[ menu.main ]]
 name = "Contribute"
 identifier = "contribute"
 url = "/contribute/"
+weight = 0
 
 [[ menu.main ]]
 name = "Add Playlist"

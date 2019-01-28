@@ -1,3 +1,3 @@
 ---
-title: Add A Channel
+title: Add a Channel
 ---
