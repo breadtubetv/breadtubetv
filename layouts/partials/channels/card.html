@@ -1,3 +1,4 @@
+{{ $subscribers := (or .channel.providers.youtube.subscribers .channel.subscribers) }}
 <li class="channel-item">
   <div class="channel">
     <div class="channel-image">
@@ -14,9 +15,9 @@
       <div class="channel-description">
         {{ .channel.description | markdownify }}
       </div>
-      {{ if .channel.subscribers }}
+      {{ if $subscribers }}
         <div class="channel-metadata">
-          {{ lang.NumFmt 0 .channel.subscribers }} <span class="visually-hidden">subscribers</span>
+          {{ lang.NumFmt 0 $subscribers }} <span class="visually-hidden">subscribers</span>
         </div>
       {{ end }}
     </div>
