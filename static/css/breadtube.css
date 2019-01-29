@@ -273,10 +273,11 @@ ul {
   display: block;
   margin-bottom: -2px;
   padding: 1rem 0;
+  border-bottom: 4px solid transparent;
 }
 
 .nav-link.is-active {
-  border-bottom: 4px solid #db19c8;
+  border-bottom-color: #db19c8;
 }
 
 /* Lists */
