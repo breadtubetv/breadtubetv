@@ -16,7 +16,7 @@
       </div>
       {{ if .channel.subscribers }}
         <div class="channel-metadata">
-          {{ lang.NumFmt 0 .channel.subscribers }}
+          {{ lang.NumFmt 0 .channel.subscribers }} <span class="visually-hidden">subscribers</span>
         </div>
       {{ end }}
     </div>
