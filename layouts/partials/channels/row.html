@@ -2,7 +2,7 @@
 <ul class="list plain-list">
   {{ $jump := .Site.Params.targetBlank | default true }}
   {{ $tags := .Params.tags | default .Site.Params.defaultTags }}
-  {{ range .Site.Data.channels }}
+  {{ range sort .Site.Data.channels "subscribers" "desc" }}
     {{ if or (eq (len $tags) 0) (intersect $tags .tags) }}
       {{ partial "channels/card.html" (dict "channel" . "target_blank" $jump) }}
     {{ end }}
