@@ -2,5 +2,10 @@
   <h1 id="page-title" class="font-weight-bold">
     <a href="{{ .Permalink }}">{{ .Title }}</a>
   </h1>
-  {{ partial "playlists/videos.html" . }}
+  {{ if in .Permalink "/new" }}
+    {{ partial "playlists/new.html" }}
+  {{ else }}
+    {{ partial "playlists/videos.html" . }}
+  {{ end }}
 {{ end }}
+
