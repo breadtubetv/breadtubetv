@@ -1,6 +1,13 @@
 name: "The Serfs"
 slug: "theserfs"
-url: "https://www.youtube.com/channel/UCEWrkBTDSYqJzQmp8gxQiMw"
-description: "In a media landscape blemished with uncertainty two indentured plebs bring you their comedic spin on the weekly news. The only escape from the black death is a few moments to swill ale in a disease ridden tavern."
-subscribers: 5197
+description: "In a media landscape blemished with uncertainty two indentured plebs bring you their comedic spin on the weekly news."
+providers:
+  youtube:
+    name: "The Serfs"
+    url: "https://www.youtube.com/channel/UCEWrkBTDSYqJzQmp8gxQiMw"
+    subscribers: 5197
+  patreon:
+    name: "The Serfs"
+    url: "https://www.patreon.com/theserfs"
+    decription: "Weekly video production and podcast!"
 tags: ["breadtube"]
