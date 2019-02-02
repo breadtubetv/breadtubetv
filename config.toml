@@ -10,38 +10,63 @@ defaultTags = []
 # https://fontawesome.com/v4.7.0/cheatsheet/
 [[ params.nav ]]
 name = "Reddit"
-href = "https://reddit.com/r/breadtube"
+href = "/reddit"
 icon = "reddit"
 
 [[ params.nav ]]
 name = "Discord"
-href = "https://discord.gg/5MGeFv9"
+href = "/discord"
 icon = "discord"
 
 [[ params.nav ]]
 name = "Twitter"
-href = "https://twitter.com/breadtubetv"
+href = "/twitter"
 icon = "twitter"
 
 [[ params.nav ]]
 name = "Facebook"
-href = "https://www.facebook.com/BreadTubeTV/"
+href = "/facebook"
 icon = "facebook"
 
 [[ params.nav ]]
 name = "Tumblr"
-href = "https://breadtubetv.tumblr.com/"
+href = "/tumblr"
 icon = "tumblr"
 
 [[ params.nav ]]
+name = "YouTube"
+href = "/youtube"
+icon = "youtube"
+
+[[ params.nav ]]
 name = "Github"
-href = "https://github.com/breadtubetv/breadtubetv"
+href = "/github"
 icon = "github"
 
 [[ menu.main ]]
 name = "Channels"
 url = "/"
+weight = -2
 
 [[ menu.main ]]
 name = "Playlists"
 url = "/playlists/"
+weight = -1
+
+[[ menu.main ]]
+name = "Contribute"
+identifier = "contribute"
+url = "/contribute/"
+weight = 0
+
+[[ menu.main ]]
+name = "Add Playlist"
+parent = "contribute"
+identifier = "addplaylist"
+url = "/playlists/new/"
+
+[[ menu.main ]]
+name = "Add Channel"
+parent = "contribute"
+identifier = "addchannel"
+url = "/channels/new/"
