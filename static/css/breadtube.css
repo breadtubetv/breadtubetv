@@ -282,12 +282,16 @@ ul {
 
 /* Lists */
 .list-heading {
-  margin: 2rem 0 -1rem;
+  margin: 2rem 0 0rem;
   font-weight: bold;
 }
 
 .list {
   margin: 2rem -1rem 0;
+}
+
+.list-heading + .list {
+  margin: 1em -1rem 0;
 }
 
 .list > li {
@@ -539,4 +543,85 @@ ul {
 
 .footer-link {
   font-weight: bold;
+}
+
+/* Button */
+.button {
+  border: 2px solid #f9bcff;
+  border-radius: 1rem;
+  display: inline-block;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+}
+
+.button:hover {
+  border-color: #f25efc;
+}
+
+.button:focus {
+  background: #a60e95;
+  border-color: #a60e95;
+  box-shadow: 0 0 1px 4px #ffbf47;
+  color: #fff;
+  outline: 4px solid transparent;
+}
+
+.button.is-primary {
+  background: #a60e95;
+  border-color: #a60e95;
+  color: #fff;
+  font-size: 1.25rem;
+}
+
+.button.is-primary:hover,
+.button.is-primary:focus {
+  background: #770a6b;
+  border-color: #770a6b;
+  color: #fff;
+}
+
+/* Form */
+.form {
+  margin: 1rem 0;
+}
+
+/* Field */
+.field {
+  margin-bottom: 1rem;
+  max-width: 26em;
+}
+
+.field-label {
+  display: block;
+  font-weight: bold;
+  line-height: 1.25;
+  padding-bottom: 0.5rem;
+}
+
+.field-hint {
+  display: block;
+  font-size: 90%;
+  font-weight: normal;
+}
+
+.field-input {
+  border: 2px solid #353135;
+  border-radius: 2px;
+  padding: 0.5rem;
+  width: 100%;
+}
+
+.field-input.is-textarea {
+  min-height: 10rem;
+  resize: vertical;
+}
+
+.field-input:focus {
+  box-shadow: 0 0 1px 4px #ffbf47;
+  outline: 4px solid transparent;
+}
+
+.d-none {
+  display: none;
 }
