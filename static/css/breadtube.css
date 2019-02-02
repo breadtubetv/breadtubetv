@@ -280,9 +280,21 @@ ul {
   border-bottom-color: #db19c8;
 }
 
+/* Single */
+
+.single-heading {
+  margin: 1rem 0 ;
+  font-weight: bold;
+  font-size: 140%;
+}
+
+.single-heading + .list {
+  margin: 1rem -1rem 0;
+}
+
 /* Lists */
 .list-heading {
-  margin: 2rem 0 0rem;
+  margin: 1rem 0 0rem;
   font-weight: bold;
 }
 
