@@ -189,6 +189,8 @@ ul {
   padding: 0;
 }
 
+button, select, input, textarea { font-family: inherit; }
+
 /* Container */
 .container {
   padding: 0 1rem;
@@ -280,16 +282,16 @@ ul {
   border-bottom-color: #db19c8;
 }
 
-/* Single */
-
-.single-heading {
-  margin: 1rem 0 ;
-  font-weight: bold;
-  font-size: 140%;
+/* Heading */
+.heading {
+  color: #333;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 2rem 0 0.5rem;
 }
 
-.single-heading + .list {
-  margin: 1rem -1rem 0;
+.heading + .list {
+  margin: 1em -1rem 0;
 }
 
 /* Lists */
@@ -613,7 +615,7 @@ ul {
 
 .field-hint {
   display: block;
-  font-size: 90%;
+  font-size: 100%;
   font-weight: normal;
 }
 
