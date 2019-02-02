@@ -307,7 +307,7 @@ ul {
 }
 
 .list > li {
-  padding: 0 1rem 2rem;
+  padding: 0 0 2rem 1rem;
 }
 
 @media (min-width: 768px) {
