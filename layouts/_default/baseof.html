@@ -7,17 +7,19 @@
     <header class="header container">
       <h1 class="header-logo">{{ .Site.Title }}</h1>
       <p class="header-intro">{{ .Site.Params.description }}</p>
-      <div class="header-link">
-        {{ if in .Permalink "playlists" }}
-          <div>
-            <a href="/playlists/new/" class="header-add">Add a Playlist</a>
-          </div>
-        {{ else }}
-          <div>
-            <a href="/channels/new/" class="header-add">Add a Channel</a>
-          </div>
-        {{ end }}
-      </div>
+      {{ if (ne (in .Permalink "new") true) }}
+        <div class="header-link">
+          {{ if (in .Permalink "playlists") }}
+            <div>
+              <a href="/playlists/new/" class="header-add">Add a Playlist</a>
+            </div>
+          {{ else }}
+            <div>
+              <a href="/channels/new/" class="header-add">Add a Channel</a>
+            </div>
+          {{ end }}
+        </div>
+      {{ end }}
       {{ partial "base/navigation.html" . }}
     </header>
     <main class="container">

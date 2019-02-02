@@ -189,6 +189,8 @@ ul {
   padding: 0;
 }
 
+button, select, input, textarea { font-family: inherit; }
+
 /* Container */
 .container {
   padding: 0 1rem;
@@ -613,7 +615,7 @@ ul {
 
 .field-hint {
   display: block;
-  font-size: 90%;
+  font-size: 100%;
   font-weight: normal;
 }
 
