@@ -37,9 +37,30 @@ a:active {
   text-decoration: none;
 }
 
+.nav {
+  z-index: 10000; 
+}
+
+.dropdown-menu.show {
+  background: rgb(101, 115, 131);
+}
+
+.dropdown-item li:hover {
+  background-color: transparent;
+}
+
+.dropdown-item a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
 .nav-item a:hover {
   text-decoration: underline;
   cursor: pointer;
+}
+
+.dropdown-item:hover {
+  background: transparent;
 }
 
 .card a {
@@ -69,6 +90,11 @@ a.card-channel:hover .title {
 .card-video .img-channel {
   width: 26px;
   margin-top: -2px;
+}
+
+form label, .form-text.text-muted {
+  color: #FFF !important;
+  margin-bottom: 0;
 }
 
 /* http://tobiasahlin.com/blog/how-to-animate-box-shadow/ */

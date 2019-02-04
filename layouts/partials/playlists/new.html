@@ -1,0 +1,23 @@
+<div class="flex-fill">
+  <form name="add_playlist" method="POST" data-netlify="true" netlify-honeypot="important-field">
+    <p class="d-none">
+    <label>Don’t fill this out if you're human: <input name="important-field" /></label>
+    </p>
+    <div class="form-group">
+      <label for="playlistName">Name</label>
+      <input class="form-control" id="playlistName" type="text" name="PLAYLIST_NAME" />
+    </div>
+    <div class="form-group">
+      <label for="videoUrl">Video URLs</label>
+      <textarea class="form-control" id="videoUrl" rows="4" cols="50" name="VIDEO_URLS">
+      </textarea>
+    </div>
+    <div class="form-group">
+      <label for="submitterEmail">Your Email Address</label>
+      <input class="form-control"  id="submitterEmail" type="email" name="SUBMITTER_EMAIL" placeholder="Enter email"/>
+      <small id="emailHelp" class="form-text text-muted">We'll use this solely to keep you informed of this addition.</small>
+    </div>
+    <div data-netlify-recaptcha="true"></div>
+    <button type="submit" class="btn btn-success font-weight-bold mt-1">Send Playlist</button>
+  </form>
+</div>
