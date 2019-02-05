@@ -1,0 +1,13 @@
+<footer class="footer container">
+  <h2 class="footer-header"> This directory is supported by <a href="/reddit">r/breadtube</a> community.</h2>
+  <ul class="footer-list plain-list">
+    <li>Join us:</li>
+    {{ range .Site.Menus.footer }}
+      <li>
+        <a title="{{ .Name }}" href="{{ .URL }}" target="_blank" class="footer-link">
+          {{ .Name }}
+        </a>
+      </li>
+    {{- end }}
+  </ul>
+</footer>
