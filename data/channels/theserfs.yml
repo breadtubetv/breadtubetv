@@ -1,11 +1,12 @@
 name: "The Serfs"
 slug: "theserfs"
 description: "In a media landscape blemished with uncertainty two indentured plebs bring you their comedic spin on the weekly news."
+subscribers: 5483
 providers:
   youtube:
     name: "The Serfs"
     url: "https://www.youtube.com/channel/UCEWrkBTDSYqJzQmp8gxQiMw"
-    subscribers: 5197
+    subscribers: 5483
   patreon:
     name: "The Serfs"
     url: "https://www.patreon.com/theserfs"
