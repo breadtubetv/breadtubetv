@@ -5,7 +5,7 @@ subscribers: 5483
 providers:
   youtube:
     name: "The Serfs"
-    url: "https://www.youtube.com/channel/UCEWrkBTDSYqJzQmp8gxQiMw"
+    url: "https://youtube.com/theserfstv"
     subscribers: 5483
   patreon:
     name: "The Serfs"
