@@ -1,5 +1,5 @@
 {{ $subscribers := (or .channel.providers.youtube.subscribers .channel.subscribers) }}
-<li class="channel-item">
+<li id="{{ .channel.slug }}" class="channel-item">
   <div class="channel">
     <div class="channel-image">
       <div class="channel-imageWrap">
