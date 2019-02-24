@@ -55,28 +55,28 @@ func (c *Channel) UnmarshalYAML(unmarshal func(interface{}) error) error {
 		case "name":
 			name, ok := value.(string)
 			if !ok {
-				return fmt.Errorf("error parsing name: '%s', expected string", value)
+				return fmt.Errorf("error parsing name: '%s', %T is not a string", value, value)
 			}
 			channel.Name = name
 			break
 		case "slug":
 			slug, ok := value.(string)
 			if !ok {
-				return fmt.Errorf("error parsing slug: '%s', expected string", value)
+				return fmt.Errorf("error parsing slug: '%s', %T is not a string", value, value)
 			}
 			channel.Slug = slug
 			break
 		case "tags":
 			tags, ok := value.([]interface{})
 			if !ok {
-				return fmt.Errorf("error parsing tags: '%s', expected array of strings", value)
+				return fmt.Errorf("error parsing tags: '%s', %T is not a string", value, value)
 			}
 			channel.Tags = tags
 			break
 		case "providers":
 			providers, ok := value.(map[interface{}]interface{})
 			if !ok {
-				return fmt.Errorf("error parsing providers: '%s', expected map of fields", value)
+				return fmt.Errorf("error parsing providers: '%s', %T is not a dictionary", value, value)
 			}
 			if err := unmarshalProviders(providers, channel.Providers); err != nil {
 				return err
@@ -105,6 +105,8 @@ type Provider struct {
 	Subscribers uint64
 }
 
+// yaml package does not have very composeable Unmarshalling, so we have to
+// write an unmarshaller for Provider as well :(
 func unmarshalProviders(values map[interface{}]interface{}, providers map[string]Provider) error {
 	for key, value := range values {
 		name, ok := key.(string)
@@ -114,7 +116,7 @@ func unmarshalProviders(values map[interface{}]interface{}, providers map[string
 
 		input, ok := value.(map[interface{}]interface{})
 		if !ok {
-			return fmt.Errorf("error parsing providers: '%+v', %T must be dictionary", value, value)
+			return fmt.Errorf("error parsing providers: '%+v', %T is not a dictionary", value, value)
 		}
 
 		provider := Provider{}
@@ -141,21 +143,21 @@ func unmarshalProvider(values map[interface{}]interface{}, out *Provider) error 
 		case "name":
 			name, ok := value.(string)
 			if !ok {
-				return fmt.Errorf("error parsing name: '%s', expected string", value)
+				return fmt.Errorf("error parsing name: '%s', %T is not a string", value, value)
 			}
 			provider.Name = name
 			break
 		case "slug":
 			slug, ok := value.(string)
 			if !ok {
-				return fmt.Errorf("error parsing slug: '%s', expected string", value)
+				return fmt.Errorf("error parsing slug: '%s', %T is not a string", value, value)
 			}
 			provider.Slug = slug
 			break
 		case "url":
 			s, ok := value.(string)
 			if !ok {
-				return fmt.Errorf("error parsing slug: '%s', expected string", value)
+				return fmt.Errorf("error parsing slug: '%s', %T is not a string", value, value)
 			}
 			url, err := ParseURL(s)
 			if err != nil {
@@ -166,7 +168,7 @@ func unmarshalProvider(values map[interface{}]interface{}, out *Provider) error 
 		case "description":
 			description, ok := value.(string)
 			if !ok {
-				return fmt.Errorf("error parsing description: '%s', expected string", value)
+				return fmt.Errorf("error parsing description: '%s', %T is not a string", value, value)
 			}
 			provider.Description = description
 			break
@@ -177,7 +179,7 @@ func unmarshalProvider(values map[interface{}]interface{}, out *Provider) error 
 
 			subscribers, ok := value.(int)
 			if !ok {
-				return fmt.Errorf("error parsing subscribers: '%s', got %T expected integer", value, value)
+				return fmt.Errorf("error parsing subscribers: '%s', %T is not an int", value, value)
 			}
 			provider.Subscribers = uint64(subscribers)
 			break
