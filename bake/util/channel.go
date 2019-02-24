@@ -26,8 +26,12 @@ func (c Channel) MarshalYAML() (interface{}, error) {
 
 	values["name"] = c.Name
 	values["slug"] = c.Slug
-	values["providers"] = c.Providers
-	values["tags"] = c.Tags
+	if len(c.Providers) > 0 {
+		values["providers"] = c.Providers
+	}
+	if len(c.Tags) > 0 {
+		values["tags"] = c.Tags
+	}
 
 	for key, value := range c.remnant {
 		if value != nil {
