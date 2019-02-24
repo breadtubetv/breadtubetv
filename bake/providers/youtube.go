@@ -91,6 +91,7 @@ func formatChannelDetails(channelURL *util.URL) (util.Channel, error) {
 			"youtube": util.Provider{
 				Name:        channelName,
 				URL:         channelURL,
+				Slug:        id,
 				Subscribers: channelSubscriberCount,
 			},
 		},
