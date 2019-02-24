@@ -21,7 +21,7 @@ var importCmd = &cobra.Command{
 		var channelURL = args[1]
 
 		if _, ok := Providers[provider]; !ok {
-			panic(fmt.Sprintf("No provider existed called %s", provider))
+			log.Fatalf("No provider exists called %s", provider)
 		}
 
 		log.Printf("Importing %s...\n", channelURL)
