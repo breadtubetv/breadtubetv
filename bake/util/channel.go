@@ -4,19 +4,26 @@ import (
 	"fmt"
 	"io/ioutil"
 	"log"
+	"net/url"
 	"os"
 	"path"
-	"strings"
 
 	yaml "gopkg.in/yaml.v2"
 )
 
 type Channel struct {
-	Name        string        `yaml:"name"`
-	Slug        string        `yaml:"slug"`
-	URL         string        `yaml:"url"`
-	Subscribers uint64        `yaml:"subscribers"`
-	Tags        []interface{} `yaml:"tags"`
+	Name      string              `yaml:"name"`
+	Slug      string              `yaml:"slug"`
+	Providers map[string]Provider `yaml:"providers"`
+	Tags      []interface{}       `yaml:"tags"`
+}
+
+type Provider struct {
+	Name        string   `yaml:"name"`
+	Slug        string   `yaml:"slug"`
+	URL         *url.URL `yaml:"url"`
+	Description string   `yaml:"description,omitempty"`
+	Subscribers uint64   `yaml:"subscribers"`
 }
 
 type ChannelList []Channel
@@ -51,21 +58,17 @@ func LoadChannels(dataDir string) ChannelList {
 	return channelList
 }
 
-func (channelList *ChannelList) Contains(channelUrl string) bool {
-	var urlList []string
+// Contains returns true if the supplied URL matches any provider's URL
+func (channelList *ChannelList) Contains(channelUrl *url.URL) bool {
 	for _, channel := range *channelList {
-		urlList = append(urlList, channel.URL)
-	}
-
-	found := false
-	for _, url := range urlList {
-		if url == strings.TrimRight(channelUrl, "/") {
-			found = true
-			break
+		for _, provider := range channel.Providers {
+			if provider.URL == channelUrl {
+				return true
+			}
 		}
 	}
 
-	return found
+	return false
 }
 
 func SaveChannels(channelList ChannelList, dataDir string) bool {

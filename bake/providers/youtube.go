@@ -10,9 +10,9 @@ import (
 	"os"
 	"os/exec"
 	"os/user"
+	"path"
 	"path/filepath"
 	"runtime"
-	"strings"
 
 	"github.com/breadtubetv/bake/util"
 	"github.com/gosimple/slug"
@@ -55,20 +55,14 @@ func config() {
 
 const CHANNEL_FILE = "../data/channels.yml"
 
-func loadChannels() {
-
-}
-
-func importChannel(channelURL string) {
-	// check if they gave us the whole url, and strip off the start if they did
-	id := strings.TrimRight(strings.Replace(channelURL, "https://www.youtube.com/channel/", "", 1), "/")
+func formatChannelDetails(channelURL *url.URL) (util.Channel, error) {
+	id := path.Base(channelURL.Path)
 
 	client := getClient(youtube.YoutubeReadonlyScope)
 
 	service, err := youtube.New(client)
 	if err != nil {
-		log.Fatalf("Error creating YouTube client: %v", err)
-		return
+		return util.Channel{}, fmt.Errorf("Error creating YouTube client: %v", err)
 	}
 
 	call := service.Channels.List("snippet,statistics")
@@ -79,8 +73,7 @@ func importChannel(channelURL string) {
 	handleError(err, "")
 
 	if len(response.Items) == 0 {
-		log.Printf("Could not find channel from URL.")
-		return
+		return util.Channel{}, fmt.Errorf("Could not find channel from URL.")
 	}
 
 	channelName := ""
@@ -91,21 +84,32 @@ func importChannel(channelURL string) {
 		break
 	}
 
-	log.Printf("Title: %s, Count: %d\n", channelName, channelSubscriberCount)
+	return util.Channel{
+		Name: channelName,
+		Slug: slug.Make(channelName),
+		Providers: map[string]util.Provider{
+			"youtube": util.Provider{
+				Name:        channelName,
+				URL:         channelURL,
+				Subscribers: channelSubscriberCount,
+			},
+		},
+	}, nil
+}
 
+func importChannel(channelURL *url.URL) {
 	channelList := util.LoadChannels("../data/channels")
 
 	if channelList.Contains(channelURL) {
 		log.Fatalf("Channel %s already exists!", channelURL)
-		return
 	}
 
-	channel := util.Channel{
-		Name:        channelName,
-		Slug:        slug.Make(channelName),
-		URL:         strings.TrimRight(channelURL, "/"),
-		Subscribers: channelSubscriberCount,
+	channel, err := formatChannelDetails(channelURL)
+	if err != nil {
+		log.Fatalf("Error obtaining channel info: %v", err)
 	}
+
+	log.Printf("Title: %s, Count: %d\n", channel.Name, channel.Providers["youtube"].Subscribers)
 
 	channelList = append(channelList, channel)
 
@@ -113,12 +117,6 @@ func importChannel(channelURL string) {
 }
 
 const launchWebServer = true
-
-func check(e error) {
-	if e != nil {
-		panic(e)
-	}
-}
 
 func handleError(err error, message string) {
 	if message == "" {

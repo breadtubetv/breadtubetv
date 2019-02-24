@@ -3,6 +3,7 @@ package cmd
 import (
 	"fmt"
 	"log"
+	"net/url"
 	"strings"
 
 	"github.com/spf13/cobra"
@@ -18,14 +19,18 @@ var importCmd = &cobra.Command{
 	Args: cobra.ExactArgs(2),
 	Run: func(cmd *cobra.Command, args []string) {
 		var provider = args[0]
-		var channelURL = args[1]
+		var channelURL, err = url.Parse(args[1])
+
+		if err != nil {
+			log.Fatalf("Improperly formatted URL provided '%s': %v", args[1], err)
+		}
 
 		if _, ok := Providers[provider]; !ok {
 			log.Fatalf("No provider exists called %s", provider)
 		}
 
 		log.Printf("Importing %s...\n", channelURL)
-		Providers[provider]["channel_import"].(func(string))(channelURL)
+		Providers[provider]["channel_import"].(func(*url.URL))(channelURL)
 	},
 }
 
