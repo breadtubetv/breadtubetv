@@ -18,14 +18,14 @@ var importCmd = &cobra.Command{
 	Args: cobra.ExactArgs(2),
 	Run: func(cmd *cobra.Command, args []string) {
 		var provider = args[0]
-		var channelUrl = args[1]
+		var channelURL = args[1]
 
 		if _, ok := Providers[provider]; !ok {
 			panic(fmt.Sprintf("No provider existed called %s", provider))
 		}
 
-		log.Printf("Importing %s...\n", channelUrl)
-		Providers[provider]["channel_import"].(func(string))(channelUrl)
+		log.Printf("Importing %s...\n", channelURL)
+		Providers[provider]["channel_import"].(func(string))(channelURL)
 	},
 }
 
@@ -33,6 +33,6 @@ func init() {
 	channelCmd.AddCommand(importCmd)
 }
 
-func importChannel(channelUrl string) {
-	fmt.Printf("called %s\n", channelUrl)
+func importChannel(channelURL string) {
+	fmt.Printf("called %s\n", channelURL)
 }

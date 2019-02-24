@@ -23,7 +23,17 @@ import (
 	"google.golang.org/api/youtube/v3"
 )
 
-const ACCESS_JSON = `{"installed":{"client_id":"660935947237-ajqve9kv3n0nnhonhnc5j638fsfan31o.apps.googleusercontent.com","project_id":"sacred-dahlia-229511","auth_uri":"https://accounts.google.com/o/oauth2/auth","token_uri":"https://oauth2.googleapis.com/token","auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs","client_secret":"piloG0CTWO7PVlbwX8drp6xU","redirect_uris":["urn:ietf:wg:oauth:2.0:oob","http://localhost"]}}`
+const ACCESS_JSON = `{
+	"installed": {
+		"client_id": "660935947237-ajqve9kv3n0nnhonhnc5j638fsfan31o.apps.googleusercontent.com",
+		"project_id": "sacred-dahlia-229511",
+		"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+		"token_uri": "https://oauth2.googleapis.com/token",
+		"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+		"client_secret": "piloG0CTWO7PVlbwX8drp6xU",
+		"redirect_uris": ["urn:ietf:wg:oauth:2.0:oob","http://localhost"]
+  }
+}`
 
 func LoadYoutube() map[string]interface{} {
 	return map[string]interface{}{
@@ -49,9 +59,9 @@ func loadChannels() {
 
 }
 
-func importChannel(channelUrl string) {
+func importChannel(channelURL string) {
 	// check if they gave us the whole url, and strip off the start if they did
-	id := strings.TrimRight(strings.Replace(channelUrl, "https://www.youtube.com/channel/", "", 1), "/")
+	id := strings.TrimRight(strings.Replace(channelURL, "https://www.youtube.com/channel/", "", 1), "/")
 
 	client := getClient(youtube.YoutubeReadonlyScope)
 
@@ -85,15 +95,15 @@ func importChannel(channelUrl string) {
 
 	channelList := util.LoadChannels("../data/channels")
 
-	if channelList.Contains(channelUrl) {
-		log.Fatalf("Channel %s already exists!", channelUrl)
+	if channelList.Contains(channelURL) {
+		log.Fatalf("Channel %s already exists!", channelURL)
 		return
 	}
 
 	channel := util.Channel{
 		Name:        channelName,
 		Slug:        slug.Make(channelName),
-		URL:         strings.TrimRight(channelUrl, "/"),
+		URL:         strings.TrimRight(channelURL, "/"),
 		Subscribers: channelSubscriberCount,
 	}
 
