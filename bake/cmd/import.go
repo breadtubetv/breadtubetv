@@ -3,9 +3,9 @@ package cmd
 import (
 	"fmt"
 	"log"
-	"net/url"
 	"strings"
 
+	"github.com/breadtubetv/bake/util"
 	"github.com/spf13/cobra"
 )
 
@@ -19,7 +19,7 @@ var importCmd = &cobra.Command{
 	Args: cobra.ExactArgs(2),
 	Run: func(cmd *cobra.Command, args []string) {
 		var provider = args[0]
-		var channelURL, err = url.Parse(args[1])
+		var channelURL, err = util.ParseURL(args[1])
 
 		if err != nil {
 			log.Fatalf("Improperly formatted URL provided '%s': %v", args[1], err)
@@ -30,7 +30,7 @@ var importCmd = &cobra.Command{
 		}
 
 		log.Printf("Importing %s...\n", channelURL)
-		Providers[provider]["channel_import"].(func(*url.URL))(channelURL)
+		Providers[provider]["channel_import"].(func(*util.URL))(channelURL)
 	},
 }
 

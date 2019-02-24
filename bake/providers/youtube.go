@@ -55,7 +55,7 @@ func config() {
 
 const CHANNEL_FILE = "../data/channels.yml"
 
-func formatChannelDetails(channelURL *url.URL) (util.Channel, error) {
+func formatChannelDetails(channelURL *util.URL) (util.Channel, error) {
 	id := path.Base(channelURL.Path)
 
 	client := getClient(youtube.YoutubeReadonlyScope)
@@ -97,7 +97,7 @@ func formatChannelDetails(channelURL *url.URL) (util.Channel, error) {
 	}, nil
 }
 
-func importChannel(channelURL *url.URL) {
+func importChannel(channelURL *util.URL) {
 	channelList := util.LoadChannels("../data/channels")
 
 	if channelList.Contains(channelURL) {

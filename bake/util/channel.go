@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"io/ioutil"
 	"log"
-	"net/url"
 	"os"
 	"path"
 
@@ -19,11 +18,11 @@ type Channel struct {
 }
 
 type Provider struct {
-	Name        string   `yaml:"name"`
-	Slug        string   `yaml:"slug"`
-	URL         *url.URL `yaml:"url"`
-	Description string   `yaml:"description,omitempty"`
-	Subscribers uint64   `yaml:"subscribers"`
+	Name        string
+	Slug        string
+	URL         *URL
+	Description string
+	Subscribers uint64
 }
 
 type ChannelList []Channel
@@ -42,14 +41,14 @@ func LoadChannels(dataDir string) ChannelList {
 
 		data, err := ioutil.ReadFile(filePath)
 		if err != nil {
-			log.Fatal(err)
+			log.Fatalf("Error reading channel file '%s': %v", filePath, err)
 		}
 
 		channel := Channel{}
 
 		err = yaml.Unmarshal([]byte(data), &channel)
 		if err != nil {
-			log.Fatalf("error: %v", err)
+			log.Panicf("Error unmarshalling into channel: %v", err)
 		}
 
 		channelList = append(channelList, channel)
@@ -59,7 +58,7 @@ func LoadChannels(dataDir string) ChannelList {
 }
 
 // Contains returns true if the supplied URL matches any provider's URL
-func (channelList *ChannelList) Contains(channelUrl *url.URL) bool {
+func (channelList *ChannelList) Contains(channelUrl *URL) bool {
 	for _, channel := range *channelList {
 		for _, provider := range channel.Providers {
 			if provider.URL == channelUrl {
