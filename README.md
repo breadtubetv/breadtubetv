@@ -4,7 +4,7 @@ This project aims to list anti-establishment public YouTubers for simplified onb
 
 [Check out the announcement on r/breadtube to follow the discussion](https://www.reddit.com/r/BreadTube/comments/ahxwrm/breadtubetv_is_live_and_open_source_you_can_help/).
 
-Growing from this base we want to build a platform which elevates content creators far beyond what YouTube can currently offer, and gives them resiliance from being censored or deplatformed.
+Growing from this base we want to build a platform which elevates content creators far beyond what YouTube can currently offer, and gives them resilience from being censored or deplatformed.
 
 For now though this is a *_really simple_* website
 
