@@ -3,7 +3,8 @@ package util
 import (
 	"testing"
 
-	"github.com/magiconair/properties/assert"
+	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/require"
 	yaml "gopkg.in/yaml.v2"
 )
 
@@ -18,19 +19,20 @@ subscribers: 8367
 tags: ["breadtube"]`
 
 	err := yaml.Unmarshal([]byte(data), &channel)
-	assert.Equal(t, err, nil)
-	assert.Equal(t, channel.Slug, "angiespeaks")
-	assert.Equal(t, len(channel.Providers), 0)
+	assert.NoError(t, err)
+	assert.Equal(t, "Angie Speaks", channel.Name)
+	assert.Equal(t, "angiespeaks", channel.Slug)
+	assert.Len(t, channel.Providers, 0)
 
-	assert.Equal(t, len(channel.remnant), 3)
+	require.Len(t, channel.remnant, 3)
 	url := channel.remnant["url"]
-	assert.Equal(t, url, MustParseURL("https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ"))
+	assert.Equal(t, url, "https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ")
 
 	description := channel.remnant["description"]
-	assert.Equal(t, description, "Anarchist Leftist channel with a creative and mystical flair!")
+	assert.Equal(t, "Anarchist Leftist channel with a creative and mystical flair!", description)
 
 	subscribers := channel.remnant["subscribers"]
-	assert.Equal(t, subscribers, 8367)
+	assert.Equal(t, 8367, subscribers)
 }
 
 func TestChannelUnmarshalYAML_NewFormat(t *testing.T) {
@@ -53,17 +55,17 @@ providers:
 tags: ["breadtube"]`
 
 	err := yaml.Unmarshal([]byte(data), &channel)
-	assert.Equal(t, err, nil)
-	assert.Equal(t, channel.Slug, "anarchopac")
-	assert.Equal(t, len(channel.Providers), 2)
+	assert.NoError(t, err)
+	assert.Equal(t, "anarchopac", channel.Slug)
+	require.Len(t, channel.Providers, 2)
 
 	youtubeProvider := channel.Providers["youtube"]
-	assert.Equal(t, youtubeProvider.Name, "anarchopac")
-	assert.Equal(t, youtubeProvider.URL, MustParseURL("https://www.youtube.com/user/anarchopac"))
-	assert.Equal(t, youtubeProvider.Subscribers, uint64(15438))
+	assert.Equal(t, "anarchopac", youtubeProvider.Name)
+	assert.Equal(t, MustParseURL("https://www.youtube.com/user/anarchopac"), youtubeProvider.URL)
+	assert.Equal(t, uint64(15438), youtubeProvider.Subscribers)
 
 	patreonProvider := channel.Providers["patreon"]
-	assert.Equal(t, patreonProvider.URL, MustParseURL("https://www.patreon.com/anarchopac"))
+	assert.Equal(t, MustParseURL("https://www.patreon.com/anarchopac"), patreonProvider.URL)
 
-	assert.Equal(t, len(channel.remnant), 2)
+	assert.Len(t, channel.remnant, 2)
 }
