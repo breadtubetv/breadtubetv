@@ -15,7 +15,6 @@ import (
 	"runtime"
 
 	"github.com/breadtubetv/bake/util"
-	"github.com/gosimple/slug"
 	"golang.org/x/net/context"
 	"golang.org/x/oauth2"
 	"golang.org/x/oauth2/google"
@@ -55,7 +54,7 @@ func config() {
 
 const CHANNEL_FILE = "../data/channels.yml"
 
-func formatChannelDetails(channelURL *util.URL) (util.Channel, error) {
+func formatChannelDetails(slug string, channelURL *util.URL) (util.Channel, error) {
 	id := path.Base(channelURL.Path)
 
 	client := getClient(youtube.YoutubeReadonlyScope)
@@ -86,7 +85,7 @@ func formatChannelDetails(channelURL *util.URL) (util.Channel, error) {
 
 	return util.Channel{
 		Name: channelName,
-		Slug: slug.Make(channelName),
+		Slug: slug,
 		Providers: map[string]util.Provider{
 			"youtube": util.Provider{
 				Name:        channelName,
@@ -98,14 +97,14 @@ func formatChannelDetails(channelURL *util.URL) (util.Channel, error) {
 	}, nil
 }
 
-func importChannel(channelURL *util.URL) {
+func importChannel(slug string, channelURL *util.URL) {
 	channelList := util.LoadChannels("../data/channels")
 
 	if channelList.Contains(channelURL) {
 		log.Fatalf("Channel %s already exists!", channelURL)
 	}
 
-	channel, err := formatChannelDetails(channelURL)
+	channel, err := formatChannelDetails(slug, channelURL)
 	if err != nil {
 		log.Fatalf("Error obtaining channel info: %v", err)
 	}
