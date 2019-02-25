@@ -67,6 +67,12 @@ func (c *Channel) UnmarshalYAML(unmarshal func(interface{}) error) error {
 			channel.Slug = slug
 			break
 		case "tags":
+			// Handle non array tags
+			if tags, ok := value.(string); ok {
+				channel.Tags = []interface{}{tags}
+				continue
+			}
+
 			tags, ok := value.([]interface{})
 			if !ok {
 				return fmt.Errorf("error parsing tags: '%s', %T is not a string", value, value)
