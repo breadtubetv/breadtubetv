@@ -197,11 +197,11 @@ func unmarshalProvider(values map[interface{}]interface{}, out *Provider) error 
 }
 
 // ChannelList is a collection of channels
-type ChannelList []Channel
+type ChannelList map[string]Channel
 
 // LoadChannels reads all the channel definitions off disk
 func LoadChannels(dataDir string) ChannelList {
-	channelList := ChannelList{}
+	channelList := make(ChannelList)
 
 	files, err := ioutil.ReadDir(dataDir)
 	if err != nil {
@@ -224,23 +224,21 @@ func LoadChannels(dataDir string) ChannelList {
 			log.Panicf("Error unmarshalling into channel: %v", err)
 		}
 
-		channelList = append(channelList, channel)
+		channelList[channel.Slug] = channel
 	}
 
 	return channelList
 }
 
 // Contains returns true if the supplied URL matches any provider's URL
-func (channelList *ChannelList) Contains(channelURL *URL) bool {
-	for _, channel := range *channelList {
-		for _, provider := range channel.Providers {
-			if provider.URL == channelURL {
-				return true
-			}
-		}
-	}
+func (channelList *ChannelList) Contains(slug string) bool {
+	_, ok := map[string]Channel(*channelList)[slug]
+	return ok
+}
 
-	return false
+func (channelList *ChannelList) Find(slug string) *Channel {
+	channel := map[string]Channel(*channelList)[slug]
+	return &channel
 }
 
 // SaveChannels saves all the channel definitions back to disk

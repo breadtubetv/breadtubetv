@@ -103,18 +103,18 @@ func formatChannelDetails(slug string, channelURL *util.URL) (util.Channel, erro
 func importChannel(slug string, channelURL *util.URL) {
 	channelList := util.LoadChannels("../data/channels")
 
-	if channelList.Contains(channelURL) {
-		log.Fatalf("Channel %s already exists!", channelURL)
-	}
-
-	channel, err := formatChannelDetails(slug, channelURL)
+	importedChannel, err := formatChannelDetails(slug, channelURL)
 	if err != nil {
 		log.Fatalf("Error obtaining channel info: %v", err)
 	}
 
+	channel := channelList.Find(slug)
+	channel.Name = importedChannel.Name
+	channel.Providers = importedChannel.Providers
+
 	log.Printf("Title: %s, Count: %d\n", channel.Name, channel.Providers["youtube"].Subscribers)
 
-	channelList = append(channelList, channel)
+	channelList[slug] = *channel
 
 	util.SaveChannels(channelList, "../data/channels")
 }
