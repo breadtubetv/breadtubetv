@@ -110,9 +110,11 @@ func importChannel(slug string, channelURL *util.URL) {
 
 	channel := channelList.Find(slug)
 	if channel != nil {
-		channel.Name = importedChannel.Name
-		channel.Providers = importedChannel.Providers
+		channel = &util.Channel{}
 	}
+	channel.Name = importedChannel.Name
+	channel.Slug = importedChannel.Slug
+	channel.Providers = importedChannel.Providers
 
 	log.Printf("Title: %s, Count: %d\n", channel.Name, channel.Providers["youtube"].Subscribers)
 
