@@ -56,6 +56,7 @@ const CHANNEL_FILE = "../data/channels.yml"
 
 func formatChannelDetails(slug string, channelURL *util.URL) (util.Channel, error) {
 	id := path.Base(channelURL.Path)
+	category := path.Base(path.Dir(channelURL.Path))
 
 	client := getClient(youtube.YoutubeReadonlyScope)
 
@@ -65,8 +66,10 @@ func formatChannelDetails(slug string, channelURL *util.URL) (util.Channel, erro
 	}
 
 	call := service.Channels.List("snippet,statistics")
-	if id != "" {
+	if category == "channel" {
 		call = call.Id(id)
+	} else {
+		call = call.ForUsername(id)
 	}
 	response, err := call.Do()
 	handleError(err, "")
