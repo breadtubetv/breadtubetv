@@ -19,7 +19,7 @@ We'd like to simplify the process for adding content, [this is a project you can
 
 ## [Hugo (https://gohugo.io/)](https://gohugo.io/)
 
-## Development
+## Content Development
 
 ```
 hugo serve
@@ -43,6 +43,55 @@ open localhost:1313
 - Add the videos you need to [`data/videos.yml`](https://github.com/breadtubetv/breadtubetv/blob/master/data/videos.yml)
 - Add the channels you need to [`data/channels.yml`](https://github.com/breadtubetv/breadtubetv/blob/master/data/channels.yml)
 
+## Script Development
+
+Scripts are being written in Go, this keeps the scripting and operational language the same, provides cross system compatibility, and gives everyone an opportunity to learn a new programming language.
+
+### Installation
+
+#### Installing Go
+
+This is going to be dependent on your system, we recommend following https://golang.org/doc/install
+
+#### Developing
+
+You'll need a copy of the project in the relevent folder.
+
+```
+mkdir -p ~/.go/src/github.com/
+cd ~/.go/src/github.com/
+git clone git@github.com:breadtubetv/breadtubetv.git
+cd ~/.go/src/github.com/breadtubetv/bake
+go get
+```
+
+#### Importing a Channel
+
+```
+go run main.go config youtube #follow prompts
+go run main.go channel import contrapoints youtube https://www.youtube.com/user/contrapoints
+```
+
+#### Testing (WIP)
+
+```
+cd ~/.go/src/github.com/breadtubetv
+go test
+```
+
+#### Building
+
+```
+cd ~/.go/src/github.com/breadtubetv
+go build -o bake main.go
+```
+
+#### Importing a Channel
+
+```
+./bake config youtube #follow prompts
+./bake channel import contrapoints youtube https://www.youtube.com/user/contrapoints
+```
 
 ## Staging
 
