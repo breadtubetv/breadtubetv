@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "BreadTube"
 
 [ params ]
-description = "Quality content going aginst the prevailing winds of the internet."
+description = "Quality content going against the prevailing winds of the internet."
 targetBlank = true
 defaultTags = []
 
