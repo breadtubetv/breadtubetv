@@ -61,6 +61,11 @@ You'll need a copy of the project in the relevent folder.
 mkdir -p ~/.go/src/github.com/
 cd ~/.go/src/github.com/
 git clone git@github.com:breadtubetv/breadtubetv.git
+```
+
+And you'll need to install dependencies
+
+```
 cd ~/.go/src/github.com/breadtubetv/bake
 go get
 ```
@@ -75,14 +80,20 @@ go run main.go channel import contrapoints youtube https://www.youtube.com/user/
 #### Testing (WIP)
 
 ```
-cd ~/.go/src/github.com/breadtubetv
+cd ~/.go/src/github.com/breadtubetv/bake
+go get -t
+
+co util/
+go test
+
+co providers/
 go test
 ```
 
 #### Building
 
 ```
-cd ~/.go/src/github.com/breadtubetv
+cd ~/.go/src/github.com/breadtubetv/bake
 go build -o bake main.go
 ```
 
