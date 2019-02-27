@@ -1,6 +1,7 @@
-name: "Brother Neuro"
-slug: "brotherneuro"
-url: "https://youtube.com/channel/UC3-oMyTXwAmICDRyZ7HSOVg"
 description: ""
+name: Brother Neuro
+slug: brotherneuro
 subscribers: 2455
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://youtube.com/channel/UC3-oMyTXwAmICDRyZ7HSOVg

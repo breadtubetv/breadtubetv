@@ -1,6 +1,7 @@
-name: "NonCompete"
-slug: "noncompete"
-url: "https://www.youtube.com/noncompete"
-description: "Leftist, Anarchist, Communist, Feminist video essays."
+description: Leftist, Anarchist, Communist, Feminist video essays.
+name: NonCompete
+slug: noncompete
 subscribers: 19276
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/noncompete

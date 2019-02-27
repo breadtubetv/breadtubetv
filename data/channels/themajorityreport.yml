@@ -1,6 +1,8 @@
-name: "The Majority Report"
-slug: "themajorityreport"
-url: "https://www.youtube.com/SamSeder"
-description: "The Majority Report is a daily, political talk show at majority.fm live at 12PM ET."
+description: The Majority Report is a daily, political talk show at majority.fm live
+  at 12PM ET.
+name: The Majority Report
+slug: themajorityreport
 subscribers: 429963
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/SamSeder

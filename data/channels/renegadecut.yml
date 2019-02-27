@@ -1,6 +1,8 @@
-name: "Renegade Cut"
-slug: "renegadecut"
-url: "https://www.youtube.com/channel/UC9infsKo33_2LUoiqXGgQWg"
-description: "An educational web series about philosophies espoused by individual films. Common topics include politics and social issues."
+description: An educational web series about philosophies espoused by individual films.
+  Common topics include politics and social issues.
+name: Renegade Cut
+slug: renegadecut
 subscribers: 67148
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/channel/UC9infsKo33_2LUoiqXGgQWg

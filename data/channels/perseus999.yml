@@ -1,6 +1,7 @@
-name: "Perseus999"
-slug: "perseus999"
-url: "https://www.youtube.com/user/Perseus999"
-description: "From the streets of Athens"
+description: From the streets of Athens
+name: Perseus999
+slug: perseus999
 subscribers: 19110
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/user/Perseus999

@@ -1,6 +1,7 @@
-name: "Eric Taxxon"
-slug: "erictaxxon"
-url: "https://www.youtube.com/channel/UCOjLfFE0TABS9bk05oH-kgw"
-description: "I make music (maybe)(and media video essays)"
+description: I make music (maybe)(and media video essays)
+name: Eric Taxxon
+slug: erictaxxon
 subscribers: 23591
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/channel/UCOjLfFE0TABS9bk05oH-kgw

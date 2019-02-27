@@ -1,6 +1,7 @@
-name: "Aphreditto"
-slug: "aphreditto"
-url: "https://www.youtube.com/channel/UC4cBSjn3x4BimpTEP-104kA"
-description: "Fiat iustitia, pereat cultura"
+description: Fiat iustitia, pereat cultura
+name: Aphreditto
+slug: aphreditto
 subscribers: 158
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/channel/UC4cBSjn3x4BimpTEP-104kA

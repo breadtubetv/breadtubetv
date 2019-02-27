@@ -1,6 +1,8 @@
-name: "Internet Comment Etiquette with Erik"
-slug: "internetcommentiquette"
-url: "https://www.youtube.com/commentiquette"
-description: "Follow Teacher Erik as he guides you through the muck of the internet. Together, we'll learn how to leave proper and respectful internet comments!"
+description: Follow Teacher Erik as he guides you through the muck of the internet.
+  Together, we'll learn how to leave proper and respectful internet comments!
+name: Internet Comment Etiquette with Erik
+slug: internetcommentiquette
 subscribers: 781853
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/commentiquette

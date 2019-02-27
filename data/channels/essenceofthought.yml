@@ -1,6 +1,8 @@
-name: "Essence of Thought"
-slug: "essenceofthought"
-url: "https://www.youtube.com/user/EssenceOfThought"
-description: "Online media outlet which produces fully referenced video reviews of other online content touching upon secularism, feminism, LGBT+, and ethnic equality."
+description: Online media outlet which produces fully referenced video reviews of
+  other online content touching upon secularism, feminism, LGBT+, and ethnic equality.
+name: Essence of Thought
+slug: essenceofthought
 subscribers: 28751
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/user/EssenceOfThought

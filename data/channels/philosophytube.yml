@@ -1,6 +1,8 @@
-name: "Philosophy Tube"
-slug: "philosophytube"
-url: "https://www.youtube.com/thephilosophytube"
-description: "I'm Olly, giving away a philosophy degree for free every Friday! Subscribe to learn and boost your brain power!"
+description: I'm Olly, giving away a philosophy degree for free every Friday! Subscribe
+  to learn and boost your brain power!
+name: Philosophy Tube
+slug: philosophytube
 subscribers: 295581
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/thephilosophytube

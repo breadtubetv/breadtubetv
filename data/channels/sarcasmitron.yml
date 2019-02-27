@@ -1,5 +1,6 @@
-name: "Sarcasmitron"
-slug: "sarcasmitron"
-url: "https://www.youtube.com/channel/UC6WD1VImCVeOuNccuqDzAdA"
+name: Sarcasmitron
+slug: sarcasmitron
 subscribers: 2040
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/channel/UC6WD1VImCVeOuNccuqDzAdA
