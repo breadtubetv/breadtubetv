@@ -1,20 +1,19 @@
 {{ $videos := $.Site.Data.videos }}
 {{ $channels := $.Site.Data.channels }}
-{{ $playlist := . }}
-{{ $playlistVideos := slice }}
-{{ range $playlist.Params.videos }}
-  {{ $video := index $videos . }}
-  {{ $playlistVideos = $playlistVideos | append $video }}
-{{ end }}
 
 <ul class="list plain-list">
-  {{ range $playlistVideos }}
-    {{ $video := . }}
-    {{ $channelSlug := $video.channel }}
-    {{ range $channels }}
-      {{ if eq .slug $channelSlug }}
-        {{ $channel := . }}
-        {{ partial "videos/card.html" (dict "video" $video "channel" $channel) }}
+  {{ range .Params.videos }}
+    {{ $id := . }}
+    {{ range $channelSlug, $channelVideos := $videos }}
+      {{ range $videoID, $video := $channelVideos }}
+        {{ if eq $id $videoID }}
+          {{ range $channels }}
+            {{ $channel := . }}
+            {{ if eq $channel.slug $video.channel }}
+              {{ partial "videos/card.html" (dict "video" $video "channel" $channel) }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
       {{ end }}
     {{ end }}
   {{ end }}
