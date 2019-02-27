@@ -19,7 +19,7 @@ We'd like to simplify the process for adding content, [this is a project you can
 
 ## [Hugo (https://gohugo.io/)](https://gohugo.io/)
 
-## Development
+## Content Development
 
 ```
 hugo serve
@@ -43,6 +43,63 @@ open localhost:1313
 - Add the videos you need to [`data/videos.yml`](https://github.com/breadtubetv/breadtubetv/blob/master/data/videos.yml)
 - Add the channels you need to [`data/channels.yml`](https://github.com/breadtubetv/breadtubetv/blob/master/data/channels.yml)
 
+## Script Development
+
+Scripts are being written in Go, this keeps the scripting and operational language the same, provides cross system compatibility, and gives everyone an opportunity to learn a new programming language.
+
+### Installation
+
+#### Installing Go
+
+This is going to be dependent on your system, we recommend following https://golang.org/doc/install
+
+#### Developing
+
+You'll need a copy of the project in your `$GOPATH`.
+
+```
+go get github.com/breadtubetv/breadtubetv
+cd $GOPATH/github.com/breadtubetv/breadtubetv/bake
+```
+
+And you'll need to install bake's dependencies with:
+
+```
+go get
+```
+
+#### Installing
+
+This will put the `bake` command in your path:
+
+```
+go install
+```
+
+#### Importing a Channel
+
+You can run bake directly from the source like so:
+
+```
+go run main.go config youtube #follow prompts
+go run main.go channel import contrapoints youtube https://www.youtube.com/user/contrapoints
+```
+
+Or if you've installed it:
+
+```
+bake config youtube #follow prompts
+bake channel import contrapoints youtube https://www.youtube.com/user/contrapoints
+```
+
+#### Testing
+
+Bake has some very basic tests for now, they can be run with the standard go test command line:
+
+```
+go get -t ./...
+go test ./...
+```
 
 ## Staging
 
