@@ -97,6 +97,7 @@ bake channel import contrapoints youtube https://www.youtube.com/user/contrapoin
 Bake has some very basic tests for now, they can be run with the standard go test command line:
 
 ```
+go get -t ./...
 go test ./...
 ```
 
