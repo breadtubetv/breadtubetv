@@ -12,7 +12,7 @@ import (
 // importCmd represents the import command
 var importCmd = &cobra.Command{
 	Use:   "import [slug] [provider] [channel_url]",
-	Short: "Import a Channel into BreadtubeTV",
+	Short: "Import a channel into BreadtubeTV",
 	Long: fmt.Sprintf(`Add the supplied channel into BreadtubeTV, without having to edit JSON.
 	
 	Available providers: %s`, strings.Join(ProviderNames(), ", ")),

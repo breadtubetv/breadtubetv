@@ -55,53 +55,49 @@ This is going to be dependent on your system, we recommend following https://gol
 
 #### Developing
 
-You'll need a copy of the project in the relevent folder.
+You'll need a copy of the project in your `$GOPATH`.
 
 ```
-mkdir -p ~/.go/src/github.com/
-cd ~/.go/src/github.com/
-git clone git@github.com:breadtubetv/breadtubetv.git
+go get github.com/breadtubetv/breadtubetv
+cd $GOPATH/github.com/breadtubetv/breadtubetv/bake
 ```
 
-And you'll need to install dependencies
+And you'll need to install bake's dependencies with:
 
 ```
-cd ~/.go/src/github.com/breadtubetv/bake
 go get
 ```
 
+#### Installing
+
+This will put the `bake` command in your path:
+
+```
+go install
+```
+
 #### Importing a Channel
+
+You can run bake directly from the source like so:
 
 ```
 go run main.go config youtube #follow prompts
 go run main.go channel import contrapoints youtube https://www.youtube.com/user/contrapoints
 ```
 
-#### Testing (WIP)
+Or if you've installed it:
 
 ```
-cd ~/.go/src/github.com/breadtubetv/bake
-go get -t
-
-co util/
-go test
-
-co providers/
-go test
+bake config youtube #follow prompts
+bake channel import contrapoints youtube https://www.youtube.com/user/contrapoints
 ```
 
-#### Building
+#### Testing
+
+Bake has some very basic tests for now, they can be run with the standard go test command line:
 
 ```
-cd ~/.go/src/github.com/breadtubetv/bake
-go build -o bake main.go
-```
-
-#### Importing a Channel
-
-```
-./bake config youtube #follow prompts
-./bake channel import contrapoints youtube https://www.youtube.com/user/contrapoints
+go test ./...
 ```
 
 ## Staging
