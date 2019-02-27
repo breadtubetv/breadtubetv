@@ -1,6 +1,8 @@
-name: "Secular Talk"
-slug: "seculartalk"
-url: "https://www.youtube.com/channel/UCldfgbzNILYZA4dmDt4Cd6A"
-description: "Liberal Radio Host. Social Democrat. Agnostic-Atheist. Secular Humanist. Loyal to the Facts. Principles over Politicians."
+description: Liberal Radio Host. Social Democrat. Agnostic-Atheist. Secular Humanist.
+  Loyal to the Facts. Principles over Politicians.
+name: Secular Talk
+slug: seculartalk
 subscribers: 625130
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/channel/UCldfgbzNILYZA4dmDt4Cd6A

@@ -1,6 +1,7 @@
-name: "azureScapegoat"
-slug: "azurescapegoat"
-url: "https://www.youtube.com/channel/UCXIN3HIH0eon5hVYYpnoNuQ"
-description: "Channel combining politics & gaming. What could go wrong?"
+description: Channel combining politics & gaming. What could go wrong?
+name: azureScapegoat
+slug: azurescapegoat
 subscribers: 19054
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/channel/UCXIN3HIH0eon5hVYYpnoNuQ

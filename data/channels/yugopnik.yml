@@ -1,6 +1,7 @@
-name: "YUGOPNIK"
-slug: "yugopnik"
-url: "https://www.youtube.com/channel/UCs8mbJ-M142ZskR5VR0gBig"
-description: "Society obsessed Slavic edge lord"
+description: Society obsessed Slavic edge lord
+name: YUGOPNIK
+slug: yugopnik
 subscribers: 740
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/channel/UCs8mbJ-M142ZskR5VR0gBig

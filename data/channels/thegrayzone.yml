@@ -1,6 +1,8 @@
-name: "The Grayzone"
-slug: "thegrayzone"
-url: "https://www.youtube.com/channel/UCEXR8pRTkE2vFeJePNe9UcQ"
-description: "The Grayzone is a news and politics website dedicated to original investigative journalism and analysis, edited by journalist Max Blumenthal."
+description: The Grayzone is a news and politics website dedicated to original investigative
+  journalism and analysis, edited by journalist Max Blumenthal.
+name: The Grayzone
+slug: thegrayzone
 subscribers: 5300
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/channel/UCEXR8pRTkE2vFeJePNe9UcQ

@@ -1,6 +1,9 @@
-name: "The Young Turks"
-slug: "theyoungturks"
-url: "https://www.youtube.com/TheYoungTurks"
-description: "(liberal news show) We are a rare show that combines all of the news that people care about in one place. We are not afraid to talk about politics and entertainment and sports and pop culture. But that is not the revolution either."
+description: (liberal news show) We are a rare show that combines all of the news
+  that people care about in one place. We are not afraid to talk about politics and
+  entertainment and sports and pop culture. But that is not the revolution either.
+name: The Young Turks
+slug: theyoungturks
 subscribers: 4252525
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/TheYoungTurks

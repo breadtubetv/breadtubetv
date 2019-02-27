@@ -1,6 +1,7 @@
-name: "Cult of Dusty"
-slug: "cultofdusty"
-url: "https://www.youtube.com/user/CultOfDusty"
-description: "Making a mockery out of Religion. One vid at a time."
+description: Making a mockery out of Religion. One vid at a time.
+name: Cult of Dusty
+slug: cultofdusty
 subscribers: 254264
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/user/CultOfDusty

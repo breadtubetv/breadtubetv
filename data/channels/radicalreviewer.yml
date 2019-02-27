@@ -1,6 +1,8 @@
-name: "Radical Reviewer"
-slug: "radicalreviewer"
-url: "https://www.youtube.com/radicalreviewer"
-description: "Hello, I am the Radical Reviewer. I review and analyze Radical and Leftist literature and media."
+description: Hello, I am the Radical Reviewer. I review and analyze Radical and Leftist
+  literature and media.
+name: Radical Reviewer
+slug: radicalreviewer
 subscribers: 2805
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/radicalreviewer

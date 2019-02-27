@@ -1,6 +1,8 @@
-name: "Beau of the Fifth Column"
-slug: "beauofthefifthcolumn"
-url: "https://www.youtube.com/channel/UC0YvoAYGgdOfySQSLcxtu1w"
-description: "The discussions of a southern journalist who is tired of a lack of common sense."
+description: The discussions of a southern journalist who is tired of a lack of common
+  sense.
+name: Beau of the Fifth Column
+slug: beauofthefifthcolumn
 subscribers: 71157
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/channel/UC0YvoAYGgdOfySQSLcxtu1w

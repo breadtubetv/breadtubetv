@@ -1,6 +1,7 @@
-name: "Contrapoints"
-slug: "contrapoints"
-url: "https://www.youtube.com/contrapoints"
-description: "YouTuber, ex-philosopher. Sex, drugs, and social justice."
+description: YouTuber, ex-philosopher. Sex, drugs, and social justice.
+name: Contrapoints
+slug: contrapoints
 subscribers: 399836
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/contrapoints

@@ -1,6 +1,8 @@
-name: "Creationist Cat"
-slug: "creationistcat"
-url: "https://www.youtube.com/user/creationistcat"
-description: "was a freakin' housecat dat was zapped by god true dee innernet. Now I'm an agent of da lord, Atheists Beware! (satirical take on alt-right/skeptic videos)"
+description: was a freakin' housecat dat was zapped by god true dee innernet. Now
+  I'm an agent of da lord, Atheists Beware! (satirical take on alt-right/skeptic videos)
+name: Creationist Cat
+slug: creationistcat
 subscribers: 67484
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/user/creationistcat
