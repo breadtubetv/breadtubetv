@@ -1,14 +1,20 @@
-name: "The Serfs"
-slug: "theserfs"
-description: "In a media landscape blemished with uncertainty two indentured plebs bring you their comedic spin on the weekly news."
-subscribers: 5483
+description: In a media landscape blemished with uncertainty two indentured plebs
+  bring you their comedic spin on the weekly news.
+name: The Serfs
 providers:
-  youtube:
-    name: "The Serfs"
-    url: "https://youtube.com/theserfstv"
-    subscribers: 5483
   patreon:
-    name: "The Serfs"
-    url: "https://www.patreon.com/theserfs"
-    decription: "Weekly video production and podcast!"
-tags: ["breadtube"]
+    name: The Serfs
+    slug: ""
+    url: https://www.patreon.com/theserfs
+    description: ""
+    subscribers: 0
+  youtube:
+    name: The Serfs
+    slug: ""
+    url: https://youtube.com/theserfstv
+    description: ""
+    subscribers: 5483
+slug: theserfs
+subscribers: 5483
+tags:
+- breadtube

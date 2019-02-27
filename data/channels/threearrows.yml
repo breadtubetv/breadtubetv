@@ -1,6 +1,7 @@
-name: "Three Arrows"
-slug: "threearrows"
-url: "https://www.youtube.com/threearrows"
-description: "Doing stuff about the bad history on the far-right and more."
+description: Doing stuff about the bad history on the far-right and more.
+name: Three Arrows
+slug: threearrows
 subscribers: 180487
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/threearrows

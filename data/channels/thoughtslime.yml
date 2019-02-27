@@ -1,6 +1,8 @@
-name: "Thought Slime"
-slug: "thoughtslime"
-url: "https://www.youtube.com/thoughtslime"
-description: "I'm a smug anarchist poseur vomiting out video essays for you. I love you."
+description: I'm a smug anarchist poseur vomiting out video essays for you. I love
+  you.
+name: Thought Slime
+slug: thoughtslime
 subscribers: 19904
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/thoughtslime

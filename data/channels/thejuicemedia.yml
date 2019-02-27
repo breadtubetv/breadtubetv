@@ -1,6 +1,7 @@
-name: "The Juice Media"
-slug: "thejuicemedia"
-url: "https://www.youtube.com/thejuicemedia"
-description: "#GenuineSatire We make Honest Government Ads & Rap News"
+description: '#GenuineSatire We make Honest Government Ads & Rap News'
+name: The Juice Media
+slug: thejuicemedia
 subscribers: 163668
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/thejuicemedia

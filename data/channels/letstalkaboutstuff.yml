@@ -1,6 +1,9 @@
-name: "let's talk about stuff"
-slug: "letstalkaboutstuff"
-url: "https://www.youtube.com/channel/UCjSJq8eE73nCc9mtSMkNh6g"
-description: "this is a channel where a trans person named sarah makes video essays about stuff. sometimes that stuff includes movies, video games, or other flavors of media."
+description: this is a channel where a trans person named sarah makes video essays
+  about stuff. sometimes that stuff includes movies, video games, or other flavors
+  of media.
+name: let's talk about stuff
+slug: letstalkaboutstuff
 subscribers: 8624
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/channel/UCjSJq8eE73nCc9mtSMkNh6g

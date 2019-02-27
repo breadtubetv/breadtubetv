@@ -1,6 +1,8 @@
-name: "Democracy Now"
-slug: "democracynow"
-url: "https://www.youtube.com/democracynow"
-description: "Democracy Now! is an independent, global weekday news hour anchored by award-winning journalists Amy Goodman and Juan González."
+description: Democracy Now! is an independent, global weekday news hour anchored by
+  award-winning journalists Amy Goodman and Juan González.
+name: Democracy Now
+slug: democracynow
 subscribers: 462792
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/democracynow

@@ -1,6 +1,7 @@
-name: "Some More News"
-slug: "somemorenews"
-url: "https://www.youtube.com/channel/UCvlj0IzjSnNoduQF0l3VGng"
-description: "Hello, I am a news dude and, news-wise, here is some of it."
+description: Hello, I am a news dude and, news-wise, here is some of it.
+name: Some More News
+slug: somemorenews
 subscribers: 143273
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/channel/UCvlj0IzjSnNoduQF0l3VGng

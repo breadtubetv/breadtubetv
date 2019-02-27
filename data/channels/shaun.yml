@@ -1,6 +1,7 @@
-name: "Shaun"
-slug: "shaun"
-url: "https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ"
-description: "Video essays critiqing the alt-right"
+description: Video essays critiqing the alt-right
+name: Shaun
+slug: shaun
 subscribers: 180487
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ

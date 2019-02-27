@@ -1,5 +1,6 @@
-name: "TMM"
-slug: "tmm"
-url: "https://www.youtube.com/channel/UCQb22imbIqKKWOC98C8Rm2A"
+name: TMM
+slug: tmm
 subscribers: 41824
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/channel/UCQb22imbIqKKWOC98C8Rm2A

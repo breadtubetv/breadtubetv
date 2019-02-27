@@ -1,6 +1,7 @@
-name: "Hakim"
-slug: "hakim"
-url: "https://www.youtube.com/channel/UCPPZoYsfoSekIpLcz9plX1Q"
-description: "An Iraqi Marxist that makes videos from time to time."
+description: An Iraqi Marxist that makes videos from time to time.
+name: Hakim
+slug: hakim
 subscribers: 10661
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://www.youtube.com/channel/UCPPZoYsfoSekIpLcz9plX1Q

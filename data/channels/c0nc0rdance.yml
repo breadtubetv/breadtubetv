@@ -1,6 +1,8 @@
-name: "C0nc0rdance"
-slug: "c0nc0rdance"
-url: "https://youtube.com/C0nc0rdance"
-description: "It's my goal to show through the use of solid evidence and rational argument what is junk science, and what is real."
+description: It's my goal to show through the use of solid evidence and rational argument
+  what is junk science, and what is real.
+name: C0nc0rdance
+slug: c0nc0rdance
 subscribers: 53618
-tags: ["breadtube"]
+tags:
+- breadtube
+url: https://youtube.com/C0nc0rdance
