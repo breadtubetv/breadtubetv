@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/breadtubetv/bake/providers"
+	"github.com/breadtubetv/breadtubetv/bake/providers"
 
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/spf13/cobra"

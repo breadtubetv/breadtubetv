@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/breadtubetv/bake/cmd"
+	"github.com/breadtubetv/breadtubetv/bake/cmd"
 )
 
 func main() {

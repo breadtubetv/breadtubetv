@@ -3,7 +3,7 @@ package providers
 import (
 	"testing"
 
-	"github.com/breadtubetv/bake/util"
+	"github.com/breadtubetv/breadtubetv/bake/util"
 	"github.com/stretchr/testify/assert"
 )
 

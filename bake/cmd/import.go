@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/breadtubetv/bake/util"
+	"github.com/breadtubetv/breadtubetv/bake/util"
 	"github.com/spf13/cobra"
 )
 
