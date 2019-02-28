@@ -1,4 +1,8 @@
 {{ define "main" }}
   <h1 class="heading">{{ .Title }}</h1>
-  {{ partial "channels/new.html" . }}
+  {{ if in .Permalink "/new" }}
+    {{ partial "channels/new.html" . }}
+  {{ else }}
+    {{ partial "channels/videos.html" . }}
+  {{ end }}
 {{ end }}

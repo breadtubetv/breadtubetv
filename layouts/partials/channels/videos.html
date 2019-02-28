@@ -1,0 +1,20 @@
+{{ $channels := $.Site.Data.channels }}
+{{ $channelSlug := index (split .Page.RelPermalink "/") 2 }}
+{{ $scratch := newScratch }}
+{{ range $channels }}
+  {{ if eq .slug $channelSlug }}
+    {{ $scratch.Set "channel" . }}
+  {{ end }}
+{{ end }}
+{{ $channel := $scratch.Get "channel" }}
+
+<ul class="list plain-list">
+  {{ $videos := $.Site.Data.videos }}
+  {{ range $channelSlug, $channelVideos := $videos }}
+    {{ range $videoID, $video := $channelVideos }}
+      {{ if eq $channel.slug $video.channel }}
+        {{ partial "videos/card.html" (dict "video" $video "channel" $channel) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+</ul>

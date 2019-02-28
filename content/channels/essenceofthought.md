@@ -1,0 +1,3 @@
+---
+title: Essence of Thought
+---
