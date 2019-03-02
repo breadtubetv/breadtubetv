@@ -1,12 +1,13 @@
 name: CitizenFoffie Hassel
-subscribers: 44
 providers:
   youtube:
     name: CitizenFoffie Hassel
     slug: UCOQaAHJB-nf_4Y1L0B8D0Wg
     url: https://www.youtube.com/channel/UCOQaAHJB-nf_4Y1L0B8D0Wg
-    description: "Here i script animate play this is a remix of The Other CitizenFoffie Channel i got hacked so uh yeah trying to reach 100 subs by the end of the year"
+    description: Here i script animate play this is a remix of The Other CitizenFoffie
+      Channel i got hacked so uh yeah trying to reach 100 subs by the end of the year
     subscribers: 44
 slug: citizenfoffiehassel
+subscribers: 44
 tags:
 - breadtube
