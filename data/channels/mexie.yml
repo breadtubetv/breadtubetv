@@ -1,4 +1,11 @@
 name: Mexie
+providers:
+  youtube:
+    name: ""
+    slug: ""
+    url: null
+    description: ""
+    subscribers: 0
 slug: mexie
 subscribers: 26058
 tags:

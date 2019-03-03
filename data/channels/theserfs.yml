@@ -9,11 +9,11 @@ providers:
     description: ""
     subscribers: 0
   youtube:
-    name: The Serfs
+    name: ""
     slug: ""
-    url: https://youtube.com/theserfstv
+    url: null
     description: ""
-    subscribers: 5483
+    subscribers: 0
 slug: theserfs
 subscribers: 5483
 tags:

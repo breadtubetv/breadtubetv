@@ -1,6 +1,13 @@
 description: Gender-neutral video essayist and musician, seeking to spread the good
   word of libertarian socialism far and wide. they/them.
 name: Thom Avella
+providers:
+  youtube:
+    name: Thom Avella
+    slug: UCw-4391y4Lm0LZz2Z6pau9Q
+    url: https://www.youtube.com/channel/UCw-4391y4Lm0LZz2Z6pau9Q
+    description: ""
+    subscribers: 24671
 slug: thomavella
 subscribers: 23586
 tags:

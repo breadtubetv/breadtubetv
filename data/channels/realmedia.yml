@@ -1,5 +1,12 @@
 description: A channel dedicated to covering the 'News You Don't See' + more!
 name: Real Media
+providers:
+  youtube:
+    name: Real Media
+    slug: UChILjk2g64mZuwfkFPFeQRg
+    url: https://www.youtube.com/channel/UChILjk2g64mZuwfkFPFeQRg
+    description: ""
+    subscribers: 3729
 slug: realmedia
 subscribers: 3547
 tags:

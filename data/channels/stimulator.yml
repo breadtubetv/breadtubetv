@@ -1,5 +1,12 @@
 description: ""
 name: stimulator
+providers:
+  youtube:
+    name: stimulator
+    slug: UCDG73pGqESS1XcEVY_0xwWw
+    url: https://www.youtube.com/channel/UCDG73pGqESS1XcEVY_0xwWw
+    description: ""
+    subscribers: 22189
 slug: stimulator
 subscribers: 22099
 tags:

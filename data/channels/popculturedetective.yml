@@ -2,6 +2,13 @@ description: A series of critical video essays looking at media through a critic
   lens with an emphasis on the intersections of politics, masculinity and entertainment..
   Hosted by Jonathan McIntosh.
 name: Pop Culture Detective
+providers:
+  youtube:
+    name: Pop Culture Detective
+    slug: UCHiwtz2tCEfS17N9A-WoSSw
+    url: https://www.youtube.com/channel/UCHiwtz2tCEfS17N9A-WoSSw
+    description: ""
+    subscribers: 506057
 slug: popculturedetective
 subscribers: 413208
 tags:

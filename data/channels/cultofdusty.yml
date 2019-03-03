@@ -1,5 +1,12 @@
 description: Making a mockery out of Religion. One vid at a time.
 name: Cult of Dusty
+providers:
+  youtube:
+    name: Cult of Dusty
+    slug: CultOfDusty
+    url: https://www.youtube.com/user/CultOfDusty
+    description: ""
+    subscribers: 254459
 slug: cultofdusty
 subscribers: 254264
 tags:

@@ -1,5 +1,12 @@
 description: (film analysis and critiqe, feminist perspective)
 name: Lindsay Ellis
+providers:
+  youtube:
+    name: Lindsay Ellis
+    slug: UCG1h-Wqjtwz7uUANw6gazRw
+    url: https://www.youtube.com/channel/UCG1h-Wqjtwz7uUANw6gazRw
+    description: ""
+    subscribers: 574306
 slug: lindsayellis
 subscribers: 548462
 tags:

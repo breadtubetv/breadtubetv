@@ -1,6 +1,13 @@
 description: The discussions of a southern journalist who is tired of a lack of common
   sense.
 name: Beau of the Fifth Column
+providers:
+  youtube:
+    name: Beau of the Fifth Column
+    slug: UC0YvoAYGgdOfySQSLcxtu1w
+    url: https://www.youtube.com/channel/UC0YvoAYGgdOfySQSLcxtu1w
+    description: ""
+    subscribers: 75749
 slug: beauofthefifthcolumn
 subscribers: 71157
 tags:

@@ -1,5 +1,12 @@
 description: ""
 name: Sarah Z
+providers:
+  youtube:
+    name: Sarah Z
+    slug: UCK-GxvzttTnNhq3JPYpXhqg
+    url: https://www.youtube.com/channel/UCK-GxvzttTnNhq3JPYpXhqg
+    description: ""
+    subscribers: 106163
 slug: sarahz
 subscribers: 102848
 tags:

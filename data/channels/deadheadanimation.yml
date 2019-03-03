@@ -1,5 +1,12 @@
 description: DEADHEAD ANIMATION, Taking the piss out of everything
 name: DeadHead Animation
+providers:
+  youtube:
+    name: DeadHead Animation
+    slug: UC02Mk2QHR9myF3VMrVYbCAA
+    url: https://www.youtube.com/channel/UC02Mk2QHR9myF3VMrVYbCAA
+    description: ""
+    subscribers: 2603
 slug: deadheadanimation
 subscribers: 2373
 tags:

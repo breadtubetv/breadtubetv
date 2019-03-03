@@ -1,6 +1,13 @@
 description: Hello! I'm a libertarian socialist. Here you will find my rants about
   the world we live in from an anarchist perspective.
 name: Libertarian Socialist Rants
+providers:
+  youtube:
+    name: Libertarian Socialist Rants
+    slug: UCVY0aIaw-V9GbWmlab4Z_dw
+    url: https://www.youtube.com/channel/UCVY0aIaw-V9GbWmlab4Z_dw
+    description: ""
+    subscribers: 48126
 slug: libertariansocialistrants
 subscribers: 47365
 tags:

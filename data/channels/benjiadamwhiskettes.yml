@@ -1,5 +1,12 @@
 description: (communist video essays)
 name: Benji Adam Whiskettes
+providers:
+  youtube:
+    name: Benji Adam Whiskettes
+    slug: UCDG87s_QtD4YrIamqb9k5WQ
+    url: https://www.youtube.com/channel/UCDG87s_QtD4YrIamqb9k5WQ
+    description: ""
+    subscribers: 2760
 slug: benjiadamwhiskettes
 subscribers: 2573
 tags:
