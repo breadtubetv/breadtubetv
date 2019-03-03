@@ -38,7 +38,3 @@ var importCmd = &cobra.Command{
 func init() {
 	channelCmd.AddCommand(importCmd)
 }
-
-func importChannel(channelURL string) {
-	fmt.Printf("called %s\n", channelURL)
-}
