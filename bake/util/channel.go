@@ -20,6 +20,20 @@ type Channel struct {
 	remnant   map[string]interface{}
 }
 
+// YouTubeURL fetches the URL if this channel has the encoded provider URL and
+// falls back to the top level channel URL if it's not found.
+func (c Channel) YouTubeURL() *URL {
+	if youtube, ok := c.Providers["youtube"]; ok {
+		return youtube.URL
+	}
+	if urlStr, ok := c.remnant["url"]; ok {
+		if url, ok := urlStr.(string); ok {
+			return MustParseURL(url)
+		}
+	}
+	return nil
+}
+
 // MarshalYAML handles the well defined channel details as well as any other fields specified
 func (c Channel) MarshalYAML() (interface{}, error) {
 	values := map[string]interface{}{}
@@ -236,6 +250,7 @@ func (channelList *ChannelList) Contains(slug string) bool {
 	return ok
 }
 
+// Find returns a channel that matches the specified slug
 func (channelList *ChannelList) Find(slug string) *Channel {
 	channel := map[string]Channel(*channelList)[slug]
 	return &channel
@@ -243,28 +258,8 @@ func (channelList *ChannelList) Find(slug string) *Channel {
 
 // SaveChannels saves all the channel definitions back to disk
 func SaveChannels(channelList ChannelList, dataDir string) bool {
-	// delete everything in the directory first, since we're re-saving it
-	files, err := ioutil.ReadDir(dataDir)
-	if err != nil {
-		log.Fatal(err)
-	}
-
-	for _, file := range files {
-		os.Remove(path.Join(dataDir, file.Name()))
-	}
-
-	// then re-marshal and save
 	for _, channel := range channelList {
-		data, err := yaml.Marshal(channel)
-		if err != nil {
-			log.Fatalf("error: %v", err)
-			return false
-		}
-
-		filePath := path.Join(dataDir, fmt.Sprintf("%s.yml", channel.Slug))
-		log.Printf("Saving %s\n", filePath)
-
-		err = ioutil.WriteFile(filePath, data, os.ModePerm)
+		err := SaveChannel(channel, dataDir)
 		if err != nil {
 			log.Fatalf("error: %v", err)
 			return false
@@ -272,4 +267,18 @@ func SaveChannels(channelList ChannelList, dataDir string) bool {
 	}
 
 	return true
+}
+
+// SaveChannel saves an individual channel, overwriting the channel file if it
+// already exists
+func SaveChannel(channel Channel, dataDir string) error {
+	filePath := path.Join(dataDir, fmt.Sprintf("%s.yml", channel.Slug))
+	log.Printf("Saving %s\n", filePath)
+
+	data, err := yaml.Marshal(channel)
+	if err != nil {
+		return err
+	}
+
+	return ioutil.WriteFile(filePath, data, os.ModePerm)
 }

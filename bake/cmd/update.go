@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"log"
 
+	"github.com/breadtubetv/breadtubetv/bake/providers"
 	"github.com/breadtubetv/breadtubetv/bake/util"
 	"github.com/spf13/cobra"
 )
@@ -23,6 +24,18 @@ func init() {
 }
 
 func updateChannels() {
-	channelList := util.LoadChannels("../data/channels")
-	util.SaveChannels(channelList, "../data/channels")
+	channels := util.LoadChannels("../data/channels")
+
+	for _, channel := range channels {
+		youtube, err := providers.FetchDetails(channel.YouTubeURL())
+
+		channel.Providers["youtube"] = youtube
+
+		err = util.SaveChannel(channel, "../data/channels")
+		if err != nil {
+			log.Printf("Failed to update channel %s (%s), error: %v", channel.Name, channel.Slug, err)
+		}
+	}
+
+	util.SaveChannels(channels, "../data/channels")
 }
