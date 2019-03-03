@@ -114,8 +114,8 @@ func importChannel(slug string, channelURL *util.URL) {
 	}
 
 	channel, ok := channelList.Find(slug)
-	if !ok {
-		channel = &util.Channel{}
+	if ok {
+		log.Fatalf("Channel with slug '%s' already exists, use update instead.", slug)
 	}
 	channel.Name = importedChannel.Name
 	channel.Slug = importedChannel.Slug
@@ -123,9 +123,10 @@ func importChannel(slug string, channelURL *util.URL) {
 
 	log.Printf("Title: %s, Count: %d\n", channel.Name, channel.Providers["youtube"].Subscribers)
 
-	channelList[slug] = *channel
-
-	util.SaveChannels(channelList, "../data/channels")
+	err = util.SaveChannel(channel, "../data/channels")
+	if err != nil {
+		log.Fatalf("Error saving channel '%s': %v", slug, err)
+	}
 }
 
 const launchWebServer = true
