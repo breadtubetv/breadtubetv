@@ -177,7 +177,7 @@ func unmarshalProvider(values map[interface{}]interface{}, out *Provider) error 
 		case "url":
 			s, ok := value.(string)
 			if !ok {
-				return fmt.Errorf("error parsing slug: '%s', %T is not a string", value, value)
+				return fmt.Errorf("error parsing url: '%s', %T is not a string", value, value)
 			}
 			url, err := ParseURL(s)
 			if err != nil {
@@ -245,21 +245,21 @@ func LoadChannels(dataDir string) ChannelList {
 }
 
 // Contains returns true if the supplied URL matches any provider's URL
-func (channelList *ChannelList) Contains(slug string) bool {
-	_, ok := map[string]Channel(*channelList)[slug]
+func (channelList ChannelList) Contains(slug string) bool {
+	_, ok := map[string]Channel(channelList)[slug]
 	return ok
 }
 
 // Find returns a channel that matches the specified slug
-func (channelList *ChannelList) Find(slug string) *Channel {
-	channel := map[string]Channel(*channelList)[slug]
-	return &channel
+func (channelList ChannelList) Find(slug string) (*Channel, bool) {
+	channel, ok := map[string]Channel(channelList)[slug]
+	return &channel, ok
 }
 
 // SaveChannels saves all the channel definitions back to disk
 func SaveChannels(channelList ChannelList, dataDir string) bool {
 	for _, channel := range channelList {
-		err := SaveChannel(channel, dataDir)
+		err := SaveChannel(&channel, dataDir)
 		if err != nil {
 			log.Fatalf("error: %v", err)
 			return false
@@ -271,7 +271,7 @@ func SaveChannels(channelList ChannelList, dataDir string) bool {
 
 // SaveChannel saves an individual channel, overwriting the channel file if it
 // already exists
-func SaveChannel(channel Channel, dataDir string) error {
+func SaveChannel(channel *Channel, dataDir string) error {
 	filePath := path.Join(dataDir, fmt.Sprintf("%s.yml", channel.Slug))
 	log.Printf("Saving %s\n", filePath)
 

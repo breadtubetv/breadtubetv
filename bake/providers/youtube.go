@@ -113,8 +113,8 @@ func importChannel(slug string, channelURL *util.URL) {
 		log.Fatalf("Error obtaining channel info: %v", err)
 	}
 
-	channel := channelList.Find(slug)
-	if channel != nil {
+	channel, ok := channelList.Find(slug)
+	if !ok {
 		channel = &util.Channel{}
 	}
 	channel.Name = importedChannel.Name
