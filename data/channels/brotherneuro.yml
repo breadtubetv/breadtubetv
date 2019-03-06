@@ -1,5 +1,12 @@
 description: ""
 name: Brother Neuro
+providers:
+  youtube:
+    name: Brother Neuro
+    slug: UC3-oMyTXwAmICDRyZ7HSOVg
+    url: https://youtube.com/channel/UC3-oMyTXwAmICDRyZ7HSOVg
+    description: ""
+    subscribers: 2584
 slug: brotherneuro
 subscribers: 2455
 tags:

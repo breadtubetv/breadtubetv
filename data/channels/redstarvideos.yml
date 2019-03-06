@@ -1,5 +1,12 @@
 description: We make dank memes and dope political analysis.
 name: Red Star Videos
+providers:
+  youtube:
+    name: Red Star Videos
+    slug: UCPF2TnvBH88EKgmS-TAMM4w
+    url: https://www.youtube.com/channel/UCPF2TnvBH88EKgmS-TAMM4w
+    description: ""
+    subscribers: 7731
 slug: redstarvideos
 subscribers: 7640
 tags:

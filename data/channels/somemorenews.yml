@@ -1,5 +1,12 @@
 description: Hello, I am a news dude and, news-wise, here is some of it.
 name: Some More News
+providers:
+  youtube:
+    name: Some More News
+    slug: UCvlj0IzjSnNoduQF0l3VGng
+    url: https://www.youtube.com/channel/UCvlj0IzjSnNoduQF0l3VGng
+    description: ""
+    subscribers: 155523
 slug: somemorenews
 subscribers: 143273
 tags:

@@ -1,6 +1,13 @@
 description: Follow Teacher Erik as he guides you through the muck of the internet.
   Together, we'll learn how to leave proper and respectful internet comments!
 name: Internet Comment Etiquette with Erik
+providers:
+  youtube:
+    name: Internet Comment Etiquette with Erik
+    slug: commentiquette
+    url: https://www.youtube.com/commentiquette
+    description: ""
+    subscribers: 795300
 slug: internetcommentiquette
 subscribers: 781853
 tags:

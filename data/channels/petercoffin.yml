@@ -10,10 +10,10 @@ providers:
     subscribers: 0
   youtube:
     name: Peter Coffin
-    slug: ""
+    slug: petercoffin
     url: https://www.youtube.com/petercoffin
     description: ""
-    subscribers: 236769
+    subscribers: 241004
 slug: petercoffin
 subscribers: 236769
 tags:

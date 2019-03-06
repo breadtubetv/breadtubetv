@@ -1,6 +1,13 @@
 description: Official YouTube channel of Comedian/Filmmaker Graham Elwood (Director
   of Earbuds)
 name: Graham Elwood
+providers:
+  youtube:
+    name: Graham Elwood
+    slug: UCX1rle36wIlP9ry8uidnCsA
+    url: https://www.youtube.com/channel/UCX1rle36wIlP9ry8uidnCsA
+    description: ""
+    subscribers: 16976
 slug: grahamelwood
 subscribers: 12421
 tags:
