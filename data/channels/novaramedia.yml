@@ -7,3 +7,5 @@ providers:
     description: "Novara Media is an independent media organisation addressing the issues – from a crisis of capitalism to racism and climate change – that are set to define the 21st century."
     subscribers: 36609
 slug: novaramedia
+tags:
+- breadtube
