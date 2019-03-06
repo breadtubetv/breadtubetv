@@ -1,13 +1,6 @@
 description: An educational web series about philosophies espoused by individual films.
   Common topics include politics and social issues.
 name: Renegade Cut
-providers:
-  youtube:
-    name: Renegade Cut
-    slug: UC9infsKo33_2LUoiqXGgQWg
-    url: https://www.youtube.com/channel/UC9infsKo33_2LUoiqXGgQWg
-    description: ""
-    subscribers: 68715
 slug: renegadecut
 subscribers: 67148
 tags:

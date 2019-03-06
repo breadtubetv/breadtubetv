@@ -1,11 +1,4 @@
 name: Erin Collective
-providers:
-  youtube:
-    name: ""
-    slug: ""
-    url: null
-    description: ""
-    subscribers: 0
 slug: erincollective
 subscribers: 515
 tags:

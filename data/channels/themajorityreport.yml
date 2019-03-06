@@ -1,13 +1,6 @@
 description: The Majority Report is a daily, political talk show at majority.fm live
   at 12PM ET.
 name: The Majority Report
-providers:
-  youtube:
-    name: The Majority Report w/ Sam Seder
-    slug: SamSeder
-    url: https://www.youtube.com/SamSeder
-    description: ""
-    subscribers: 465215
 slug: themajorityreport
 subscribers: 429963
 tags:

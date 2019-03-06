@@ -10,10 +10,10 @@ providers:
     subscribers: 0
   youtube:
     name: anarchopac
-    slug: anarchopac
+    slug: ""
     url: https://www.youtube.com/user/anarchopac
     description: ""
-    subscribers: 16409
+    subscribers: 15438
 slug: anarchopac
 subscribers: 15438
 tags:

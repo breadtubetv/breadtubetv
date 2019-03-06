@@ -1,11 +1,4 @@
 name: Maria the Witch
-providers:
-  youtube:
-    name: Maria the Witch
-    slug: UCrd-uibzFaauNlPB8-OJ_qQ
-    url: https://www.youtube.com/channel/UCrd-uibzFaauNlPB8-OJ_qQ
-    description: ""
-    subscribers: 7088
 slug: mariathewitch
 subscribers: 5947
 tags:

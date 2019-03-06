@@ -1,12 +1,5 @@
 description: From the streets of Athens
 name: Perseus999
-providers:
-  youtube:
-    name: Perseus999
-    slug: Perseus999
-    url: https://www.youtube.com/user/Perseus999
-    description: ""
-    subscribers: 19326
 slug: perseus999
 subscribers: 19110
 tags:

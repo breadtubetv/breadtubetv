@@ -1,13 +1,6 @@
 description: Hello, I am the Radical Reviewer. I review and analyze Radical and Leftist
   literature and media.
 name: Radical Reviewer
-providers:
-  youtube:
-    name: ""
-    slug: ""
-    url: null
-    description: ""
-    subscribers: 0
 slug: radicalreviewer
 subscribers: 2805
 tags:

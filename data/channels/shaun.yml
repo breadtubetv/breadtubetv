@@ -1,12 +1,5 @@
 description: Video essays critiqing the alt-right
 name: Shaun
-providers:
-  youtube:
-    name: Shaun
-    slug: UCJ6o36XL0CpYb6U5dNBiXHQ
-    url: https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ
-    description: ""
-    subscribers: 201004
 slug: shaun
 subscribers: 180487
 tags:

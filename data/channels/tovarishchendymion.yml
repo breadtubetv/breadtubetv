@@ -1,12 +1,5 @@
 description: Marxist youtuber making Marxist material
 name: Tovarishch Endymion
-providers:
-  youtube:
-    name: Tovarishch Endymion
-    slug: UCTG-iJm0HtjWVOAwN8sA4Xg
-    url: https://www.youtube.com/channel/UCTG-iJm0HtjWVOAwN8sA4Xg
-    description: ""
-    subscribers: 6474
 slug: tovarishchendymion
 subscribers: 5982
 tags:

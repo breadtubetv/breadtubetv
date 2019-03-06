@@ -1,12 +1,5 @@
 description: Doing stuff about the bad history on the far-right and more.
 name: Three Arrows
-providers:
-  youtube:
-    name: Yasser Helmy
-    slug: threearrows
-    url: https://www.youtube.com/threearrows
-    description: ""
-    subscribers: 1
 slug: threearrows
 subscribers: 180487
 tags:

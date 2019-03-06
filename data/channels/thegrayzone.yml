@@ -1,13 +1,6 @@
 description: The Grayzone is a news and politics website dedicated to original investigative
   journalism and analysis, edited by journalist Max Blumenthal.
 name: The Grayzone
-providers:
-  youtube:
-    name: The Grayzone
-    slug: UCEXR8pRTkE2vFeJePNe9UcQ
-    url: https://www.youtube.com/channel/UCEXR8pRTkE2vFeJePNe9UcQ
-    description: ""
-    subscribers: 10523
 slug: thegrayzone
 subscribers: 5300
 tags:

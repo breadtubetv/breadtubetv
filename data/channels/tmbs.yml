@@ -1,11 +1,4 @@
 name: The Michael Brooks Show
-providers:
-  youtube:
-    name: ""
-    slug: ""
-    url: null
-    description: ""
-    subscribers: 0
 slug: tmbs
 subscribers: 22939
 tags:

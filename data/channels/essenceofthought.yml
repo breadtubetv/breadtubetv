@@ -1,13 +1,6 @@
 description: Online media outlet which produces fully referenced video reviews of
   other online content touching upon secularism, feminism, LGBT+, and ethnic equality.
 name: Essence of Thought
-providers:
-  youtube:
-    name: EssenceOfThought
-    slug: EssenceOfThought
-    url: https://www.youtube.com/user/EssenceOfThought
-    description: ""
-    subscribers: 28924
 slug: essenceofthought
 subscribers: 28751
 tags:

@@ -3,13 +3,6 @@ description: The Christopher Szabo Show is an ongoing web series updated monthly
   shows, and video games. It is highly advised that you watch these episodes while
   under the influence and wearing headphones.
 name: Christopher Szabo
-providers:
-  youtube:
-    name: Christopher Szabo
-    slug: UCLzx8lUHtURlm3amY2Xivng
-    url: https://www.youtube.com/channel/UCLzx8lUHtURlm3amY2Xivng
-    description: ""
-    subscribers: 944
 slug: christopherszabo
 subscribers: 750
 tags:

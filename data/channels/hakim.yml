@@ -1,12 +1,5 @@
 description: An Iraqi Marxist that makes videos from time to time.
 name: Hakim
-providers:
-  youtube:
-    name: Hakim
-    slug: UCPPZoYsfoSekIpLcz9plX1Q
-    url: https://www.youtube.com/channel/UCPPZoYsfoSekIpLcz9plX1Q
-    description: ""
-    subscribers: 12855
 slug: hakim
 subscribers: 10661
 tags:

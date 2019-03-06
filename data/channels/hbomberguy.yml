@@ -1,12 +1,5 @@
 description: Internet? (media analysis and left video essay)
 name: Hbomberguy
-providers:
-  youtube:
-    name: hbomberguy
-    slug: hbomberguy
-    url: https://www.youtube.com/hbomberguy
-    description: ""
-    subscribers: 371377
 slug: hbomberguy
 subscribers: 325262
 tags:

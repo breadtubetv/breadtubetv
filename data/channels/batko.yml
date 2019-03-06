@@ -1,12 +1,5 @@
 description: Anarchist shitposter
 name: Bat'ko
-providers:
-  youtube:
-    name: Bat'ko
-    slug: UC_oi8JESlRbOQW5n7Pl07NA
-    url: https://www.youtube.com/channel/UC_oi8JESlRbOQW5n7Pl07NA
-    description: ""
-    subscribers: 18278
 slug: batko
 subscribers: 17461
 tags:

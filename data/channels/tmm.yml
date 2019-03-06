@@ -1,11 +1,4 @@
 name: TMM
-providers:
-  youtube:
-    name: TMM
-    slug: UCQb22imbIqKKWOC98C8Rm2A
-    url: https://www.youtube.com/channel/UCQb22imbIqKKWOC98C8Rm2A
-    description: ""
-    subscribers: 42109
 slug: tmm
 subscribers: 41824
 tags:

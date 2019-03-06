@@ -1,13 +1,6 @@
 description: I'm a smug anarchist poseur vomiting out video essays for you. I love
   you.
 name: Thought Slime
-providers:
-  youtube:
-    name: ""
-    slug: ""
-    url: null
-    description: ""
-    subscribers: 0
 slug: thoughtslime
 subscribers: 19904
 tags:

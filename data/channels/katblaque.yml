@@ -1,12 +1,5 @@
 description: Opinion Vlogger, Children's Illustrator and Thrift Store Addict
 name: Kat Blaque
-providers:
-  youtube:
-    name: Kat Blaque
-    slug: TransDIYer
-    url: https://www.youtube.com/user/TransDIYer
-    description: ""
-    subscribers: 135411
 slug: katblaque
 subscribers: 135526
 tags:

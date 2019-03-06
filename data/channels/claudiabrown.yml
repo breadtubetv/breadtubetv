@@ -1,12 +1,5 @@
 description: Hello everyone! I make youtube videos talking about feminism.
 name: Claudia Brown
-providers:
-  youtube:
-    name: Claudia Brown
-    slug: UCQlNT2xADrXblBd1Tz1Fjzg
-    url: https://www.youtube.com/channel/UCQlNT2xADrXblBd1Tz1Fjzg
-    description: ""
-    subscribers: 10018
 slug: claudiabrown
 subscribers: 9877
 tags:

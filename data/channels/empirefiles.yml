@@ -1,13 +1,6 @@
 description: A documentary & interview series hosted by Abby Martin - reporting on
   war & inequality from the heart of Empire
 name: Empire Files
-providers:
-  youtube:
-    name: ""
-    slug: ""
-    url: null
-    description: ""
-    subscribers: 0
 slug: empirefiles
 subscribers: 108370
 tags:

@@ -1,11 +1,4 @@
 name: Sarcasmitron
-providers:
-  youtube:
-    name: Sarcasmitron
-    slug: UC6WD1VImCVeOuNccuqDzAdA
-    url: https://www.youtube.com/channel/UC6WD1VImCVeOuNccuqDzAdA
-    description: ""
-    subscribers: 2178
 slug: sarcasmitron
 subscribers: 2040
 tags:
