@@ -1,6 +1,13 @@
 description: Historian and general smart person who does youtube now. Tired and angry
   a lot. Trans Woman
 name: Mia Mulder
+providers:
+  youtube:
+    name: Mia Mulder
+    slug: UC_OttpBEWWzSUlZbk5qmhSA
+    url: https://www.youtube.com/channel/UC_OttpBEWWzSUlZbk5qmhSA
+    description: ""
+    subscribers: 5899
 slug: miamulder
 subscribers: 3721
 tags:

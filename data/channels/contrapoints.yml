@@ -1,5 +1,12 @@
 description: YouTuber, ex-philosopher. Sex, drugs, and social justice.
 name: Contrapoints
+providers:
+  youtube:
+    name: ContraPoints
+    slug: contrapoints
+    url: https://www.youtube.com/contrapoints
+    description: ""
+    subscribers: 471871
 slug: contrapoints
 subscribers: 399836
 tags:

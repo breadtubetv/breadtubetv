@@ -2,6 +2,13 @@ description: this is a channel where a trans person named sarah makes video essa
   about stuff. sometimes that stuff includes movies, video games, or other flavors
   of media.
 name: let's talk about stuff
+providers:
+  youtube:
+    name: let's talk about stuff.
+    slug: UCjSJq8eE73nCc9mtSMkNh6g
+    url: https://www.youtube.com/channel/UCjSJq8eE73nCc9mtSMkNh6g
+    description: ""
+    subscribers: 9132
 slug: letstalkaboutstuff
 subscribers: 8624
 tags:

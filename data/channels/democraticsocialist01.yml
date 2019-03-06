@@ -1,5 +1,12 @@
 description: (socialist video essays)
 name: Democratic Socialist 01
+providers:
+  youtube:
+    name: DemocraticSocialist01
+    slug: MrReco12
+    url: https://www.youtube.com/user/MrReco12
+    description: ""
+    subscribers: 13491
 slug: democraticsocialist01
 subscribers: 12825
 tags:

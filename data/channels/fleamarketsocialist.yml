@@ -1,5 +1,12 @@
 description: Communism is a direction; not a goal.
 name: Flea Market Socialist
+providers:
+  youtube:
+    name: Flea Market Socialist
+    slug: NuLLx42
+    url: https://www.youtube.com/user/NuLLx42
+    description: ""
+    subscribers: 5424
 slug: fleamarketsocialist
 subscribers: 5043
 tags:

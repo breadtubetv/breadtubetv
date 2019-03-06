@@ -1,6 +1,13 @@
 description: I take on the manospherian, alt-right, anti-feminist, anti-social justice
   fuckwads of the world, with the occasional cat video thrown in for good measure!
 name: Kevin Logan
+providers:
+  youtube:
+    name: Kevin Logan
+    slug: ploppy111
+    url: https://www.youtube.com/ploppy111
+    description: ""
+    subscribers: 10752
 slug: kevinlogan
 subscribers: 10303
 tags:

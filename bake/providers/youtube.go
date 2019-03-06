@@ -22,7 +22,7 @@ import (
 	"google.golang.org/api/youtube/v3"
 )
 
-const ACCESS_JSON = `{
+const accessJSON = `{
 	"installed": {
 		"client_id": "660935947237-ajqve9kv3n0nnhonhnc5j638fsfan31o.apps.googleusercontent.com",
 		"project_id": "sacred-dahlia-229511",
@@ -52,17 +52,15 @@ func config() {
 	log.Printf("Successfully authenticated and cached credentials.")
 }
 
-const CHANNEL_FILE = "../data/channels.yml"
-
-func formatChannelDetails(slug string, channelURL *util.URL) (util.Channel, error) {
+// FetchDetails returns the YouTube details for a channel
+func FetchDetails(channelURL *util.URL) (util.Provider, error) {
 	id := path.Base(channelURL.Path)
 	category := path.Base(path.Dir(channelURL.Path))
 
 	client := getClient(youtube.YoutubeReadonlyScope)
-
 	service, err := youtube.New(client)
 	if err != nil {
-		return util.Channel{}, fmt.Errorf("Error creating YouTube client: %v", err)
+		return util.Provider{}, fmt.Errorf("error creating YouTube client: %v", err)
 	}
 
 	call := service.Channels.List("snippet,statistics")
@@ -75,7 +73,7 @@ func formatChannelDetails(slug string, channelURL *util.URL) (util.Channel, erro
 	handleError(err, "")
 
 	if len(response.Items) == 0 {
-		return util.Channel{}, fmt.Errorf("Could not find channel from URL.")
+		return util.Provider{}, fmt.Errorf("could not find channel from URL")
 	}
 
 	channelName := ""
@@ -86,17 +84,24 @@ func formatChannelDetails(slug string, channelURL *util.URL) (util.Channel, erro
 		break
 	}
 
+	return util.Provider{
+		Name:        channelName,
+		URL:         channelURL,
+		Slug:        id,
+		Subscribers: channelSubscriberCount,
+	}, nil
+}
+
+func formatChannelDetails(slug string, channelURL *util.URL) (util.Channel, error) {
+	provider, err := FetchDetails(channelURL)
+	if err != nil {
+		return util.Channel{}, err
+	}
+
 	return util.Channel{
-		Name: channelName,
-		Slug: slug,
-		Providers: map[string]util.Provider{
-			"youtube": util.Provider{
-				Name:        channelName,
-				URL:         channelURL,
-				Slug:        id,
-				Subscribers: channelSubscriberCount,
-			},
-		},
+		Name:      provider.Name,
+		Slug:      slug,
+		Providers: map[string]util.Provider{"youtube": provider},
 	}, nil
 }
 
@@ -108,9 +113,9 @@ func importChannel(slug string, channelURL *util.URL) {
 		log.Fatalf("Error obtaining channel info: %v", err)
 	}
 
-	channel := channelList.Find(slug)
-	if channel != nil {
-		channel = &util.Channel{}
+	channel, ok := channelList.Find(slug)
+	if ok {
+		log.Fatalf("Channel with slug '%s' already exists, use update instead.", slug)
 	}
 	channel.Name = importedChannel.Name
 	channel.Slug = importedChannel.Slug
@@ -118,9 +123,10 @@ func importChannel(slug string, channelURL *util.URL) {
 
 	log.Printf("Title: %s, Count: %d\n", channel.Name, channel.Providers["youtube"].Subscribers)
 
-	channelList[slug] = *channel
-
-	util.SaveChannels(channelList, "../data/channels")
+	err = util.SaveChannel(channel, "../data/channels")
+	if err != nil {
+		log.Fatalf("Error saving channel '%s': %v", slug, err)
+	}
 }
 
 const launchWebServer = true
@@ -150,7 +156,7 @@ https://developers.google.com/api-client-library/python/guide/aaa_client_secrets
 func getClient(scope string) *http.Client {
 	ctx := context.Background()
 
-	b := []byte(ACCESS_JSON)
+	b := []byte(accessJSON)
 
 	// If modifying the scope, delete your previously saved credentials
 	// at ~/.credentials/youtube-go.json

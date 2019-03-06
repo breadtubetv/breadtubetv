@@ -8,17 +8,34 @@ import (
 	yaml "gopkg.in/yaml.v2"
 )
 
-func TestChannelUnmarshalYAML_OldFormat(t *testing.T) {
-	channel := Channel{}
-
-	data := `name: "Angie Speaks"
+const (
+	channelYAMLOldFormat = `name: "Angie Speaks"
 slug: "angiespeaks"
 url: "https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ"
 description: "Anarchist Leftist channel with a creative and mystical flair!"
 subscribers: 8367
 tags: ["breadtube"]`
+	channelYAMLNewFormat = `name: "anarchopac"
+slug: "anarchopac"
+description: "I'm a disabled pan-sexual trans woman who talks about anarchism, feminism and marxism."
+subscribers:
+providers:
+  youtube:
+    name: "anarchopac"
+    url: "https://www.youtube.com/user/anarchopac"
+    subscribers: 15438
+    description: ""
+  patreon:
+    name: "anarchopac"
+    url: "https://www.patreon.com/anarchopac"
+    description: "left-wing youtube videos"
+tags: ["breadtube"]`
+)
 
-	err := yaml.Unmarshal([]byte(data), &channel)
+func TestChannelUnmarshalYAML_OldFormat(t *testing.T) {
+	channel := Channel{}
+
+	err := yaml.Unmarshal([]byte(channelYAMLOldFormat), &channel)
 	assert.NoError(t, err)
 	assert.Equal(t, "Angie Speaks", channel.Name)
 	assert.Equal(t, "angiespeaks", channel.Slug)
@@ -38,23 +55,7 @@ tags: ["breadtube"]`
 func TestChannelUnmarshalYAML_NewFormat(t *testing.T) {
 	channel := Channel{}
 
-	data := `name: "anarchopac"
-slug: "anarchopac"
-description: "I'm a disabled pan-sexual trans woman who talks about anarchism, feminism and marxism."
-subscribers:
-providers:
-  youtube:
-    name: "anarchopac"
-    url: "https://www.youtube.com/user/anarchopac"
-    subscribers: 15438
-    description: ""
-  patreon:
-    name: "anarchopac"
-    url: "https://www.patreon.com/anarchopac"
-    description: "left-wing youtube videos"
-tags: ["breadtube"]`
-
-	err := yaml.Unmarshal([]byte(data), &channel)
+	err := yaml.Unmarshal([]byte(channelYAMLNewFormat), &channel)
 	assert.NoError(t, err)
 	assert.Equal(t, "anarchopac", channel.Slug)
 	require.Len(t, channel.Providers, 2)
@@ -68,4 +69,16 @@ tags: ["breadtube"]`
 	assert.Equal(t, MustParseURL("https://www.patreon.com/anarchopac"), patreonProvider.URL)
 
 	assert.Len(t, channel.remnant, 2)
+}
+
+func TestChannelYouTubeURL(t *testing.T) {
+	channel := Channel{}
+
+	err := yaml.Unmarshal([]byte(channelYAMLNewFormat), &channel)
+	assert.NoError(t, err)
+	assert.Equal(t, MustParseURL("https://www.youtube.com/user/anarchopac"), channel.YouTubeURL())
+
+	err = yaml.Unmarshal([]byte(channelYAMLOldFormat), &channel)
+	assert.NoError(t, err)
+	assert.Equal(t, MustParseURL("https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ"), channel.YouTubeURL())
 }

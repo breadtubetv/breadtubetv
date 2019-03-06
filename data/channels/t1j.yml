@@ -2,6 +2,13 @@ description: This channel is mostly video essays about things that interest me, 
   from a progressive socdem point of view. I also livestream weekly. Sometimes I do
   other stuff too tho.
 name: T1J
+providers:
+  youtube:
+    name: T1J
+    slug: UCajw8zd6DPpXOuF6d22Fjkw
+    url: https://www.youtube.com/channel/UCajw8zd6DPpXOuF6d22Fjkw
+    description: ""
+    subscribers: 118223
 slug: t1j
 subscribers: 117873
 tags:

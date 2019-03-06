@@ -1,5 +1,12 @@
 description: Channel combining politics & gaming. What could go wrong?
 name: azureScapegoat
+providers:
+  youtube:
+    name: azureScapegoat
+    slug: UCXIN3HIH0eon5hVYYpnoNuQ
+    url: https://www.youtube.com/channel/UCXIN3HIH0eon5hVYYpnoNuQ
+    description: ""
+    subscribers: 20834
 slug: azurescapegoat
 subscribers: 19054
 tags:

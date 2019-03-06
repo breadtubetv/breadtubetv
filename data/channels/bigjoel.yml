@@ -1,5 +1,12 @@
 description: I make video essays and deep dives about movies and other things.
 name: Big Joel
+providers:
+  youtube:
+    name: Big Joel
+    slug: UCaN8DZdc8EHo5y1LsQWMiig
+    url: https://www.youtube.com/channel/UCaN8DZdc8EHo5y1LsQWMiig
+    description: ""
+    subscribers: 139659
 slug: bigjoel
 subscribers: 127975
 tags:

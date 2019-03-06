@@ -1,5 +1,12 @@
 description: The revolution will not be televised.
 name: Hasan Piker
+providers:
+  youtube:
+    name: Hasan Piker
+    slug: UCtoaZpBnrd0lhycxYJ4MNOQ
+    url: https://www.youtube.com/channel/UCtoaZpBnrd0lhycxYJ4MNOQ
+    description: ""
+    subscribers: 33360
 slug: hasanabi
 subscribers: 28198
 tags:

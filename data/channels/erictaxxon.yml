@@ -1,5 +1,12 @@
 description: I make music (maybe)(and media video essays)
 name: Eric Taxxon
+providers:
+  youtube:
+    name: Eric Taxxon
+    slug: UCOjLfFE0TABS9bk05oH-kgw
+    url: https://www.youtube.com/channel/UCOjLfFE0TABS9bk05oH-kgw
+    description: ""
+    subscribers: 24958
 slug: erictaxxon
 subscribers: 23591
 tags:

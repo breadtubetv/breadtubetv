@@ -11,7 +11,7 @@ import (
 
 // importCmd represents the import command
 var importCmd = &cobra.Command{
-	Use:   "import [slug] [provider] [channel_url]",
+	Use:   "import <slug> <provider> <channel_url>",
 	Short: "Import a channel into BreadtubeTV",
 	Long: fmt.Sprintf(`Add the supplied channel into BreadtubeTV, without having to edit JSON.
 	
@@ -37,8 +37,4 @@ var importCmd = &cobra.Command{
 
 func init() {
 	channelCmd.AddCommand(importCmd)
-}
-
-func importChannel(channelURL string) {
-	fmt.Printf("called %s\n", channelURL)
 }
