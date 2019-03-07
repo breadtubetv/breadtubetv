@@ -9,3 +9,5 @@ fields:
   name: tags
   label: Tags
 - type: textarea
+pages:
+- content/news.md
