@@ -1,6 +1,6 @@
 ---
 label: Playlist
-hide_body: true
+hide_body: false
 fields:
 - name: title
   label: Title
