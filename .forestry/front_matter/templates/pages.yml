@@ -1,6 +1,7 @@
 ---
 label: Pages
 hide_body: false
+display_field: tags
 fields:
 - type: text
   name: title
