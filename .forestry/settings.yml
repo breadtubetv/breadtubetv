@@ -5,6 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: data/channels
+  label: Channels Data
+  create: all
+  match: "**/*"
+  new_doc_ext: ".yml"
+- type: directory
   path: content/playlists
   label: Playlists
   create: all
