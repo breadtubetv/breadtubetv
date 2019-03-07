@@ -309,12 +309,13 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .list > li {
-  padding: 0 0 2rem 1rem;
+  padding: 0 1rem 2rem 1rem;
 }
 
 @media (min-width: 768px) {
   .list > li {
     flex-basis: 25%;
+    padding: 0 0 2rem 1rem;
   }
 }
 
