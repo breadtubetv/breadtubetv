@@ -68,7 +68,25 @@ func TestChannelUnmarshalYAML_NewFormat(t *testing.T) {
 	patreonProvider := channel.Providers["patreon"]
 	assert.Equal(t, MustParseURL("https://www.patreon.com/anarchopac"), patreonProvider.URL)
 
-	assert.Len(t, channel.remnant, 2)
+	// subscribers is omitted because it's nil
+	assert.Len(t, channel.remnant, 1)
+}
+
+func TestChannelUnmarshalYAML_Nils(t *testing.T) {
+	channel := Channel{}
+
+	err := yaml.Unmarshal([]byte(`name: "anarchopac"
+slug: nil
+description:
+subscribers:
+providers:
+  youtube:
+    name:
+    url: null
+    subscribers:
+    description:
+`), &channel)
+	assert.NoError(t, err)
 }
 
 func TestChannelYouTubeURL(t *testing.T) {
@@ -81,4 +99,23 @@ func TestChannelYouTubeURL(t *testing.T) {
 	err = yaml.Unmarshal([]byte(channelYAMLOldFormat), &channel)
 	assert.NoError(t, err)
 	assert.Equal(t, MustParseURL("https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ"), channel.YouTubeURL())
+}
+
+func TestChannelUnmarshalYAML_NilsURLFallback(t *testing.T) {
+	channel := Channel{}
+
+	err := yaml.Unmarshal([]byte(`name: "anarchopac"
+slug: nil
+description:
+subscribers:
+url: http://youtube.com/channel/cancelled
+providers:
+  youtube:
+    name:
+    url: null
+    subscribers:
+    description:
+`), &channel)
+	assert.NoError(t, err)
+	assert.Equal(t, MustParseURL("http://youtube.com/channel/cancelled"), channel.YouTubeURL())
 }
