@@ -32,7 +32,7 @@ sections:
   match: "**/*"
   new_doc_ext: yml
 - type: document
-  path: content/_redirect
+  path: content/_redirects
   label: Redirects
 upload_dir: static/img/channels
 public_path: "/img/channels"
