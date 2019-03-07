@@ -5,6 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: static/img/channels
+  label: Images / Channels
+  create: all
+  match: "**/*"
+  new_doc_ext: ".jpg"
+- type: directory
   path: content/playlists
   label: Playlists
   create: all
