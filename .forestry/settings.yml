@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: _redirect
+  label: Redirects
+  match: "**/*"
 - type: directory
   path: content/playlists
   label: Playlists
