@@ -1,4 +1,7 @@
 ---
 label: Pages
 hide_body: false
-fields: []
+fields:
+- type: tag_list
+  name: tags
+  label: Tags
