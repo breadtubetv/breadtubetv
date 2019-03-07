@@ -9,7 +9,7 @@ sections:
   label: Videos Data
   create: all
   match: "**/*"
-  new_doc_ext: ".yml"
+  new_doc_ext: yml
 - type: directory
   path: data/channels
   label: Channels Data
