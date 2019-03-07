@@ -39,7 +39,13 @@ func updateChannelList(args []string) {
 			continue
 		}
 
-		youtube, err := providers.FetchDetails(channel.YouTubeURL())
+		url := channel.YouTubeURL()
+		if url == nil {
+			log.Printf("Failed to update channel %s (%s), missing URL", channel.Name, channel.Slug)
+			continue
+		}
+
+		youtube, err := providers.FetchDetails(url)
 
 		channel.Providers["youtube"] = youtube
 
@@ -54,7 +60,13 @@ func updateChannels() {
 	channels := util.LoadChannels("../data/channels")
 
 	for _, channel := range channels {
-		youtube, err := providers.FetchDetails(channel.YouTubeURL())
+		url := channel.YouTubeURL()
+		if url == nil {
+			log.Printf("Failed to update channel %s (%s), missing URL", channel.Name, channel.Slug)
+			continue
+		}
+
+		youtube, err := providers.FetchDetails(url)
 
 		channel.Providers["youtube"] = youtube
 
