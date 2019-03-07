@@ -24,7 +24,9 @@ type Channel struct {
 // falls back to the top level channel URL if it's not found.
 func (c Channel) YouTubeURL() *URL {
 	if youtube, ok := c.Providers["youtube"]; ok {
-		return youtube.URL
+		if youtube.URL != nil {
+			return youtube.URL
+		}
 	}
 	if urlStr, ok := c.remnant["url"]; ok {
 		if url, ok := urlStr.(string); ok {
@@ -65,6 +67,10 @@ func (c *Channel) UnmarshalYAML(unmarshal func(interface{}) error) error {
 
 	channel := Channel{Providers: make(map[string]Provider), remnant: make(map[string]interface{})}
 	for key, value := range values {
+		if value == nil {
+			continue
+		}
+
 		switch strings.ToLower(key) {
 		case "name":
 			name, ok := value.(string)
@@ -157,6 +163,10 @@ func unmarshalProvider(values map[interface{}]interface{}, out *Provider) error 
 		name, ok := key.(string)
 		if !ok {
 			return fmt.Errorf("error parsing provider field: '%+v', %T is not a string", name, name)
+		}
+
+		if value == nil {
+			continue
 		}
 
 		switch strings.ToLower(name) {
