@@ -9,7 +9,7 @@ sections:
   label: Channels Data
   create: all
   match: "**/*"
-  new_doc_ext: ".yml"
+  new_doc_ext: yml
 - type: directory
   path: content/playlists
   label: Playlists
