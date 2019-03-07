@@ -9,7 +9,7 @@ sections:
   label: Images / Channels
   create: all
   match: "**/*"
-  new_doc_ext: ".jpg"
+  new_doc_ext: jpg
 - type: directory
   path: content/playlists
   label: Playlists
