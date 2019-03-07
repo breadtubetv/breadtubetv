@@ -2,6 +2,10 @@
 label: Pages
 hide_body: false
 fields:
+- type: text
+  name: title
+  label: Title
 - type: tag_list
   name: tags
   label: Tags
+- type: textarea
