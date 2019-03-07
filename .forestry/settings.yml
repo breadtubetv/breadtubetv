@@ -27,7 +27,7 @@ sections:
   new_doc_ext: yml
 - type: directory
   path: data/channels
-  label: Data / Videos
+  label: Data / Channels
   create: all
   match: "**/*"
   new_doc_ext: yml
