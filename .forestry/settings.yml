@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _redirect
-  label: Redirects
-  match: "**/*"
 - type: directory
   path: content/playlists
   label: Playlists
@@ -35,6 +31,10 @@ sections:
   create: all
   match: "**/*"
   new_doc_ext: yml
+- type: document
+  path: _redirect
+  label: Redirects
+  match: "**/*"
 upload_dir: static/img/channels
 public_path: "/img/channels"
 front_matter_path: ''
