@@ -8,5 +8,6 @@ providers:
     description: ""
     subscribers: 6550
 slug: thedoubletake
+subscribers: 6550
 tags:
 - breadtube
