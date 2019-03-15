@@ -7,6 +7,5 @@ providers:
     description: ""
     subscribers: 1
 slug: rotfrontgaming
-subscribers: 1
 tags:
   - breadtube
