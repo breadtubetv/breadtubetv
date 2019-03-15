@@ -1,7 +1,13 @@
 description: Leftist, Anarchist, Communist, Feminist video essays.
 name: NonCompete
+providers:
+  youtube:
+    name: NonCompete
+    slug: UCkZFKKK-0YB0FvwoS8P7nHg
+    url: https://www.youtube.com/channel/UCkZFKKK-0YB0FvwoS8P7nHg
+    description: ""
+    subscribers: 33019
 slug: noncompete
-subscribers: 19276
 tags:
 - breadtube
-url: https://www.youtube.com/noncompete
+url: https://www.youtube.com/channel/UCkZFKKK-0YB0FvwoS8P7nHg

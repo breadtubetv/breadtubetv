@@ -1,6 +1,12 @@
 name: Erin Collective
+providers:
+  youtube:
+    name: Erin Collective
+    slug: UCrH-hm2BOaOgxlPr1gxcttQ
+    url: https://www.youtube.com/channel/UCrH-hm2BOaOgxlPr1gxcttQ
+    description: ""
+    subscribers: 645
 slug: erincollective
-subscribers: 515
 tags:
 - breadtube
-url: https://www.youtube.com/erincollective
+url: https://www.youtube.com/channel/UCrH-hm2BOaOgxlPr1gxcttQ

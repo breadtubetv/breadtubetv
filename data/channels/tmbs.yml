@@ -1,6 +1,12 @@
 name: The Michael Brooks Show
+providers:
+  youtube:
+    name: The Michael Brooks Show
+    slug: UCh2UY1hxlMr4_7Az_iQ82HQ
+    url: https://www.youtube.com/channel/UCh2UY1hxlMr4_7Az_iQ82HQ
+    description: ""
+    subscribers: 32020
 slug: tmbs
-subscribers: 22939
 tags:
 - breadtube
-url: https://www.youtube.com/TheMichaelBrooksShow
+url: https://www.youtube.com/channel/UCh2UY1hxlMr4_7Az_iQ82HQ

@@ -1,6 +1,12 @@
 name: Mexie
+providers:
+  youtube:
+    name: Mexie
+    slug: UCepkun0sH16b-mqxBN22ogA
+    url: https://www.youtube.com/channel/UCepkun0sH16b-mqxBN22ogA
+    description: ""
+    subscribers: 32287
 slug: mexie
-subscribers: 26058
 tags:
 - breadtube
-url: https://www.youtube.com/Mexie
+url: https://www.youtube.com/channel/UCepkun0sH16b-mqxBN22ogA

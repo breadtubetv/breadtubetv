@@ -1,8 +1,13 @@
 description: Austramerican thinking about politics, economics, and technology during
   the people's struggle to survive the collapse of capitalism.
 name: Dirk Kelly
+providers:
+  youtube:
+    name: Dirk Kelly
+    slug: UC6YURf7CpM2hH1AxxbelTrg
+    url: https://www.youtube.com/channel/UC6YURf7CpM2hH1AxxbelTrg
+    description: ""
+    subscribers: 17
 slug: dirkkelly
-subscribers: 12
 tags:
 - breadtube
-url: https://www.youtube.com/dirkkelly
