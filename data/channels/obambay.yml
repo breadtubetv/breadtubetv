@@ -8,6 +8,5 @@ providers:
     description: ""
     subscribers: 1340
 slug: obambay
-subscribers: 1340
 tags:
   - breadtube
