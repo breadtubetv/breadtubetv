@@ -10,11 +10,11 @@ providers:
     subscribers: 0
   youtube:
     name: The Serfs
-    slug: ""
-    url: https://youtube.com/theserfstv
+    slug: UCEWrkBTDSYqJzQmp8gxQiMw
+    url: https://www.youtube.com/channel/UCEWrkBTDSYqJzQmp8gxQiMw
     description: ""
-    subscribers: 5483
+    subscribers: 6019
 slug: theserfs
-subscribers: 5483
 tags:
 - breadtube
+url: https://www.youtube.com/channel/UCEWrkBTDSYqJzQmp8gxQiMw
