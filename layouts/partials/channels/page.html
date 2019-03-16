@@ -16,6 +16,7 @@
 {{ end }}
 
 <ul class="list plain-list">
+  {{ partial "channels/card.html" (dict "channel" $channel "target_blank" false) }}
   {{ $videos := $.Site.Data.videos }}
   {{ range $channelSlug, $channelVideos := $videos }}
     {{ range $videoID, $video := $channelVideos }}
