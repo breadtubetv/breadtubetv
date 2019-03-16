@@ -8,7 +8,7 @@
     </div>
     <div class="channel-text">
       <div class="channel-title">
-        <a class="channel-link" href="/channels/{{ .channel.slug }}">
+        <a class="channel-link" href="{{ .channel.providers.youtube.url }}" target="_blank">
           {{ .channel.name }}
         </a>
       </div>
@@ -22,7 +22,4 @@
       {{ end }}
     </div>
   </div>
-  <a href="{{ or .channel.providers.youtube.url .channel.url }}" target="_blank">
-    YouTube
-  </a>
 </li>
