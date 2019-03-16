@@ -435,7 +435,7 @@ button, select, input, textarea { font-family: inherit; }
   margin-bottom: 0.25rem;
 }
 
-.channel-link::after {
+.channel-link::before {
   bottom: 0;
   content: '';
   left: 0;
