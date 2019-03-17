@@ -2,7 +2,8 @@
   {{ .Site.Title }}
 </h1>
 <p class="header-intro">{{ .Site.Params.description }}</p>
-<div class="header-link">
+<div class="header-action">
+  <input id="search" type="search" placeholder="Search" class="header-search" autofocus />
   {{ if in .Permalink "playlists" }}
   <div>
     <a href="/playlists/new/" class="header-add">Add a Playlist</a>

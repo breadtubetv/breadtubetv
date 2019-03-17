@@ -1,0 +1,43 @@
+<script src="/js/fuse.js" type="text/javascript"></script>
+
+<script>
+var list = [
+  {{ range sort .Site.Data.channels "name" "asc" }}
+    {{ $tags := .tags }}
+    {
+      'name': "{{ .name }}",
+      'slug': "{{ .slug }}",
+      'tags': {{ .tags }},
+    },
+  {{ end }}
+]
+var options = {
+  shouldSort: true,
+  threshold: 0,
+  location: 0,
+  distance: 0,
+  maxPatternLength: 32,
+  minMatchCharLength: 1,
+  id: "slug",
+  keys: [
+    "slug", "tags"
+  ]
+};
+var fuse = new Fuse(list, options); // "list" is the item array
+
+// Add active class to the current control button (highlight it)
+var search = document.getElementById("search");
+var list = document.getElementsByClassName("list")[0];
+var items = list.children;
+
+search.addEventListener("keyup", function() {
+  var query = this.value;
+  list.classList.toggle('searching', query.length > 0);
+  var results = fuse.search(query);
+  for (var i = 0; i < items.length; i++) {
+    var item = items[i];
+    item.classList.toggle('found', results.indexOf(item.id) > -1);
+    console.log(results.indexOf(item.id) > 0);
+  }
+});
+</script>
