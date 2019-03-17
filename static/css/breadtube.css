@@ -226,6 +226,14 @@ button, select, input, textarea { font-family: inherit; }
   text-transform: uppercase;
 }
 
+.header-logo img {
+	height: 18px;
+	float: left;
+	margin-right: 5px;
+	margin-top: 3px;
+	border-radius: 10px;
+}
+
 .header-intro {
   color: #5d4c5c;
   font-size: 1.25rem;
