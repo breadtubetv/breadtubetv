@@ -36,6 +36,10 @@ function listSearch(query) {
     var item = items[i];
     item.classList.toggle('found', results.indexOf(item.id) > -1);
   }
+
+  if(search.value.length == 0) {
+    search.value = query;
+  }
 }
 
 search.addEventListener("keyup", function() {
