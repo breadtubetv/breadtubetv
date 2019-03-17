@@ -7,6 +7,7 @@ var list = [
       'name': "{{ .name }}",
       'slug': "{{ .slug }}",
       'tags': {{ .tags }},
+      'description': {{ .description }},
     },
   {{ end }}
 ]
@@ -19,7 +20,7 @@ var options = {
   minMatchCharLength: 1,
   id: "slug",
   keys: [
-    "name", "slug", "tags"
+    "name", "slug", "tags", "description"
   ]
 };
 var fuse = new Fuse(list, options);
