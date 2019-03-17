@@ -1,0 +1,10 @@
+description: A new channel that specialises in Marxist and anarchist theory.
+name: Red Plateaus
+providers:
+  youtube:
+    name: Red Plateaus
+    slug: UCsln1E-ttrNPsMivrnf9V7w
+    url: https://www.youtube.com/channel/UCsln1E-ttrNPsMivrnf9V7w
+    description: ""
+    subscribers: 1209
+slug: redplateaus
