@@ -240,6 +240,15 @@ button, select, input, textarea { font-family: inherit; }
   margin-bottom: 0.5rem;
 }
 
+.header-search {
+  float: left;
+  max-width: 140px;
+  border-radius: 1rem;
+  padding: 0.5rem 1rem;
+  border: 2px solid #f9bcff;
+  margin-right: 0.5rem;
+}
+
 .header-add {
   border: 2px solid #f9bcff;
   border-radius: 1rem;
@@ -318,6 +327,14 @@ button, select, input, textarea { font-family: inherit; }
 
 .list > li {
   padding: 0 1rem 2rem 1rem;
+}
+
+.list.searching > li {
+  display: none;
+}
+
+.list.searching > li.found {
+  display: block;
 }
 
 @media (min-width: 768px) {
