@@ -4,6 +4,7 @@ title = "BreadTube"
 
 [ params ]
 description = "Quality content going against the prevailing winds of the internet."
+logo = "/img/breadtube.png"
 targetBlank = true
 defaultTags = []
 
@@ -18,23 +19,29 @@ url = "/playlists/"
 [[ menu.footer ]]
 name = "Discord"
 url = "/discord"
+weight = 1
 
 [[ menu.footer ]]
 name = "Twitter"
 url = "/twitter"
-
-[[ menu.footer ]]
-name = "Facebook"
-url = "/facebook"
-
-[[ menu.footer ]]
-name = "Tumblr"
-url = "/tumblr"
+weight = 2
 
 [[ menu.footer ]]
 name = "YouTube"
 url = "/youtube"
+weight = 3
+
+[[ menu.footer ]]
+name = "Facebook"
+url = "/facebook"
+weight = 4
+
+[[ menu.footer ]]
+name = "Tumblr"
+url = "/tumblr"
+weight = 5
 
 [[ menu.footer ]]
 name = "Github"
 url = "/github"
+weight = 6
