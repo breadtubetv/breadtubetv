@@ -1,4 +1,5 @@
-description: Independent political commentary, media criticism, news and entertainment, with petty attempts at comedy; hosted by David Doel.
+description: Independent political commentary, media criticism, news and entertainment,
+  with petty attempts at comedy; hosted by David Doel.
 name: The Rational National
 providers:
   youtube:
@@ -6,9 +7,9 @@ providers:
     slug: UCo9oQdIk1MfcnzypG3UnURA
     url: https://www.youtube.com/channel/UCo9oQdIk1MfcnzypG3UnURA
     description: ""
-    subscribers: 142789
+    subscribers: 146624
 slug: rationalnational
 subscribers: 142789
 tags:
-  - breadtube
-  - news
+- breadtube
+- news
