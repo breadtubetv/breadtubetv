@@ -39,7 +39,7 @@ function listSearch(query) {
   }
 
   if(search.value.length == 0) {
-    search.value = query;
+    search.value = query.replace("%20"," ");
   }
 }
 
