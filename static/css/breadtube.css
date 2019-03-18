@@ -218,7 +218,6 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .header-logo {
-  color: #880e7d;
   font-size: 1.25rem;
   font-weight: 700;
   letter-spacing: 0.25em;
@@ -226,12 +225,13 @@ button, select, input, textarea { font-family: inherit; }
   text-transform: uppercase;
 }
 
-.header-logo img {
-	height: 18px;
-	float: left;
-	margin-right: 5px;
-	margin-top: 3px;
-	border-radius: 10px;
+.header-logo a {
+  color: #880e7d;
+  text-decoration: none;
+}
+
+.header-logo a:hover {
+  text-decoration: underline;
 }
 
 .header-intro {
