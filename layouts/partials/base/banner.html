@@ -8,7 +8,7 @@
     <a href="/playlists/new/" class="header-add">Add a Playlist</a>
   </div>
   {{ else }}
-    {{ if not (in .Permalink "new") }}
+    {{ if and (not (in .Permalink "new")) (not (in .Permalink "blog")) }}
       <input id="search" type="search" placeholder="Search" class="header-search" autofocus />
     {{ end }}
   <div>
