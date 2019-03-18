@@ -189,6 +189,10 @@ ul {
   padding: 0;
 }
 
+.content {
+  max-width: 45rem;
+}
+
 button, select, input, textarea { font-family: inherit; }
 
 /* Container */
@@ -214,7 +218,7 @@ button, select, input, textarea { font-family: inherit; }
   background: #fff;
   border-bottom: 1px solid #aea6ad;
   border-top: 8px solid #a60e95;
-  padding-top: 2rem;
+  padding-top: 1.5rem;
 }
 
 .header-logo {
@@ -304,7 +308,7 @@ button, select, input, textarea { font-family: inherit; }
   color: #333;
   font-size: 1.5rem;
   font-weight: 600;
-  margin: 2rem 0 0.5rem;
+  margin: 1rem 0 0.5rem;
 }
 
 .heading + .list {
@@ -547,6 +551,21 @@ button, select, input, textarea { font-family: inherit; }
   float: left;
   padding-top: 6px;
 }
+
+.content p, .content li {
+  margin-bottom: 0.5rem;
+}
+
+.content img {
+  margin-bottom: 1.5rem;
+}
+
+
+.content ul {
+  list-style: disc;
+  margin-left: 1.25rem;
+}
+
 
 /* Footer */
 .footer {
