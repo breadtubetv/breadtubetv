@@ -1,0 +1,15 @@
+name: The Jimmy Dore Show
+providers:
+  youtube:
+    name: The Jimmy Dore Show
+    slug: UC3M7l8ved_rYQ45AVzS0RGA
+    url: https://www.youtube.com/channel/UC3M7l8ved_rYQ45AVzS0RGA
+    description: ""
+    subscribers: 511245
+slug: thejimmydoreshow
+tags:
+- breadtube
+- comedy
+- news
+- america
+- theyoungturks
