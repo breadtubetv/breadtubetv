@@ -1,0 +1,13 @@
+description: Name's Ron. I'm 30, I live in Springfield (Illinois), and I'm an activist.
+  By which I mean I'm a fat slob who goes out on marches sometimes.
+name: Ron
+providers:
+  youtube:
+    name: Ron
+    slug: UCX7gQJZG4T8j6eFruOdF_Zw
+    url: https://www.youtube.com/channel/UCX7gQJZG4T8j6eFruOdF_Zw
+    description: ""
+    subscribers: 646
+slug: ron
+tags:
+- breadtube
