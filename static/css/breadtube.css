@@ -313,10 +313,6 @@ button, select, input, textarea { font-family: inherit; }
   margin: 1rem 0 0.5rem;
 }
 
-.heading + .list {
-  margin: 1em -1rem 0;
-}
-
 /* Lists */
 .list-heading {
   margin: 1rem 0 0rem;
@@ -324,11 +320,11 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .list-heading + .list {
-  margin: 1em -1rem 0;
+  margin: 1em 0 0 -1rem;
 }
 
 .list {
-  margin: 2rem -1rem 0;
+  margin: 2rem 0 0 -1rem;
 }
 
 .list > li {
