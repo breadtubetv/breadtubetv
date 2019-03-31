@@ -249,7 +249,6 @@ button, select, input, textarea { font-family: inherit; }
   border-radius: 1rem;
   padding: 0.5rem 1rem;
   border: 2px solid #f9bcff;
-  margin-right: 0.5rem;
 }
 
 .header-add {
