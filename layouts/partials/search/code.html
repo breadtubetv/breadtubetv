@@ -31,24 +31,27 @@ var items = list.children;
 function listSearch(query) {
   list.classList.toggle('searching', query.length > 0);
 
-  window.location.hash = 'search:' + query;
-  var results = fuse.search(query);
-  for (var i = 0; i < items.length; i++) {
-    var item = items[i];
-    item.classList.toggle('found', results.indexOf(item.id) > -1);
-  }
-
-  if(search.value.length == 0) {
-    search.value = query.replace("%20"," ");
+  if(query.length > 0) {
+    window.location.hash = 'search:' + query;
+    var results = fuse.search(query);
+    for (var i = 0; i < items.length; i++) {
+      var item = items[i];
+      item.classList.toggle('found', results.indexOf(item.id) > -1);
+    }
+  } else {
+    history.pushState('', document.title, window.location.pathname);
   }
 }
 
 search.addEventListener("keyup", function() {
-  var query = this.value;
-  listSearch(query);
+  listSearch(this.value);
 });
 
-if(window.location.hash && window.location.hash.indexOf('search') > -1) {
+if(window.location.hash && window.location.hash.indexOf('search:') > -1) {
   listSearch(window.location.hash.replace("#search:",""));
+}
+
+if(window.location.hash == '#about') {
+  window.scrollTo(0,document.body.scrollHeight);
 }
 </script>
