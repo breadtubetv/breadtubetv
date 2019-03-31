@@ -252,10 +252,6 @@ button, select, input, textarea { font-family: inherit; }
   margin-right: 0.5rem;
 }
 
-.header-search:focus {
-  outline: none;
-}
-
 .header-add {
   border: 2px solid #f9bcff;
   border-radius: 1rem;
@@ -301,7 +297,6 @@ button, select, input, textarea { font-family: inherit; }
   margin-bottom: -2px;
   padding: 1rem 0;
   border-bottom: 4px solid transparent;
-  text-decoration: none;
   cursor: pointer;
 }
 
