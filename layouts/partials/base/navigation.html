@@ -3,11 +3,7 @@
     {{- $currentPage := . -}}
     {{ range .Site.Menus.main -}}
       <li>
-        {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
-        <strong class="nav-link is-active">{{ .Name }}</strong>
-        {{ else }}
-        <a href="{{ .URL | absLangURL }}" class="nav-link">{{ .Name }}</a>
-        {{ end }}
+        <a href="{{ .URL | absLangURL }}" class="nav-link {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} is-active{{ end }}">{{ .Name }}</a>
       </li>
     {{- end }}
   </ul>

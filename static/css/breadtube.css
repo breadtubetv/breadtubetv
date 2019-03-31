@@ -245,12 +245,15 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .header-search {
-  float: left;
-  max-width: 140px;
+  width: 100%;
   border-radius: 1rem;
   padding: 0.5rem 1rem;
   border: 2px solid #f9bcff;
   margin-right: 0.5rem;
+}
+
+.header-search:focus {
+  outline: none;
 }
 
 .header-add {
@@ -260,6 +263,7 @@ button, select, input, textarea { font-family: inherit; }
   font-weight: bold;
   padding: 0.5rem 1rem;
   text-decoration: none;
+  background: white;
 }
 
 .header-add:hover {
@@ -297,10 +301,13 @@ button, select, input, textarea { font-family: inherit; }
   margin-bottom: -2px;
   padding: 1rem 0;
   border-bottom: 4px solid transparent;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .nav-link.is-active {
   border-bottom-color: #db19c8;
+  font-weight: bold;
 }
 
 /* Heading */
@@ -322,11 +329,7 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .list {
-  margin: 2rem -1rem 0;
-}
-
-.list-heading + .list {
-  margin: 1em -1rem 0;
+  margin: 1rem -1rem 0;
 }
 
 .list > li {
