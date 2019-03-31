@@ -9,8 +9,28 @@
       {{ partial "base/navigation.html" . }}
     </header>
     <main class="container">
+      <div class="header-action" style="margin-top: 10px">
+        <div>
+          {{ if and (not (in .Permalink "new")) (not (in .Permalink "blog")) }}
+            {{ if not (in .Permalink "playlists") }}
+              <input id="search" type="search" placeholder="Search" class="header-search" autofocus />
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
       {{ block "main" . }}
       {{ end }}
+      <div class="header-action" style="margin-top: 10px">
+        <div>
+          {{ if and (not (in .Permalink "new")) (not (in .Permalink "blog")) }}
+            {{ if in .Permalink "playlists" }}
+              <a href="/playlists/new/" class="header-add">Add Playlist</a>
+            {{ else }}
+              <a href="/channels/new/" class="header-add">Add Channel</a>
+            {{ end }}
+          {{ end }}
+        </div>
+      </div>
     </main>
     {{ partial "base/footer.html" . }}
     {{ partial "base/search.html" . }}

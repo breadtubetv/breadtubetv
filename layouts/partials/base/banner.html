@@ -2,17 +2,3 @@
   <a href="/">{{ .Site.Title }}</a>
 </h1>
 <p class="header-intro">{{ .Site.Params.description }}</p>
-<div class="header-action">
-  {{ if in .Permalink "playlists" }}
-  <div>
-    <a href="/playlists/new/" class="header-add">Add a Playlist</a>
-  </div>
-  {{ else }}
-    {{ if and (not (in .Permalink "new")) (not (in .Permalink "blog")) }}
-      <input id="search" type="search" placeholder="Search" class="header-search" autofocus />
-    {{ end }}
-  <div>
-    <a href="/channels/new/" class="header-add">Add a Channel</a>
-  </div>
-  {{ end }}
-</div>
