@@ -10,29 +10,15 @@
     </header>
     <main class="container">
       <div class="header-action" style="margin-top: 10px">
-        <div>
-          {{ if and (not (in .Permalink "new")) (not (in .Permalink "blog")) }}
-            {{ if not (in .Permalink "playlists") }}
-              <input id="search" type="search" placeholder="Search" class="header-search" autofocus />
-            {{ end }}
-          {{ end }}
-        </div>
+        {{ partial "search/bar.html" . }}
       </div>
       {{ block "main" . }}
       {{ end }}
       <div class="header-action" style="margin-top: 10px">
-        <div>
-          {{ if and (not (in .Permalink "new")) (not (in .Permalink "blog")) }}
-            {{ if in .Permalink "playlists" }}
-              <a href="/playlists/new/" class="header-add">Add Playlist</a>
-            {{ else }}
-              <a href="/channels/new/" class="header-add">Add Channel</a>
-            {{ end }}
-          {{ end }}
-        </div>
+        {{ partial "base/create.html" . }}
       </div>
     </main>
     {{ partial "base/footer.html" . }}
-    {{ partial "base/search.html" . }}
+    {{ partial "search/code.html" . }}
   </body>
 </html>
