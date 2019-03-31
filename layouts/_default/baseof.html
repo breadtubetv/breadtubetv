@@ -9,14 +9,9 @@
       {{ partial "base/navigation.html" . }}
     </header>
     <main class="container">
-      <div class="header-action" style="margin-top: 10px">
-        {{ partial "search/bar.html" . }}
-      </div>
+      {{ partial "search/bar.html" . }}
       {{ block "main" . }}
       {{ end }}
-      <div class="header-action" style="margin-top: 10px">
-        {{ partial "base/create.html" . }}
-      </div>
     </main>
     {{ partial "base/footer.html" . }}
     {{ partial "search/code.html" . }}

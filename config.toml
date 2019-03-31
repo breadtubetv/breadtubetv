@@ -23,6 +23,11 @@ name = "Blog"
 url = "/blog/"
 weight = 3
 
+[[ menu.main ]]
+name = "About"
+url = "#about"
+weight = 4
+
 [[ menu.footer ]]
 name = "Discord"
 url = "/discord"

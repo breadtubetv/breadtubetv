@@ -1,5 +1,6 @@
-<footer class="footer container">
-  <h2 class="footer-header"> This directory is supported by <a href="/reddit">r/breadtube</a> community.</h2>
+<footer id="about" class="footer container">
+  {{ partial "base/create.html" . }}
+  <h2 class="footer-header"><a href="/">This directory</a> is supported by <a href="/reddit">r/breadtube</a> community.</h2>
   <ul class="footer-list plain-list">
     <li>Join us:</li>
     {{ range .Site.Menus.footer }}
