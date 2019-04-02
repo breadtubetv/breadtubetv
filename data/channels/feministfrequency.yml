@@ -1,0 +1,16 @@
+description: Feminist Frequency is an ongoing series of video commentaries exploring
+  gender representations, myths and messages in popular culture media. Created and
+  hosted by Anita Sarkeesian.
+name: Feminist Frequency
+providers:
+  youtube:
+    name: feministfrequency
+    slug: UC7Edgk9RxP7Fm7vjQ1d-cDA
+    url: https://www.youtube.com/channel/UC7Edgk9RxP7Fm7vjQ1d-cDA
+    description: ""
+    subscribers: 223113
+slug: feministfrequency
+tags:
+- breadtube
+- feminism
+- gaming
