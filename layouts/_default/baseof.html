@@ -9,10 +9,16 @@
       {{ partial "base/navigation.html" . }}
     </header>
     <main class="container">
+      <div class="header-action" style="margin-top: 10px">
+        {{ partial "search/bar.html" . }}
+      </div>
       {{ block "main" . }}
       {{ end }}
+      <div class="header-action" style="margin-top: 10px">
+        {{ partial "base/create.html" . }}
+      </div>
     </main>
     {{ partial "base/footer.html" . }}
-    {{ partial "base/search.html" . }}
+    {{ partial "search/code.html" . }}
   </body>
 </html>

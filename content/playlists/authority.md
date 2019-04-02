@@ -1,5 +1,8 @@
 ---
 title: Critique of Authority
+menu:
+  main:
+    parent: "Playlists"
 videos:
 - vk5xnEL8mYg
 - Yw_RQxNM0Kk
