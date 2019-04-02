@@ -31,7 +31,7 @@ var items = list.children;
 function listSearch(query) {
   list.classList.toggle('searching', query.length > 0);
 
-  window.location.hash = 'search:' + query;
+  window.location.hash = 'search:' + query.toLowerCase();;
   var results = fuse.search(query);
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
