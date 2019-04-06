@@ -1,3 +1,4 @@
+description: Reporting and Analyzing the news objectively, Progressive Liberal
 name: The Progressive Voice
 providers:
   youtube:
@@ -7,3 +8,5 @@ providers:
     description: ""
     subscribers: 37439
 slug: theprogressivevoice
+tags:
+- breadtube
