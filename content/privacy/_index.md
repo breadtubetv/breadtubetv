@@ -28,15 +28,17 @@ Our website uses these "cookies" to collection information and to improve https:
 
 We may employ third-party companies and individuals due to the following reasons:
 
-    To facilitate https://BreadTube.tv;
-    To provide the Service on our behalf;
-    To perform Service-related services; or
-    To assist us in analyzing how https://BreadTube.tv is used.
+- To facilitate https://BreadTube.tv;
+- To provide the Service on our behalf;
+- To perform Service-related services; or
+- To assist us in analyzing how https://BreadTube.tv is used.
 
 We want to inform https://BreadTube.tv users that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
-Security
+
+## Security
 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+
 ## Links to Other Sites
 
 Our Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
