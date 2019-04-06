@@ -1,3 +1,4 @@
+description: "Hey! I'm Rachael. I write novels and help writers get their stories unstuck. I also make videos, coffee and a mess."
 name: Rachael Stephen
 providers:
   youtube:
@@ -7,3 +8,5 @@ providers:
     description: ""
     subscribers: 15806
 slug: rachaelstephen
+tags:
+- breadtube
