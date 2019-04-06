@@ -1,3 +1,4 @@
+description: Irish leftist video essays and all manner of nonsense
 name: PD Morrin
 providers:
   youtube:
@@ -7,3 +8,5 @@ providers:
     description: ""
     subscribers: 1834
 slug: pdmorrin
+tags:
+- breadtube
