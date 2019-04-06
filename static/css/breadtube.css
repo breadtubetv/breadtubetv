@@ -586,10 +586,6 @@ button, select, input, textarea { font-family: inherit; }
   margin: 0 0 0.5rem;
 }
 
-.footer-list {
-  margin-bottom: -0.5rem;
-}
-
 .footer-list > li {
   margin-bottom: 0.5rem;
 }
@@ -681,4 +677,16 @@ button, select, input, textarea { font-family: inherit; }
 
 .d-none {
   display: none;
+}
+
+.text-content h2 {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+  margin-bottom: 0.2rem;
+}
+
+.text-content p {
+  max-width: 35rem;
+  margin-bottom: 0.5rem;
 }

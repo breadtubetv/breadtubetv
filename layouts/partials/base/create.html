@@ -1,9 +1,7 @@
 <div>
-  {{ if and (not (in .Permalink "new")) (not (in .Permalink "blog")) }}
-    {{ if in .Permalink "playlists" }}
-      <a href="/playlists/new/" class="header-add">Add Playlist</a>
-    {{ else }}
-      <a href="/channels/new/" class="header-add">Add Channel</a>
-    {{ end }}
+  {{ if in .Permalink "playlists" }}
+    <a href="/playlists/new/" class="header-add">Add Playlist</a>
+  {{ else }}
+    <a href="/channels/new/" class="header-add">Add Channel</a>
   {{ end }}
 </div>

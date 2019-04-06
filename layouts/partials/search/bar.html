@@ -1,8 +1,4 @@
 <div>
-  {{ if and (not (in .Permalink "new")) (not (in .Permalink "blog")) }}
-    {{ if not (in .Permalink "playlists") }}
-      <label for="search" class="visually-hidden">Search Channels</label>
-      <input id="search" type="search" placeholder="Search Channels" class="header-search" autofocus />
-    {{ end }}
-  {{ end }}
+  <label for="search" class="visually-hidden">Search Channels</label>
+  <input id="search" type="search" placeholder="Search Channels" class="header-search" autofocus />
 </div>
