@@ -7,3 +7,5 @@ providers:
     description: ""
     subscribers: 13056
 slug: faradayspeaks
+tags:
+- breadtube
