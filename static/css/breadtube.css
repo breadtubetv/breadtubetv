@@ -313,6 +313,13 @@ button, select, input, textarea { font-family: inherit; }
   margin: 1rem 0 0.5rem;
 }
 
+.heading-image {
+  max-width: 70px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
 /* Lists */
 .list-heading {
   margin: 1rem 0 0rem;
@@ -321,6 +328,10 @@ button, select, input, textarea { font-family: inherit; }
 
 .list-heading + .list {
   margin: 1em 0 0 -1rem;
+}
+
+.content + .list {
+  margin: 0 0 0 -1rem;
 }
 
 .list {
@@ -548,6 +559,10 @@ button, select, input, textarea { font-family: inherit; }
 .video-metadata .video-channel-name {
   float: left;
   padding-top: 6px;
+}
+
+.content {
+  overflow: hidden;
 }
 
 .content p, .content li {
