@@ -1,5 +1,12 @@
 name: Luna oi!
+permalink: lunaoi
 providers:
+  patreon:
+    name: Luna oi!
+    slug: lunaoi
+    url: https://www.patreon.com/lunaoi
+    description: creating cooking, travelling, culture videos
+    subscribers: 0
   youtube:
     name: Luna oi!
     slug: UCN4l7I2RxGBJ3i_EFi1SzuA
