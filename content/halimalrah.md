@@ -1,6 +1,7 @@
 ---
 title: "Halim Alrah"
 type: "channels"
+channel: "halimalrah"
 menu:
   main:
     parent: "Channels"
