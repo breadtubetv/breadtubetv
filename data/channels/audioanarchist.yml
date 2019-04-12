@@ -1,0 +1,16 @@
+description: Audible Anarchist is a project started and operated by a group of volunteers
+  that seek to bring important anarchist texts to the audio format.
+name: AudibleAnarchist
+providers:
+  youtube:
+    name: AudibleAnarchist
+    slug: UCaO1QA8QL99_eb0XhJI2Fyw
+    url: https://www.youtube.com/channel/UCaO1QA8QL99_eb0XhJI2Fyw
+    description: ""
+    subscribers: 6540
+slug: audioanarchist
+tags:
+- breadtube
+- anarchist
+- education
+- theory
