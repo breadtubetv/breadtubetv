@@ -1,5 +1,6 @@
 description: Leftist, Anarchist, Communist, Feminist video essays.
 name: NonCompete
+permalink: noncompete
 providers:
   youtube:
     name: NonCompete
