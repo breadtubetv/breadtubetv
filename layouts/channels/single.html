@@ -11,18 +11,22 @@
 
   <h1 class="heading"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></h1>
 
-  {{ with $channel.providers.youtube }}
-    <a href="{{ .url }}" target="_blank" title="{{ .name }}">YouTube</a>
-  {{ end }}
-  {{ with $channel.providers.patreon }}
-    <a href="{{ .url }}" target="_blank" title="{{ .name }}">Patreon</a>
-  {{ end }}
-  {{ with $channel.providers.twitter }}
-    <a href="{{ .url }}" target="_blank" title="@{{ .slug }}">Twitter</a>
-  {{ end }}
-  {{ with $channel.providers.instagram }}
-    <a href="{{ .url }}" target="_blank" title="@{{ .slug }}">Instagram</a>
-  {{ end }}
+  <div class="content">
+    <p>{{ $channel.description }}</p>
+
+    {{ with $channel.providers.youtube }}
+      <a href="{{ .url }}" target="_blank" title="{{ .name }}">YouTube</a>
+    {{ end }}
+    {{ with $channel.providers.patreon }}
+      <a href="{{ .url }}" target="_blank" title="{{ .name }}">Patreon</a>
+    {{ end }}
+    {{ with $channel.providers.twitter }}
+      <a href="{{ .url }}" target="_blank" title="@{{ .slug }}">Twitter</a>
+    {{ end }}
+    {{ with $channel.providers.instagram }}
+      <a href="{{ .url }}" target="_blank" title="@{{ .slug }}">Instagram</a>
+    {{ end }}
+  </div>
 
   {{ partial "playlists/videos.html" . }}
 {{ end }}
