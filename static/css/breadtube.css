@@ -670,7 +670,7 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .field-input.is-textarea {
-  min-height: 10rem;
+  min-height: 5rem;
   resize: vertical;
 }
 
