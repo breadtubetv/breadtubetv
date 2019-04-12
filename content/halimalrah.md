@@ -1,10 +1,9 @@
 ---
 title: "Halim Alrah"
+type: "channels"
 menu:
   main:
     parent: "Channels"
-aliases:
-  - /halimalrah
 videos:
 - 5vS4eKwCEC0
 - TLwHsUBIK_A

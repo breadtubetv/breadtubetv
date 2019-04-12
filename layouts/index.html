@@ -1,3 +1,6 @@
 {{ define "main" }}
+  <div class="header-action" style="margin-top: 10px">
+    {{ partial "search/bar.html" . }}
+  </div>
   {{ partial "channels/row.html" . }}
 {{ end }}
