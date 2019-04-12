@@ -1,7 +1,32 @@
 description: In a media landscape blemished with uncertainty two indentured plebs
   bring you their comedic spin on the weekly news.
 name: The Serfs
+permalink: theserfs
 providers:
+  twitch:
+    name: The Serfs
+    slug: theserfstv
+    url: https://www.twitch.com/theserfstv/
+    description: ""
+    subscribers: 0
+  facebook:
+    name: The Serfs
+    slug: serfspodcast
+    url: https://www.facebook.com/serfspodcast/
+    description: ""
+    subscribers: 0
+  twitter:
+    name: The Serfs
+    slug: theserfstv
+    url: https://www.twitter.com/theserfstv/
+    description: ""
+    subscribers: 0
+  instagram:
+    name: The Serfs
+    slug: theserfstv
+    url: https://www.instagram.com/theserfstv/
+    description: ""
+    subscribers: 0
   patreon:
     name: The Serfs
     slug: ""
