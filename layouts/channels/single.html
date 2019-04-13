@@ -36,6 +36,9 @@
     {{ with $channel.providers.facebook }}
       <a href="{{ .url }}" target="_blank" title="{{ .slug }}">Facebook</a>
     {{ end }}
+    {{ with $channel.providers.paypal }}
+      <a href="{{ .url }}" target="_blank" title="{{ .name }}">Paypal</a>
+    {{ end }}
   </div>
 
   {{ partial "playlists/videos.html" . }}
