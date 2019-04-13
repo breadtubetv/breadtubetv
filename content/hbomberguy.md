@@ -5,5 +5,5 @@ channel: hbomberguy
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

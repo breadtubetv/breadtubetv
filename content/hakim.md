@@ -5,5 +5,5 @@ channel: hakim
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

@@ -5,5 +5,5 @@ channel: democracynow
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

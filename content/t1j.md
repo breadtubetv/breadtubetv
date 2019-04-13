@@ -5,5 +5,5 @@ channel: t1j
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

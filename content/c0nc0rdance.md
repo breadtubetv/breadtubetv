@@ -5,5 +5,5 @@ channel: c0nc0rdance
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

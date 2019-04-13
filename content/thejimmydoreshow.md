@@ -5,5 +5,5 @@ channel: thejimmydoreshow
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

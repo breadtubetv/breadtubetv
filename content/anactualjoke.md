@@ -5,5 +5,5 @@ channel: anactualjoke
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

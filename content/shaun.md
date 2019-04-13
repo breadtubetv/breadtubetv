@@ -5,5 +5,5 @@ channel: shaun
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

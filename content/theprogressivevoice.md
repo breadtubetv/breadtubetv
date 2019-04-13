@@ -5,5 +5,5 @@ channel: theprogressivevoice
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

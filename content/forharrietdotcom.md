@@ -5,5 +5,5 @@ channel: forharrietdotcom
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

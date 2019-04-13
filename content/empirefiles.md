@@ -5,5 +5,5 @@ channel: empirefiles
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

@@ -5,5 +5,5 @@ channel: letstalkaboutstuff
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

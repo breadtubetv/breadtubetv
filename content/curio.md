@@ -5,5 +5,5 @@ channel: curio
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

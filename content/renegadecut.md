@@ -5,5 +5,5 @@ channel: renegadecut
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

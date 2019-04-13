@@ -5,5 +5,5 @@ channel: aprivilegedvegan
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

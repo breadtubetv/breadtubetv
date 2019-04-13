@@ -5,5 +5,5 @@ channel: thejuicemedia
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

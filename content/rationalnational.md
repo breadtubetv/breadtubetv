@@ -5,5 +5,5 @@ channel: rationalnational
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

@@ -5,5 +5,5 @@ channel: resonanceaudio
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

@@ -5,5 +5,5 @@ channel: katblaque
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

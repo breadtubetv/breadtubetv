@@ -5,5 +5,5 @@ channel: blackgoat666
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

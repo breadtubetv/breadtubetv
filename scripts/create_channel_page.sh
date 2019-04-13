@@ -11,7 +11,7 @@ channel: $slug
 menu:
   main:
     parent: "Channels"
-vides:
+videos:
 ---" >> "$page";
   fi
 done

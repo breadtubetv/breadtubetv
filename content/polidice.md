@@ -5,5 +5,5 @@ channel: polidice
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

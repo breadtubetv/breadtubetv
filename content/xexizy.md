@@ -5,5 +5,5 @@ channel: xexizy
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

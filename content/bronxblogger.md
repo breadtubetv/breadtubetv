@@ -5,5 +5,5 @@ channel: bronxblogger
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

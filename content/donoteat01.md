@@ -5,5 +5,5 @@ channel: donoteat01
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

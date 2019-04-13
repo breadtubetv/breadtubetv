@@ -5,5 +5,5 @@ channel: libertariansocialistrants
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

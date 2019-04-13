@@ -5,5 +5,5 @@ channel: thegrayzone
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

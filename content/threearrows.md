@@ -5,5 +5,5 @@ channel: threearrows
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

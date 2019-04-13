@@ -5,5 +5,5 @@ channel: brendanmcooney
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

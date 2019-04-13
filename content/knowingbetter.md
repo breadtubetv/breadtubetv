@@ -5,5 +5,5 @@ channel: knowingbetter
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

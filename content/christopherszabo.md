@@ -5,5 +5,5 @@ channel: christopherszabo
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

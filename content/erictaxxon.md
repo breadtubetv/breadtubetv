@@ -5,5 +5,5 @@ channel: erictaxxon
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

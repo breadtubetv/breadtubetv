@@ -5,5 +5,5 @@ channel: badempanada
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

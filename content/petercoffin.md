@@ -5,5 +5,5 @@ channel: petercoffin
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

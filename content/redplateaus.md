@@ -5,5 +5,5 @@ channel: redplateaus
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

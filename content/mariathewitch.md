@@ -5,5 +5,5 @@ channel: mariathewitch
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

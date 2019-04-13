@@ -5,5 +5,5 @@ channel: rotfrontgaming
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

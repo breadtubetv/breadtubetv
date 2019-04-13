@@ -5,5 +5,5 @@ channel: stepbackhistory
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

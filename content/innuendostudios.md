@@ -5,5 +5,5 @@ channel: innuendostudios
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

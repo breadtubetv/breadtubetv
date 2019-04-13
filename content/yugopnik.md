@@ -5,5 +5,5 @@ channel: yugopnik
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

@@ -5,5 +5,5 @@ channel: internetcommentiquette
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

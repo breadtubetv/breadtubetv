@@ -5,5 +5,5 @@ channel: friendlyjordies
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

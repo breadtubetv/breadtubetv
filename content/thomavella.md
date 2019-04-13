@@ -5,5 +5,5 @@ channel: thomavella
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

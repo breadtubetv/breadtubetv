@@ -5,5 +5,5 @@ channel: cultofdusty
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

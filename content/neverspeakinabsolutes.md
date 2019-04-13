@@ -5,5 +5,5 @@ channel: neverspeakinabsolutes
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

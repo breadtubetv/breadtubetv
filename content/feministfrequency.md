@@ -5,5 +5,5 @@ channel: feministfrequency
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

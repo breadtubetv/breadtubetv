@@ -5,5 +5,5 @@ channel: angiespeaks
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

@@ -5,5 +5,5 @@ channel: somemorenews
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

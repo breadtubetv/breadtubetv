@@ -5,5 +5,5 @@ channel: badmouseproductions
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

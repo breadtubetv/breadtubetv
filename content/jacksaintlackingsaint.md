@@ -5,5 +5,5 @@ channel: jacksaintlackingsaint
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

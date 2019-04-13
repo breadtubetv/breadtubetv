@@ -5,5 +5,5 @@ channel: bemundolack
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

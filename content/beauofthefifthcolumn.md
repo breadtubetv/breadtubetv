@@ -5,5 +5,8 @@ channel: beauofthefifthcolumn
 menu:
   main:
     parent: Channels
-vides:
+videos:
+- BmjB7TUroyE
+- 9b3vDdqY1PA
+- LB3HUXdmid4
 ---

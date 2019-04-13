@@ -5,5 +5,5 @@ channel: faradayspeaks
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

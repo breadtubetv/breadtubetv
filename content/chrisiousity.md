@@ -5,5 +5,5 @@ channel: chrisiousity
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

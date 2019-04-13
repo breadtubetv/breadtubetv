@@ -5,5 +5,5 @@ channel: creationistcat
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

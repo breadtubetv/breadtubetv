@@ -5,7 +5,7 @@ channel: earthstrike
 menu:
   main:
     parent: Channels
-vides:
+videos:
 - bxffxnrQDiE
 - QLey2i0hYlc
 aliases:

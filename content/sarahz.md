@@ -5,5 +5,5 @@ channel: sarahz
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

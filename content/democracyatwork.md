@@ -5,5 +5,5 @@ channel: democracyatwork
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

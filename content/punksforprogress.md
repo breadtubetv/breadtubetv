@@ -5,5 +5,5 @@ channel: punksforprogress
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

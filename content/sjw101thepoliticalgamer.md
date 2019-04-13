@@ -5,5 +5,5 @@ channel: sjw101thepoliticalgamer
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

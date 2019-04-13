@@ -5,5 +5,5 @@ channel: rationaldisconnect
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

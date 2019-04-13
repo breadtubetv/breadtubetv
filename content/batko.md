@@ -5,5 +5,5 @@ channel: batko
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

@@ -5,5 +5,5 @@ channel: zerobooks
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

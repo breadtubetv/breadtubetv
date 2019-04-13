@@ -5,5 +5,5 @@ channel: kylekallgrenbhh
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

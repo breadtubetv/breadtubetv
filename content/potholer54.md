@@ -5,5 +5,5 @@ channel: potholer54
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

@@ -5,5 +5,5 @@ channel: hasanabi
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

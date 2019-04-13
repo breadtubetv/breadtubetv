@@ -5,5 +5,5 @@ channel: realmedia
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

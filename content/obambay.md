@@ -5,5 +5,5 @@ channel: obambay
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

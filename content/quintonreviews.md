@@ -5,5 +5,5 @@ channel: quintonreviews
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

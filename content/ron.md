@@ -5,5 +5,5 @@ channel: ron
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

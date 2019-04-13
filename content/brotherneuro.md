@@ -5,5 +5,5 @@ channel: brotherneuro
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

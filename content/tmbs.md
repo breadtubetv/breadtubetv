@@ -5,5 +5,5 @@ channel: tmbs
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

@@ -5,5 +5,5 @@ channel: wisecrack
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

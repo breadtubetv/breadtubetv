@@ -5,5 +5,5 @@ channel: left1ne
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

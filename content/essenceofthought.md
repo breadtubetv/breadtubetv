@@ -5,5 +5,5 @@ channel: essenceofthought
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---

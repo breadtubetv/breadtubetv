@@ -5,5 +5,5 @@ channel: grahamelwood
 menu:
   main:
     parent: Channels
-vides:
+videos:
 ---
