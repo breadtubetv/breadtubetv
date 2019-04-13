@@ -1,11 +1,12 @@
 name: Maria the Witch
+permalink: mariathewitch
 providers:
   youtube:
     name: Maria the Witch
     slug: UCrd-uibzFaauNlPB8-OJ_qQ
     url: https://www.youtube.com/channel/UCrd-uibzFaauNlPB8-OJ_qQ
     description: ""
-    subscribers: 7465
+    subscribers: 7464
 slug: mariathewitch
 tags:
 - breadtube

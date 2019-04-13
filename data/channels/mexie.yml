@@ -1,11 +1,12 @@
 name: Mexie
+permalink: mexie
 providers:
   youtube:
     name: Mexie
     slug: UCepkun0sH16b-mqxBN22ogA
     url: https://www.youtube.com/channel/UCepkun0sH16b-mqxBN22ogA
     description: ""
-    subscribers: 33726
+    subscribers: 33754
 slug: mexie
 tags:
 - breadtube

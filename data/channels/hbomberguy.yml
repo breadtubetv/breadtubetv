@@ -1,12 +1,13 @@
 description: Internet? (media analysis and left video essay)
 name: Hbomberguy
+permalink: hbomberguy
 providers:
   youtube:
     name: hbomberguy
     slug: hbomberguy
     url: https://www.youtube.com/hbomberguy
     description: ""
-    subscribers: 393401
+    subscribers: 393710
 slug: hbomberguy
 tags:
 - breadtube

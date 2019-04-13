@@ -2,13 +2,14 @@ description: (liberal news show) We are a rare show that combines all of the new
   that people care about in one place. We are not afraid to talk about politics and
   entertainment and sports and pop culture. But that is not the revolution either.
 name: The Young Turks
+permalink: theyoungturks
 providers:
   youtube:
     name: The Young Turks
     slug: TheYoungTurks
     url: https://www.youtube.com/TheYoungTurks
     description: ""
-    subscribers: 4310887
+    subscribers: 4311747
 slug: theyoungturks
 tags:
 - news

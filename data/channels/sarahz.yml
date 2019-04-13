@@ -1,12 +1,13 @@
 description: ""
 name: Sarah Z
+permalink: sarahz
 providers:
   youtube:
     name: Sarah Z
     slug: UCK-GxvzttTnNhq3JPYpXhqg
     url: https://www.youtube.com/channel/UCK-GxvzttTnNhq3JPYpXhqg
     description: ""
-    subscribers: 111756
+    subscribers: 111772
 slug: sarahz
 tags:
 - breadtube

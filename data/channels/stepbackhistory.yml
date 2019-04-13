@@ -2,13 +2,14 @@ description: Step Back is a history channel that invites you to consider the pas
   and how it connects to today. We make videos that take a historical topic and look
   at it from a new angle.
 name: Step Back History
+permalink: stepbackhistory
 providers:
   youtube:
     name: Step Back History
     slug: UCxTdWpLJurbGlFMWOwXWG_A
     url: https://www.youtube.com/channel/UCxTdWpLJurbGlFMWOwXWG_A
     description: ""
-    subscribers: 48801
+    subscribers: 48833
 slug: stepbackhistory
 tags:
 - breadtube

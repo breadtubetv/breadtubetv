@@ -8,6 +8,12 @@ providers:
     url: https://www.facebook.com/NonCompeteBlog/
     description: ""
     subscribers: 0
+  mastodon:
+    name: NonCompete
+    slug: emerican
+    url: https://mastodon.social/@emerican
+    description: ""
+    subscribers: 0
   patreon:
     name: NonCompete
     slug: noncompete
@@ -20,18 +26,12 @@ providers:
     url: https://twitter.com/emericanjohnson/
     description: ""
     subscribers: 0
-  mastodon:
-    name: NonCompete
-    slug: emerican
-    url: https://mastodon.social/@emerican
-    description: ""
-    subscribers: 0
   youtube:
     name: NonCompete
     slug: UCkZFKKK-0YB0FvwoS8P7nHg
     url: https://www.youtube.com/channel/UCkZFKKK-0YB0FvwoS8P7nHg
     description: ""
-    subscribers: 47121
+    subscribers: 47339
 slug: noncompete
 tags:
 - breadtube

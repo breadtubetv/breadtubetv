@@ -1,12 +1,13 @@
 description: '#GenuineSatire We make Honest Government Ads & Rap News'
 name: The Juice Media
+permalink: thejuicemedia
 providers:
   youtube:
     name: thejuicemedia
     slug: thejuicemedia
     url: https://www.youtube.com/thejuicemedia
     description: ""
-    subscribers: 186784
+    subscribers: 186836
 slug: thejuicemedia
 tags:
 - breadtube

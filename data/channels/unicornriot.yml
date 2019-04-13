@@ -3,6 +3,7 @@ description: Unicorn Riot is a channel for alternative media, art and culture. A
   Share-Alike. We are a 501(c)(3) non-profit media collective - all donations are
   tax deductible
 name: Unicorn Riot
+permalink: unicornriot
 providers:
   website:
     name: ""
@@ -15,7 +16,7 @@ providers:
     slug: UCeHbMlHDec5NmJfiQXMYGXQ
     url: https://www.youtube.com/channel/UCeHbMlHDec5NmJfiQXMYGXQ
     description: ""
-    subscribers: 4898
+    subscribers: 4897
 slug: unicornriot
 tags:
 - breadtube

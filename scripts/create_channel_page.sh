@@ -1,8 +1,9 @@
 ls data/channels/ | while read data; do
+  name=`sed -n -e 's/^name: //p' data/channels/${data}`;
+  slug=`sed -n -e 's/^slug: //p' data/channels/${data}`;
   page="content/${data%.yml}.md";
+  echo "permalink: $slug" >> "data/channels/${data}";
   if [ ! -e "$page" ]; then
-    name=`sed -n -e 's/^name: //p' data/channels/${data}`;
-    slug=`sed -n -e 's/^slug: //p' data/channels/${data}`;
     echo "---
 title: $name
 type: channels

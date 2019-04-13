@@ -3,22 +3,10 @@ description: In a media landscape blemished with uncertainty two indentured pleb
 name: The Serfs
 permalink: theserfs
 providers:
-  twitch:
-    name: The Serfs
-    slug: theserfstv
-    url: https://www.twitch.com/theserfstv/
-    description: ""
-    subscribers: 0
   facebook:
     name: The Serfs
     slug: serfspodcast
     url: https://www.facebook.com/serfspodcast/
-    description: ""
-    subscribers: 0
-  twitter:
-    name: The Serfs
-    slug: theserfstv
-    url: https://www.twitter.com/theserfstv/
     description: ""
     subscribers: 0
   instagram:
@@ -33,12 +21,24 @@ providers:
     url: https://www.patreon.com/theserfs
     description: ""
     subscribers: 0
+  twitch:
+    name: The Serfs
+    slug: theserfstv
+    url: https://www.twitch.com/theserfstv/
+    description: ""
+    subscribers: 0
+  twitter:
+    name: The Serfs
+    slug: theserfstv
+    url: https://www.twitter.com/theserfstv/
+    description: ""
+    subscribers: 0
   youtube:
     name: The Serfs
     slug: UCEWrkBTDSYqJzQmp8gxQiMw
     url: https://www.youtube.com/channel/UCEWrkBTDSYqJzQmp8gxQiMw
     description: ""
-    subscribers: 16612
+    subscribers: 16887
 slug: theserfs
 tags:
 - breadtube

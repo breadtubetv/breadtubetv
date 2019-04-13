@@ -1,13 +1,14 @@
 description: Liberal Radio Host. Social Democrat. Agnostic-Atheist. Secular Humanist.
   Loyal to the Facts. Principles over Politicians.
 name: Secular Talk
+permalink: seculartalk
 providers:
   youtube:
     name: Secular Talk
     slug: UCldfgbzNILYZA4dmDt4Cd6A
     url: https://www.youtube.com/channel/UCldfgbzNILYZA4dmDt4Cd6A
     description: ""
-    subscribers: 647815
+    subscribers: 647887
 slug: seculartalk
 tags:
 - news

@@ -1,11 +1,12 @@
 name: PoliDice
+permalink: polidice
 providers:
   youtube:
     name: PoliDice
     slug: UCjs0WTUUKk8tvsbG9so6Iag
     url: https://www.youtube.com/channel/UCjs0WTUUKk8tvsbG9so6Iag
     description: ""
-    subscribers: 18804
+    subscribers: 18822
 slug: polidice
 tags:
 - breadtube

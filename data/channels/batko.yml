@@ -1,12 +1,13 @@
 description: Anarchist shitposter
 name: Bat'ko
+permalink: batko
 providers:
   youtube:
     name: Bat'ko
     slug: UC_oi8JESlRbOQW5n7Pl07NA
     url: https://www.youtube.com/channel/UC_oi8JESlRbOQW5n7Pl07NA
     description: ""
-    subscribers: 18866
+    subscribers: 18875
 slug: batko
 tags:
 - breadtube

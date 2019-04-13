@@ -1,12 +1,13 @@
 description: An Iraqi Marxist that makes videos from time to time.
 name: Hakim
+permalink: hakim
 providers:
   youtube:
     name: Hakim
     slug: UCPPZoYsfoSekIpLcz9plX1Q
     url: https://www.youtube.com/channel/UCPPZoYsfoSekIpLcz9plX1Q
     description: ""
-    subscribers: 15456
+    subscribers: 15466
 slug: hakim
 tags:
 - breadtube
