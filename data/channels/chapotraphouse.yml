@@ -1,9 +1,21 @@
 name: Chapo Trap House
+description: "SPEED BOAT DOPE COCAINE GENESIS"
+permalink: chapotraphouse
 providers:
+  twitter:
+    name: Chapo Trap House
+    slug: chapotraphouse
+    url: https://twitter.com/chapotraphouse
   youtube:
     name: Chapo Trap House
     slug: UCokqzNPBJ65raczldVuHAww
     url: https://www.youtube.com/channel/UCokqzNPBJ65raczldVuHAww
     description: ""
     subscribers: 14422
+  patreon:
+    name: Chapo Trap House
+    slug: chapotraphouse
+    url: https://www.patreon.com/chapotraphouse
 slug: chapotraphouse
+tags:
+- breadtube
