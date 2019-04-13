@@ -14,10 +14,12 @@
       <div class="video-description">
         {{ .video.description }}
       </div>
-      <div class="video-metadata">
-        <img alt="{{ .channel.name }}" src="/img/channels/{{ .channel.slug }}.jpg" class="video-channel-image" />
-        <span class="video-channel-name">{{ .channel.name }}</span>
-      </div>
+      {{ if .showChannel }}
+        <div class="video-metadata">
+          <img alt="{{ .channel.name }}" src="/img/channels/{{ .channel.slug }}.jpg" class="video-channel-image" />
+          <span class="video-channel-name">{{ .channel.name }}</span>
+        </div>
+      {{ end }}
     </div>
   </div>
 </li>
