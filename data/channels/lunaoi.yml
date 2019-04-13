@@ -1,11 +1,18 @@
 name: Luna oi!
+permalink: lunaoi
 providers:
+  patreon:
+    name: Luna oi!
+    slug: lunaoi
+    url: https://www.patreon.com/lunaoi
+    description: creating cooking, travelling, culture videos
+    subscribers: 0
   youtube:
     name: Luna oi!
     slug: UCN4l7I2RxGBJ3i_EFi1SzuA
     url: https://www.youtube.com/channel/UCN4l7I2RxGBJ3i_EFi1SzuA
     description: ""
-    subscribers: 2395
+    subscribers: 2414
 slug: lunaoi
 tags:
 - breadtube

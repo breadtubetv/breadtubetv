@@ -1,13 +1,14 @@
 description: was a freakin' housecat dat was zapped by god true dee innernet. Now
   I'm an agent of da lord, Atheists Beware! (satirical take on alt-right/skeptic videos)
 name: Creationist Cat
+permalink: creationistcat
 providers:
   youtube:
     name: Creationist Cat
     slug: creationistcat
     url: https://www.youtube.com/user/creationistcat
     description: ""
-    subscribers: 67503
+    subscribers: 67506
 slug: creationistcat
 tags:
 - breadtube

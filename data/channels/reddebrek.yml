@@ -1,12 +1,13 @@
 description: Educate, Agitate, Organise. News and Activism
 name: Reddebrek
+permalink: reddebrek
 providers:
   youtube:
     name: Reddebrek
     slug: UCyhoKI98zPwE5RkfPq8vh1A
     url: https://www.youtube.com/channel/UCyhoKI98zPwE5RkfPq8vh1A
     description: ""
-    subscribers: 1508
+    subscribers: 1507
 slug: reddebrek
 tags:
 - breadtube

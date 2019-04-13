@@ -1,6 +1,7 @@
 description: I'm a disabled pan-sexual trans woman who talks about anarchism, feminism
   and marxism.
 name: anarchopac
+permalink: anarchopac
 providers:
   patreon:
     name: anarchopac
@@ -13,7 +14,7 @@ providers:
     slug: anarchopac
     url: https://www.youtube.com/user/anarchopac
     description: ""
-    subscribers: 17188
+    subscribers: 17194
 slug: anarchopac
 tags:
 - breadtube

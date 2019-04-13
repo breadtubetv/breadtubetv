@@ -1,11 +1,12 @@
 name: José
+permalink: jose
 providers:
   youtube:
     name: José
     slug: UCeDKIj0G5XbultKOQnacu_w
     url: https://www.youtube.com/channel/UCeDKIj0G5XbultKOQnacu_w
     description: ""
-    subscribers: 5734
+    subscribers: 6220
 slug: jose
 tags:
 - breadtube

@@ -1,12 +1,13 @@
 description: Video essays critiqing the alt-right
 name: Shaun
+permalink: shaun
 providers:
   youtube:
     name: Shaun
     slug: UCJ6o36XL0CpYb6U5dNBiXHQ
     url: https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ
     description: ""
-    subscribers: 222581
+    subscribers: 222834
 slug: shaun
 tags:
 - breadtube

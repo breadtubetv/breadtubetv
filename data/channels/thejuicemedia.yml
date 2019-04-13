@@ -1,12 +1,34 @@
 description: '#GenuineSatire We make Honest Government Ads & Rap News'
 name: The Juice Media
+permalink: thejuicemedia
 providers:
+  patreon:
+    name: thejuicemedia
+    slug: thejuicemedia
+    url: https://www.patreon.com/thejuicemedia
+    description: Genuine Satire
+  facebook:
+    name: thejuicemedia
+    slug: thejuicemedia
+    url: http://www.facebook.com/thejuicemedia
+  twitter:
+    name: thejuicemedia
+    slug: thejuicemedia
+    url: https://www.twitter.com/thejuicemedia
+  website:
+    name: thejuicemedia.com
+    slug: thejuicemedia.com
+    url: https://thejuicemedia.com/
+  mewe:
+    name: thejuicemedia
+    slug: thejuice.media
+    url: https://mewe.com/i/thejuice.media
   youtube:
     name: thejuicemedia
     slug: thejuicemedia
     url: https://www.youtube.com/thejuicemedia
     description: ""
-    subscribers: 186784
+    subscribers: 186836
 slug: thejuicemedia
 tags:
 - breadtube

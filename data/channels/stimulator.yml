@@ -1,12 +1,13 @@
 description: ""
 name: stimulator
+permalink: stimulator
 providers:
   youtube:
     name: stimulator
     slug: UCDG73pGqESS1XcEVY_0xwWw
     url: https://www.youtube.com/channel/UCDG73pGqESS1XcEVY_0xwWw
     description: ""
-    subscribers: 22532
+    subscribers: 22539
 slug: stimulator
 tags:
 - breadtube

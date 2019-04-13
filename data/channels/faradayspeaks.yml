@@ -1,11 +1,12 @@
 name: Faraday Speaks
+permalink: faradayspeaks
 providers:
   youtube:
     name: Faraday Speaks
     slug: UC6Hwqnuqo1MMuJUsLNlgqmw
     url: https://www.youtube.com/channel/UC6Hwqnuqo1MMuJUsLNlgqmw
     description: ""
-    subscribers: 14793
+    subscribers: 14877
 slug: faradayspeaks
 tags:
 - breadtube

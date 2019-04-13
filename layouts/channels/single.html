@@ -1,4 +1,50 @@
 {{ define "main" }}
-  <h1 class="heading">{{ .Title }}</h1>
-  {{ partial "channels/new.html" . }}
+  {{ $channelSlug := (or .Params.channel (index (split .Page.RelPermalink "/") 1)) }}
+  {{ $channels := $.Site.Data.channels }}
+  {{ $scratch := newScratch }}
+  {{ range $channels }}
+    {{ if eq .slug $channelSlug }}
+      {{ $scratch.Set "channel" . }}
+    {{ end }}
+  {{ end }}
+  {{ $channel := $scratch.Get "channel" }}
+
+  <div class="content">
+    <h1 class="heading"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></h1>
+    <img src="/img/channels/{{ $channel.slug }}.jpg" class="channel-image heading-image" alt=" {{ $channel.name }}" />
+    <p>{{ $channel.description | markdownify }}</p>
+
+    {{ with $channel.providers.website }}
+      <a href="{{ .url }}" target="_blank" title="{{ .slug }}">{{ .slug }}</a>
+    {{ end }}
+    {{ with $channel.providers.patreon }}
+      <a href="{{ .url }}" target="_blank" title="{{ .name }}">Patreon</a>
+    {{ end }}
+    {{ with $channel.providers.youtube }}
+      <a href="{{ .url }}" target="_blank" title="{{ .name }}">YouTube</a>
+    {{ end }}
+    {{ with $channel.providers.twitter }}
+      <a href="{{ .url }}" target="_blank" title="@{{ .slug }}">Twitter</a>
+    {{ end }}
+    {{ with $channel.providers.mastodon }}
+      <a href="{{ .url }}" target="_blank" title="@{{ .slug }}">Mastodon</a>
+    {{ end }}
+    {{ with $channel.providers.instagram }}
+      <a href="{{ .url }}" target="_blank" title="@{{ .slug }}">Instagram</a>
+    {{ end }}
+    {{ with $channel.providers.twitch }}
+      <a href="{{ .url }}" target="_blank" title="{{ .slug }}">Twitch</a>
+    {{ end }}
+    {{ with $channel.providers.facebook }}
+      <a href="{{ .url }}" target="_blank" title="{{ .slug }}">Facebook</a>
+    {{ end }}
+    {{ with $channel.providers.mewe }}
+      <a href="{{ .url }}" target="_blank" title="{{ .slug }}">Mewe</a>
+    {{ end }}
+    {{ with $channel.providers.paypal }}
+      <a href="{{ .url }}" target="_blank" title="{{ .name }}">Paypal</a>
+    {{ end }}
+  </div>
+
+  {{ partial "playlists/videos.html" . }}
 {{ end }}

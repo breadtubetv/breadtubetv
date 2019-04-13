@@ -1,12 +1,13 @@
 description: Anarchist Leftist channel with a creative and mystical flair!
 name: Angie Speaks
+permalink: angiespeaks
 providers:
   youtube:
     name: Angie Speaks
     slug: UCUtloyZ_Iu4BJekIqPLc_fQ
     url: https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ
     description: ""
-    subscribers: 17338
+    subscribers: 17367
 slug: angiespeaks
 tags:
 - breadtube

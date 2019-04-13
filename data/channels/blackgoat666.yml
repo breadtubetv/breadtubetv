@@ -1,12 +1,13 @@
 description: Take down video essays of Right Wing content.
 name: BlackGoat 666
+permalink: blackgoat666
 providers:
   youtube:
     name: BlackGoat 666
     slug: UCbbsW7_Esx8QZ8PgJ13pGxw
     url: https://www.youtube.com/channel/UCbbsW7_Esx8QZ8PgJ13pGxw
     description: ""
-    subscribers: 1203
+    subscribers: 1228
 slug: blackgoat666
 tags:
 - breadtube

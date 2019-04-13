@@ -1,13 +1,14 @@
 description: Online media outlet which produces fully referenced video reviews of
   other online content touching upon secularism, feminism, LGBT+, and ethnic equality.
 name: Essence of Thought
+permalink: essenceofthought
 providers:
   youtube:
     name: EssenceOfThought
     slug: EssenceOfThought
     url: https://www.youtube.com/user/EssenceOfThought
     description: ""
-    subscribers: 29616
+    subscribers: 29668
 slug: essenceofthought
 tags:
 - breadtube

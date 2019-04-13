@@ -1,12 +1,29 @@
 description: YouTuber, ex-philosopher. Sex, drugs, and social justice.
 name: Contrapoints
+permalink: contrapoints
 providers:
+  patreon:
+    name: Contrapoints
+    slug: contrapoints
+    url: https://www.patreon.com/contrapoints
+  paypal:
+    name: Contrapoints
+    slug: contrapoints
+    url: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2DDonationsBF%3Abtn_donateCC_LG%2Egif%3ANonHosted
+  twitter:
+    name: Contrapoints
+    slug: ContraPoints
+    url: https://www.twitter.com/contrapoints/
+  facebook:
+    name: Contrapoints
+    slug: ContraPoints
+    url: https://www.facebook.com/contrapoints/
   youtube:
     name: ContraPoints
     slug: contrapoints
     url: https://www.youtube.com/contrapoints
     description: ""
-    subscribers: 557629
+    subscribers: 558687
 slug: contrapoints
 tags:
 - breadtube

@@ -1,12 +1,13 @@
 description: Hello, I am a news dude and, news-wise, here is some of it.
 name: Some More News
+permalink: somemorenews
 providers:
   youtube:
     name: Some More News
     slug: UCvlj0IzjSnNoduQF0l3VGng
     url: https://www.youtube.com/channel/UCvlj0IzjSnNoduQF0l3VGng
     description: ""
-    subscribers: 163339
+    subscribers: 163417
 slug: somemorenews
 tags:
 - breadtube

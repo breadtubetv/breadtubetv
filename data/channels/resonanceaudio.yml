@@ -5,6 +5,7 @@ description: We are recording anarchist and related texts and distributing them 
   anarchist discussions — and ultimately we hope that those discussions lead us into
   the streets.
 name: Resonance Audio
+permalink: resonanceaudio
 providers:
   youtube:
     name: Resonance Audio

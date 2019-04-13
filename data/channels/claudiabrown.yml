@@ -1,12 +1,13 @@
 description: Hello everyone! I make youtube videos talking about feminism.
 name: Claudia Brown
+permalink: claudiabrown
 providers:
   youtube:
     name: Claudia Brown
     slug: UCQlNT2xADrXblBd1Tz1Fjzg
     url: https://www.youtube.com/channel/UCQlNT2xADrXblBd1Tz1Fjzg
     description: ""
-    subscribers: 10083
+    subscribers: 10084
 slug: claudiabrown
 tags:
 - breadtube

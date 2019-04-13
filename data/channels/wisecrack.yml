@@ -3,13 +3,14 @@ description: Wisecrack is a collective of comedians, academics, filmmakers, and 
   in unusual (and hopefully super entertaining) ways. We dive into philosophy and
   critical thinking through the lens of movies, TV shows, video games, and books.
 name: Wisecrack
+permalink: wisecrack
 providers:
   youtube:
     name: Wisecrack
     slug: thugnotes
     url: https://www.youtube.com/user/thugnotes
     description: ""
-    subscribers: 2602671
+    subscribers: 2603217
 slug: wisecrack
 tags:
 - philosophy

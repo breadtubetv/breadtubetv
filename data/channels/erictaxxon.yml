@@ -1,12 +1,13 @@
 description: I make music (maybe)(and media video essays)
 name: Eric Taxxon
+permalink: erictaxxon
 providers:
   youtube:
     name: Eric Taxxon
     slug: UCOjLfFE0TABS9bk05oH-kgw
     url: https://www.youtube.com/channel/UCOjLfFE0TABS9bk05oH-kgw
     description: ""
-    subscribers: 25511
+    subscribers: 25516
 slug: erictaxxon
 tags:
 - breadtube

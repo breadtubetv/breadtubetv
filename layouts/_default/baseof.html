@@ -9,20 +9,9 @@
       {{ partial "base/navigation.html" . }}
     </header>
     <main class="container">
-      {{ if and (not (in .Permalink "new")) (not (in .Permalink "playlists")) (not (in .Permalink "blog")) (not (in .Permalink "privacy")) }}
-        <div class="header-action" style="margin-top: 10px">
-          {{ partial "search/bar.html" . }}
-        </div>
-      {{ end }}
       {{ block "main" . }}
-      {{ end }}
-      {{ if and (not (in .Permalink "new")) (not (in .Permalink "privacy")) (not (in .Permalink "blog")) }}
-        <div class="header-action" style="margin-top: 10px">
-          {{ partial "base/create.html" . }}
-        </div>
       {{ end }}
     </main>
     {{ partial "base/footer.html" . }}
-    {{ partial "search/code.html" . }}
   </body>
 </html>
