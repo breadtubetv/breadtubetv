@@ -9,12 +9,14 @@
   {{ end }}
   {{ $channel := $scratch.Get "channel" }}
 
-
   <div class="content">
     <h1 class="heading"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></h1>
     <img src="/img/channels/{{ $channel.slug }}.jpg" class="channel-image heading-image" alt=" {{ $channel.name }}" />
     <p>{{ $channel.description | markdownify }}</p>
 
+    {{ with $channel.providers.website }}
+      <a href="{{ .url }}" target="_blank" title="{{ .slug }}">{{ .slug }}</a>
+    {{ end }}
     {{ with $channel.providers.patreon }}
       <a href="{{ .url }}" target="_blank" title="{{ .name }}">Patreon</a>
     {{ end }}
@@ -35,6 +37,9 @@
     {{ end }}
     {{ with $channel.providers.facebook }}
       <a href="{{ .url }}" target="_blank" title="{{ .slug }}">Facebook</a>
+    {{ end }}
+    {{ with $channel.providers.mewe }}
+      <a href="{{ .url }}" target="_blank" title="{{ .slug }}">Mewe</a>
     {{ end }}
     {{ with $channel.providers.paypal }}
       <a href="{{ .url }}" target="_blank" title="{{ .name }}">Paypal</a>
