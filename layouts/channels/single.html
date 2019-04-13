@@ -13,7 +13,7 @@
   <div class="content">
     <h1 class="heading"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></h1>
     <img src="/img/channels/{{ $channel.slug }}.jpg" class="channel-image heading-image" alt=" {{ $channel.name }}" />
-    <p>{{ $channel.description }}</p>
+    <p>{{ $channel.description | markdownify }}</p>
 
     {{ with $channel.providers.patreon }}
       <a href="{{ .url }}" target="_blank" title="{{ .name }}">Patreon</a>
