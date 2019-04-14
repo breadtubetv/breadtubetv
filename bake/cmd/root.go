@@ -13,11 +13,8 @@ import (
 
 var cfgFile string
 
-/*
-	This map is set up so that we can call functions dynamically for providers.
-
-	e.g. Providers["youtube"]["config"].(func(string))("somestring")
-*/
+//Providers is a map setup so that we can call functions dynamically for providers.
+// e.g. Providers["youtube"]["config"].(func(string))("somestring")
 var Providers = map[string]map[string]interface{}{
 	"youtube": providers.LoadYoutube(),
 }
@@ -35,7 +32,7 @@ var rootCmd = &cobra.Command{
 	Use:   "bake",
 	Short: "Manage BreadtubeTV content.",
 	Long: `Bake can be used to manage the content available in BreadtubeTV.
-	
+
 	You can add channels, playlists, videos and courses without having to edit data directly.
 	`}
 
@@ -59,6 +56,10 @@ func init() {
 
 // initConfig reads in config file and ENV variables if set.
 func initConfig() {
+
+	viper.SetDefault("channelsDir", "../data/channels")
+	viper.SetDefault("channelPagesDir", "../content")
+
 	if cfgFile != "" {
 		// Use config file from the flag.
 		viper.SetConfigFile(cfgFile)
@@ -71,10 +72,11 @@ func initConfig() {
 		}
 
 		// Search config in home directory with name ".bake" (without extension).
+		viper.AddConfigPath(".")
 		viper.AddConfigPath(home)
 		viper.SetConfigName(".bake")
 	}
-
+	viper.SetEnvPrefix("bake")
 	viper.AutomaticEnv() // read in environment variables that match
 
 	// If a config file is found, read it in.
