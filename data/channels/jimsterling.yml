@@ -1,0 +1,22 @@
+name: Jim Sterling
+description: "The YouTube home of videogame not-journalist Jim Sterling. A game critic and raconteur, he runs The Jimquisition as a crowdfunded video series, podcast, and game review site, he is one third of FistShark Marketing, and he is trying to understand this YouTube thing!"
+permalink: jimsterling
+providers:
+  twitter:
+    name: Jim Sterling
+    slug: jimsterling
+    url: https://twitter.com/jimsterling
+  youtube:
+    name: Jim Sterling
+    slug: UCWCw2Sd7RlYJ2yuNVHDWNOA
+    url: https://www.youtube.com/channel/UCWCw2Sd7RlYJ2yuNVHDWNOA
+    description: ""
+    subscribers: 794975
+  patreon:
+    name: The Jimquisition
+    slug: jimquisition
+    url: https://www.patreon.com/jimquisition
+slug: jimsterling
+tags:
+- breadtube
+- gaming
