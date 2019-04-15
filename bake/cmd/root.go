@@ -3,6 +3,7 @@ package cmd
 import (
 	"fmt"
 	"os"
+	"path/filepath"
 
 	"github.com/breadtubetv/breadtubetv/bake/providers"
 
@@ -57,8 +58,10 @@ func init() {
 // initConfig reads in config file and ENV variables if set.
 func initConfig() {
 
-	viper.SetDefault("channelsDir", "../data/channels")
-	viper.SetDefault("channelPagesDir", "../content")
+	wd, _ := os.Getwd()
+	// filepath.Dir(wd) will get the parent dir of the current working dir
+	// This is the equivalent of `..`
+	viper.SetDefault("projectRoot", filepath.Dir(wd))
 
 	if cfgFile != "" {
 		// Use config file from the flag.

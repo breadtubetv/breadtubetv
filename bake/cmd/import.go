@@ -23,7 +23,7 @@ var importCmd = &cobra.Command{
 		var slug = args[0]
 		var provider = args[1]
 		var channelURL, err = util.ParseURL(args[2])
-		dataDir := os.ExpandEnv(viper.GetString("channelsDir"))
+		dataDir := fmt.Sprintf("%s/data/channels", os.ExpandEnv(viper.GetString("projectRoot")))
 
 		if err != nil {
 			log.Fatalf("Improperly formatted URL provided '%s': %v", args[1], err)
