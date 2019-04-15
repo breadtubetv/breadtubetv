@@ -74,6 +74,8 @@ You can use the `bake` CLI, instructions [here](#Importing-a-Channel) to add cha
   menu:
     main:
       parent: "Channels"
+videos:
+- abc123def
   ---
 - Download the image and save it to [`static/img/channels/`](https://github.com/breadtubetv/breadtubetv/blob/master/static/img/channels)
 
