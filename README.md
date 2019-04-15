@@ -37,7 +37,8 @@ The `.bake.yaml` configuration file can be stored in the following locations:
 
 Current configuration options and default values:
 
-- `channelsDir: "../data/channels"` : Set to the location of the `channels` directory under the `data` directory. E.g. `$GOPATH/src/github.com/breadtubetv/breadtubetv`
+- `projectRoot: "../"` : Directory of channel data files.    
+  E.g. `$GOPATH/src/github.com/breadtubetv/breadtubetv/data/channels`
 
 ### Adding a Channel
 
