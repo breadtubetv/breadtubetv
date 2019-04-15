@@ -28,12 +28,53 @@ open localhost:1313
 
 ## [Contributing](https://github.com/breadtubetv/breadtubetv/blob/master/CONTRIBUTING.md)
 
+### Configuring the `bake` CLI
+
+The `.bake.yaml` configuration file can be stored in the following locations:
+
+- `$HOME/.bake.yaml`
+- `./bake.yaml` (In other words, the current directory from which you're running the CLI)
+
+Current configuration options and default values:
+
+- `channelsDir: "../data/channels"` : Set to the location of the `channels` directory under the `data` directory. E.g. `$GOPATH/src/github.com/breadtubetv/breadtubetv`
+
 ### Adding a Channel
 
-#### [Walkthrough Video](https://youtu.be/jpOun7YXFpg)
+#### [Walkthrough Video](https://youtu.be/jpOun7YXFpg) (Out of date)
 
-- Edit [`data/channels.yml`](https://github.com/breadtubetv/breadtubetv/blob/master/data/channels.yml)
-- Put the channel information in (order by subscribers)
+You can use the `bake` CLI, instructions [here](#Importing-a-Channel) to add channels OR
+
+- Create a `<channelName>.yaml` file in [`data/channels/`](https://github.com/breadtubetv/breadtubetv/blob/master/data/channels)
+- Fill in the required information:
+  ```yaml
+    name: Readable Name
+    permalink: <slug>
+    providers:
+      twitter:
+        name: Readable Name
+        slug: username
+        url: https://www.twitter.com/<username>
+      youtube:
+        name: Readable Name
+        slug: youtube-id
+        url: https://www.youtube.com/channel/<youtube-id>
+        subscribers: 9000
+    slug: <slug>
+    tags:
+    - breadtube
+  ```
+- Create a `<channelName>.md` file in [`content`](https://github.com/breadtubetv/breadtubetv/blob/master/content)
+- Follow this example format:
+  ```
+  ---
+  title: "<Readable Name>"
+  type: "channels"
+  channel: "<slug>"
+  menu:
+    main:
+      parent: "Channels"
+  ---
 - Download the image and save it to [`static/img/channels/`](https://github.com/breadtubetv/breadtubetv/blob/master/static/img/channels)
 
 ### Creating a Playlist
