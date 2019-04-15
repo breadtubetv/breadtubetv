@@ -3,6 +3,7 @@ package cmd
 import (
 	"fmt"
 	"log"
+	"os"
 	"strings"
 
 	"github.com/breadtubetv/breadtubetv/bake/util"
@@ -22,7 +23,7 @@ var importCmd = &cobra.Command{
 		var slug = args[0]
 		var provider = args[1]
 		var channelURL, err = util.ParseURL(args[2])
-		dataDir := viper.GetString("channelsDir")
+		dataDir := os.ExpandEnv(viper.GetString("channelsDir"))
 
 		if err != nil {
 			log.Fatalf("Improperly formatted URL provided '%s': %v", args[1], err)
