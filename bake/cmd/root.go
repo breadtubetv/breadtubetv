@@ -22,6 +22,7 @@ var Providers = map[string]map[string]interface{}{
 	"youtube": providers.LoadYoutube(),
 }
 
+// ProviderNames is a func
 func ProviderNames() []string {
 	keys := make([]string, 0, len(Providers))
 	for k := range Providers {
@@ -35,7 +36,7 @@ var rootCmd = &cobra.Command{
 	Use:   "bake",
 	Short: "Manage BreadtubeTV content.",
 	Long: `Bake can be used to manage the content available in BreadtubeTV.
-	
+
 	You can add channels, playlists, videos and courses without having to edit data directly.
 	`}
 
