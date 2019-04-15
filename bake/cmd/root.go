@@ -3,6 +3,7 @@ package cmd
 import (
 	"fmt"
 	"os"
+	"path/filepath"
 
 	"github.com/breadtubetv/breadtubetv/bake/providers"
 
@@ -13,11 +14,8 @@ import (
 
 var cfgFile string
 
-/*
-	This map is set up so that we can call functions dynamically for providers.
-
-	e.g. Providers["youtube"]["config"].(func(string))("somestring")
-*/
+//Providers is a map setup so that we can call functions dynamically for providers.
+// e.g. Providers["youtube"]["config"].(func(string))("somestring")
 var Providers = map[string]map[string]interface{}{
 	"youtube": providers.LoadYoutube(),
 }
@@ -60,6 +58,12 @@ func init() {
 
 // initConfig reads in config file and ENV variables if set.
 func initConfig() {
+
+	wd, _ := os.Getwd()
+	// filepath.Dir(wd) will get the parent dir of the current working dir
+	// This is the equivalent of `..`
+	viper.SetDefault("projectRoot", filepath.Dir(wd))
+
 	if cfgFile != "" {
 		// Use config file from the flag.
 		viper.SetConfigFile(cfgFile)
@@ -72,10 +76,11 @@ func initConfig() {
 		}
 
 		// Search config in home directory with name ".bake" (without extension).
+		viper.AddConfigPath(".")
 		viper.AddConfigPath(home)
 		viper.SetConfigName(".bake")
 	}
-
+	viper.SetEnvPrefix("bake")
 	viper.AutomaticEnv() // read in environment variables that match
 
 	// If a config file is found, read it in.

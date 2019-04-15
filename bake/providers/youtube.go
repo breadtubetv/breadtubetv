@@ -105,8 +105,8 @@ func formatChannelDetails(slug string, channelURL *util.URL) (util.Channel, erro
 	}, nil
 }
 
-func importChannel(slug string, channelURL *util.URL) {
-	channelList := util.LoadChannels("../data/channels")
+func importChannel(slug string, channelURL *util.URL, dataDir string) {
+	channelList := util.LoadChannels(dataDir)
 
 	importedChannel, err := formatChannelDetails(slug, channelURL)
 	if err != nil {
@@ -123,7 +123,7 @@ func importChannel(slug string, channelURL *util.URL) {
 
 	log.Printf("Title: %s, Count: %d\n", channel.Name, channel.Providers["youtube"].Subscribers)
 
-	err = util.SaveChannel(channel, "../data/channels")
+	err = util.SaveChannel(channel, dataDir)
 	if err != nil {
 		log.Fatalf("Error saving channel '%s': %v", slug, err)
 	}
