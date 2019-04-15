@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/breadtubetv/breadtubetv/bake/providers"
+	"github.com/breadtubetv/breadtubetv/bake/pkg/providers"
 	"github.com/breadtubetv/breadtubetv/bake/util"
 	"github.com/spf13/cobra"
 )

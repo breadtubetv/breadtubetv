@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/breadtubetv/breadtubetv/bake/providers"
+	"github.com/breadtubetv/breadtubetv/bake/pkg/providers"
 
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/spf13/cobra"
