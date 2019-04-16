@@ -27,26 +27,41 @@ var list = document.getElementsByClassName("list")[0];
 var items = list.children;
 
 function listSearch(query) {
-  list.classList.toggle('searching', query.length > 0);
-
-  window.location.hash = 'search:' + query.toLowerCase();;
+  var baseUrl = window.location.href;
+  var search = document.getElementById("search");
   var results = fuse.search(query);
+
+  list.classList.toggle('searching', query.length > 0);
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
     item.classList.toggle('found', results.indexOf(item.id) > -1);
   }
+}
 
-  if(search.value.length == 0) {
+function setSearch(query) {
+  if(query && query.length > 0) {
     search.value = query.replace("%20"," ");
+    listSearch(query);
   }
 }
 
 search.addEventListener("keyup", function() {
   var query = this.value;
   listSearch(query);
+
+  history.replaceState(window.history.state,{},'?q=' + query.toLowerCase());
 });
 
-if(window.location.hash && window.location.hash.indexOf('search') > -1) {
-  listSearch(window.location.hash.replace("#search:",""));
-}
+window.addEventListener("DOMContentLoaded", function(e) {
+  let searchParams = new URLSearchParams(window.location.search);
+  let query = searchParams.get('q');
+
+  setSearch(query);
+});
+
+// An autoload hack for the search box
+window.addEventListener("load", function(e) {
+  search.focus();
+  search.value = search.value;
+});
 </script>
