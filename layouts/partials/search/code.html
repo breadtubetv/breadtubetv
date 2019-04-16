@@ -57,10 +57,7 @@ window.addEventListener("DOMContentLoaded", function(e) {
   let query = searchParams.get('q');
 
   setSearch(query);
-});
 
-// An autoload hack for the search box
-window.addEventListener("load", function(e) {
   search.focus();
   search.value = search.value;
 });
