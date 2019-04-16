@@ -15,6 +15,7 @@ import (
 type Channel struct {
 	Name      string
 	Slug      string
+	Permalink string
 	Providers map[string]Provider
 	Tags      []interface{}
 	remnant   map[string]interface{}
@@ -42,6 +43,7 @@ func (c Channel) MarshalYAML() (interface{}, error) {
 
 	values["name"] = c.Name
 	values["slug"] = c.Slug
+	values["permalink"] = c.Permalink
 	if len(c.Providers) > 0 {
 		values["providers"] = c.Providers
 	}
@@ -86,6 +88,13 @@ func (c *Channel) UnmarshalYAML(unmarshal func(interface{}) error) error {
 			}
 			channel.Slug = slug
 			break
+		case "permalink":
+			permalink, ok := value.(string)
+			if !ok {
+				return fmt.Errorf("error parsing permalink: '%s', %T is not a string", value, value)
+			}
+			channel.Permalink = permalink
+			break
 		case "tags":
 			// Handle non array tags
 			if tags, ok := value.(string); ok {
@@ -116,6 +125,7 @@ func (c *Channel) UnmarshalYAML(unmarshal func(interface{}) error) error {
 
 	c.Name = channel.Name
 	c.Slug = channel.Slug
+	c.Permalink = channel.Permalink
 	c.Providers = channel.Providers
 	c.Tags = channel.Tags
 	c.remnant = channel.remnant
@@ -291,4 +301,64 @@ func SaveChannel(channel *Channel, dataDir string) error {
 	}
 
 	return ioutil.WriteFile(filePath, data, os.ModePerm)
+}
+
+// ChannelPage represents all the fields required
+// to create a channel specific page.
+type ChannelPage struct {
+	Title      string
+	TypeString string `yaml:"type"` // type is reserved
+	Channel    string
+	Menu       struct {
+		Main struct {
+			Parent string
+		}
+	}
+	Videos []string `yaml:",omitempty"`
+}
+
+// CreateChannelPage takes the permalink for the channel
+// and creates a .md file in the content directory.
+func CreateChannelPage(channel *Channel, projectRoot string) error {
+	fileName := fmt.Sprintf("%s.md", channel.Slug)
+	dataDir := path.Join(projectRoot, "/content/")
+	if _, err := ioutil.ReadFile(fmt.Sprintf("%s%s", dataDir, fileName)); err == nil {
+		return fmt.Errorf(fmt.Sprintf("Channel Page %s.md already exists.", channel.Slug))
+	}
+
+	channelPage := &ChannelPage{
+		Title:      channel.Name,
+		TypeString: "channel",
+		Channel:    channel.Slug,
+		Menu: struct {
+			Main struct {
+				Parent string
+			}
+		}{
+			Main: struct {
+				Parent string
+			}{
+				Parent: "Channels",
+			},
+		},
+	}
+
+	videos, _ := GetCreatorVideos(channel.Slug, projectRoot)
+	if videos != nil {
+		channelPage.Videos = videos
+	}
+
+	pageBytes, err := yaml.Marshal(&channelPage)
+	if err != nil {
+		return fmt.Errorf("Failed to marshal yaml for %s channel page. \nError: %s", channel.Slug, err.Error())
+	}
+
+	pageBytes = []byte(strings.Join([]string{"---\n", string(pageBytes), "---"}, ""))
+	log.Printf("Saving file - %s - to folder '%s'.", fileName, dataDir)
+	err = ioutil.WriteFile(path.Join(projectRoot, fmt.Sprintf("/content/%s.md", channel.Slug)), pageBytes, os.ModePerm)
+	if err != nil {
+		return fmt.Errorf("Failed to marshal yaml for %s channel page", channel.Slug)
+	}
+
+	return nil
 }
