@@ -1,0 +1,28 @@
+description: Ich mache "politische" Video Essays auf YouTube. Die Videos sind viel
+  zu lang und die Arbeit daran kostet mich sehr viel Zeit. Hilfe!!
+name: Linke Sau
+permalink: linkesau
+providers:
+  steadyhq:
+    name: Link Sau
+    slug: linkesau
+    url: https://steadyhq.com/de/linkesau
+    description: ""
+    subscribers: 0
+  twitter:
+    name: Linke Sau
+    slug: saulinke
+    url: https://twitter.com/saulinke
+    description: ""
+    subscribers: 0
+  youtube:
+    name: Linke Sau
+    slug: UCgvn7jvqgqnswXUraQoMrOg
+    url: https://www.youtube.com/channel/UCgvn7jvqgqnswXUraQoMrOg
+    description: ""
+    subscribers: 333
+slug: linkesau
+tags:
+- breadtube
+- germany
+- nazis
