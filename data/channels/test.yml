@@ -1,9 +1,0 @@
-name: Epicurious
-providers:
-  youtube:
-    name: Epicurious
-    slug: UCcjhYlL1WRBjKaJsMH_h7Lg
-    url: https://www.youtube.com/channel/UCcjhYlL1WRBjKaJsMH_h7Lg
-    description: ""
-    subscribers: 1037390
-slug: test
