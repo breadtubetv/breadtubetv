@@ -3,10 +3,12 @@ package cmd
 import (
 	"fmt"
 	"log"
+	"os"
 
 	"github.com/breadtubetv/breadtubetv/bake/providers"
 	"github.com/breadtubetv/breadtubetv/bake/util"
 	"github.com/spf13/cobra"
+	"github.com/spf13/viper"
 )
 
 var updateCmd = &cobra.Command{
@@ -30,7 +32,8 @@ func init() {
 }
 
 func updateChannelList(args []string) {
-	channels := util.LoadChannels("../data/channels")
+	dataDir := fmt.Sprintf("%s/data/channels", os.ExpandEnv(viper.GetString("projectRoot")))
+	channels := util.LoadChannels(dataDir)
 
 	for _, channelSlug := range args {
 		channel, ok := channels.Find(channelSlug)
@@ -49,7 +52,7 @@ func updateChannelList(args []string) {
 
 		channel.Providers["youtube"] = youtube
 
-		err = util.SaveChannel(channel, "../data/channels")
+		err = util.SaveChannel(channel, dataDir)
 		if err != nil {
 			log.Printf("Failed to update channel %s (%s), error: %v", channel.Name, channel.Slug, err)
 		}
@@ -57,7 +60,7 @@ func updateChannelList(args []string) {
 }
 
 func updateChannels() {
-	channels := util.LoadChannels("../data/channels")
+	channels := util.LoadChannels(fmt.Sprintf("%s/data/channels", os.ExpandEnv(viper.GetString("projectRoot"))))
 
 	for _, channel := range channels {
 		url := channel.YouTubeURL()
