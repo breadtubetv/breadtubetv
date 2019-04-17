@@ -61,4 +61,13 @@ window.addEventListener("DOMContentLoaded", function(e) {
   search.focus();
   search.value = search.value;
 });
+
+search.addEventListener("search", function(e) {
+  list.classList.toggle('searching');
+  for (var i = 0; i < items.length; i++) {
+    var item = items[i];
+    item.classList.remove("found");
+  }
+  window.location.href = window.location.origin;
+})
 </script>
