@@ -3,6 +3,7 @@ package providers
 import (
 	"encoding/json"
 	"fmt"
+	"io"
 	"log"
 	"net"
 	"net/http"
@@ -13,6 +14,7 @@ import (
 	"path"
 	"path/filepath"
 	"runtime"
+	"strings"
 
 	"github.com/breadtubetv/breadtubetv/bake/util"
 	"golang.org/x/net/context"
@@ -92,6 +94,47 @@ func FetchDetails(channelURL *util.URL) (util.Provider, error) {
 	}, nil
 }
 
+func fetchProfileImageURL(url *util.URL) (string, error) {
+	id := path.Base(url.Path)
+	category := path.Base(path.Dir(url.Path))
+	client := getClient(youtube.YoutubeReadonlyScope)
+
+	youtubeSvc, err := youtube.New(client)
+	if err != nil {
+		return "", fmt.Errorf("fetchProfileImage: Error while creating YouTube service: %v", err)
+	}
+
+	call := youtubeSvc.Channels.List("snippet").Fields("items(snippet/thumbnails)")
+	if category == "channel" {
+		call = call.Id(id)
+	} else {
+		call = call.ForUsername(id)
+	}
+	response, err := call.Do()
+	if err != nil {
+		return "", fmt.Errorf("Error retrieving channel profile picture, please download manually.\nErr: %v", err.Error())
+	}
+
+	imgURL := response.Items[0].Snippet.Thumbnails.Default.Url
+	return imgURL, nil
+}
+
+func saveImage(imgURL string, slug string, projectRoot string) error {
+	resp, _ := http.Get(imgURL)
+	defer resp.Body.Close()
+
+	filePath := fmt.Sprintf("%s/static/img/channels/%s.jpg", projectRoot, slug)
+	img, _ := os.Create(filePath)
+	defer img.Close()
+
+	_, err := io.Copy(img, resp.Body)
+	if err != nil {
+		return fmt.Errorf("Error saving channel profile picture, please download manually.\nErr: %v", err.Error())
+	}
+	log.Printf("Saving %s", filePath)
+	return nil
+}
+
 func formatChannelDetails(slug string, channelURL *util.URL) (util.Channel, error) {
 	provider, err := FetchDetails(channelURL)
 	if err != nil {
@@ -122,6 +165,15 @@ func importChannel(slug string, channelURL *util.URL, dataDir string) {
 	channel.Providers = importedChannel.Providers
 
 	log.Printf("Title: %s, Count: %d\n", channel.Name, channel.Providers["youtube"].Subscribers)
+	imgURL, err := fetchProfileImageURL(channelURL)
+	if err == nil {
+		// TrimSuffix will need to be switched to projectRoot when we merge #185
+		err = saveImage(imgURL, slug, strings.TrimSuffix(dataDir, "/data/channels"))
+	}
+
+	if err != nil {
+		log.Println(err.Error())
+	}
 
 	err = util.SaveChannel(channel, dataDir)
 	if err != nil {
