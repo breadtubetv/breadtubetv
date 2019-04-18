@@ -28,23 +28,11 @@ open localhost:1313
 
 ## [Contributing](https://github.com/breadtubetv/breadtubetv/blob/master/CONTRIBUTING.md)
 
-### Configuring the `bake` CLI
-
-The `.bake.yaml` configuration file can be stored in the following locations:
-
-- `$HOME/.bake.yaml`
-- `./bake.yaml` (In other words, the current directory from which you're running the CLI)
-
-Current configuration options and default values:
-
-- `projectRoot: "../"` : Directory of channel data files.    
-  E.g. `$GOPATH/src/github.com/breadtubetv/breadtubetv/data/channels`
-
 ### Adding a Channel
 
 #### [Walkthrough Video](https://youtu.be/jpOun7YXFpg) (Out of date)
 
-You can use the `bake` CLI, instructions [here](#Importing-a-Channel) to add channels OR
+You can use the `bake` CLI, visit the [repo](https://github.com/breadtubetv/bake) for more information OR
 
 - Create a `<channelName>.yaml` file in [`data/channels/`](https://github.com/breadtubetv/breadtubetv/blob/master/data/channels)
 - Fill in the required information:
@@ -86,64 +74,6 @@ videos:
 - Add the video ids you want into the new [Playlist Front Matter](https://gohugo.io/content-management/front-matter/)
 - Add the videos you need to [`data/videos.yml`](https://github.com/breadtubetv/breadtubetv/blob/master/data/videos.yml)
 - Add the channels you need to [`data/channels.yml`](https://github.com/breadtubetv/breadtubetv/blob/master/data/channels.yml)
-
-## Script Development
-
-Scripts are being written in Go, this keeps the scripting and operational language the same, provides cross system compatibility, and gives everyone an opportunity to learn a new programming language.
-
-### Installation
-
-#### Installing Go
-
-This is going to be dependent on your system, we recommend following https://golang.org/doc/install
-
-#### Developing
-
-You'll need a copy of the project in your `$GOPATH`.
-
-```
-go get github.com/breadtubetv/breadtubetv
-cd $GOPATH/github.com/breadtubetv/breadtubetv/bake
-```
-
-And you'll need to install bake's dependencies with:
-
-```
-go get
-```
-
-#### Installing
-
-This will put the `bake` command in your path:
-
-```
-go install
-```
-
-#### Importing a Channel
-
-You can run bake directly from the source like so:
-
-```
-go run main.go config youtube #follow prompts
-go run main.go channel import contrapoints youtube https://www.youtube.com/user/contrapoints
-```
-
-Or if you've installed it:
-
-```
-bake config youtube #follow prompts
-bake channel import contrapoints youtube https://www.youtube.com/user/contrapoints
-```
-
-#### Testing
-
-Bake has some very basic tests for now, they can be run with the standard go test command line:
-
-```
-go get -t ./...
-go test ./...
-```
 
 ## Staging
 
