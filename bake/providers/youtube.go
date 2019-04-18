@@ -148,7 +148,8 @@ func formatChannelDetails(slug string, channelURL *util.URL) (util.Channel, erro
 	}, nil
 }
 
-func importChannel(slug string, channelURL *util.URL, dataDir string) {
+func importChannel(slug string, channelURL *util.URL, projectRoot string) {
+	dataDir := path.Join(projectRoot, "/data/channels")
 	channelList := util.LoadChannels(dataDir)
 
 	importedChannel, err := formatChannelDetails(slug, channelURL)
@@ -162,6 +163,7 @@ func importChannel(slug string, channelURL *util.URL, dataDir string) {
 	}
 	channel.Name = importedChannel.Name
 	channel.Slug = importedChannel.Slug
+	channel.Permalink = importedChannel.Slug
 	channel.Providers = importedChannel.Providers
 
 	log.Printf("Title: %s, Count: %d\n", channel.Name, channel.Providers["youtube"].Subscribers)
@@ -178,6 +180,11 @@ func importChannel(slug string, channelURL *util.URL, dataDir string) {
 	err = util.SaveChannel(channel, dataDir)
 	if err != nil {
 		log.Fatalf("Error saving channel '%s': %v", slug, err)
+	}
+
+	err = util.CreateChannelPage(channel, projectRoot)
+	if err != nil {
+		log.Printf("Unable to create channel page for %s, please create manually.", slug)
 	}
 }
 
