@@ -1,0 +1,33 @@
+description: "My name is Simon Obirek, and I suffer from an existential crisis. This channel is all about exploring this phenomenon."
+name: Simon Obirek
+permalink: simonobirek
+providers:
+  youtube:
+    name: Simon Obirek
+    slug: UCfZ4UMThTlXjKqEalSmdxkQ
+    url: https://www.youtube.com/channel/UCfZ4UMThTlXjKqEalSmdxkQ
+    description: |-
+      My name is Simon Obirek, and I suffer from an existential crisis. This channel is all about exploring this phenomenon.
+
+      Twitter: twitter.com/SimonObirek
+      Instagram: instagram.com/obirek_
+
+      For business inquiries, contact me here: simonobirek@gmail.com
+    subscribers: 3359
+  patreon:
+    name: Simon Obirek
+    slug: simonobirek
+    url: https://www.patreon.com/simonobirek
+  twitter:
+    name: Simon Obirek
+    slug: simonobirek
+    slug: https://www.twitter.com/simonobirek
+  twitter:
+    name: Simon Obirek
+    slug: obirek_
+    slug: https://www.instagram.com/obirek_
+slug: simonobirek
+tags:
+- breadtube
+- philosophy
+- nihilism
