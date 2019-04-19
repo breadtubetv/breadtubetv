@@ -20,6 +20,9 @@
     {{ with $channel.providers.patreon }}
       <a href="{{ .url }}" target="_blank" title="{{ .name }}">Patreon</a>
     {{ end }}
+    {{ with $channel.providers.actionnetwork }}
+      <a href="{{ .url }}" target="_blank" title="{{ .name }}">Action Network</a>
+    {{ end }}
     {{ with $channel.providers.steadyhq }}
       <a href="{{ .url }}" target="_blank" title="{{ .name }}">Steady</a>
     {{ end }}
