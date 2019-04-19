@@ -13,6 +13,9 @@
     <h1 class="heading"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></h1>
     <img src="/img/channels/{{ $channel.slug }}.jpg" class="channel-image heading-image" alt=" {{ $channel.name }}" />
     <p>{{ $channel.description | markdownify }}</p>
+    {{ with $channel.description_more }}
+      <p>{{ . | markdownify }}</p>
+    {{ end }}
 
     {{ with $channel.providers.website }}
       <a href="{{ .url }}" target="_blank" title="{{ .slug }}">{{ .slug }}</a>
