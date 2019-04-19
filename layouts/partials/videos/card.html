@@ -1,20 +1,22 @@
 <li class="video-item">
   <div class="video">
-    <div class="video-image">
-      <div class="video-imageWrap">
-        <img src="https://i3.ytimg.com/vi/{{ .video.id }}/hqdefault.jpg" alt="{{ .video.title }}" />
+    {{ if .videoIframe }}
+      <iframe width="336" height="183" src="https://www.youtube.com/embed/{{ .video.id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {{ else }}
+      <div class="video-image">
+        <div class="video-imageWrap">
+          <img src="https://i3.ytimg.com/vi/{{ .video.id }}/hqdefault.jpg" alt="{{ .video.title }}" />
+        </div>
       </div>
-    </div>
+    {{ end }}
     <div class="video-text">
       <div class="video-title">
-        <a class="video-link" href="https://youtu.be/{{ .video.id }}" target="_blank">
-          {{ .video.title }}
-        </a>
+        {{ .video.title }}
       </div>
       <div class="video-description">
         {{ .video.description }}
       </div>
-      {{ if .showChannel }}
+      {{ if .videoChannel }}
         <div class="video-metadata">
           <img alt="{{ .channel.name }}" src="/img/channels/{{ .channel.slug }}.jpg" class="video-channel-image" />
           <span class="video-channel-name">{{ .channel.name }}</span>

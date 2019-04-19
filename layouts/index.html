@@ -1,10 +1,4 @@
 {{ define "main" }}
-  <div class="header-action" style="margin-top: 10px">
-    {{ partial "search/bar.html" . }}
-  </div>
+  {{ partial "playlists/videos.html" . }}
   {{ partial "channels/row.html" . }}
-  {{ partial "search/code.html" . }}
-  <div class="header-action" style="margin-top: 10px">
-    <a href="/channels/new/" class="header-add">Add Channel</a>
-  </div>
 {{ end }}
