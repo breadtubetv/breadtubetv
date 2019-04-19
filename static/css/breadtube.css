@@ -388,8 +388,10 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 @media (min-width: 768px) {
-  .channel {
-    display: block;
+  :not(.channel-small) {
+    .channel {
+      display: block;
+    }
   }
 }
 
@@ -403,8 +405,10 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 @media (min-width: 768px) {
-  .channel-image {
-    width: auto;
+  :not(.channel-small) {
+    .channel-image {
+      width: auto;
+    }
   }
 }
 
@@ -434,9 +438,11 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 @media (min-width: 768px) {
-  .channel-text {
-    padding-left: 0;
-    padding-top: 1rem;
+  :not(.channel-small) {
+    .channel-text {
+      padding-left: 0;
+      padding-top: 1rem;
+    }
   }
 }
 

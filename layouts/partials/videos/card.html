@@ -1,37 +1,36 @@
-<li class="video-item">
-  <div class="video">
-    {{ if .videoIframe }}
-      <iframe width="336" height="183" src="https://www.youtube.com/embed/{{ .video.id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    {{ else }}
+{{ if .videoIframe }}
+  <li>
+    <ul class="channel-small">
+      <div class="video">
+        <li class="video-item" style="margin-bottom: 10px">
+          <iframe class="video-iframe" src="https://www.youtube.com/embed/{{ .video.id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </li>
+      </div>
+      {{ partial "channels/card.html" (dict "channel" .channel) }}
+    </ul>
+  </li>
+{{ else }}
+  <li class="video-item">
+    <div class="video">
       <div class="video-image">
         <div class="video-imageWrap">
           <img src="https://i3.ytimg.com/vi/{{ .video.id }}/hqdefault.jpg" alt="{{ .video.title }}" />
         </div>
       </div>
-    {{ end }}
-    <div class="video-text">
-      <div class="video-title">
-        {{ .video.title }}
-      </div>
-      <div class="video-description">
-        {{ .video.description }}
-      </div>
-      {{ if .videoChannel }}
-        <div class="video-metadata">
-          <img alt="{{ .channel.name }}" src="/img/channels/{{ .channel.slug }}.jpg" class="video-channel-image" />
-          <span class="video-channel-name">{{ .channel.name }}</span>
+      <div class="video-text">
+        <div class="video-title">
+          {{ .video.title }}
         </div>
-      {{ end }}
-    </div>
-  </div>
-</li>
-
-<!-- div id="modal-video-{{ .video.id}}" class="modal modal-video" tabindex="-1" role="dialog">
-  <div class="modal-dialog modal-xl modal-dialog-centered" role="document">
-    <div class="modal-content">
-      <div class="embed-responsive embed-responsive-16by9">
-        <iframe title="{{ .video.title }}" class="embed-responsive-item" src="https://www.youtube.com/embed/{{ .video.id }}" allowfullscreen></iframe>
+        <div class="video-description">
+          {{ .video.description }}
+        </div>
+        {{ if .videoChannel }}
+          <div class="video-metadata">
+            <img alt="{{ .channel.name }}" src="/img/channels/{{ .channel.slug }}.jpg" class="video-channel-image" />
+            <span class="video-channel-name">{{ .channel.name }}</span>
+          </div>
+        {{ end }}
       </div>
     </div>
-  </div>
-</div -->
+  </li>
+{{ end }}
