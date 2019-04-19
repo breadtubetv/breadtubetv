@@ -1,0 +1,27 @@
+description:  Hey, comrades! This channel exists so I can channel my creative energy, artistic talent, and rhetorical skill into something productive and useful to others. In time, it will be a weapon against fascism. Until that point, I'll be learning how to make YouTube videos.
+name: Vaush
+permalink: vaush
+providers:
+  youtube:
+    name: Vaush
+    slug: UC1E-JS8L0j1Ei70D9VEFrPQ
+    url: https://www.youtube.com/channel/UC1E-JS8L0j1Ei70D9VEFrPQ
+    description: ""
+    subscribers: 12543
+  twitch:
+    name: Vaush
+    slug: vaushvidya
+    url: https://www.twitch.tv/vaushvidya
+  twitter:
+    name: Vaush
+    slug: vaushv
+    url: https://www.twitter.com/vaushv
+  patreon:
+    name: Vaush
+    slug: vaush
+    url: https://www.patreon.com/vaush
+  paypal:
+    name: Vaush
+    slug: vaush
+    url: https://www.paypal.me/vaush
+slug: vaush
