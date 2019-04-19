@@ -1,0 +1,52 @@
+{{ define "main" }}
+  {{ $scratch := newScratch }}
+
+  {{ $channelSlug := .Params.channel }}
+  {{ $channels := $.Site.Data.channels }}
+  {{ range $channels }}
+    {{ if eq .slug $channelSlug }}
+      {{ $scratch.Set "channel" . }}
+    {{ end }}
+  {{ end }}
+
+  {{ $videoSlug := .Params.video }}
+  {{ $videos := $.Site.Data.videos }}
+  {{ range $channel, $videos := $videos }}
+    {{ range $videos }}
+      {{ if (eq .channel $channel) }}
+        {{ if and (eq .slug $videoSlug)  }}
+          {{ $scratch.Set "video" . }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ $video := $scratch.Get "video" }}
+
+  <div class="content">
+    {{ partial "channels/heading.html" (dict "scratch" $scratch) }}
+  </div>
+
+  <h1 class="heading"><a href="/{{ $channelSlug }}/{{ $videoSlug }}">{{ $video.title }}</a></h1>
+
+  {{ with $video }}
+    <ul class="iframe-list">
+      {{ with .providers.youtube }}
+        <li>
+          <h3><a href="https://youtu.be/{{ .id }}">YouTube</a></h3>
+          <div class="iframe-container">
+            <iframe title="{{ $video.title }}" src="https://www.youtube.com/embed/{{ .id }}" allowfullscreen></iframe>
+          </div>
+        </li>
+      {{ end }}
+
+      {{ with .providers.queertube }}
+        <li>
+          <h3><a href="https://queertube.org/videos/watch/{{ .id }}">QueerTube</a></h3>
+          <div class="iframe-container">
+            <iframe title="{{ $video.title }}" src="https://queertube.org/videos/embed/{{ .id }}" allowfullscreen></iframe>
+          </div>
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+{{ end }}

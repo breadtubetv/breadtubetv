@@ -1,3 +1,5 @@
+{{ $slug := .video.slug }}
+
 {{ if .videoIframe }}
 <li id="{{ .video.id }}" class="channel-video list-item">
   <ul>
@@ -35,9 +37,15 @@
       </div>
       <div class="video-text">
         <div class="video-title">
-          <a class="video-link" href="https://youtu.be/{{ .video.id }}" target="_blank">
-            {{ .video.title }}
-          </a>
+            {{ if $slug }}
+            <a class="video-link" href="/{{ .channel.slug }}/{{ .video.slug }}">
+                {{ .video.title }}
+            </a>
+            {{ else }}
+            <a class="video-link" href="https://youtu.be/{{ .video.id }}" target="_blank">
+                {{ .video.title }}
+            </a>
+            {{ end }}
         </div>
         <div class="video-description">
           {{ .video.description }}
