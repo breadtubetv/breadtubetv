@@ -1,6 +1,6 @@
 ---
 title: Essence of Thought
-type: channels
+type: channel
 channel: essenceofthought
 menu:
   main:

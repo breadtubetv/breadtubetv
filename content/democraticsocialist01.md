@@ -1,6 +1,6 @@
 ---
 title: Democratic Socialist 01
-type: channels
+type: channel
 channel: democraticsocialist01
 menu:
   main:

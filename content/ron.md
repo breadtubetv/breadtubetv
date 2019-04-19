@@ -1,6 +1,6 @@
 ---
 title: Ron
-type: channels
+type: channel
 channel: ron
 menu:
   main:

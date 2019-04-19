@@ -1,6 +1,6 @@
 ---
 title: Graham Elwood
-type: channels
+type: channel
 channel: grahamelwood
 menu:
   main:

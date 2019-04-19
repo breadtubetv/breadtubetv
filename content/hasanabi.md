@@ -1,6 +1,6 @@
 ---
 title: Hasan Piker
-type: channels
+type: channel
 channel: hasanabi
 menu:
   main:

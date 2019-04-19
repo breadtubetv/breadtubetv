@@ -1,6 +1,6 @@
 ---
 title: In Otter Words
-type: channels
+type: channel
 channel: inotterwords
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: Christopher Szabo
-type: channels
+type: channel
 channel: christopherszabo
 menu:
   main:

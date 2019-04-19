@@ -1,6 +1,6 @@
 ---
 title: Dirk Socialist
-type: channels
+type: channel
 channel: dirksocialist
 menu:
   main:

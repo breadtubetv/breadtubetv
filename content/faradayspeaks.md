@@ -1,6 +1,6 @@
 ---
 title: Faraday Speaks
-type: channels
+type: channel
 channel: faradayspeaks
 menu:
   main:

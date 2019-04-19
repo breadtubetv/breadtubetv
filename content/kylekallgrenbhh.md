@@ -1,6 +1,6 @@
 ---
 title: Kyle Kallgren BHH
-type: channels
+type: channel
 channel: kylekallgrenbhh
 menu:
   main:

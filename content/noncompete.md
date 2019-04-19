@@ -1,6 +1,6 @@
 ---
 title: "Non Compete"
-type: "channels"
+type: "channel"
 channel: "noncompete"
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: Aphreditto
-type: channels
+type: channel
 channel: aphreditto
 menu:
   main:

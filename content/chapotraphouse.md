@@ -1,6 +1,6 @@
 ---
 title: "Chapo Trap House"
-type: "channels"
+type: "channel"
 channel: "chapotraphouse"
 menu:
   main:

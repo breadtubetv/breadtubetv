@@ -1,6 +1,6 @@
 ---
 title: DeadHead Animation
-type: channels
+type: channel
 channel: deadheadanimation
 menu:
   main:

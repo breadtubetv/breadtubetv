@@ -1,6 +1,6 @@
 ---
 title: Benji Adam Whiskettes
-type: channels
+type: channel
 channel: benjiadamwhiskettes
 menu:
   main:

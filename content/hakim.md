@@ -1,6 +1,6 @@
 ---
 title: Hakim
-type: channels
+type: channel
 channel: hakim
 menu:
   main:

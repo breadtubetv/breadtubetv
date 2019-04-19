@@ -1,6 +1,6 @@
 ---
 title: Knowing Better
-type: channels
+type: channel
 channel: knowingbetter
 menu:
   main:

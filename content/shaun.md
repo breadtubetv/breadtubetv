@@ -1,6 +1,6 @@
 ---
 title: Shaun
-type: channels
+type: channel
 channel: shaun
 menu:
   main:

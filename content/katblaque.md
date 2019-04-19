@@ -1,6 +1,6 @@
 ---
 title: Kat Blaque
-type: channels
+type: channel
 channel: katblaque
 menu:
   main:

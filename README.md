@@ -58,7 +58,7 @@ You can use the `bake` CLI, visit the [repo](https://github.com/breadtubetv/bake
   ```
   ---
   title: "<Readable Name>"
-  type: "channels"
+  type: "channel"
   channel: "<slug>"
   menu:
     main:

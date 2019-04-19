@@ -1,6 +1,6 @@
 ---
 title: Earth Strike
-type: channels
+type: channel
 channel: earthstrike
 menu:
   main:

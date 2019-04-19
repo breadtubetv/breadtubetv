@@ -1,6 +1,6 @@
 ---
 title: Big Joel
-type: channels
+type: channel
 channel: bigjoel
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: Mad Blender
-type: channels
+type: channel
 channel: madblender
 menu:
   main:

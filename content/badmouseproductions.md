@@ -1,6 +1,6 @@
 ---
 title: BadMouse Productions
-type: channels
+type: channel
 channel: badmouseproductions
 menu:
   main:

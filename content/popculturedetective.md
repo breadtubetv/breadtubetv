@@ -1,6 +1,6 @@
 ---
 title: Pop Culture Detective
-type: channels
+type: channel
 channel: popculturedetective
 menu:
   main:

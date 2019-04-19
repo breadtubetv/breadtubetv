@@ -1,6 +1,6 @@
 ---
 title: The Rational National
-type: channels
+type: channel
 channel: rationalnational
 menu:
   main:

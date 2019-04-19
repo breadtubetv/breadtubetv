@@ -1,6 +1,6 @@
 ---
 title: Cuck Philosophy
-type: channels
+type: channel
 channel: cuckphilosophy
 menu:
   main:

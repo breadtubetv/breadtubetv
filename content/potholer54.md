@@ -1,6 +1,6 @@
 ---
 title: potholer54
-type: channels
+type: channel
 channel: potholer54
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: José
-type: channels
+type: channel
 channel: jose
 menu:
   main:

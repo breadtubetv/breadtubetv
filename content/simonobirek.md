@@ -1,6 +1,6 @@
 ---
 title: Simon Obirek
-type: channels
+type: channel
 channel: simonobirek
 menu:
   main:

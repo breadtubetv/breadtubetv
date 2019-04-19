@@ -1,6 +1,6 @@
 ---
 title: Democracy Now
-type: channels
+type: channel
 channel: democracynow
 menu:
   main:

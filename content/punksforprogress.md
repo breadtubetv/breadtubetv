@@ -1,6 +1,6 @@
 ---
 title: Punks For Progress
-type: channels
+type: channel
 channel: punksforprogress
 menu:
   main:

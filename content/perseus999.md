@@ -1,6 +1,6 @@
 ---
 title: Perseus999
-type: channels
+type: channel
 channel: perseus999
 menu:
   main:

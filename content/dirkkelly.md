@@ -1,6 +1,6 @@
 ---
 title: "Dirk Kelly"
-type: "channels"
+type: "channel"
 channel: "dirkkelly"
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: PD Morrin
-type: channels
+type: channel
 channel: pdmorrin
 menu:
   main:

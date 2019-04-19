@@ -1,6 +1,6 @@
 ---
 title: "The Serfs"
-type: "channels"
+type: "channel"
 channel: "theserfs"
 menu:
   main:

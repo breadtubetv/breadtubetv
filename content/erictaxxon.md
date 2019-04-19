@@ -1,6 +1,6 @@
 ---
 title: Eric Taxxon
-type: channels
+type: channel
 channel: erictaxxon
 menu:
   main:

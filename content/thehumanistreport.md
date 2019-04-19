@@ -1,6 +1,6 @@
 ---
 title: "The Humanist Report"
-type: "channels"
+type: "channel"
 channel: "thehumanistreport"
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: Rational Disconnect
-type: channels
+type: channel
 channel: rationaldisconnect
 menu:
   main:

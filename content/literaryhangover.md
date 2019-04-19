@@ -1,6 +1,6 @@
 ---
 title: Literary Hangover
-type: channels
+type: channel
 channel: literaryhangover
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: donoteat01
-type: channels
+type: channel
 channel: donoteat01
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: Libertarian Socialist Rants
-type: channels
+type: channel
 channel: libertariansocialistrants
 menu:
   main:

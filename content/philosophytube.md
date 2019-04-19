@@ -1,6 +1,6 @@
 ---
 title: Philosophy Tube
-type: channels
+type: channel
 channel: philosophytube
 menu:
   main:

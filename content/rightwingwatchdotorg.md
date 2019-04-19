@@ -1,6 +1,6 @@
 ---
 title: RightWingWatchdotorg
-type: channels
+type: channel
 channel: rightwingwatchdotorg
 menu:
   main:

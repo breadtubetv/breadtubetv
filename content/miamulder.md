@@ -1,6 +1,6 @@
 ---
 title: Mia Mulder
-type: channels
+type: channel
 channel: miamulder
 menu:
   main:

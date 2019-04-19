@@ -1,6 +1,6 @@
 ---
 title: BreadTube.tv
-type: "channels"
+type: "channel"
 tags:
-- breadtube
+- featured
 ---

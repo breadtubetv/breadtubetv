@@ -1,6 +1,6 @@
 ---
 title: azureScapegoat
-type: channels
+type: channel
 channel: azurescapegoat
 menu:
   main:

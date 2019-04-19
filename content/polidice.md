@@ -1,6 +1,6 @@
 ---
 title: PoliDice
-type: channels
+type: channel
 channel: polidice
 menu:
   main:

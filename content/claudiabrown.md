@@ -1,6 +1,6 @@
 ---
 title: Claudia Brown
-type: channels
+type: channel
 channel: claudiabrown
 menu:
   main:

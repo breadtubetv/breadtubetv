@@ -1,6 +1,6 @@
 ---
 title: Hbomberguy
-type: channels
+type: channel
 channel: hbomberguy
 menu:
   main:

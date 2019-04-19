@@ -1,6 +1,6 @@
 ---
 title: a privileged vegan
-type: channels
+type: channel
 channel: aprivilegedvegan
 menu:
   main:

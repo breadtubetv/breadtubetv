@@ -1,6 +1,6 @@
 ---
 title: Kristi Winters
-type: channels
+type: channel
 channel: kristiwinters
 menu:
   main:

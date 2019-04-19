@@ -1,6 +1,6 @@
 ---
 title: Flea Market Socialist
-type: channels
+type: channel
 channel: fleamarketsocialist
 menu:
   main:
