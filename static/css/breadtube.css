@@ -380,7 +380,8 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 /* Channels */
-.channel {
+.channel,
+.channel-video .channel {
   align-items: flex-start;
   display: flex;
   height: 100%;
@@ -392,14 +393,13 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 @media (min-width: 768px) {
-  :not(.channel-video) {
-    .channel {
-      display: block;
-    }
+  .channel {
+    display: block;
   }
 }
 
-.channel-image {
+.channel-image,
+.channel-video .channel-image {
   background: #fff;
   border: 1px solid #beb8be;
   border-radius: 0.5rem;
@@ -413,10 +413,8 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 @media (min-width: 768px) {
-  :not(.channel-video) {
-    .channel-image {
-      width: auto;
-    }
+  .channel-image {
+    width: auto;
   }
 }
 
@@ -445,17 +443,26 @@ button, select, input, textarea { font-family: inherit; }
   transform: scale(1.1);
 }
 
+.channel-video .channel-description,
+.channel-video .channel-metadata {
+  display: none;
+}
+
 .channel-text {
   flex: 1;
   padding-left: 1rem;
 }
 
+.channel-video .channel-text {
+  flex: 1;
+  padding-left: 0.3rem;
+  padding-top: 0;
+}
+
 @media (min-width: 768px) {
-  :not(.channel-video) {
-    .channel-text {
-      padding-left: 0;
-      padding-top: 1rem;
-    }
+  .channel-text {
+    padding-left: 0;
+    padding-top: 1rem;
   }
 }
 
@@ -503,6 +510,12 @@ button, select, input, textarea { font-family: inherit; }
   }
 }
 
+@media (max-width: 767px) {
+  .video-iframe {
+    width: 100%;
+  }
+}
+
 .video-image {
   background: #fff;
   border: 1px solid #beb8be;
@@ -543,6 +556,12 @@ button, select, input, textarea { font-family: inherit; }
   padding-left: 1rem;
 }
 
+.channel-video .video-text {
+  margin-top: 0;
+  padding-top: 0;
+  padding-left: 0;
+}
+
 @media (min-width: 768px) {
   .video-text {
     padding-left: 0;
@@ -554,11 +573,6 @@ button, select, input, textarea { font-family: inherit; }
   font-size: 1.25rem;
   font-weight: 700;
   margin-bottom: 0.25rem;
-}
-
-.channel-video .video-text {
-  margin-top: 0;
-  padding-top: 0;
 }
 
 .channel-video .video-title {

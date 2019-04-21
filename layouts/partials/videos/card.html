@@ -1,10 +1,10 @@
 {{ if .videoIframe }}
   <li>
     <ul class="channel-video">
-      <div class="video">
-        <li class="video-item" style="margin-bottom: 10px">
-          <iframe class="video-iframe" src="https://www.youtube.com/embed/{{ .video.id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          {{ partial "channels/card.html" (dict "channel" .channel "showDescription" false) }}
+      <li class="video">
+        <div class="video-item" style="margin-bottom: 10px">
+          <iframe class="video-iframe" src="https://www.youtube.com/embed/{{ .video.id }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          {{ partial "channels/card.html" (dict "channel" .channel) }}
           <div class="video-text">
             <div class="video-title">
               {{ .video.title }}
@@ -13,8 +13,8 @@
               {{ .video.description | markdownify }}
             </div>
           </div>
-        </li>
-      </div>
+        </div>
+      </li>
     </ul>
   </li>
 {{ else }}
