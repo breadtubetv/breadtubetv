@@ -1,10 +1,10 @@
 ---
-title: Cuck Philosophy
+title: Christo Aivalis
 type: channel
-channel: cuckphilosophy
+channel: christoaivalis
 menu:
   main:
     parent: Channels
 videos:
-- wxalrwPNkNI
+- oEV0iE9p24U
 ---

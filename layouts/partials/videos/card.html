@@ -1,12 +1,20 @@
 {{ if .videoIframe }}
   <li>
-    <ul class="channel-small">
+    <ul class="channel-video">
       <div class="video">
         <li class="video-item" style="margin-bottom: 10px">
           <iframe class="video-iframe" src="https://www.youtube.com/embed/{{ .video.id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          {{ partial "channels/card.html" (dict "channel" .channel "showDescription" false) }}
+          <div class="video-text">
+            <div class="video-title">
+              {{ .video.title }}
+            </div>
+            <div class="video-description">
+              {{ .video.description | markdownify }}
+            </div>
+          </div>
         </li>
       </div>
-      {{ partial "channels/card.html" (dict "channel" .channel) }}
     </ul>
   </li>
 {{ else }}

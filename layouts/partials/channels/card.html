@@ -12,10 +12,12 @@
           {{ .channel.name }}
         </a>
       </div>
-      <div class="channel-description">
-        {{ .channel.description | markdownify }}
-      </div>
-      {{ if $subscribers }}
+      {{ if .showDescription }}
+        <div class="channel-description">
+          {{ .channel.description | markdownify }}
+        </div>
+      {{ end }}
+      {{ if and .showSubscribers $subscribers }}
         <div class="channel-metadata">
           {{ lang.NumFmt 0 $subscribers }} <span class="visually-hidden">subscribers</span>
         </div>
