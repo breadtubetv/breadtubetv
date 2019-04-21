@@ -1,0 +1,28 @@
+description: This is a channel where Space Baby talk about Art, History and Politics.
+name: Space Babies
+permalink: spacebabies
+providers:
+  youtube:
+    name: Space Babies
+    slug: UC__UuPAX7TvF3hGYb5ciVpQ
+    url: https://www.youtube.com/channel/UC__UuPAX7TvF3hGYb5ciVpQ
+    description: This is a channel where Space Baby talk about Art, History and Politics.
+    subscribers: 1021
+  patreon:
+    name: Space Babies
+    slug: spacebabies
+    url: https://www.patreon.com/spacebabies
+  facebook:
+    name: Space Babies
+    slug: spacybabies
+    url: https://www.facebook.com/spacybabies
+  instagram:
+    name: Space Babies
+    slug: oohlalaspacebaby
+    url: https://www.instagram.com/oohlalaspacebaby/
+slug: spacebabies
+tags:
+- breadtube
+- history
+- politics
+- art
