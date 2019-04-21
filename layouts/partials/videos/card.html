@@ -1,8 +1,8 @@
 {{ if .videoIframe }}
-  <li>
-    <ul class="channel-video">
+  <li class="channel-video">
+    <ul>
       <li class="video">
-        <div class="video-item" style="margin-bottom: 10px">
+        <div class="video-item">
           <iframe class="video-iframe" src="https://www.youtube.com/embed/{{ .video.id }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           {{ partial "channels/card.html" (dict "channel" .channel) }}
           <div class="video-text">

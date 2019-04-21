@@ -379,6 +379,11 @@ button, select, input, textarea { font-family: inherit; }
   }
 }
 
+.list > li.channel-video {
+  width: 100%;
+  padding-right: 0;
+}
+
 /* Channels */
 .channel,
 .channel-video .channel {
@@ -510,7 +515,15 @@ button, select, input, textarea { font-family: inherit; }
   }
 }
 
+.channel-video .video-item {
+  margin-bottom: 0.5rem;
+}
+
 @media (max-width: 767px) {
+  .video-item {
+    width: 100%;
+  }
+
   .video-iframe {
     width: 100%;
   }
