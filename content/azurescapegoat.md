@@ -6,4 +6,5 @@ menu:
   main:
     parent: Channels
 videos:
+- vyl2DeKT-Vs
 ---
