@@ -1,0 +1,29 @@
+description: My name is Roman and I'm from Russia. What's up?
+name: NFKRZ
+permalink: nfkrz
+providers:
+  youtube:
+    name: NFKRZ
+    slug: UC19xLluI7dG093Gmw57BhHw
+    url: https://www.youtube.com/channel/UC19xLluI7dG093Gmw57BhHw
+    description: My name is Roman and I'm from Russia. What's up?
+    subscribers: 659550
+  patreon:
+    name: NFKRZ
+    name: nfkrz
+    url: https://www.patreon.com/nfkrz
+  twitter:
+    slug: NFKRZ
+    slug: roman_nfkrz
+    url: https://twitter.com/roman_nfkrz
+  twitter:
+    slug: roman_nfkrz
+    slug: roman_nfkrz
+    url: https://www.instagram.com/roman_nfkrz
+slug: nfkrz
+tags:
+- breadtube
+- capitalism
+- communism
+- russia
+- ussr
