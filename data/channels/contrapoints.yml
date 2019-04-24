@@ -1,6 +1,8 @@
 description: YouTuber, ex-philosopher. Sex, drugs, and social justice.
 name: Contrapoints
+slug: contrapoints
 permalink: contrapoints
+url: https://www.youtube.com/contrapoints
 providers:
   patreon:
     name: Contrapoints
@@ -24,6 +26,12 @@ providers:
     url: https://www.youtube.com/contrapoints
     description: ""
     subscribers: 558687
-slug: contrapoints
 tags:
 - breadtube
+- philosophy
+- gender
+- capitalism
+- alt-right
+- nazism
+- aesthetic
+- spectacle

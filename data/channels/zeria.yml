@@ -1,0 +1,27 @@
+description: AKA Floating into Bliss. I focus on analyzing the media I enjoy as
+  well as exploring its creators and fandoms. Come for the topical content, stay
+  for the yuri and Ikuhara.
+name: Zeria
+permalink: zeria
+providers:
+  youtube:
+    name: Zeria
+    slug: UCOd49Jk5JjgHNynxRrUdJ7g
+    url: https://www.youtube.com/channel/UCOd49Jk5JjgHNynxRrUdJ7g
+    description: AKA Floating into Bliss. I focus on analyzing the media I enjoy as
+      well as exploring its creators and fandoms. Come for the topical content, stay
+      for the yuri and Ikuhara.
+    subscribers: 16030
+  patreon:
+    name: Zeria
+    url: zeria
+    url: https://www.patreon.com/Zeria
+  website:
+    name: floatingintobliss.wordpress.com
+    slug: floatingintobliss.wordpress.com
+    url: https://floatingintobliss.wordpress.com/
+  twitter:
+    name: Zeria
+    slug: _Zeria_
+    url: https://twitter.com/_Zeria_
+slug: zeria

@@ -28,11 +28,17 @@ open localhost:1313
 
 ## [Contributing](https://github.com/breadtubetv/breadtubetv/blob/master/CONTRIBUTING.md)
 
-### Adding a Channel
+### [Walkthrough Video](https://youtu.be/A13Xer-IvFs)
 
-#### [Walkthrough Video](https://youtu.be/jpOun7YXFpg) (Out of date)
+We have a video to walk you through the process, [let us know](https://breadtube.tv/discord) if you need any help!
 
-You can use the `bake` CLI, visit the [repo](https://github.com/breadtubetv/bake) for more information OR
+### Bake Command Line Interface (Recommended)
+
+```bake channel import SLUG youtube URL```
+
+_Visit [github.com/breadtubetv/bake](https://github.com/breadtubetv/bake) for more information_
+
+### Manually Add Channel
 
 - Create a `<channelName>.yaml` file in [`data/channels/`](https://github.com/breadtubetv/breadtubetv/blob/master/data/channels)
 - Fill in the required information:
@@ -63,9 +69,10 @@ You can use the `bake` CLI, visit the [repo](https://github.com/breadtubetv/bake
   menu:
     main:
       parent: "Channels"
-videos:
-- abc123def
+  videos:
+  - abc123def
   ---
+  ```
 - Download the image and save it to [`static/img/channels/`](https://github.com/breadtubetv/breadtubetv/blob/master/static/img/channels)
 
 ### Creating a Playlist
@@ -84,5 +91,3 @@ Pull requests are automatically deployed to a self contained environment for rev
 ### Hosting
 
 While this is a simple Hugo website, hosting is on [netlify.com](https://netlify.com).
-
-## Forestry
