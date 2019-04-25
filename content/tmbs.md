@@ -1,6 +1,6 @@
 ---
 title: The Michael Brooks Show
-type: channels
+type: channel
 channel: tmbs
 menu:
   main:

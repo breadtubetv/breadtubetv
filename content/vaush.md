@@ -1,6 +1,6 @@
 ---
 title: Vaush
-type: channels
+type: channel
 channel: vaush
 menu:
   main:

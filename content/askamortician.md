@@ -1,6 +1,6 @@
 ---
 title: Ask A Mortician
-type: channels
+type: channel
 channel: askamortician
 menu:
   main:

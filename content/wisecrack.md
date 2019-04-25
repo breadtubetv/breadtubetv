@@ -1,6 +1,6 @@
 ---
 title: Wisecrack
-type: channels
+type: channel
 channel: wisecrack
 menu:
   main:

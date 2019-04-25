@@ -570,7 +570,6 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .channel-video .video-text {
-  margin-top: 0;
   padding-top: 0;
   padding-left: 0;
 }
@@ -592,6 +591,11 @@ button, select, input, textarea { font-family: inherit; }
   font-size: 1.1rem;
 }
 
+.video-link-container {
+  display: block;
+  position: relative;
+}
+
 .video-link::after {
   bottom: 0;
   content: '';
@@ -604,7 +608,6 @@ button, select, input, textarea { font-family: inherit; }
 
 .video-metadata {
   overflow: hidden;
-  color: #555;
   margin-top: 5px;
 }
 
@@ -618,6 +621,15 @@ button, select, input, textarea { font-family: inherit; }
 .video-metadata .video-channel-name {
   float: left;
   padding-top: 6px;
+  color: #555;
+}
+
+.video-metadata .video-channel-link .video-channel-name:hover {
+  color: #880e7d;
+}
+
+.video-metadata .video-channel-link .video-channel-name {
+  text-decoration: underline;
 }
 
 .content {
@@ -631,7 +643,6 @@ button, select, input, textarea { font-family: inherit; }
 .content img {
   margin-bottom: 1.5rem;
 }
-
 
 .content ul {
   list-style: disc;

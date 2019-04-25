@@ -1,6 +1,6 @@
 ---
 title: Resonance Audio
-type: channels
+type: channel
 channel: resonanceaudio
 menu:
   main:

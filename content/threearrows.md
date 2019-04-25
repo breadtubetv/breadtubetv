@@ -1,6 +1,6 @@
 ---
 title: Three Arrows
-type: channels
+type: channel
 channel: threearrows
 menu:
   main:

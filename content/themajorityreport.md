@@ -1,6 +1,6 @@
 ---
 title: The Majority Report
-type: channels
+type: channel
 channel: themajorityreport
 menu:
   main:

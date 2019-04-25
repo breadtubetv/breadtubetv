@@ -1,6 +1,6 @@
 ---
 title: Zero Books
-type: channels
+type: channel
 channel: zerobooks
 menu:
   main:

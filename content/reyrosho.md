@@ -1,6 +1,6 @@
 ---
 title: ReyRoSho
-type: channels
+type: channel
 channel: reyrosho
 menu:
   main:

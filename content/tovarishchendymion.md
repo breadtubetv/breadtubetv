@@ -1,6 +1,6 @@
 ---
 title: Tovarishch Endymion
-type: channels
+type: channel
 channel: tovarishchendymion
 menu:
   main:

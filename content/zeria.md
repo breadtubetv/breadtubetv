@@ -1,6 +1,6 @@
 ---
 title: Zeria
-type: channels
+type: channel
 channel: zeria
 menu:
   main:

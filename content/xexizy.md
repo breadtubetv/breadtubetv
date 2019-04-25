@@ -1,6 +1,6 @@
 ---
 title: Xexizy
-type: channels
+type: channel
 channel: xexizy
 menu:
   main:

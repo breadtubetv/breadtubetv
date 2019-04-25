@@ -1,6 +1,6 @@
 ---
 title: Trash Smash
-type: channels
+type: channel
 channel: trashsmash
 menu:
   main:

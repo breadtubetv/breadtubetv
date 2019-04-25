@@ -1,6 +1,6 @@
 ---
 title: The Progressive Voice
-type: channels
+type: channel
 channel: theprogressivevoice
 menu:
   main:

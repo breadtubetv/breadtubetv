@@ -1,6 +1,6 @@
 ---
 title: The Spartacast League
-type: channels
+type: channel
 channel: thespartacastleague
 menu:
   main:

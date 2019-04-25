@@ -1,6 +1,6 @@
 ---
 title: The Jimmy Dore Show
-type: channels
+type: channel
 channel: thejimmydoreshow
 menu:
   main:

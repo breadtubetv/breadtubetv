@@ -1,6 +1,6 @@
 ---
 title: TMM
-type: channels
+type: channel
 channel: tmm
 menu:
   main:

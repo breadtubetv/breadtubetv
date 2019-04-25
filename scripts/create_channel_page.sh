@@ -5,7 +5,7 @@ ls data/channels/ | while read data; do
   if [ ! -e "$page" ]; then
     echo "---
 title: $name
-type: channels
+type: channel
 channel: $slug
 menu:
   main:

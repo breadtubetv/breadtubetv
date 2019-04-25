@@ -1,6 +1,6 @@
 ---
 title: Unicorn Riot
-type: channels
+type: channel
 channel: unicornriot
 menu:
   main:

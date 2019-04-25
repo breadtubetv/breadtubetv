@@ -1,6 +1,6 @@
 ---
 title: The Young Turks
-type: channels
+type: channel
 channel: theyoungturks
 menu:
   main:

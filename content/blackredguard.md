@@ -1,6 +1,6 @@
 ---
 title: Black Red Guard
-type: channels
+type: channel
 channel: blackredguard
 menu:
   main:

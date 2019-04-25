@@ -1,25 +1,26 @@
 {{ if .videoIframe }}
-  <li class="channel-video">
-    <ul>
-      <li class="video">
-        <div class="video-item">
-          <iframe class="video-iframe" src="https://www.youtube.com/embed/{{ .video.id }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          {{ partial "channels/card.html" (dict "channel" .channel) }}
-          <div class="video-text">
-            <div class="video-title">
-              {{ .video.title }}
-            </div>
-            <div class="video-description">
-              {{ .video.description | markdownify }}
-            </div>
+<li class="channel-video">
+  <ul>
+    <li class="video">
+      <div class="video-item">
+        <iframe class="video-iframe" src="https://www.youtube.com/embed/{{ .video.id }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        {{ partial "channels/card.html" (dict "channel" .channel) }}
+        <div class="video-text">
+          <div class="video-title">
+            {{ .video.title }}
+          </div>
+          <div class="video-description">
+            {{ .video.description | markdownify }}
           </div>
         </div>
-      </li>
-    </ul>
-  </li>
+      </div>
+    </li>
+  </ul>
+</li>
 {{ else }}
-  <li class="video-item">
-    <div class="video">
+<li class="video-item">
+  <div class="video">
+    <div class="video-link-container">
       <div class="video-image">
         <div class="video-imageWrap">
           <img src="https://i3.ytimg.com/vi/{{ .video.id }}/hqdefault.jpg" alt="{{ .video.title }}" />
@@ -34,13 +35,16 @@
         <div class="video-description">
           {{ .video.description }}
         </div>
-        {{ if .videoChannel }}
-          <div class="video-metadata">
-            <img alt="{{ .channel.name }}" src="/img/channels/{{ .channel.slug }}.jpg" class="video-channel-image" />
-            <span class="video-channel-name">{{ .channel.name }}</span>
-          </div>
-        {{ end }}
       </div>
     </div>
-  </li>
+    {{ if .videoChannel }}
+      <div class="video-metadata">
+        <a class="video-channel-link" href="/{{ .channel.slug }}">
+          <img alt="{{ .channel.name }}" src="/img/channels/{{ .channel.slug }}.jpg" class="video-channel-image" />
+          <span class="video-channel-name">{{ .channel.name }}</span>
+        </a>
+      </div>
+    {{ end }}
+  </div>
+</li>
 {{ end }}
