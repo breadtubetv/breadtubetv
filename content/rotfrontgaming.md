@@ -1,6 +1,6 @@
 ---
 title: Rotfront Gaming
-type: channels
+type: channel
 channel: rotfrontgaming
 menu:
   main:

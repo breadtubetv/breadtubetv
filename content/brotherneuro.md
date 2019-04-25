@@ -1,6 +1,6 @@
 ---
 title: Brother Neuro
-type: channels
+type: channel
 channel: brotherneuro
 menu:
   main:

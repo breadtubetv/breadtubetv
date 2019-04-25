@@ -1,6 +1,6 @@
 ---
 title: Linke Sau
-type: channels
+type: channel
 channel: linkesau
 menu:
   main:

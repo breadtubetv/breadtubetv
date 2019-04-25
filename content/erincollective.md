@@ -1,6 +1,6 @@
 ---
 title: Erin Collective
-type: channels
+type: channel
 channel: erincollective
 menu:
   main:

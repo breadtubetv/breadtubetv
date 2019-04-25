@@ -1,6 +1,6 @@
 ---
 title: Curio
-type: channels
+type: channel
 channel: curio
 menu:
   main:

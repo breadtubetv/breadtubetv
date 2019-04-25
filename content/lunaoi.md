@@ -1,6 +1,6 @@
 ---
 title: "Luna Oi"
-type: "channels"
+type: "channel"
 channel: "lunaoi"
 menu:
   main:

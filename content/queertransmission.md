@@ -1,6 +1,6 @@
 ---
 title: Queer Transmission
-type: channels
+type: channel
 channel: queertransmission
 menu:
   main:

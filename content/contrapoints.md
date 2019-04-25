@@ -1,6 +1,6 @@
 ---
 title: "Contrapoints"
-type: "channels"
+type: "channel"
 channel: "contrapoints"
 menu:
   main:

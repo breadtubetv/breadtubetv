@@ -1,6 +1,6 @@
 ---
 title: Kevin Logan
-type: channels
+type: channel
 channel: kevinlogan
 menu:
   main:

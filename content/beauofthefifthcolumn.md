@@ -1,6 +1,6 @@
 ---
 title: Beau of the Fifth Column
-type: channels
+type: channel
 channel: beauofthefifthcolumn
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: Sarah Z
-type: channels
+type: channel
 channel: sarahz
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: Reddebrek
-type: channels
+type: channel
 channel: reddebrek
 menu:
   main:

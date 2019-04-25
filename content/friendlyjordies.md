@@ -1,6 +1,6 @@
 ---
 title: friendlyjordies
-type: channels
+type: channel
 channel: friendlyjordies
 menu:
   main:

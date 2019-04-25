@@ -1,6 +1,6 @@
 ---
 title: Mexie
-type: channels
+type: channel
 channel: mexie
 menu:
   main:

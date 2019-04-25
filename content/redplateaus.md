@@ -1,6 +1,6 @@
 ---
 title: Red Plateaus
-type: channels
+type: channel
 channel: redplateaus
 menu:
   main:

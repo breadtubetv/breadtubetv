@@ -1,6 +1,6 @@
 ---
 title: Red Star Videos
-type: channels
+type: channel
 channel: redstarvideos
 menu:
   main:

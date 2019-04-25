@@ -1,6 +1,6 @@
 ---
 title: Dumpster Flower
-type: channels
+type: channel
 channel: dumpsterflower
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: Lindsay Ellis
-type: channels
+type: channel
 channel: lindsayellis
 menu:
   main:

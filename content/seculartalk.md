@@ -1,6 +1,6 @@
 ---
 title: Secular Talk
-type: channels
+type: channel
 channel: seculartalk
 menu:
   main:

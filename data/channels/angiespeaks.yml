@@ -8,7 +8,17 @@ providers:
     url: https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ
     description: ""
     subscribers: 17367
+  patreon:
+    name: Angie Speaks
+    slug: angiespeaks
+    url: https://www.patreon.com/angiespeaks
+  twitter:
+    name: Angie Speaks
+    slug: angiespeaks
+    url: https://www.twitter.com/angiespeaks
 slug: angiespeaks
 tags:
 - breadtube
-url: https://www.youtube.com/channel/UCUtloyZ_Iu4BJekIqPLc_fQ
+- capitalism
+- depression
+- creativity

@@ -1,6 +1,6 @@
 ---
 title: anarchopac
-type: channels
+type: channel
 channel: anarchopac
 menu:
   main:

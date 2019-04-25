@@ -1,6 +1,6 @@
 ---
 title: Maria the Witch
-type: channels
+type: channel
 channel: mariathewitch
 menu:
   main:

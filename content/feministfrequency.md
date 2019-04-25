@@ -1,6 +1,6 @@
 ---
 title: Feminist Frequency
-type: channels
+type: channel
 channel: feministfrequency
 menu:
   main:

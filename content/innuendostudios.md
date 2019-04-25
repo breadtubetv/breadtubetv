@@ -1,6 +1,6 @@
 ---
 title: Innuendo Studios
-type: channels
+type: channel
 channel: innuendostudios
 menu:
   main:

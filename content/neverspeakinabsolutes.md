@@ -1,6 +1,6 @@
 ---
 title: Never Speak in Absolutes
-type: channels
+type: channel
 channel: neverspeakinabsolutes
 menu:
   main:

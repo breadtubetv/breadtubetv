@@ -1,6 +1,6 @@
 ---
 title: Renegade Cut
-type: channels
+type: channel
 channel: renegadecut
 menu:
   main:

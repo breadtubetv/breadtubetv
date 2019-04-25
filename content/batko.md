@@ -1,6 +1,6 @@
 ---
 title: Bat'ko
-type: channels
+type: channel
 channel: batko
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: C0nc0rdance
-type: channels
+type: channel
 channel: c0nc0rdance
 menu:
   main:

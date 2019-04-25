@@ -1,6 +1,6 @@
 ---
 title: Real Media
-type: channels
+type: channel
 channel: realmedia
 menu:
   main:

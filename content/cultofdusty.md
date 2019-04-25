@@ -1,6 +1,6 @@
 ---
 title: Cult of Dusty
-type: channels
+type: channel
 channel: cultofdusty
 menu:
   main:

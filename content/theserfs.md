@@ -1,6 +1,6 @@
 ---
 title: "The Serfs"
-type: "channels"
+type: "channel"
 channel: "theserfs"
 menu:
   main:
@@ -11,4 +11,5 @@ videos:
 - HclaKb5LUYY
 - YDiyKg44BXI
 - O-MWgPgxzKs
+- R1lu8-PuMmk
 ---

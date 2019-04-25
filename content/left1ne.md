@@ -1,6 +1,6 @@
 ---
 title: Left1ne
-type: channels
+type: channel
 channel: left1ne
 menu:
   main:

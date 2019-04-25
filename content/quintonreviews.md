@@ -1,6 +1,6 @@
 ---
 title: Quinton Reviews
-type: channels
+type: channel
 channel: quintonreviews
 menu:
   main:

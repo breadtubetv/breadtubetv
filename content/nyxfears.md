@@ -1,6 +1,6 @@
 ---
 title: Nyx Fears
-type: channels
+type: channel
 channel: nyxfears
 menu:
   main:

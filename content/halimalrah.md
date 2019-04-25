@@ -1,6 +1,6 @@
 ---
 title: "Halim Alrah"
-type: "channels"
+type: "channel"
 channel: "halimalrah"
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: BlackGoat 666
-type: channels
+type: channel
 channel: blackgoat666
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: Obambay
-type: channels
+type: channel
 channel: obambay
 menu:
   main:

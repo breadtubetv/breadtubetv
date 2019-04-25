@@ -1,6 +1,6 @@
 ---
 title: For Harriet
-type: channels
+type: channel
 channel: forharrietdotcom
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: Folding Ideas
-type: channels
+type: channel
 channel: foldingideas
 menu:
   main:

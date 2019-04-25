@@ -1,6 +1,6 @@
 ---
 title: AnActualJoke
-type: channels
+type: channel
 channel: anactualjoke
 menu:
   main:

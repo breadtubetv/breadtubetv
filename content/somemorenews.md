@@ -1,6 +1,6 @@
 ---
 title: Some More News
-type: channels
+type: channel
 channel: somemorenews
 menu:
   main:

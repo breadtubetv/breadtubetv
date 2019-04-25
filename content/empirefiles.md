@@ -1,6 +1,6 @@
 ---
 title: Empire Files
-type: channels
+type: channel
 channel: empirefiles
 menu:
   main:

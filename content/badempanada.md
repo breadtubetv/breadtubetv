@@ -1,6 +1,6 @@
 ---
 title: BadEmpanada
-type: channels
+type: channel
 channel: badempanada
 menu:
   main:

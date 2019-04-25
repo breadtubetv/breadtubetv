@@ -1,6 +1,6 @@
 ---
 title: Bemundolack
-type: channels
+type: channel
 channel: bemundolack
 menu:
   main:

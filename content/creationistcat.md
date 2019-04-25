@@ -1,6 +1,6 @@
 ---
 title: Creationist Cat
-type: channels
+type: channel
 channel: creationistcat
 menu:
   main:

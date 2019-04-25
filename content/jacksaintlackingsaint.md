@@ -1,6 +1,6 @@
 ---
 title: Jack Saint / LackingSaint
-type: channels
+type: channel
 channel: jacksaintlackingsaint
 menu:
   main:

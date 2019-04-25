@@ -1,6 +1,6 @@
 ---
 title: Radical Reviewer
-type: channels
+type: channel
 channel: radicalreviewer
 menu:
   main:

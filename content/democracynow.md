@@ -1,9 +1,10 @@
 ---
 title: Democracy Now
-type: channels
+type: channel
 channel: democracynow
 menu:
   main:
     parent: Channels
 videos:
+- qipuoA9QJeQ
 ---

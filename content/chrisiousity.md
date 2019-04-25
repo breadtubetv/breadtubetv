@@ -1,6 +1,6 @@
 ---
 title: chrisiousity
-type: channels
+type: channel
 channel: chrisiousity
 menu:
   main:

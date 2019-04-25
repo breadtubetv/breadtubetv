@@ -1,6 +1,7 @@
 {{ $videos := $.Site.Data.videos }}
 {{ $channels := $.Site.Data.channels }}
-{{ $showChannel := (in .Permalink "playlist") }}
+{{ $videoChannel := (or (in .Permalink "playlist") (eq true .Params.videoChannels)) }}
+{{ $videoIframe := (eq true .Params.videoIframe) }}
 
 <ul class="list plain-list">
   {{ range .Params.videos }}
@@ -11,7 +12,7 @@
           {{ range $channels }}
             {{ $channel := . }}
             {{ if eq $channel.slug $video.channel }}
-              {{ partial "videos/card.html" (dict "video" $video "channel" $channel "showChannel" $showChannel) }}
+              {{ partial "videos/card.html" (dict "video" $video "channel" $channel "videoChannel" $videoChannel "videoIframe" $videoIframe) }}
             {{ end }}
           {{ end }}
         {{ end }}

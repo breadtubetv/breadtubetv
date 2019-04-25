@@ -1,6 +1,6 @@
 ---
 title: the Bronx Blogger
-type: channels
+type: channel
 channel: bronxblogger
 menu:
   main:

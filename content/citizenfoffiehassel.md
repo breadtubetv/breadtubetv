@@ -1,6 +1,6 @@
 ---
 title: CitizenFoffie Hassel
-type: channels
+type: channel
 channel: citizenfoffiehassel
 menu:
   main:

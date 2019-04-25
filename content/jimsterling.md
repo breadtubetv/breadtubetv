@@ -1,6 +1,6 @@
 ---
 title: "Jim Sterling"
-type: "channels"
+type: "channel"
 channel: "jimsterling"
 menu:
   main:

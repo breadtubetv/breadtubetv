@@ -1,6 +1,6 @@
 ---
 title: SJW101, the political gamer
-type: channels
+type: channel
 channel: sjw101thepoliticalgamer
 menu:
   main:

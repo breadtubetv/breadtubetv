@@ -64,7 +64,7 @@ _Visit [github.com/breadtubetv/bake](https://github.com/breadtubetv/bake) for mo
   ```
   ---
   title: "<Readable Name>"
-  type: "channels"
+  type: "channel"
   channel: "<slug>"
   menu:
     main:

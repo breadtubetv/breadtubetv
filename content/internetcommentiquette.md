@@ -1,6 +1,6 @@
 ---
 title: Internet Comment Etiquette with Erik
-type: channels
+type: channel
 channel: internetcommentiquette
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: brendanmcooney
-type: channels
+type: channel
 channel: brendanmcooney
 menu:
   main:

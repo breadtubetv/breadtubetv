@@ -1,6 +1,6 @@
 ---
 title: let's talk about stuff
-type: channels
+type: channel
 channel: letstalkaboutstuff
 menu:
   main:

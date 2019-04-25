@@ -1,6 +1,6 @@
 ---
 title: Novara Media
-type: channels
+type: channel
 channel: novaramedia
 menu:
   main:

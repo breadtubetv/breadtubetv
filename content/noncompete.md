@@ -1,6 +1,6 @@
 ---
 title: "Non Compete"
-type: "channels"
+type: "channel"
 channel: "noncompete"
 menu:
   main:
@@ -9,4 +9,5 @@ videos:
 - 54ECvhUXUkY
 - b_-DuHN-UVY
 - hMMHW0Ay7ko
+- HxjpvPSKkLw
 ---

@@ -379,12 +379,22 @@ button, select, input, textarea { font-family: inherit; }
   }
 }
 
+.list > li.channel-video {
+  width: 100%;
+  padding-right: 0;
+}
+
 /* Channels */
-.channel {
+.channel,
+.channel-video .channel {
   align-items: flex-start;
   display: flex;
   height: 100%;
   position: relative;
+}
+
+.channel-video .channel {
+  margin-bottom: 0.3rem;
 }
 
 @media (min-width: 768px) {
@@ -393,13 +403,18 @@ button, select, input, textarea { font-family: inherit; }
   }
 }
 
-.channel-image {
+.channel-image,
+.channel-video .channel-image {
   background: #fff;
   border: 1px solid #beb8be;
   border-radius: 0.5rem;
   flex: 0 auto;
   transition: 0.1s box-shadow;
   width: 5rem;
+}
+
+.channel-video .channel-image {
+  width: 1.5rem;
 }
 
 @media (min-width: 768px) {
@@ -423,14 +438,30 @@ button, select, input, textarea { font-family: inherit; }
   box-shadow: 0 0 0 0.5rem #beb8be;
 }
 
+.channel-video .channel:hover .channel-image,
+.channel-video .channel:focus-within .channel-image {
+  box-shadow: 0 0 0 0.2rem #beb8be;
+}
+
 .channel:hover .channel-imageWrap > img,
 .channel:focus-within .channel-imageWrap > img {
   transform: scale(1.1);
 }
 
+.channel-video .channel-description,
+.channel-video .channel-metadata {
+  display: none;
+}
+
 .channel-text {
   flex: 1;
   padding-left: 1rem;
+}
+
+.channel-video .channel-text {
+  flex: 1;
+  padding-left: 0.3rem;
+  padding-top: 0;
 }
 
 @media (min-width: 768px) {
@@ -444,6 +475,10 @@ button, select, input, textarea { font-family: inherit; }
   font-size: 1.25rem;
   font-weight: 700;
   margin-bottom: 0.25rem;
+}
+
+.channel-video .channel-title {
+  font-size: 1rem;
 }
 
 .channel-link::after {
@@ -477,6 +512,20 @@ button, select, input, textarea { font-family: inherit; }
 @media (min-width: 768px) {
   .video {
     display: block;
+  }
+}
+
+.channel-video .video-item {
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 767px) {
+  .video-item {
+    width: 100%;
+  }
+
+  .video-iframe {
+    width: 100%;
   }
 }
 
@@ -520,6 +569,12 @@ button, select, input, textarea { font-family: inherit; }
   padding-left: 1rem;
 }
 
+.channel-video .video-text {
+  margin-top: 0;
+  padding-top: 0;
+  padding-left: 0;
+}
+
 @media (min-width: 768px) {
   .video-text {
     padding-left: 0;
@@ -531,6 +586,10 @@ button, select, input, textarea { font-family: inherit; }
   font-size: 1.25rem;
   font-weight: 700;
   margin-bottom: 0.25rem;
+}
+
+.channel-video .video-title {
+  font-size: 1.1rem;
 }
 
 .video-link::after {

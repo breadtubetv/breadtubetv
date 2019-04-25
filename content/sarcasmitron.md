@@ -1,6 +1,6 @@
 ---
 title: Sarcasmitron
-type: channels
+type: channel
 channel: sarcasmitron
 menu:
   main:

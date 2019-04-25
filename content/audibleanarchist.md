@@ -1,6 +1,6 @@
 ---
 title: AudibleAnarchist
-type: channels
+type: channel
 channel: audibleanarchist
 menu:
   main:

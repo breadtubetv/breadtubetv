@@ -9,19 +9,24 @@ targetBlank = true
 defaultTags = []
 
 [[ menu.main ]]
-name = "Channels"
+name = "Home"
 url = "/"
 weight = 1
 
 [[ menu.main ]]
+name = "Channels"
+url = "/channels/"
+weight = 2
+
+[[ menu.main ]]
 name = "Playlists"
 url = "/playlists/"
-weight = 2
+weight = 3
 
 [[ menu.main ]]
 name = "Blog"
 url = "/blog/"
-weight = 3
+weight = 4
 
 [[ menu.footer ]]
 name = "Discord"
