@@ -1,6 +1,6 @@
 ---
 title: YUGOPNIK
-type: channels
+type: channel
 channel: yugopnik
 menu:
   main:

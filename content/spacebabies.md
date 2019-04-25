@@ -1,6 +1,6 @@
 ---
 title: Space Babies
-type: channels
+type: channel
 channel: spacebabies
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: T1J
-type: channels
+type: channel
 channel: t1j
 menu:
   main:

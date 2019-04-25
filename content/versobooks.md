@@ -1,6 +1,6 @@
 ---
 title: Verso Books
-type: channels
+type: channel
 channel: versobooks
 menu:
   main:

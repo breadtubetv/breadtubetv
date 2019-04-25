@@ -1,6 +1,6 @@
 ---
 title: The Antifada
-type: channels
+type: channel
 channel: theantifada
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: Tom Nicholas
-type: channels
+type: channel
 channel: tomnicholas
 menu:
   main:

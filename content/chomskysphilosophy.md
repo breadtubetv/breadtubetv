@@ -1,6 +1,6 @@
 ---
 title: Chomsky's Philosophy
-type: channels
+type: channel
 channel: chomskysphilosophy
 menu:
   main:

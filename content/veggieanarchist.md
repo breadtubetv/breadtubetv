@@ -1,6 +1,6 @@
 ---
 title: Veggie Anarchist
-type: channels
+type: channel
 channel: veggieanarchist
 menu:
   main:

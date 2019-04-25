@@ -1,6 +1,6 @@
 ---
 title: stimulator
-type: channels
+type: channel
 channel: stimulator
 menu:
   main:

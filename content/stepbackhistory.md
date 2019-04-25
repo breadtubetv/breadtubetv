@@ -1,6 +1,6 @@
 ---
 title: Step Back History
-type: channels
+type: channel
 channel: stepbackhistory
 menu:
   main:

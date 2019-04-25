@@ -1,6 +1,6 @@
 ---
 title: Vic Berger
-type: channels
+type: channel
 channel: vicberger
 menu:
   main:

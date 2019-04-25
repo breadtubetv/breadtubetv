@@ -1,6 +1,6 @@
 ---
 title: Thom Avella
-type: channels
+type: channel
 channel: thomavella
 menu:
   main:

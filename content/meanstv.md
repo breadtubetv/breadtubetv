@@ -1,6 +1,6 @@
 ---
 title: MEANS TV
-type: channels
+type: channel
 channel: meanstv
 menu:
   main:

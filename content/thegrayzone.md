@@ -1,6 +1,6 @@
 ---
 title: The Grayzone
-type: channels
+type: channel
 channel: thegrayzone
 menu:
   main:

@@ -1,6 +1,6 @@
 ---
 title: The Juice Media
-type: channels
+type: channel
 channel: thejuicemedia
 menu:
   main:

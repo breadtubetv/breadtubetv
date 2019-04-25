@@ -1,6 +1,6 @@
 ---
 title: Thought Slime
-type: channels
+type: channel
 channel: thoughtslime
 menu:
   main:

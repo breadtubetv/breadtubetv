@@ -1,6 +1,6 @@
 ---
 title: The Double Take
-type: channels
+type: channel
 channel: thedoubletake
 menu:
   main:

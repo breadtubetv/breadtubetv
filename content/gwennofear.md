@@ -1,6 +1,6 @@
 ---
 title: Gwen_No_Fear
-type: channels
+type: channel
 channel: gwennofear
 menu:
   main:

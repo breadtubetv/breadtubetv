@@ -1,6 +1,6 @@
 ---
 title: Shonen Ronin
-type: channels
+type: channel
 channel: shonenronin
 menu:
   main:
