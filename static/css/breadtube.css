@@ -591,14 +591,19 @@ button, select, input, textarea { font-family: inherit; }
   font-size: 1.1rem;
 }
 
+.video-link-container {
+  display: block;
+  position: relative;
+}
+
 .video-link::after {
+  bottom: 0;
   content: '';
   left: 0;
   position: absolute;
   right: 0;
   top: 0;
   z-index: 5;
-  height: 60%;
 }
 
 .video-metadata {

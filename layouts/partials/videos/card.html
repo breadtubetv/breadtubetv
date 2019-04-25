@@ -1,28 +1,30 @@
 <li class="video-item">
   <div class="video">
-    <div class="video-image">
-      <div class="video-imageWrap">
-        <img src="https://i3.ytimg.com/vi/{{ .video.id }}/hqdefault.jpg" alt="{{ .video.title }}" />
+    <div class="video-link-container">
+      <div class="video-image">
+        <div class="video-imageWrap">
+          <img src="https://i3.ytimg.com/vi/{{ .video.id }}/hqdefault.jpg" alt="{{ .video.title }}" />
+        </div>
       </div>
-    </div>
-    <div class="video-text">
-      <div class="video-title">
-        <a class="video-link" href="https://youtu.be/{{ .video.id }}" target="_blank">
-          {{ .video.title }}
-        </a>
-      </div>
-      <div class="video-description">
-        {{ .video.description }}
-      </div>
-      {{ if .videoChannel }}
-        <div class="video-metadata">
-          <a href="/{{ .channel.slug }}">
-            <img alt="{{ .channel.name }}" src="/img/channels/{{ .channel.slug }}.jpg" class="video-channel-image" />
-            <span class="video-channel-name">{{ .channel.name }}</span>
+      <div class="video-text">
+        <div class="video-title">
+          <a class="video-link" href="https://youtu.be/{{ .video.id }}" target="_blank">
+            {{ .video.title }}
           </a>
         </div>
-      {{ end }}
+        <div class="video-description">
+          {{ .video.description }}
+        </div>
+      </div>
     </div>
+    {{ if .videoChannel }}
+      <div class="video-metadata">
+        <a href="/{{ .channel.slug }}">
+          <img alt="{{ .channel.name }}" src="/img/channels/{{ .channel.slug }}.jpg" class="video-channel-image" />
+          <span class="video-channel-name">{{ .channel.name }}</span>
+        </a>
+      </div>
+    {{ end }}
   </div>
 </li>
 
