@@ -3,8 +3,8 @@ title: BreadTube.tv
 type: "channel"
 tags:
 - featured
-videoChannels: true
-videoIframe: true
+videoChannels: false
+videoIframe: false
 videos:
 - 1pTPuoGjQsI
 - pnmRYRRDbuw
