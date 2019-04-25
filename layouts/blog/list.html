@@ -3,10 +3,10 @@
     <h1 class="heading">{{ .Title }}</h1>
 
     {{ range .Pages.ByPublishDate.Reverse }}
-    <p>
+    <h2 class="page-title">
       <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      {{ dateFormat "Jan 1, 2006" .PublishDate }}
-    </p>
+      <small>{{ dateFormat "Jan 2, 2006" .PublishDate }}</small>
+    </h2>
     {{ end }}
   </div>
 {{ end }}
