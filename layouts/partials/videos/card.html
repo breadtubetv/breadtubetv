@@ -19,7 +19,7 @@
     </div>
     {{ if .videoChannel }}
       <div class="video-metadata">
-        <a href="/{{ .channel.slug }}">
+        <a class="video-channel-link" href="/{{ .channel.slug }}">
           <img alt="{{ .channel.name }}" src="/img/channels/{{ .channel.slug }}.jpg" class="video-channel-image" />
           <span class="video-channel-name">{{ .channel.name }}</span>
         </a>
