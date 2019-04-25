@@ -32,10 +32,10 @@
             {{ .video.title }}
           </a>
         </div>
-        <div class="video-description">
-          {{ .video.description }}
-        </div>
       </div>
+    </div>
+    <div class="video-description">
+      {{ .video.description | markdownify }}
     </div>
     {{ if .videoChannel }}
       <div class="video-metadata">

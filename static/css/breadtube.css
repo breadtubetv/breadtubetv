@@ -555,19 +555,29 @@ button, select, input, textarea { font-family: inherit; }
   width: 100%;
 }
 
-.video:hover .video-image,
-.video:focus-within .video-image {
+.video-link-container:hover .video-image,
+.video-link-container:focus-within .video-image {
   box-shadow: 0 0 0 0.5rem #beb8be;
 }
 
-.video:hover .video-imageWrap > img,
-.video:focus-within .video-imageWrap > img {
+.video-link-container:hover .video-imageWrap > img,
+.video-link-container:focus-within .video-imageWrap > img {
   transform: scale(1.1);
 }
 
 .video-text {
   flex: 1;
   padding-left: 1rem;
+}
+
+.video-description {
+  padding-top: 0.5rem;
+}
+
+@media (min-width: 768px) {
+  .video-description {
+    padding-top: 0;
+  }
 }
 
 .channel-video .video-text {
@@ -605,7 +615,6 @@ button, select, input, textarea { font-family: inherit; }
 .video-metadata {
   overflow: hidden;
   margin-top: 5px;
-  margin-left: 5.7rem;
 }
 
 @media (min-width: 768px) {
