@@ -15,9 +15,15 @@
         {{ end }}
         <div class="video-text">
           <div class="video-title">
-            <a class="video-link" href="https://youtu.be/{{ .video.id }}" target="_blank">
-              {{ .video.title }}
-            </a>
+            {{ if .videoIframe }}
+              <a href="https://youtu.be/{{ .video.id }}" target="_blank">
+                {{ .video.title }}
+              </a>
+            {{ else }}
+              <a class="video-link" href="https://youtu.be/{{ .video.id }}" target="_blank">
+                {{ .video.title }}
+              </a>
+            {{ end }}
           </div>
           <div class="video-description">
             {{ .video.description | markdownify }}
@@ -43,10 +49,6 @@
       </div>
       <div class="video-description">
         {{ .video.description }}
-      </div>
-      <div class="video-metadata">
-        <img alt="{{ .channel.name }}" src="/img/channels/{{ .channel.slug }}.jpg" class="video-channel-image" />
-        <span class="video-channel-name">{{ .channel.name }}</span>
       </div>
     </div>
   </div>
