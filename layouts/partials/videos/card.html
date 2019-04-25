@@ -27,7 +27,9 @@
       </div>
       <div class="video-text">
         <div class="video-title">
-          {{ .video.title }}
+          <a class="video-link" href="https://youtu.be/{{ .video.id }}" target="_blank">
+            {{ .video.title }}
+          </a>
         </div>
         <div class="video-description">
           {{ .video.description }}
