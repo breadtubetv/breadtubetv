@@ -1,9 +1,9 @@
 ---
 title: "The Aesthetic"
-type: "videos"
+type: "video"
 channel: "contrapoints"
 video: "theaesthetic"
 menu:
   main:
-    parent: "Channels"
+    parent: "Videos"
 ---

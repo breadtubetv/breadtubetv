@@ -23,28 +23,29 @@
   {{ $video := $scratch.Get "video" }}
 
   <div class="content">
-    {{ partial "channels/heading.html" (dict "scratch" $scratch) }}
+    <h1 class="heading"><a href="/{{ $channelSlug }}/{{ $videoSlug }}">{{ $video.title }}</a></h1>
+    <section class="video-metadata">
+      {{ partial "channels/heading.html" (dict "scratch" $scratch "h" "h1") }}
+    </section>
   </div>
-
-  <h1 class="heading"><a href="/{{ $channelSlug }}/{{ $videoSlug }}">{{ $video.title }}</a></h1>
 
   {{ with $video }}
     <ul class="iframe-list">
       {{ with .providers.youtube }}
         <li>
-          <h3><a href="https://youtu.be/{{ .id }}">YouTube</a></h3>
           <div class="iframe-container">
             <iframe title="{{ $video.title }}" src="https://www.youtube.com/embed/{{ .id }}" allowfullscreen></iframe>
           </div>
+          <h3><a href="https://youtu.be/{{ .id }}">YouTube</a></h3>
         </li>
       {{ end }}
 
       {{ with .providers.queertube }}
         <li>
-          <h3><a href="https://queertube.org/videos/watch/{{ .id }}">QueerTube</a></h3>
           <div class="iframe-container">
             <iframe title="{{ $video.title }}" src="https://queertube.org/videos/embed/{{ .id }}" allowfullscreen></iframe>
           </div>
+          <h3><a href="https://queertube.org/videos/watch/{{ .id }}">QueerTube</a></h3>
         </li>
       {{ end }}
     </ul>
