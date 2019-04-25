@@ -1,22 +1,22 @@
 {{ $videos := $.Site.Data.videos }}
 {{ $channels := $.Site.Data.channels }}
-{{ $videoChannel := (or (in .Permalink "playlist") (eq true .Params.videoChannels)) }}
+{{ $videoChannel := (or (in .Permalink "playlist") (eq true .Params.videoChannel)) }}
 {{ $videoIframe := (eq true .Params.videoIframe) }}
 
 <ul class="list plain-list">
-  {{ range .Params.videos }}
-    {{ $id := . }}
-    {{ range $channelSlug, $channelVideos := $videos }}
-      {{ range $videoID, $video := $channelVideos }}
-        {{ if eq $id $videoID }}
-          {{ range $channels }}
+  {{- range .Params.videos -}}
+    {{- $id := . -}}
+    {{- range $channelSlug, $channelVideos := $videos -}}
+      {{- range $videoID, $video := $channelVideos -}}
+        {{- if eq $id $videoID -}}
+          {{- range $channels -}}
             {{ $channel := . }}
-            {{ if eq $channel.slug $video.channel }}
+            {{- if eq $channel.slug $video.channel -}}
               {{ partial "videos/card.html" (dict "video" $video "channel" $channel "videoChannel" $videoChannel "videoIframe" $videoIframe) }}
-            {{ end }}
-          {{ end }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
 </ul>

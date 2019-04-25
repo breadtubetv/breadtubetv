@@ -1,46 +1,54 @@
-{{ if .videoIframe }}
-  <li class="channel-video">
-    <ul>
-      <li class="video">
-        <div class="video-item">
-          <iframe class="video-iframe" src="https://www.youtube.com/embed/{{ .video.id }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-          {{ partial "channels/card.html" (dict "channel" .channel) }}
-          <div class="video-text">
-            <div class="video-title">
-              {{ .video.title }}
-            </div>
-            <div class="video-description">
-              {{ .video.description | markdownify }}
-            </div>
+{{ if .videoChannel }}
+<li class="channel-video">
+  <ul>
+    {{ partial "channels/card.html" (dict "channel" .channel) }}
+    <li class="video">
+      <div class="video-item">
+        {{ if .videoIframe }}
+        <iframe class="video-iframe" src="https://www.youtube.com/embed/{{ .video.id }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        {{ else }}
+        <div class="video-image">
+          <div class="video-imageWrap">
+            <img src="https://i3.ytimg.com/vi/{{ .video.id }}/hqdefault.jpg" alt="{{ .video.title }}" />
           </div>
         </div>
-      </li>
-    </ul>
-  </li>
-{{ else }}
-  <li class="video-item">
-    <div class="video">
-      <div class="video-image">
-        <div class="video-imageWrap">
-          <img src="https://i3.ytimg.com/vi/{{ .video.id }}/hqdefault.jpg" alt="{{ .video.title }}" />
+        {{ end }}
+        <div class="video-text">
+          <div class="video-title">
+            <a class="video-link" href="https://youtu.be/{{ .video.id }}" target="_blank">
+              {{ .video.title }}
+            </a>
+          </div>
+          <div class="video-description">
+            {{ .video.description | markdownify }}
+          </div>
         </div>
       </div>
-      <div class="video-text">
-        <div class="video-title">
-          <a class="video-link" href="https://youtu.be/{{ .video.id }}" target="_blank">
-            {{ .video.title }}
-          </a>
-        </div>
-        <div class="video-description">
-          {{ .video.description }}
-        </div>
-        {{ if .videoChannel }}
-          <div class="video-metadata">
-            <img alt="{{ .channel.name }}" src="/img/channels/{{ .channel.slug }}.jpg" class="video-channel-image" />
-            <span class="video-channel-name">{{ .channel.name }}</span>
-          </div>
-        {{ end }}
+    </li>
+  </ul>
+</li>
+{{ else }}
+<li class="video-item">
+  <div class="video">
+    <div class="video-image">
+      <div class="video-imageWrap">
+        <img src="https://i3.ytimg.com/vi/{{ .video.id }}/hqdefault.jpg" alt="{{ .video.title }}" />
       </div>
     </div>
-  </li>
+    <div class="video-text">
+      <div class="video-title">
+        <a class="video-link" href="https://youtu.be/{{ .video.id }}" target="_blank">
+          {{ .video.title }}
+        </a>
+      </div>
+      <div class="video-description">
+        {{ .video.description }}
+      </div>
+      <div class="video-metadata">
+        <img alt="{{ .channel.name }}" src="/img/channels/{{ .channel.slug }}.jpg" class="video-channel-image" />
+        <span class="video-channel-name">{{ .channel.name }}</span>
+      </div>
+    </div>
+  </div>
+</li>
 {{ end }}

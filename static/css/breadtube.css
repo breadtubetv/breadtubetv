@@ -570,8 +570,7 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .channel-video .video-text {
-  margin-top: 0;
-  padding-top: 0;
+  padding-top: 1rem;
   padding-left: 0;
 }
 
