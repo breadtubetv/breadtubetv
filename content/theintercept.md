@@ -1,6 +1,6 @@
 ---
 title: The Intercept
-type: channels
+type: channel
 channel: theintercept
 menu:
   main:
