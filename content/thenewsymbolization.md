@@ -1,6 +1,6 @@
 ---
 title: the new symbolization
-type: channels
+type: channel
 channel: thenewsymbolization
 menu:
   main:
