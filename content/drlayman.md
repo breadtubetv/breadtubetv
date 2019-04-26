@@ -1,6 +1,6 @@
 ---
 title: Dr. Layman
-type: channels
+type: channel
 channel: drlayman
 menu:
   main:
