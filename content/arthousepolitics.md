@@ -1,6 +1,6 @@
 ---
 title: Art House Politics
-type: channels
+type: channel
 channel: arthousepolitics
 menu:
   main:
