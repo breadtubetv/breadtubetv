@@ -1,6 +1,6 @@
 ---
 title: NFKRZ
-type: channels
+type: channel
 channel: nfkrz
 menu:
   main:
