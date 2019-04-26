@@ -1,0 +1,23 @@
+description: Aesthetic and high quality political commentary
+name: Art House Politics
+permalink: arthousepolitics
+providers:
+  facebook:
+    name: Art House Politics
+    slug: arthousepolitics
+    url: https://www.facebook.com/arthousepolitics/
+  twitter:
+    name: Art House Politics
+    slug: ArtHousePtx
+    url: https://twitter.com/ArtHousePtx
+  patreon:
+    name: Art House Politics
+    slug: ArtHousePolitics
+    url: https://www.patreon.com/ArtHousePolitics
+  youtube:
+    name: Art House Politics
+    slug: UCnuC9wCnogZA8VcTQJ1_5wg
+    url: https://www.youtube.com/channel/UCnuC9wCnogZA8VcTQJ1_5wg
+    description: ""
+    subscribers: 7403
+slug: arthousepolitics
