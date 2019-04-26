@@ -1,6 +1,6 @@
 ---
 title: theory pleeb
-type: channels
+type: channel
 channel: theorypleeb
 menu:
   main:
