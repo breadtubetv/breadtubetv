@@ -1,0 +1,38 @@
+description: "Videos explaining things with optimistic nihilism. \n\nWe are a
+  small team who want to make science look beautiful. Because it is beautiful.
+  \n\nCurrently we make one animation video per month. Follow us on Twitter, Facebook
+  to get notified when a new one comes out."
+name: Kurzgesagt – In a Nutshell
+permalink: kurzgesagt
+providers:
+  youtube:
+    name: Kurzgesagt – In a Nutshell
+    slug: UCsXVk37bltHxD1rDPwtNM8Q
+    url: https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q
+    description: "Videos explaining things with optimistic nihilism. \n\nWe are a
+      small team who want to make science look beautiful. Because it is beautiful.
+      \n\nCurrently we make one animation video per month. Follow us on Twitter, Facebook
+      to get notified when a new one comes out.\n\nFAQ:\n \n- We do the videos with
+      After Effects and Illustrator."
+    subscribers: 8705819
+  twitter:
+    name: Kurzgesagt
+    slug: Kurzgesagt
+    url: https://twitter.com/Kurz_Gesagt
+  instagram:
+    name: Kurzgesagt
+    slug: Kurzgesagt
+    url: https://www.instagram.com/Kurz_Gesagt/
+  patreon:
+    name: Kurzgesagt
+    slug: Kurzgesagt
+    url: https://www.patreon.com/Kurzgesagt
+  website:
+    name: Kurzgesagt
+    slug: kurzgesagt.org
+    url: http://www.kurzgesagt.org/
+slug: kurzgesagt
+tags:
+- breadtube
+- nihilism
+-
