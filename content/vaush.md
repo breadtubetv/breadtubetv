@@ -6,6 +6,9 @@ menu:
   main:
     parent: Channels
 videos:
+- oUVLCCKwkdw
+- 2DACBsU_Eeo
+- KC147vQFfaw
 - Be7bNogjCvQ
 - nqfSOLad61k
 - iZFvIVhz6I4
