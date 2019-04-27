@@ -8,6 +8,11 @@ logo = "/img/breadtube.png"
 targetBlank = true
 defaultTags = []
 
+[languages]
+  [languages.en]
+    title = "English"
+    weight = 1
+
 [[ menu.main ]]
 name = "Home"
 url = "/"
