@@ -9,6 +9,14 @@ providers:
     url: https://www.youtube.com/channel/UCldfgbzNILYZA4dmDt4Cd6A
     description: ""
     subscribers: 647887
+  facebook:
+    name: Secular Talk
+    slug: seculartalk
+    url: https://www.facebook.com/SecularTalk/
+  twitter:
+    name: Secular Talk
+    slug: kylekulinski
+    url: https://twitter.com/kylekulinski
 slug: seculartalk
 tags:
 - news
