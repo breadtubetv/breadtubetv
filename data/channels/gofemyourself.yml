@@ -1,0 +1,28 @@
+description: Feminism, Polyamory, BPD, Leftube
+name: Go Fem Yourself
+permalink: gofemyourself
+providers:
+  youtube:
+    name: Go Fem Yourself
+    slug: UCEpIprQApcszKiwnOdJ9yCQ
+    url: https://www.youtube.com/channel/UCEpIprQApcszKiwnOdJ9yCQ
+    description: |-
+      *Taking a break to think about things & the content on this channel.*
+
+      What I talk about on this channel:
+      Feminism
+      Polyamory
+      BPD
+      Leftube
+    subscribers: 252
+  twitter:
+    name: "Lily / worst nightmare of Mike the NERD"
+    slug: GoFemYourself
+    url: https://www.twitter.com/gofemyourself
+slug: gofemyourself
+tags:
+- breadtube
+- Feminism
+- Polyamory
+- BPD
+- Mental Health
