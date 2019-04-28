@@ -10,7 +10,7 @@ defaultTags = []
 
 [languages]
   [languages.en]
-    title = "English"
+    title = "BreadTube"
     weight = 1
 
 [[ menu.main ]]
