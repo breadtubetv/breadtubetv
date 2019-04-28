@@ -9,5 +9,5 @@ videos:
 - bxffxnrQDiE
 - QLey2i0hYlc
 aliases:
-- playlists/earthstrike/
+- /playlists/earthstrike/
 ---

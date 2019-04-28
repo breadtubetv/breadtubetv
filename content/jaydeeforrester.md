@@ -1,10 +1,10 @@
 ---
-title: Hakim
+title: Jay-Dee Forrester
 type: channel
-channel: hakim
+channel: jaydeeforrester
 menu:
   main:
     parent: Channels
 videos:
-- A6VqV1T4uYs
+- TODO
 ---
