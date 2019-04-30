@@ -305,6 +305,10 @@ button, select, input, textarea { font-family: inherit; }
   font-weight: bold;
 }
 
+.heading-wrap {
+  margin-bottom: 0.5rem;
+}
+
 /* Heading */
 .heading {
   color: #333;
@@ -313,11 +317,16 @@ button, select, input, textarea { font-family: inherit; }
   margin: 1rem 0 0.5rem;
 }
 
-.heading-image {
+.heading-image,
+.content .heading-image {
   max-width: 70px;
   float: left;
-  margin-right: 10px;
-  margin-bottom: 5px;
+  margin: 1rem 10px 0 0;
+}
+
+.heading-meta li {
+  line-height: 1.5rem;
+  padding-right: 0.4rem;
 }
 
 /* Lists */
