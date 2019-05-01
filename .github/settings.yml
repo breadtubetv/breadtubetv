@@ -28,7 +28,6 @@ repository:
   allow_rebase_merge: true
 
 # TODO Labels: define labels for Issues and Pull Requests
-labels:
 
 # Collaborators: give specific users access to this repository.
 collaborators:
