@@ -1,0 +1,16 @@
+{{ define "main" }}
+  {{ $videos := $.Site.Data.videos }}
+  {{ $channels := $.Site.Data.channels }}
+  <ul class="list plain-list">
+    {{- range $channelSlug, $channelVideos := $videos -}}
+      {{- range $videoID, $video := $channelVideos -}}
+        {{- range $channel := $channels -}}
+          {{ $channel := . }}
+          {{ if eq $channel.slug $video.channel }}
+            {{ partial "videos/card.html" (dict "video" $video "channel" $channel "videoChannel" true "videoIframe" false) }}
+          {{ end }}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  </ul>
+{{ end }}

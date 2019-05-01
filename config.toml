@@ -24,13 +24,13 @@ url = "/channels/"
 weight = 2
 
 [[ menu.main ]]
-name = "Playlists"
-url = "/playlists/"
+name = "Videos"
+url = "/videos/"
 weight = 3
 
 [[ menu.main ]]
-name = "Blog"
-url = "/blog/"
+name = "Playlists"
+url = "/playlists/"
 weight = 4
 
 [[ menu.footer ]]
