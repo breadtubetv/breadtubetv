@@ -14,7 +14,7 @@
     <div class="heading-meta">
       <ul class="plain-list">
         <li>
-          <a href="https://www.reddit.com/r/BreadTube/search?q={{ $channel.name | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
+          <a href="https://www.reddit.com/r/BreadTube/search?q=title:{{ $channel.name | lower }} OR flair:{{ $channel.name | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
         </li>
         {{- range $provider, $data := $channel.providers -}}
           <li>
