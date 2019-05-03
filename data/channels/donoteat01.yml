@@ -7,8 +7,11 @@ providers:
     name: donoteat01
     slug: donoteat01
     url: https://www.youtube.com/user/donoteat01
-    description: ""
-    subscribers: 35023
+    description: |-
+      it's a channel about cities
+
+      here is the patreon: https://www.patreon.com/donoteat
+    subscribers: 36515
 slug: donoteat01
 tags:
 - breadtube

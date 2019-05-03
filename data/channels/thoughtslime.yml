@@ -7,8 +7,10 @@ providers:
     name: Thought Slime
     slug: UCrr7y8rEXb7_RiVniwvzk9w
     url: https://www.youtube.com/channel/UCrr7y8rEXb7_RiVniwvzk9w
-    description: ""
-    subscribers: 33065
+    description: |-
+      I'm a smug anarchist poseur vomiting out video essays for you.
+      I love you.
+    subscribers: 37525
 slug: thoughtslime
 tags:
 - breadtube

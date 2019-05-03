@@ -15,8 +15,12 @@ providers:
     name: Unicorn Riot
     slug: UCeHbMlHDec5NmJfiQXMYGXQ
     url: https://www.youtube.com/channel/UCeHbMlHDec5NmJfiQXMYGXQ
-    description: ""
-    subscribers: 4897
+    description: 'Unicorn Riot is a channel for alternative media, art and culture.
+      All Unicorn Riot Media is Redistributable Under Creative Commons License Non-Commercial
+      Share-Alike. We are a 501(c)(3) non-profit media collective - all donations
+      are tax deductible. For more info visit our website: http://www.unicornriot.ninja
+      or contact us through email: info@unicornriot.ninja'
+    subscribers: 4986
 slug: unicornriot
 tags:
 - breadtube

@@ -6,8 +6,11 @@ providers:
     name: Cult of Dusty
     slug: CultOfDusty
     url: https://www.youtube.com/user/CultOfDusty
-    description: ""
-    subscribers: 254574
+    description: |-
+      Making a mockery out of Religion. One vid at a time.
+
+      Dusty Smith - The People's Atheist!
+    subscribers: 254609
 slug: cultofdusty
 tags:
 - breadtube

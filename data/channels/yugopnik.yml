@@ -13,8 +13,11 @@ providers:
     name: YUGOPNIK
     slug: UCs8mbJ-M142ZskR5VR0gBig
     url: https://www.youtube.com/channel/UCs8mbJ-M142ZskR5VR0gBig
-    description: ""
-    subscribers: 1632
+    description: |-
+      Society obsessed Slavic edge lord
+
+      Twitta' : https://twitter.com/yugopnik
+    subscribers: 1686
 slug: yugopnik
 tags:
 - breadtube
