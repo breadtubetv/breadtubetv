@@ -1,16 +1,16 @@
 ---
-title: BreadTube.tv now has search, what channels are we missing?
+title: Searching and Suggesting Channels!
 date: 2019-03-16T20:00:00-05:00
-img: "/img/blog/search-screenshot.jpg"
+img: "/img/blog/search-screenshot.png"
 ---
 
 We've added a channel search feature to https://breadtube.tv!
 
 Search is based on full or partial results from
 
-- Name https://breadtube.tv/#search:con
-- Description https://breadtube.tv/#search:anarchist
-- Tags https://breadtube.tv/#search:news
+- Name https://breadtube.tv/channels/#search:contra
+- Description https://breadtube.tv/channels/#search:anarchist
+- Tags https://breadtube.tv/channels/#search:news
 
 Going forward there are a few things that it would be good to work on.
 
