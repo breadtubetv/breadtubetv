@@ -13,8 +13,9 @@ providers:
     name: Peter Coffin
     slug: petercoffin
     url: https://www.youtube.com/petercoffin
-    description: ""
-    subscribers: 248228
+    description: Many Peters live here. Home to Very Important Documentaries (video
+      essays) and Adversaries (commercial critique).
+    subscribers: 252662
 slug: petercoffin
 tags:
 - breadtube

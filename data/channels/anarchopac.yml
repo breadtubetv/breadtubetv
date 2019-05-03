@@ -13,8 +13,10 @@ providers:
     name: anarchopac
     slug: anarchopac
     url: https://www.youtube.com/user/anarchopac
-    description: ""
-    subscribers: 17194
+    description: "I'm a disabled pan-sexual trans woman who talks about anarchism,
+      feminism and marxism. \n\nFor recommended reading on anarchism, feminism and
+      marxism see my blog - https://anarchopac.wordpress.com/"
+    subscribers: 18180
 slug: anarchopac
 tags:
 - breadtube

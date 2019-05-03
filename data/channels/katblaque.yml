@@ -6,8 +6,10 @@ providers:
     name: Kat Blaque
     slug: TransDIYer
     url: https://www.youtube.com/user/TransDIYer
-    description: ""
-    subscribers: 135035
+    description: |-
+      Opinion Vlogger, Children's Illustrator and Thrift Store Addict
+      Business Inquiries: kattyblaque@gmail.com
+    subscribers: 0
 slug: katblaque
 tags:
 - breadtube

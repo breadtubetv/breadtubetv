@@ -8,8 +8,11 @@ providers:
     name: let's talk about stuff.
     slug: UCjSJq8eE73nCc9mtSMkNh6g
     url: https://www.youtube.com/channel/UCjSJq8eE73nCc9mtSMkNh6g
-    description: ""
-    subscribers: 16741
+    description: |-
+      this is a channel where a trans person named sarah makes video essays about stuff. sometimes that stuff includes movies, video games, or other flavors of media.
+
+      sarah prefers the pronouns she/her. just, y'know, in case it comes up.
+    subscribers: 17302
 slug: letstalkaboutstuff
 tags:
 - breadtube

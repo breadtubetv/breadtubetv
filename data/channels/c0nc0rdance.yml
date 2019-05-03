@@ -7,8 +7,17 @@ providers:
     name: C0nc0rdance
     slug: C0nc0rdance
     url: https://youtube.com/C0nc0rdance
-    description: ""
-    subscribers: 54153
+    description: |-
+      What is Concordance?
+
+      In common use, it means:
+      Harmony between all the parts.
+
+      In scientific use, it means:
+      Arriving at the same conclusion by multiple methodologies.
+
+      It's my goal to show through the use of solid evidence and rational argument what is junk science, and what is real.
+    subscribers: 54347
 slug: c0nc0rdance
 tags:
 - breadtube

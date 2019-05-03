@@ -7,8 +7,20 @@ providers:
     name: EssenceOfThought
     slug: EssenceOfThought
     url: https://www.youtube.com/user/EssenceOfThought
-    description: ""
-    subscribers: 29668
+    description: |-
+      EssenceOfThought is an online media outlet which produces fully referenced video reviews of other online content touching upon secularism, feminism, LGBT+, and ethnic equality. Content warnings are supplied at the start of all videos where appropriate.
+
+      Current admins;
+      Udita Chakrabarti (She)
+      Peter/Ethel Thurston (They/She/He)
+
+      Feel free to follow me on FB and Twitter!
+      https://www.facebook.com/EssenceOfThought
+      https://twitter.com/EssenceOfTweet
+
+      If you'd like to help support me you can do so on Patreon!
+      http://www.patreon.com/EssenceOfThought
+    subscribers: 30491
 slug: essenceofthought
 tags:
 - breadtube

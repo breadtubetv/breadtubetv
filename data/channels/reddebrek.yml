@@ -6,8 +6,11 @@ providers:
     name: Reddebrek
     slug: UCyhoKI98zPwE5RkfPq8vh1A
     url: https://www.youtube.com/channel/UCyhoKI98zPwE5RkfPq8vh1A
-    description: ""
-    subscribers: 1507
+    description: |-
+      Educate, Agitate, Organise
+
+      News and Activism
+    subscribers: 1540
 slug: reddebrek
 tags:
 - breadtube

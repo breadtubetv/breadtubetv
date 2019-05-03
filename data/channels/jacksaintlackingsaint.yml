@@ -7,8 +7,14 @@ providers:
     name: Jack Saint
     slug: LackingSaint
     url: https://www.youtube.com/user/LackingSaint
-    description: ""
-    subscribers: 59742
+    description: |-
+      Writer, Animator, Videographer, Director (BIG IRON). Howdy! I make videos to try and help people question their assumptions about media, culture and society. Hopefully I hit the mark more often than I miss it.
+
+
+      Available for hire - check out jacksaint.co.uk for more.
+
+      If you need to contact me personally for any reason, please don't hesitate to throw me an email, message or tweet!
+    subscribers: 65637
 slug: jacksaintlackingsaint
 tags:
 - breadtube

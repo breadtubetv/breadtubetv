@@ -8,8 +8,13 @@ providers:
     name: Novara Media
     slug: UCOzMAa6IhV6uwYQATYG_2kg
     url: https://www.youtube.com/channel/UCOzMAa6IhV6uwYQATYG_2kg
-    description: ""
-    subscribers: 40778
+    description: |-
+      New media for a different politics.
+
+      Novara Media is an independent media organisation addressing the issues – from a crisis of capitalism to racism and climate change – that are set to define the 21st century.
+
+      Support our work here: http://support.novaramedia.com
+    subscribers: 42372
 slug: novaramedia
 tags:
 - breadtube

@@ -1,7 +1,13 @@
-description:  Leftist anime analysis channel
+description: Leftist anime analysis channel
 name: Shonen Ronin
 permalink: shonenronin
 providers:
+  twitter:
+    name: Shounen Ronin
+    slug: roninshounen
+    url: https://www.twitter.com/roninshounen
+    description: ""
+    subscribers: 0
   youtube:
     name: Shonen Ronin
     slug: UCJZ7iekOTVsfzrnvAsN5hPw
@@ -10,11 +16,7 @@ providers:
       Calliope The Cantaloupe, CherryBoyWriter, Infinite Outlaw, and The Hunter x
       Hunter 2011 Dicking Riding Association (AKA Mr. Idealist [AKA Mark]). We're
       focused on making quality analysis mostly of anime.
-    subscribers: 493
-  twitter:
-    name: Shounen Ronin
-    slug: roninshounen
-    url: https://www.twitter.com/roninshounen
+    subscribers: 571
 slug: shonenronin
 tags:
 - breadtube

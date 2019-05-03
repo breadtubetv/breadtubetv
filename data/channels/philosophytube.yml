@@ -7,8 +7,9 @@ providers:
     name: Philosophy Tube
     slug: thephilosophytube
     url: https://www.youtube.com/thephilosophytube
-    description: ""
-    subscribers: 359578
+    description: I'm Olly, giving away a philosophy degree for free every Friday!
+      Subscribe to learn and boost your brain power!
+    subscribers: 376369
 slug: philosophytube
 tags:
 - breadtube
