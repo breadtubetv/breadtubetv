@@ -1,10 +1,10 @@
 ---
-title: PoliDice
+title: Rebecca Watson
 type: channel
-channel: polidice
+channel: rebeccawatson
 menu:
   main:
     parent: Channels
 videos:
-- v6lzbIw7eFc
+- 0QxT9aIowvw
 ---

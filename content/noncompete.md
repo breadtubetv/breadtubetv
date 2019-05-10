@@ -6,6 +6,8 @@ menu:
   main:
     parent: "Channels"
 videos:
+- rXpQUz_uQaI
+- mhSL95deEPI
 - yL3FTFLQEEw
 - pnmRYRRDbuw
 - aqRCSzUTGcM
