@@ -36,22 +36,25 @@ var options = {
 };
 var fuse = new Fuse(list, options);
 var search = document.getElementById("search");
-var list = document.getElementsByClassName("list")[0];
-var items = list.children;
+var lists = document.getElementsByClassName("list");
 
 function listSearch(query) {
-  list.classList.toggle('searching', query.length > 0);
+  if(search.value.length == 0) {
+    search.value = query.replace("%20"," ");
+  }
 
   window.location.hash = 'search:' + query.toLowerCase();;
   var results = fuse.search(query);
-  console.log(results);
-  for (var i = 0; i < items.length; i++) {
-    var item = items[i];
-    item.classList.toggle('found', results.indexOf(item.id) > -1);
-  }
 
-  if(search.value.length == 0) {
-    search.value = query.replace("%20"," ");
+  for (var i = 0; i < lists.length; i++) {
+    var list = lists[i];
+    var items = list.children;
+    list.classList.toggle('searching', query.length > 0);
+
+    for (var j = 0; j < items.length; j++) {
+      var item = items[j];
+      item.classList.toggle('found', results.indexOf(item.id) > -1);
+    }
   }
 }
 
