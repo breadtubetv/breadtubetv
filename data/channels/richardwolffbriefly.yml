@@ -1,0 +1,24 @@
+description: "I'm not Richard Wolff. \n\nPosting byte-sized videos, audio segments and animated videos. Soon to be scheduled, hopefully."
+name: Richard Wolff Briefly
+permalink: richardwolffbriefly
+providers:
+  youtube:
+    name: Richard Wolff Briefly
+    slug: UCTTxcWMfjX4zUjezBWIIIEw
+    url: https://www.youtube.com/channel/UCTTxcWMfjX4zUjezBWIIIEw
+    description: "I'm not Richard Wolff. \n\nPosting byte-sized videos, audio segments
+      and animated videos. Soon to be scheduled, hopefully."
+    subscribers: 0
+  website:
+    name: democracyatwork.info
+    slug: democracyatwork.info
+    url: http://www.democracyatwork.info/
+  website2:
+    name: rdwolff.com
+    slug: dwolff.com
+    url: http://www.rdwolff.com/
+slug: richardwolffbriefly
+tags:
+- breadtube
+- democracy
+- socialism
