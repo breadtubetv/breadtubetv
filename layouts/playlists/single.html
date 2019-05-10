@@ -1,7 +1,9 @@
 {{ define "main" }}
   <div class="heading-wrap" style="overflow: hidden">
     <h1 class="heading">{{ .Title }}</h1>
-    <a href="https://www.reddit.com/r/BreadTube/search?q={{ .Title | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
+    {{ if not (in .Permalink "/new") }}
+      <a href="https://www.reddit.com/r/BreadTube/search?q={{ .Title | lower }}&restrict_sr=1&sort=top" target="_blank"><strong>r/BreadTube</strong></a>
+    {{ end }}
   </div>
   {{ with .Content }}
     <div class="content">

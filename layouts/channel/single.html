@@ -13,13 +13,15 @@
     <h1 class="heading"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></h1>
     <div class="heading-meta">
       <ul class="plain-list">
-        <li>
-          <a href="https://www.reddit.com/r/BreadTube/search?q=title:{{ $channel.name | lower }} OR flair:{{ $channel.name | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
-        </li>
-        {{- range $provider, $data := $channel.providers -}}
+        {{- if $channel -}}
           <li>
-            <a href="{{ $data.url }}" target="_blank" title="{{ $data.slug }}">{{ or (i18n $provider) ($provider | humanize) }}</a>
+            <a href="https://www.reddit.com/r/BreadTube/search?q=title:{{ $channel.name | lower }} OR flair:{{ $channel.name | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
           </li>
+          {{- range $provider, $data := $channel.providers -}}
+            <li>
+              <a href="{{ $data.url }}" target="_blank" title="{{ $data.slug }}">{{ or (i18n $provider) ($provider | humanize) }}</a>
+            </li>
+          {{- end -}}
         {{- end -}}
       </ul>
     </div>
