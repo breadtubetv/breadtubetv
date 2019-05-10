@@ -28,14 +28,6 @@ providers:
     url: https://youtube.com/channel/UCv002AUCZaPNwiADqwchijg
     description:
       The Intercept is an investigative nonprofit news organization dedicated to producing fearless, adversarial journalism. We believe journalism should bring transparency and accountability to powerful governmental and corporate institutions.
-
-      Subscribe to our channel: https://interc.pt/subscribe
-
-      Website: https://theintercept.com/
-
-      Facebook: https://interc.pt/facebook
-
-      Twitter: https://interc.pt/twitter
     subscribers: 93721
 slug: theintercept
 tags:
