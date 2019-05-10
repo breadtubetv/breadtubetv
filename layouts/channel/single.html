@@ -22,6 +22,12 @@
           </li>
         {{- end -}}
       </ul>
+
+      {{ range $channel.tags }}
+        {{ if not (eq . "breadtube") }}
+          <a href="/channels/#search:{{ . | lower }}">{{ . }}</a>
+        {{ end }}
+      {{ end }}
     </div>
   </div>
   <div class="content">
