@@ -1,5 +1,5 @@
 {{ if .videoIframe }}
-<li class="channel-video">
+<li id="{{ .video.id }}" class="channel-video list-item">
   <ul>
     <li class="video">
       <div class="video-item">
@@ -18,7 +18,7 @@
   </ul>
 </li>
 {{ else }}
-<li class="video-item">
+<li id="{{ .video.id }}" class="video-item list-item">
   <div class="video">
     <div class="video-link-container">
       <div class="video-image">

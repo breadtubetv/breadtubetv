@@ -1,4 +1,7 @@
 <nav class="nav">
+  <div class="header-action" style="margin-top: 10px">
+    {{ partial "search/bar.html" . }}
+  </div>
   <ul class="nav-list plain-list">
     {{- $currentPage := . -}}
     {{ range .Site.Menus.main -}}

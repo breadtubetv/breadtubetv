@@ -8,7 +8,20 @@ var list = [
       'description': {{ .description }},
     },
   {{ end }}
-]
+].concat([
+  {{- range $channelSlug, $videos := .Site.Data.videos -}}
+    {{- range $videoID, $video := $videos -}}
+      {
+        'name': "{{ $video.title }}",
+        'slug': "{{ $video.id }}",
+        'tags': {{ $video.tags }},
+        'channel': "{{ $video.channel }}",
+        'description': {{ $video.description }},
+      },
+    {{- end -}}
+  {{ end }}
+])
+
 var options = {
   shouldSort: true,
   threshold: 0.4,
@@ -18,7 +31,7 @@ var options = {
   minMatchCharLength: 1,
   id: "slug",
   keys: [
-    "name", "slug", "tags", "description"
+    "name", "slug", "tags", "channel", "description"
   ]
 };
 var fuse = new Fuse(list, options);
@@ -31,6 +44,7 @@ function listSearch(query) {
 
   window.location.hash = 'search:' + query.toLowerCase();;
   var results = fuse.search(query);
+  console.log(results);
   for (var i = 0; i < items.length; i++) {
     var item = items[i];
     item.classList.toggle('found', results.indexOf(item.id) > -1);
