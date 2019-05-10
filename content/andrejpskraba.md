@@ -6,5 +6,4 @@ menu:
   main:
     parent: Channels
 videos:
-- 78BFFq_8XvM
 ---
