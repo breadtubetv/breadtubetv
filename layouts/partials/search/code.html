@@ -63,6 +63,17 @@ search.addEventListener("keyup", function() {
   listSearch(query);
 });
 
+var navlinks = document.getElementsByClassName("nav-link");
+
+/* Persist search in nav links */
+for (var i = 0; i < navlinks.length; i++) {
+  var link = navlinks[i];
+  link.addEventListener("click", function(event) {
+    event.preventDefault();
+    window.location = event.target.href + location.hash;
+  });
+}
+
 if(window.location.hash && window.location.hash.indexOf('search') > -1) {
   listSearch(window.location.hash.replace("#search:",""));
 }

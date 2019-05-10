@@ -5,7 +5,7 @@
   <ul class="nav-list plain-list">
     {{- $currentPage := . -}}
     {{ range .Site.Menus.main -}}
-      <li>
+      <li class="nav-item">
         <a href="{{ .URL | absLangURL }}" class="nav-link {{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} is-active{{ end }}">{{ .Name }}</a>
       </li>
     {{- end }}
