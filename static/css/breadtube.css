@@ -789,3 +789,25 @@ button, select, input, textarea { font-family: inherit; }
 .d-none {
   display: none;
 }
+
+.tags {
+  margin-top: 5px;
+}
+
+.tag {
+  background: #aaa;
+  border-radius: 3px 3px 3px 3px;
+  color: #000;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 15px;
+  padding: 8px;
+  position: relative;
+  text-decoration: none;
+  -webkit-transition: color 0.2s;
+}
+
+.tag:hover {
+  background-color: #880e7d;
+  color: white;
+}
