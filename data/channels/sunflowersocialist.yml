@@ -18,10 +18,6 @@ providers:
     name: Brendan Davison
     slug: BrendanDavison
     url: https://twitter.com/BrendanDavison
-  patreon:
-    name: Brendan Davison
-    slug: brendandavison
-    url: https://www.patreon.com/brendandavison
 slug: sunflowersocialist
 tags:
 - breadtube
