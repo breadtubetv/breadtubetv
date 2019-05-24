@@ -1,4 +1,0 @@
----
-tags: [news]
-title: "News"
----

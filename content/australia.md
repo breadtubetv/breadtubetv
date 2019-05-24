@@ -1,4 +1,0 @@
----
-tags: [australia]
-title: "Australia"
----
