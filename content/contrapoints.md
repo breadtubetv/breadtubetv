@@ -1,11 +1,12 @@
 ---
-title: "Contrapoints"
-type: "channel"
-channel: "contrapoints"
+title: Contrapoints
+type: channel
+channel: contrapoints
 menu:
   main:
-    parent: "Channels"
+    parent: Channels
 videos:
+- n9mspMJTNEY
 - 1pTPuoGjQsI
 - qtj7LDYaufM
 - PbBzhqJK3bg
