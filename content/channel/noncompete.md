@@ -1,10 +1,10 @@
 ---
-title: "Non Compete"
-type: "channel"
-channel: "noncompete"
+title: Non Compete
+type: channel
+channel: noncompete
 menu:
   main:
-    parent: "Channels"
+    parent: Channels
 videos:
 - 6KrTK40XxIg
 - rXpQUz_uQaI

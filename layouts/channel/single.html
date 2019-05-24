@@ -30,10 +30,11 @@
       {{- end -}}
     </ul>
 
-    <div class="tags">
-    {{ range .Params.tags }}
-      {{ if not (eq . "breadtube") }}
-        <a href="/channels/#search:{{ . | lower }}" class="tag">{{ . }}</a>
+      <div class="tags">
+      {{ range .Params.tags }}
+        {{ if not (eq . "breadtube") }}
+          <a href="/channels/#search:{{ . | lower }}" class="tag">{{ . }}</a>
+        {{ end }}
       {{ end }}
     {{ end }}
   </div>
