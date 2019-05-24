@@ -1,5 +1,5 @@
-description: Liberal Radio Host. Social Democrat. Agnostic-Atheist. Secular Humanist.
-  Loyal to the Facts. Principles over Politicians.
+description: Home of news & politics commentary from the libertarian-left; populist;
+  social democratic; agnostic-atheist perspective.
 name: Secular Talk
 permalink: seculartalk
 providers:
@@ -21,8 +21,10 @@ providers:
     url: https://www.youtube.com/channel/UCldfgbzNILYZA4dmDt4Cd6A
     description: Home of news & politics commentary from the libertarian-left; populist;
       social democratic; agnostic-atheist perspective.
-    subscribers: 660477
+    subscribers: 671020
 slug: seculartalk
 tags:
+- breadtube
+- america
+- politics
 - news
-url: https://www.youtube.com/channel/UCldfgbzNILYZA4dmDt4Cd6A
