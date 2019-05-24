@@ -43,7 +43,7 @@ function listSearch(query) {
     search.value = query.replace("%20"," ");
   }
 
-  window.location.hash = 'search:' + query.toLowerCase();;
+  history.replaceState(window.history.state,{},'#search:' + query.toLowerCase());
   var results = fuse.search(query);
 
   for (var i = 0; i < lists.length; i++) {
