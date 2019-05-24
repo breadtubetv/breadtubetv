@@ -2,9 +2,12 @@
 <ul class="list plain-list">
   {{ $jump := .Site.Params.targetBlank | default true }}
   {{ $tags := .Params.tags | default .Site.Params.defaultTags }}
-  {{ range sort .Site.Data.channels "slug" "asc" }}
-    {{ if or (eq (len $tags) 0) (intersect $tags .tags) }}
-      {{ partial "channels/card.html" (dict "channel" . "target_blank" $jump) }}
-    {{ end }}
+  {{ range .Pages }}
+	{{ $channel := .Params.channel }}
+	{{ range .Site.Data.channels }}
+		{{ if eq .slug $channel }}
+			{{ partial "channels/card.html" (dict "channel" . "target_blank" $jump) }}
+	    {{ end }}
+	  {{ end }}
   {{ end }}
 </ul>

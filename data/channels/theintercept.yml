@@ -30,8 +30,3 @@ providers:
       The Intercept is an investigative nonprofit news organization dedicated to producing fearless, adversarial journalism. We believe journalism should bring transparency and accountability to powerful governmental and corporate institutions.
     subscribers: 93721
 slug: theintercept
-tags:
-- breadtube
-- news
-- politics
-- journalism

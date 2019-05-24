@@ -27,8 +27,3 @@ providers:
     description: This is a channel where Space Baby talk about Art, History and Politics.
     subscribers: 1061
 slug: spacebabies
-tags:
-- breadtube
-- history
-- politics
-- art

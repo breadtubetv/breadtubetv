@@ -9,8 +9,3 @@ providers:
     description: We make videos and try to be funny.
     subscribers: 1627
 slug: brianneandmatt
-tags:
-- breadtube
-- economics
-- history
-- politics

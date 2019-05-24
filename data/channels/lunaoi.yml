@@ -14,5 +14,3 @@ providers:
     description: ""
     subscribers: 2801
 slug: lunaoi
-tags:
-- breadtube

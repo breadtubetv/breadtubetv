@@ -1,11 +1,10 @@
 <script>
 var list = [
-  {{ range sort .Site.Data.channels "name" "asc" }}
+  {{ range .Pages }}
     {
-      'name': "{{ .name }}",
-      'slug': "{{ .slug }}",
-      'tags': {{ .tags }},
-      'description': {{ .description }},
+      'name': "{{ .Title }}",
+      'slug': "{{ .Params.channel }}",
+      'tags': {{ .Params.tags }},
     },
   {{ end }}
 ].concat([
