@@ -3,6 +3,18 @@ description: I'm a smug anarchist poseur vomiting out video essays for you. I lo
 name: Thought Slime
 permalink: thoughtslime
 providers:
+  kofi:
+    name: Thought Slime
+    slug: thought_slime
+    url: https://ko-fi.com/thought_slime
+    description: ""
+    subscribers: 0
+  patreon:
+    name: Thought Slime
+    slug: thoughtslime
+    url: http://patreon.com/thoughtslime
+    description: ""
+    subscribers: 0
   youtube:
     name: Thought Slime
     slug: UCrr7y8rEXb7_RiVniwvzk9w
@@ -10,5 +22,5 @@ providers:
     description: |-
       I'm a smug anarchist poseur vomiting out video essays for you.
       I love you.
-    subscribers: 37525
+    subscribers: 42155
 slug: thoughtslime
