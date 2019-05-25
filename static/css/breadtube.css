@@ -417,7 +417,7 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .channel-video .channel {
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.2rem;
 }
 
 @media (min-width: 768px) {
@@ -532,6 +532,10 @@ button, select, input, textarea { font-family: inherit; }
   position: relative;
 }
 
+.video-link-container .video-link {
+  text-decoration: none;
+}
+
 @media (min-width: 768px) {
   .video-link-container {
     display: block;
@@ -590,7 +594,7 @@ button, select, input, textarea { font-family: inherit; }
 
 .video-text {
   flex: 1;
-  padding-left: 1rem;
+  padding-left: 1em;
 }
 
 .channel-video .video-text {
@@ -601,7 +605,7 @@ button, select, input, textarea { font-family: inherit; }
 @media (min-width: 768px) {
   .video-text {
     padding-left: 0;
-    padding-top: 1rem;
+    padding-top: 0.5rem;
   }
 }
 
@@ -627,8 +631,6 @@ button, select, input, textarea { font-family: inherit; }
 
 .video-metadata {
   overflow: hidden;
-  margin-top: 5px;
-  margin-left: 5.7rem;
 }
 
 @media (min-width: 768px) {
@@ -648,14 +650,11 @@ button, select, input, textarea { font-family: inherit; }
   float: left;
   padding-top: 6px;
   color: #555;
+  margin-bottom: 0.5rem;
 }
 
 .video-metadata .video-channel-link .video-channel-name:hover {
   color: #880e7d;
-}
-
-.video-metadata .video-channel-link .video-channel-name {
-  text-decoration: underline;
 }
 
 .content {
@@ -795,16 +794,17 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .tag {
-  background: #aaa;
+  background: #a60e95;
   border-radius: 3px 3px 3px 3px;
-  color: #000;
+  color: #fff;
   display: inline-block;
   vertical-align: middle;
   line-height: 15px;
-  padding: 8px;
+  padding: 0.4rem;
   position: relative;
   text-decoration: none;
   -webkit-transition: color 0.2s;
+  margin-bottom: 0.3rem;
 }
 
 .tag:hover {
