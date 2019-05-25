@@ -19,4 +19,5 @@ videos:
 - Yr26nwlD_fw
 - WGRC5AA1wF0
 - EOBcnTeuwMI
+weight: 10
 ---
