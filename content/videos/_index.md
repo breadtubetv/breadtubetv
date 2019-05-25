@@ -1,5 +1,5 @@
 ---
-title: BreadTube.tv
+title: Videos
 type: "videos"
 tags: []
 ---

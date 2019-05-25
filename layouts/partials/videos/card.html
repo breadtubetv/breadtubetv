@@ -19,6 +19,13 @@
 </li>
 {{ else }}
 <li id="{{ .video.id }}" class="video-item list-item">
+  {{ if .videoChannel }}
+    <div class="video-metadata">
+      <a class="video-channel-link" href="/{{ .channel.slug }}">
+        <strong class="video-channel-name">{{ .channel.name }}</strong>
+      </a>
+    </div>
+  {{ end }}
   <div class="video">
     <div class="video-link-container">
       <div class="video-image">
@@ -37,14 +44,6 @@
         </div>
       </div>
     </div>
-    {{ if .videoChannel }}
-      <div class="video-metadata">
-        <a class="video-channel-link" href="/{{ .channel.slug }}">
-          <img alt="{{ .channel.name }}" src="/img/channels/{{ .channel.slug }}.jpg" class="video-channel-image" />
-          <span class="video-channel-name">{{ .channel.name }}</span>
-        </a>
-      </div>
-    {{ end }}
   </div>
 </li>
 {{ end }}

@@ -1,5 +1,5 @@
 ---
-title: BreadTube.tv
+title: Channels
 type: "channel"
 tags: [breadtube]
 ---

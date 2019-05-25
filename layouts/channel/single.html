@@ -11,31 +11,30 @@
   <div class="heading-wrap" style="overflow: hidden">
     <img src="/img/channels/{{ $channel.slug }}.jpg" class="channel-image heading-image" alt=" {{ $channel.name }}" />
     <h1 class="heading"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></h1>
-    <div class="heading-meta">
-      <ul class="plain-list">
-        <li>
-          <a href="https://www.reddit.com/r/BreadTube/search?q=title:{{ $channel.name | lower }} OR flair:{{ $channel.name | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
-        </li>
-        {{- range $provider, $data := $channel.providers -}}
-          <li>
-            <a href="{{ $data.url }}" target="_blank" title="{{ $data.slug }}">{{ or (i18n $provider) ($provider | humanize) }}</a>
-          </li>
-        {{- end -}}
-      </ul>
-
-      <div class="tags">
-      {{ range $channel.tags }}
-        {{ if not (eq . "breadtube") }}
-          <a href="/channels/#search:{{ . | lower }}" class="tag">{{ . }}</a>
-        {{ end }}
+    <div class="content">
+      <p>{{ $channel.description | markdownify }}</p>
+      {{ with $channel.description_more }}
+        <p>{{ . | markdownify }}</p>
       {{ end }}
     </div>
-    </div>
   </div>
-  <div class="content">
-    <p>{{ $channel.description | markdownify }}</p>
-    {{ with $channel.description_more }}
-      <p>{{ . | markdownify }}</p>
+  <div class="heading-meta">
+    <ul class="plain-list">
+      <li>
+        <a href="https://www.reddit.com/r/BreadTube/search?q=title:{{ $channel.name | lower }} OR flair:{{ $channel.name | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
+      </li>
+      {{- range $provider, $data := $channel.providers -}}
+        <li>
+          <a href="{{ $data.url }}" target="_blank" title="{{ $data.slug }}">{{ or (i18n $provider) ($provider | humanize) }}</a>
+        </li>
+      {{- end -}}
+    </ul>
+
+    <div class="tags">
+    {{ range $channel.tags }}
+      {{ if not (eq . "breadtube") }}
+        <a href="/channels/#search:{{ . | lower }}" class="tag">{{ . }}</a>
+      {{ end }}
     {{ end }}
   </div>
 
