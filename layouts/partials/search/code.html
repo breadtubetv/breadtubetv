@@ -40,10 +40,10 @@ var lists = document.getElementsByClassName("list");
 
 function listSearch(query) {
   if(search.value.length == 0) {
-    search.value = query.replace("%20"," ");
+    search.value = query;
   }
 
-  history.replaceState(window.history.state,{},'#search:' + query.toLowerCase());
+  history.replaceState(window.history.state,{},'#search:' + encodeURIComponent(query.toLowerCase()));
   var results = fuse.search(query);
 
   for (var i = 0; i < lists.length; i++) {
@@ -74,7 +74,8 @@ for (var i = 0; i < navlinks.length; i++) {
   });
 }
 
-if(window.location.hash && window.location.hash.search(/#search:.+/) > 0) {
-  listSearch(window.location.hash.replace("#search:",""));
+var urlValue = window.location.hash.replace("#search:","");
+if(urlValue) {
+  listSearch(decodeURIComponent(urlValue));
 }
 </script>
