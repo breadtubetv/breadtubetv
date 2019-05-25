@@ -4,9 +4,6 @@
 
     <div class="heading-meta">
       <ul class="plain-list">
-        <li>
-          <a href="https://www.reddit.com/r/BreadTube/search?q={{ .Title | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
-        </li>
         {{ range $name, $url := $.Params.urls }}
           <li>
             <a href="{{ $url }}">{{ i18n $name }}</a>
