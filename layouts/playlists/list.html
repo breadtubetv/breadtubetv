@@ -1,5 +1,5 @@
 {{ define "main" }}
-  {{ range where .Pages.ByDate.Reverse "Section" "playlists" }}
+  {{ range where .Pages "Section" "playlists" }}
     {{ if not (in .Permalink "playlists/new") }}
       {{ partial "playlists/row.html" . }}
     {{ end }}
