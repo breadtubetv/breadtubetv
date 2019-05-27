@@ -349,16 +349,8 @@ button, select, input, textarea { font-family: inherit; }
   font-weight: bold;
 }
 
-.list-heading + .list {
-  margin: 1em 0 0 -1rem;
-}
-
-.content + .list {
-  margin: 1em 0 0 -1rem;
-}
-
 .list {
-  margin: 2rem 0 0 -1rem;
+  margin: 1rem 0 0 -1rem;
 }
 
 .list > li {
@@ -794,13 +786,14 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .tag {
-  background: #a60e95;
+  background: #A60E95;
   border-radius: 3px 3px 3px 3px;
-  color: #fff;
+  color: #FFF;
   display: inline-block;
   vertical-align: middle;
   line-height: 15px;
   padding: 0.4rem;
+  margin-bottom: 0.2rem;
   position: relative;
   text-decoration: none;
   -webkit-transition: color 0.2s;
