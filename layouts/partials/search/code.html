@@ -43,7 +43,7 @@ function listSearch(query) {
     search.value = query.replace("%20"," ");
   }
 
-  history.replaceState(window.history.state,{},'#search:' + query.toLowerCase());
+  history.replaceState(window.history.state,{},'?q=' + encodeURIComponent(query.toLowerCase()));
   var results = fuse.search(query);
 
   for (var i = 0; i < lists.length; i++) {
@@ -70,11 +70,17 @@ for (var i = 0; i < navlinks.length; i++) {
   var link = navlinks[i];
   link.addEventListener("click", function(event) {
     event.preventDefault();
-    window.location = event.target.href + location.hash;
+    window.location = event.target.href + location.search;
   });
 }
 
-if(window.location.hash && window.location.hash.indexOf('search') > -1) {
-  listSearch(window.location.hash.replace("#search:",""));
+/* Execute search on page load */
+var urlValue = window.location.search.replace("?q=","");
+var hashUrlValue = window.location.hash.replace("#search:","");
+
+if(urlValue) {
+  listSearch(decodeURIComponent(urlValue));
+} else if(hashUrlValue) {
+  listSearch(decodeURIComponent(hashUrlValue));
 }
 </script>
