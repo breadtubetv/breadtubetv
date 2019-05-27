@@ -27,13 +27,15 @@ videos:
 - QuN6GfUix7c
 - Sx4BVGPkdzk
 tags:
-- breadtube
-- philosophy
-- gender
-- capitalism
-- alt-right
-- nazism
 - aesthetic
+- alt-right
+- antifascism
+- breadtube
+- capitalist realism
+- feminism
+- gender
+- nazism
+- philosophy
 - spectacle
 url: /contrapoints/
 ---

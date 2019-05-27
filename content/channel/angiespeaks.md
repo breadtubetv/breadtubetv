@@ -14,8 +14,11 @@ videos:
 - DJWFpocUvWc
 tags:
 - breadtube
-- capitalism
-- depression
+- capitalist realism
+- communism
 - creativity
+- depression
+- feminism
+- gender
 url: /angiespeaks/
 ---

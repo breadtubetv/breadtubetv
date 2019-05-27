@@ -1,7 +1,6 @@
 ---
 title: BreadTube.tv
 tags:
-- featured
 videoChannel: true
 videoIframe: false
 videos:

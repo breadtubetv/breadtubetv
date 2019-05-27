@@ -8,9 +8,9 @@ menu:
 videos:
 tags:
 - breadtube
+- capitalist realism
 - cities
 - communities
-- capitalism
 - labor
 - unions
 url: /donoteat01/

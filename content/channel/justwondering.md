@@ -14,6 +14,6 @@ tags:
 - philosophy
 - sociology
 - arts
-- capitalism
+- capitalist realism
 url: /justwondering/
 ---
