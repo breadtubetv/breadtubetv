@@ -22,5 +22,10 @@ videos:
 - TKoiAXX6KFs
 tags:
 - breadtube
+- organizing
+- education
+- anarchism
+- communism
+- capitalist realism
 url: /noncompete/
 ---

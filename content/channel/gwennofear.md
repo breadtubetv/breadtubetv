@@ -10,6 +10,5 @@ videos:
 tags:
 - breadtube
 - politics
-- current events
 url: /gwennofear/
 ---

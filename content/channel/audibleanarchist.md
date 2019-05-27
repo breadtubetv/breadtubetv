@@ -8,7 +8,7 @@ menu:
 videos:
 tags:
 - breadtube
-- anarchist
+- anarchism
 - education
 - theory
 url: /audibleanarchist/

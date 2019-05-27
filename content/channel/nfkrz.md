@@ -15,6 +15,5 @@ tags:
 - capitalism
 - communism
 - russia
-- ussr
 url: /nfkrz/
 ---

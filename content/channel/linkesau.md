@@ -12,6 +12,6 @@ videos:
 tags:
 - breadtube
 - germany
-- nazis
+- nazism
 url: /linkesau/
 ---

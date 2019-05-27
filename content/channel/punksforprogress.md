@@ -9,7 +9,7 @@ videos:
 tags:
 - breadtube
 - news
-- antifascist
+- antifascism
 - socialism
 url: /punksforprogress/
 ---

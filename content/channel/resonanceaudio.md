@@ -9,7 +9,6 @@ videos:
 tags:
 - breadtube
 - audio
-- zine
 - organizing
 - education
 - anarchism
