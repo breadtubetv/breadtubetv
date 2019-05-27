@@ -1,7 +1,9 @@
 ---
-title: DeadHead Animation
+title: RE-EDUCATION
 type: channel
-channel: deadheadanimation
+channel: reeducation
+aliases:
+- /deadheadanimation/
 menu:
   main:
     parent: Channels
