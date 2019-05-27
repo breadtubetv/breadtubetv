@@ -9,5 +9,8 @@ videos:
 - xfapDkint3E
 tags:
 - breadtube
+- capitalist realism
+- communism
+- philosophy
 url: /zerobooks/
 ---
