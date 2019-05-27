@@ -10,10 +10,10 @@ videos:
 - nisfgSU927U
 - VQRqQZw8LPg
 tags:
-- Activism
-- America
+- activism
+- america
 - breadtube
 - socialism
-- Student
+- student
 url: /sunflowersocialist/
 ---

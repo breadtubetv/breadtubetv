@@ -11,6 +11,10 @@ videos:
 - 9b3vDdqY1PA
 - LB3HUXdmid4
 tags:
+- activism
+- alt-right
+- anarchism
 - breadtube
+- communism
 url: /beauofthefifthcolumn/
 ---

@@ -12,5 +12,9 @@ videos:
 - rk8CsdxpqII
 tags:
 - breadtube
+- alt-right
+- antifascism
+- communism
+- anarchism
 url: /thoughtslime/
 ---

@@ -24,6 +24,7 @@ tags:
 - breadtube
 - organizing
 - education
+- activism
 - anarchism
 - communism
 - capitalist realism
