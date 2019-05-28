@@ -8,6 +8,3 @@ providers:
     description: ""
     subscribers: 42280
 slug: tmm
-tags:
-- breadtube
-url: https://www.youtube.com/channel/UCQb22imbIqKKWOC98C8Rm2A

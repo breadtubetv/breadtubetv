@@ -9,5 +9,3 @@ providers:
     description: Learn something every day!
     subscribers: 91
 slug: brendanmakesvideos
-tags:
-- breadtube

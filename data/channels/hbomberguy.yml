@@ -9,6 +9,3 @@ providers:
     description: Internet?
     subscribers: 400947
 slug: hbomberguy
-tags:
-- breadtube
-url: https://www.youtube.com/hbomberguy

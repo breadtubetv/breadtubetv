@@ -33,13 +33,3 @@ providers:
     description: "YouTuber, ex-philosopher. Sex, drugs, and social justice. \U0001F338"
     subscribers: 581042
 slug: contrapoints
-tags:
-- breadtube
-- philosophy
-- gender
-- capitalism
-- alt-right
-- nazism
-- aesthetic
-- spectacle
-url: https://www.youtube.com/contrapoints

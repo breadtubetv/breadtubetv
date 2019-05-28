@@ -24,7 +24,7 @@
       </ul>
 
       <div class="tags">
-      {{ range $channel.tags }}
+      {{ range .Params.tags }}
         {{ if not (eq . "breadtube") }}
           <a href="/channels/#search:{{ . | lower }}" class="tag">{{ . }}</a>
         {{ end }}
