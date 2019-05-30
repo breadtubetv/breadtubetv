@@ -1,11 +1,9 @@
 ---
 title: BreadTube.tv
 tags:
-- featured
 videoChannel: true
 videoIframe: false
 videos:
-- n9mspMJTNEY
 - SEMB1Ky2n1E
 - GjNILjFters
 - qipuoA9QJeQ

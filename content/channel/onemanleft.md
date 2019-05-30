@@ -18,6 +18,6 @@ tags:
 - revolution
 - communism
 - anarchism
-- antifa
+- antifascism
 url: /onemanleft/
 ---

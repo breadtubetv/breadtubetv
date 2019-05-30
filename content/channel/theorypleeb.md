@@ -12,8 +12,8 @@ videos:
 - YJxHdGNNJTo
 tags:
 - breadtube
+- capitalist realism
 - gaming
-- capitalism
 - ideology
 url: /theorypleeb/
 ---

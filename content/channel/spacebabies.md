@@ -12,6 +12,6 @@ tags:
 - breadtube
 - history
 - politics
-- art
+- arts
 url: /spacebabies/
 ---

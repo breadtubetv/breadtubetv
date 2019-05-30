@@ -1,11 +1,12 @@
 ---
-title: "Non Compete"
-type: "channel"
-channel: "noncompete"
+title: Non Compete
+type: channel
+channel: noncompete
 menu:
   main:
-    parent: "Channels"
+    parent: Channels
 videos:
+- 6KrTK40XxIg
 - rXpQUz_uQaI
 - mhSL95deEPI
 - yL3FTFLQEEw
@@ -21,5 +22,11 @@ videos:
 - TKoiAXX6KFs
 tags:
 - breadtube
+- organizing
+- education
+- activism
+- anarchism
+- communism
+- capitalist realism
 url: /noncompete/
 ---

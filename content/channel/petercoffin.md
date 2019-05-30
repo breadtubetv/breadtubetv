@@ -13,9 +13,9 @@ videos:
 - w3AGe0ns_bw
 tags:
 - breadtube
-- capitalism
-- philosophy
 - capitalist realism
+- gender
+- philosophy
 - spectacle
 url: /petercoffin/
 ---

@@ -1,11 +1,12 @@
 ---
-title: "The Serfs"
-type: "channel"
-channel: "theserfs"
+title: The Serfs
+type: channel
+channel: theserfs
 menu:
   main:
-    parent: "Channels"
+    parent: Channels
 videos:
+- Huhc8edyIqU
 - -Gbm_gcZhcE
 - 2Orqtf6WgIs
 - HclaKb5LUYY
@@ -14,5 +15,6 @@ videos:
 - R1lu8-PuMmk
 tags:
 - breadtube
+- canada
 url: /theserfs/
 ---

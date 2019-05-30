@@ -38,13 +38,10 @@ var search = document.getElementById("search");
 var lists = document.getElementsByClassName("list");
 
 function listSearch(query) {
-  if(search.value.length == 0) {
-    search.value = query.replace("%20"," ");
-  }
+  search.value = query;
+  history.replaceState(window.history.state,{},'#search:' + encodeURIComponent(query.toLowerCase()));
 
-  history.replaceState(window.history.state,{},'#search:' + query.toLowerCase());
   var results = fuse.search(query);
-
   for (var i = 0; i < lists.length; i++) {
     var list = lists[i];
     var items = list.children;
@@ -57,23 +54,31 @@ function listSearch(query) {
   }
 }
 
+function hashSearchValue() {
+  return window.location.hash.replace("#search:","");
+}
+
+listSearch(decodeURIComponent(hashSearchValue()));
+
+window.onhashchange = function() {
+  listSearch(decodeURIComponent(hashSearchValue()));
+}
+
 search.addEventListener("keyup", function() {
   var query = this.value;
   listSearch(query);
 });
 
-var navlinks = document.getElementsByClassName("nav-link");
-
 /* Persist search in nav links */
+var navlinks = document.getElementsByClassName("nav-link");
 for (var i = 0; i < navlinks.length; i++) {
   var link = navlinks[i];
   link.addEventListener("click", function(event) {
-    event.preventDefault();
-    window.location = event.target.href + location.hash;
+    if(window.location.pathname != event.target.pathname) {
+      event.preventDefault();
+      window.location = event.target.href + location.hash;
+    }
   });
 }
 
-if(window.location.hash && window.location.hash.indexOf('search') > -1) {
-  listSearch(window.location.hash.replace("#search:",""));
-}
 </script>

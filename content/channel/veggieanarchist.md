@@ -10,9 +10,9 @@ videos:
 - KsVRcXeAFUc
 - jTjP4FFjB8g
 tags:
-- breadtube
 - anarchism
+- breadtube
+- capitalist realism
 - veganism
-- capitalism
 url: /veggieanarchist/
 ---

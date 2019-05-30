@@ -12,9 +12,8 @@ videos:
 - wJwXxajR8FE
 tags:
 - breadtube
-- capitalism
+- capitalist realism
 - communism
 - russia
-- ussr
 url: /nfkrz/
 ---

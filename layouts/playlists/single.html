@@ -1,7 +1,16 @@
 {{ define "main" }}
   <div class="heading-wrap" style="overflow: hidden">
-    <h1 class="heading">{{ .Title }}</h1>
-    <a href="https://www.reddit.com/r/BreadTube/search?q={{ .Title | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
+    <h1 class="heading"><a href=".">{{ .Title }}</a></h1>
+
+    <div class="heading-meta">
+      <ul class="plain-list">
+        {{ range $name, $url := $.Params.urls }}
+          <li>
+            <a href="{{ $url }}">{{ i18n $name }}</a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
   </div>
   {{ with .Content }}
     <div class="content">

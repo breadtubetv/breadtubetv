@@ -4,8 +4,8 @@
 
 [build.environment]
   HUGO_VERSION = "0.55.6"
-  NODE_VERSION = "11.1.0"
-  YARN_VERSION = "1.12.1"
+  NODE_VERSION = "12.1.0"
+  YARN_VERSION = "1.16.0"
   HUGO_ENV = "staging"
 
 [context.production]

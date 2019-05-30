@@ -12,10 +12,12 @@ videos:
 - c_2pNnSDTYA
 - Q8A1_rL0d1c
 tags:
-- breadtube
 - anarchism
-- politics
+- antifascism
+- breadtube
+- capitalist realism
 - philosophy
+- politics
 - society
 url: /chomskysphilosophy/
 ---

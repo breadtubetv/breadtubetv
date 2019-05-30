@@ -12,6 +12,11 @@ videos:
 - W-HWeuSEkiI
 - WonLalhJW-o
 tags:
+- activism
+- anarchism
+- alt-right
+- antifascism
 - breadtube
+- communism
 url: /deadheadanimation/
 ---

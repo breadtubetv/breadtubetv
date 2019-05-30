@@ -7,7 +7,7 @@ menu:
     parent: Channels
 tags:
 - breadtube
-- antifa
+- antifascism
 - politics
 url: /theantifada/
 ---
