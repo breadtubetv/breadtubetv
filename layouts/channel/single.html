@@ -33,7 +33,7 @@
     <div class="tags">
       {{ range .Params.tags }}
         {{ if not (eq . "breadtube") }}
-          <a href="/channels/?q={{ . | lower }}" class="tag">{{ . }}</a>
+          <a href="/channels/#search:'{{ . | lower }}'" class="tag">{{ . }}</a>
         {{ end }}
       {{ end }}
     </div>
