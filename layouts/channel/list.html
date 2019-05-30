@@ -6,7 +6,7 @@
   <div class="tags">
     {{ range .Site.Taxonomies.tags }}
       {{ if .Page.Title }}
-        <a href="/channels/#search:'{{ .Page.Title | lower }}'" class="tag">{{ .Page.Title | lower }}</a>
+        <a href="/channels/#search:{{ .Page.Title | lower }}" class="tag">{{ .Page.Title | lower }}</a>
       {{ end }}
     {{ end }}
   </div>
