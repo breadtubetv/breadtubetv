@@ -7,7 +7,7 @@
     <input class="field-input" id="channelName" type="text" name="CHANNEL_NAME" value="{{ .channel.name }}" required />
   </div>
   <div class="field">
-    <label class="field-label" for="channelDescription">Channel Tags</label>
+    <label class="field-label" for="channelTags">Channel Tags</label>
     <textarea class="field-input is-textarea" class="form-control" id="channelTags" rows="2" cols="50" name="CHANNEL_TAGS">{{ range .tags }}{{ . }}, {{ end }}</textarea>
   </div>
   <div class="field">
