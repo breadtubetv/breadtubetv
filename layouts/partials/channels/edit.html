@@ -1,0 +1,34 @@
+<form name="edit_channel" class="form" method="POST" data-netlify="true" netlify-honeypot="important-field">
+  <p class="d-none">
+    <label>Don’t fill this out if you're human: <input name="important-field" /></label>
+  </p>
+  <div class="field">
+    <label class="field-label" for="channelName">Channel Name</label>
+    <input class="field-input" id="channelName" type="text" name="CHANNEL_NAME" value="{{ .channel.name }}" required />
+  </div>
+  <div class="field">
+    <label class="field-label" for="channelTags">Channel Tags</label>
+    <textarea class="field-input is-textarea" class="form-control" id="channelTags" rows="2" cols="50" name="CHANNEL_TAGS">{{ range .tags }}{{ . }}, {{ end }}</textarea>
+  </div>
+  <div class="field">
+    <label class="field-label" for="channelUrl">Channel URL</label>
+    <input class="field-input" id="channelUrl" type="text" name="CHANNEL_URL" value="{{ .channel.providers.youtube.url }}" required />
+  </div>
+  <div class="field">
+    <label class="field-label" for="channelDescription">Channel Description</label>
+    <textarea class="field-input is-textarea" class="form-control" id="channelDescription" rows="2" cols="50" name="CHANNEL_DESCRIPTION">{{ .channel.description }}</textarea>
+  </div>
+  <div class="field">
+    <label class="field-label" for="videoUrl">Video URLs</label>
+    <textarea class="field-input is-textarea" class="form-control" id="videoUrl" rows="6" cols="50" name="VIDEO_URLS">{{ range .videos }}
+https://youtu.be/{{ . }}{{ end }}</textarea>
+  </div>
+  <div class="field">
+    <div data-netlify-recaptcha="true"></div>
+  </div>
+  <button type="submit" class="button is-primary">Send Update</button>
+  <p>
+    <br>
+    <em>Submissions are sent to our <a href="https://breadtube.tv/discord">Discord server</a>, come join us!</em>
+  </p>
+</form>
