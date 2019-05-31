@@ -39,7 +39,12 @@ var lists = document.getElementsByClassName("list");
 
 function listSearch(query) {
   search.value = query;
-  history.replaceState(window.history.state,{},'#search:' + encodeURIComponent(query.toLowerCase()));
+
+  if(query.length > 0) {
+    history.replaceState(window.history.state,{},'#search:' + encodeURIComponent(query.toLowerCase()));
+  } else {
+    history.replaceState(window.history.state,{},window.location.pathname);
+  }
 
   var results = fuse.search(query);
   for (var i = 0; i < lists.length; i++) {
