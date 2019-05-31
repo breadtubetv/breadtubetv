@@ -55,10 +55,16 @@ function listSearch(query) {
 }
 
 function hashSearchValue() {
-  return window.location.hash.replace("#search:","");
+  if (window.location.hash.match(/#search/)) {
+    return window.location.hash.replace("#search:","");
+  } else {
+    return false;
+  }
 }
 
-listSearch(decodeURIComponent(hashSearchValue()));
+if (hashSearchValue()) {
+  listSearch(decodeURIComponent(hashSearchValue()));
+}
 
 window.onhashchange = function() {
   listSearch(decodeURIComponent(hashSearchValue()));

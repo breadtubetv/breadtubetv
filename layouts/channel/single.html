@@ -40,4 +40,7 @@
   </div>
 
   {{ partial "playlists/videos.html" . }}
+
+  <h2 id="update" class="heading">Update Channel</h2>
+  {{ partial "channels/edit.html" (dict "channel" $channel "videos" .Params.videos "tags" .Params.tags) }}
 {{- end -}}
