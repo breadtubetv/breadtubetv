@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>capitalist realism on BreadTube</title>
+    <link>http://localhost:3000/tags/capitalist-realism/</link>
+    <description>Recent content in capitalist realism on BreadTube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:3000/tags/capitalist-realism/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Angie Speaks</title>
+      <link>http://localhost:3000/angiespeaks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/angiespeaks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chomsky&#39;s Philosophy</title>
+      <link>http://localhost:3000/chomskysphilosophy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/chomskysphilosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrapoints</title>
+      <link>http://localhost:3000/contrapoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/contrapoints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dumpster Flower</title>
+      <link>http://localhost:3000/dumpsterflower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/dumpsterflower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFKRZ</title>
+      <link>http://localhost:3000/nfkrz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/nfkrz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non Compete</title>
+      <link>http://localhost:3000/noncompete/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/noncompete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Coffin</title>
+      <link>http://localhost:3000/petercoffin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/petercoffin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veggie Anarchist</title>
+      <link>http://localhost:3000/veggieanarchist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/veggieanarchist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero Books</title>
+      <link>http://localhost:3000/zerobooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/zerobooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>donoteat01</title>
+      <link>http://localhost:3000/donoteat01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/donoteat01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>just wondering...</title>
+      <link>http://localhost:3000/justwondering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/justwondering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theory pleeb</title>
+      <link>http://localhost:3000/theorypleeb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/theorypleeb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,806 @@
+/*
+  HTML5 Reset :: style.css
+  ----------------------------------------------------------
+  We have learned much from/been inspired by/taken code where offered from:
+
+  Eric Meyer          :: http://meyerweb.com
+  HTML5 Doctor        :: http://html5doctor.com
+  and the HTML5 Boilerplate  :: http://html5boilerplate.com
+
+-------------------------------------------------------------------------------*/
+
+/* Let's default this puppy out
+-------------------------------------------------------------------------------*/
+
+html, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, header, menu, nav, section, time, mark, audio, video, details, summary {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-weight: normal;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+main, article, aside, figure, footer, header, nav, section, details, summary {display: block;}
+
+/* Handle box-sizing while better addressing child elements:
+   http://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/ */
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+/* consider resetting the default cursor: https://gist.github.com/murtaugh/5247154 */
+
+/* Responsive images and other embedded objects */
+/* if you don't have full control over `img` tags (if you have to overcome attributes), consider adding height: auto */
+img,
+object,
+embed {max-width: 100%;}
+
+/*
+   Note: keeping IMG here will cause problems if you're using foreground images as sprites.
+  In fact, it *will* cause problems with Google Maps' controls at small size.
+  If this is the case for you, try uncommenting the following:
+
+#map img {
+    max-width: none;
+}
+*/
+
+/* force a vertical scrollbar to prevent a jumpy page */
+html {overflow-y: scroll;}
+
+/* we use a lot of ULs that aren't bulleted.
+  you'll have to restore the bullets within content,
+  which is fine because they're probably customized anyway */
+ul {list-style: none;}
+
+blockquote, q {quotes: none;}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {content: ''; content: none;}
+
+a {margin: 0; padding: 0; font-size: 100%; vertical-align: baseline; background: transparent;}
+
+del {text-decoration: line-through;}
+
+abbr[title], dfn[title] {border-bottom: 1px dotted #000; cursor: help;}
+
+/* tables still need cellspacing="0" in the markup */
+table {border-collapse: separate; border-spacing: 0;}
+th {font-weight: bold; vertical-align: bottom;}
+td {font-weight: normal; vertical-align: top;}
+
+hr {display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0;}
+
+input, select {vertical-align: middle;}
+
+pre {
+    white-space: pre; /* CSS2 */
+    white-space: pre-wrap; /* CSS 2.1 */
+    white-space: pre-line; /* CSS 3 (and 2.1 as well, actually) */
+    word-wrap: break-word; /* IE */
+}
+
+input[type="radio"] {vertical-align: text-bottom;}
+input[type="checkbox"] {vertical-align: bottom;}
+.ie7 input[type="checkbox"] {vertical-align: baseline;}
+.ie6 input {vertical-align: text-bottom;}
+
+select, input, textarea {font: 99% sans-serif;}
+
+table {font-size: inherit; font: 100%;}
+
+small {font-size: 85%;}
+
+strong {font-weight: bold;}
+
+td, td img {vertical-align: top;}
+
+/* Make sure sup and sub don't mess with your line-heights http://gist.github.com/413930 */
+sub, sup {font-size: 75%; line-height: 0; position: relative;}
+sup {top: -0.5em;}
+sub {bottom: -0.25em;}
+
+/* standardize any monospaced elements */
+pre, code, kbd, samp {font-family: monospace, sans-serif;}
+
+/* hand cursor on clickable elements */
+.clickable,
+label,
+input[type=button],
+input[type=submit],
+input[type=file],
+button {cursor: pointer;}
+
+/* Webkit browsers add a 2px margin outside the chrome of form elements */
+button, input, select, textarea {margin: 0;}
+
+/* make buttons play nice in IE */
+button,
+input[type=button] {width: auto; overflow: visible;}
+
+/* scale images in IE7 more attractively */
+.ie7 img {-ms-interpolation-mode: bicubic;}
+
+/* prevent BG image flicker upon hover
+   (commented out as usage is rare, and the filter syntax messes with some pre-processors)
+.ie6 html {filter: expression(document.execCommand("BackgroundImageCache", false, true));}
+*/
+
+/* let's clear some floats */
+.clearfix:after { content: " "; display: block; clear: both; }
+
+/* https://snook.ca/archives/html_and_css/hiding-content-for-accessibility */
+.visually-hidden {
+  position: absolute !important;
+  height: 1px; width: 1px;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+}
+
+/*
+ * BreadTube styling
+*/
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  background: #e1dbe1;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+a {
+  color: #000;
+  text-decoration-color: rgba(0, 0, 0, 0.5);
+}
+
+a:hover {
+  color: #880e7d;
+  text-decoration-color: #880e7d;
+}
+
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+p {
+  line-height: 1.25;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  max-width: 45rem;
+}
+
+.content h2,
+.text-content h2 {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+  margin-bottom: 0.2rem;
+}
+
+.content p,
+.text-content p {
+  max-width: 35rem;
+  margin-bottom: 0.5rem;
+}
+
+button, select, input, textarea { font-family: inherit; }
+
+/* Container */
+.container {
+  padding: 0 1rem;
+}
+
+@media (min-width: 768px) {
+  .container {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+/* Plain list */
+.plain-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Header */
+.header {
+  background: #fff;
+  border-bottom: 1px solid #aea6ad;
+  border-top: 8px solid #a60e95;
+  padding-top: 1.5rem;
+}
+
+.header-logo {
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: 0.25em;
+  margin: 0 0 0.25rem;
+  text-transform: uppercase;
+}
+
+.header-logo a {
+  color: #880e7d;
+  text-decoration: none;
+}
+
+.header-logo a:hover {
+  text-decoration: underline;
+}
+
+.header-intro {
+  color: #5d4c5c;
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.header-search {
+  width: 100%;
+  border-radius: 1rem;
+  padding: 0.5rem 1rem;
+  border: 2px solid #f9bcff;
+  margin-right: 0.5rem;
+}
+
+.header-add {
+  border: 2px solid #f9bcff;
+  border-radius: 1rem;
+  display: inline-block;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  background: white;
+}
+
+.header-add:hover {
+  border-color: #f25efc;
+  box-shadow: 0 0 0 2px #f9bcff;
+}
+
+.header-add:focus {
+  background: #a60e95;
+  border-color: #a60e95;
+  box-shadow: 0 0 0 2px #a60e95;
+  color: #fff;
+  outline: 2px solid transparent;
+}
+
+@media (min-width: 768px) {
+  .header-line {
+    align-items: baseline;
+    display: flex;
+  }
+
+  .nav {
+    flex: 1;
+    order: -1;
+  }
+}
+
+.nav-list > li:not(:last-child) {
+  margin-right: 1rem;
+}
+
+.nav-link {
+  color: #000;
+  display: block;
+  margin-bottom: -2px;
+  padding: 1rem 0;
+  border-bottom: 4px solid transparent;
+  cursor: pointer;
+}
+
+.nav-link.is-active {
+  border-bottom-color: #db19c8;
+  font-weight: bold;
+}
+
+.heading-wrap {
+  margin-bottom: 0.5rem;
+}
+
+/* Heading */
+.heading {
+  color: #333;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 1rem 0 0.5rem;
+}
+
+.heading-image,
+.content .heading-image {
+  max-width: 70px;
+  float: left;
+  margin: 1rem 10px 0 0;
+}
+
+.heading-meta li {
+  line-height: 1.5rem;
+  padding-right: 0.4rem;
+}
+
+/* Lists */
+.list-heading {
+  margin: 1rem 0 0rem;
+  font-weight: bold;
+}
+
+.list {
+  margin: 1rem 0 0 -1rem;
+}
+
+.list > li {
+  padding: 0 1rem 2rem 1rem;
+}
+
+.list.searching > li {
+  display: none;
+}
+
+.list.searching > li.found {
+  display: block;
+}
+
+@media (min-width: 768px) {
+  .list > li {
+    flex-basis: 25%;
+    padding: 0 0 2rem 1rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .list > li {
+    flex-basis: 20%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .list > li {
+    flex-basis: 16.6667%;
+  }
+}
+
+@media (min-width: 1400px) {
+  .list > li {
+    flex-basis: 240px;
+  }
+
+  .list > li.video-item {
+    flex-basis: 320px;
+  }
+}
+
+.list > li.channel-video {
+  width: 100%;
+  padding-right: 0;
+}
+
+/* Channels */
+.channel,
+.channel-video .channel {
+  align-items: flex-start;
+  display: flex;
+  height: 100%;
+  position: relative;
+}
+
+.channel-video .channel {
+  margin-bottom: 0.2rem;
+}
+
+@media (min-width: 768px) {
+  .channel {
+    display: block;
+  }
+}
+
+.channel-image,
+.channel-video .channel-image {
+  background: #fff;
+  border: 1px solid #beb8be;
+  border-radius: 0.5rem;
+  flex: 0 auto;
+  transition: 0.1s box-shadow;
+  width: 5rem;
+}
+
+.channel-video .channel-image {
+  width: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .channel-image {
+    width: auto;
+  }
+}
+
+.channel-imageWrap {
+  border-radius: inherit;
+  overflow: hidden;
+}
+
+.channel-imageWrap > img {
+ transition: 0.1s transform;
+  width: 100%;
+}
+
+.channel:hover .channel-image,
+.channel:focus-within .channel-image {
+  box-shadow: 0 0 0 0.5rem #beb8be;
+}
+
+.channel-video .channel:hover .channel-image,
+.channel-video .channel:focus-within .channel-image {
+  box-shadow: 0 0 0 0.2rem #beb8be;
+}
+
+.channel:hover .channel-imageWrap > img,
+.channel:focus-within .channel-imageWrap > img {
+  transform: scale(1.1);
+}
+
+.channel-video .channel-description,
+.channel-video .channel-metadata {
+  display: none;
+}
+
+.channel-text {
+  flex: 1;
+  padding-left: 1rem;
+}
+
+.channel-video .channel-text {
+  flex: 1;
+  padding-left: 0.3rem;
+  padding-top: 0;
+}
+
+@media (min-width: 768px) {
+  .channel-text {
+    padding-left: 0;
+    padding-top: 1rem;
+  }
+}
+
+.channel-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.channel-video .channel-title {
+  font-size: 1rem;
+}
+
+.channel-link::after {
+  bottom: 0;
+  content: '';
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 5;
+}
+
+.channel-metadata {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 20 20'%3E%3Cg fill='%23999'%3E%3Cpath d='M10 11c-5.92 0-8 3-8 5v3h16v-3c0-2-2.08-5-8-5z'/%3E%3Ccircle cx='10' cy='5.5' r='4.5'/%3E%3C/g%3E%3C/svg%3E");
+  background-position: left center;
+  background-repeat: no-repeat;
+  background-size: 1rem;
+  color: #555;
+  margin-top: 0.25rem;
+  padding-left: 1.25rem;
+}
+
+/* Videos */
+.video-link-container {
+  align-items: flex-start;
+  display: flex;
+  height: 100%;
+  position: relative;
+}
+
+.video-link-container .video-link {
+  text-decoration: none;
+}
+
+@media (min-width: 768px) {
+  .video-link-container {
+    display: block;
+    position: relative;
+  }
+}
+
+.channel-video .video-item {
+  margin-bottom: 0.5rem;
+}
+
+@media (max-width: 767px) {
+  .video-item {
+    width: 100%;
+  }
+
+  .video-iframe {
+    width: 100%;
+  }
+}
+
+.video-image {
+  background: #fff;
+  border: 1px solid #beb8be;
+  border-radius: 0.5rem;
+  flex: 0 auto;
+  transition: 0.1s box-shadow;
+  width: 5rem;
+}
+
+@media (min-width: 768px) {
+  .video-image {
+    width: auto;
+  }
+}
+
+.video-imageWrap {
+  border-radius: inherit;
+  overflow: hidden;
+}
+
+.video-imageWrap > img {
+ transition: 0.1s transform;
+  width: 100%;
+}
+
+.video:hover .video-image,
+.video:focus-within .video-image {
+  box-shadow: 0 0 0 0.5rem #beb8be;
+}
+
+.video:hover .video-imageWrap > img,
+.video:focus-within .video-imageWrap > img {
+  transform: scale(1.1);
+}
+
+.video-text {
+  flex: 1;
+  padding-left: 1em;
+}
+
+.channel-video .video-text {
+  padding-top: 0;
+  padding-left: 0;
+}
+
+@media (min-width: 768px) {
+  .video-text {
+    padding-left: 0;
+    padding-top: 0.5rem;
+  }
+}
+
+.video-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.channel-video .video-title {
+  font-size: 1.1rem;
+}
+
+.video-link::after {
+  bottom: 0;
+  content: '';
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 5;
+}
+
+.video-metadata {
+  overflow: hidden;
+}
+
+@media (min-width: 768px) {
+  .video-metadata {
+    margin-left: 0;
+  }
+}
+
+.video-metadata .video-channel-image {
+  width: 25px;
+  margin: 4px;
+  float: left;
+  border-radius: 16px;
+}
+
+.video-metadata .video-channel-name {
+  float: left;
+  padding-top: 6px;
+  color: #555;
+  margin-bottom: 0.5rem;
+}
+
+.video-metadata .video-channel-link .video-channel-name:hover {
+  color: #880e7d;
+}
+
+.content {
+  overflow: hidden;
+}
+
+.content p, .content li {
+  margin-bottom: 0.5rem;
+}
+
+.content img {
+  margin-bottom: 1.5rem;
+}
+
+.content ul {
+  list-style: disc;
+  margin-left: 1.25rem;
+}
+
+
+/* Footer */
+.footer {
+  margin: 2rem 0;
+}
+
+.footer::before {
+  background: #aea6ad;
+  content: '';
+  display: block;
+  height: 1px;
+  margin-bottom: 1rem;
+  width: 5rem;
+}
+
+.footer-header {
+  font-size: 1rem;
+  font-style: italic;
+  font-weight: normal;
+  margin: 0 0 0.5rem;
+}
+
+.footer-list > li {
+  margin-bottom: 0.5rem;
+}
+
+.footer-list > li:not(:last-child) {
+  margin-right: 1rem;
+}
+
+.footer-link {
+  font-weight: bold;
+}
+
+/* Button */
+.button {
+  border: 2px solid #f9bcff;
+  border-radius: 1rem;
+  display: inline-block;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+}
+
+.button:hover {
+  border-color: #f25efc;
+}
+
+.button:focus {
+  background: #a60e95;
+  border-color: #a60e95;
+  box-shadow: 0 0 1px 4px #ffbf47;
+  color: #fff;
+  outline: 4px solid transparent;
+}
+
+.button.is-primary {
+  background: #a60e95;
+  border-color: #a60e95;
+  color: #fff;
+  font-size: 1.25rem;
+}
+
+.button.is-primary:hover,
+.button.is-primary:focus {
+  background: #770a6b;
+  border-color: #770a6b;
+  color: #fff;
+}
+
+/* Form */
+.form {
+  margin: 1rem 0;
+}
+
+/* Field */
+.field {
+  margin-bottom: 1rem;
+  max-width: 26em;
+}
+
+.field-label {
+  display: block;
+  font-weight: bold;
+  line-height: 1.25;
+  padding-bottom: 0.5rem;
+}
+
+.field-hint {
+  display: block;
+  font-size: 100%;
+  font-weight: normal;
+}
+
+.field-input {
+  border: 2px solid #353135;
+  border-radius: 2px;
+  padding: 0.5rem;
+  width: 100%;
+}
+
+.field-input.is-textarea {
+  min-height: 5rem;
+  resize: vertical;
+}
+
+.field-input:focus {
+  box-shadow: 0 0 1px 4px #ffbf47;
+  outline: 4px solid transparent;
+}
+
+.d-none {
+  display: none;
+}
+
+.tags {
+  margin-top: 5px;
+}
+
+.tag {
+  background: #A60E95;
+  border-radius: 3px 3px 3px 3px;
+  color: #FFF;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 15px;
+  padding: 0.4rem;
+  margin-bottom: 0.2rem;
+  position: relative;
+  text-decoration: none;
+  -webkit-transition: color 0.2s;
+  margin-bottom: 0.3rem;
+}
+
+.tag:hover {
+  background-color: #880e7d;
+  color: white;
+}

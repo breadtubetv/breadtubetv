@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nihilism on BreadTube</title>
+    <link>http://localhost:3000/tags/nihilism/</link>
+    <description>Recent content in nihilism on BreadTube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:3000/tags/nihilism/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kurzgesagt – In a Nutshell</title>
+      <link>http://localhost:3000/kurzgesagt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/kurzgesagt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Obirek</title>
+      <link>http://localhost:3000/simonobirek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/simonobirek/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

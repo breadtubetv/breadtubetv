@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Playlists on BreadTube</title>
+    <link>http://localhost:3000/playlists/</link>
+    <description>Recent content in Playlists on BreadTube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:3000/playlists/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This Week</title>
+      <link>http://localhost:3000/playlists/this-week/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/this-week/</guid>
+      <description>An attempt to keep a weekly list of latest videos from listed channels.</description>
+    </item>
+    
+    <item>
+      <title>Mainstream Political Discourse -&gt; Leftism</title>
+      <link>http://localhost:3000/playlists/mainsteam-to-leftism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/mainsteam-to-leftism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deprogramming</title>
+      <link>http://localhost:3000/playlists/deprogramming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/deprogramming/</guid>
+      <description>Worried about someone becoming fascist? Want to try and sway someone away from fascism? Try using videos in this playlist. These videos primarily focus on debunking right wing talking points and how people get pulled down the rabbit hole.</description>
+    </item>
+    
+    <item>
+      <title>RE-Educate How to: Revolution</title>
+      <link>http://localhost:3000/playlists/re-educate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/re-educate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organizing</title>
+      <link>http://localhost:3000/playlists/organizing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/organizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Critique of Authority</title>
+      <link>http://localhost:3000/playlists/authority/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/authority/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zizek Peterson</title>
+      <link>http://localhost:3000/playlists/zizek-peterson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/zizek-peterson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anarchist Revolution in Syria</title>
+      <link>http://localhost:3000/playlists/anarchist-revolution-syria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/anarchist-revolution-syria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Add a Playlist</title>
+      <link>http://localhost:3000/playlists/new/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Anarchism Works</title>
+      <link>http://localhost:3000/playlists/how-anarchism-works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/how-anarchism-works/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

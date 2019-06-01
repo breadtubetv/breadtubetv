@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>news on BreadTube</title>
+    <link>http://localhost:3000/tags/news/</link>
+    <description>Recent content in news on BreadTube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:3000/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Democracy At Work</title>
+      <link>http://localhost:3000/democracyatwork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/democracyatwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Democracy Now</title>
+      <link>http://localhost:3000/democracynow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/democracynow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empire Files</title>
+      <link>http://localhost:3000/empirefiles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/empirefiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEANS TV</title>
+      <link>http://localhost:3000/meanstv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/meanstv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Punks For Progress</title>
+      <link>http://localhost:3000/punksforprogress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/punksforprogress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reddebrek</title>
+      <link>http://localhost:3000/reddebrek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/reddebrek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secular Talk</title>
+      <link>http://localhost:3000/seculartalk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/seculartalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Humanist Report</title>
+      <link>http://localhost:3000/thehumanistreport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thehumanistreport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Intercept</title>
+      <link>http://localhost:3000/theintercept/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/theintercept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Jimmy Dore Show</title>
+      <link>http://localhost:3000/thejimmydoreshow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thejimmydoreshow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Juice Media</title>
+      <link>http://localhost:3000/thejuicemedia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thejuicemedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Majority Report</title>
+      <link>http://localhost:3000/themajorityreport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/themajorityreport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Rational National</title>
+      <link>http://localhost:3000/rationalnational/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/rationalnational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Spartacast League</title>
+      <link>http://localhost:3000/thespartacastleague/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thespartacastleague/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Young Turks</title>
+      <link>http://localhost:3000/theyoungturks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/theyoungturks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

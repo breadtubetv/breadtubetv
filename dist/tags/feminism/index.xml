@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>feminism on BreadTube</title>
+    <link>http://localhost:3000/tags/feminism/</link>
+    <description>Recent content in feminism on BreadTube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:3000/tags/feminism/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Angie Speaks</title>
+      <link>http://localhost:3000/angiespeaks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/angiespeaks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claudia Brown</title>
+      <link>http://localhost:3000/claudiabrown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/claudiabrown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrapoints</title>
+      <link>http://localhost:3000/contrapoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/contrapoints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Essence of Thought</title>
+      <link>http://localhost:3000/essenceofthought/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/essenceofthought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feminist Frequency</title>
+      <link>http://localhost:3000/feministfrequency/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/feministfrequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anarchopac</title>
+      <link>http://localhost:3000/anarchopac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/anarchopac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1784 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BreadTube.tv on BreadTube</title>
+    <link>http://localhost:3000/</link>
+    <description>Recent content in BreadTube.tv on BreadTube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Apr 2019 18:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:3000/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>This Week</title>
+      <link>http://localhost:3000/playlists/this-week/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/this-week/</guid>
+      <description>An attempt to keep a weekly list of latest videos from listed channels.</description>
+    </item>
+    
+    <item>
+      <title>Mainstream Political Discourse -&gt; Leftism</title>
+      <link>http://localhost:3000/playlists/mainsteam-to-leftism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/mainsteam-to-leftism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deprogramming</title>
+      <link>http://localhost:3000/playlists/deprogramming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/deprogramming/</guid>
+      <description>Worried about someone becoming fascist? Want to try and sway someone away from fascism? Try using videos in this playlist. These videos primarily focus on debunking right wing talking points and how people get pulled down the rabbit hole.</description>
+    </item>
+    
+    <item>
+      <title>RE-Educate How to: Revolution</title>
+      <link>http://localhost:3000/playlists/re-educate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/re-educate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Organizing</title>
+      <link>http://localhost:3000/playlists/organizing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/organizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Critique of Authority</title>
+      <link>http://localhost:3000/playlists/authority/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/authority/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zizek Peterson</title>
+      <link>http://localhost:3000/playlists/zizek-peterson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/zizek-peterson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anarchist Revolution in Syria</title>
+      <link>http://localhost:3000/playlists/anarchist-revolution-syria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/anarchist-revolution-syria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homepage from r/BreadTube Upvotes</title>
+      <link>http://localhost:3000/blog/homepage/</link>
+      <pubDate>Thu, 25 Apr 2019 18:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:3000/blog/homepage/</guid>
+      <description>Now that we&amp;rsquo;ve added so much content to BreadTube based on the fantastic suggestions from the community, it&amp;rsquo;s time to start showing off more dynamic content on the homepage.
+By reviewing the r/BreadTube community content we were able to identify the top rated videos for the last month and show them on the homepage.
+This content is easily updated and something we want to automate by having bots monitor Reddit in order to update these periodically.</description>
+    </item>
+    
+    <item>
+      <title>Searching and Suggesting Channels!</title>
+      <link>http://localhost:3000/blog/search/</link>
+      <pubDate>Sat, 16 Mar 2019 20:00:00 -0500</pubDate>
+      
+      <guid>http://localhost:3000/blog/search/</guid>
+      <description>We&amp;rsquo;ve added a channel search feature to https://breadtube.tv!
+Search is based on full or partial results from
+ Name https://breadtube.tv/channels/#search:contra Description https://breadtube.tv/channels/#search:anarchist Tags https://breadtube.tv/channels/#search:news  Going forward there are a few things that it would be good to work on.
+ Adding a bunch of tags here&amp;rsquo;s an example to kick off thoughts We have a great collection of channels (please let us know what&amp;rsquo;s missing!) but we&amp;rsquo;re very light on videos.</description>
+    </item>
+    
+    <item>
+      <title>Add a Channel</title>
+      <link>http://localhost:3000/channels/new/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/channels/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Add a Playlist</title>
+      <link>http://localhost:3000/playlists/new/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AnActualJoke</title>
+      <link>http://localhost:3000/anactualjoke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/anactualjoke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrej P. Škraba</title>
+      <link>http://localhost:3000/andrejpskraba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/andrejpskraba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angie Speaks</title>
+      <link>http://localhost:3000/angiespeaks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/angiespeaks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anti-Social Media</title>
+      <link>http://localhost:3000/antisocialmedia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/antisocialmedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aphreditto</title>
+      <link>http://localhost:3000/aphreditto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/aphreditto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Art House Politics</title>
+      <link>http://localhost:3000/arthousepolitics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/arthousepolitics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ask A Mortician</title>
+      <link>http://localhost:3000/askamortician/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/askamortician/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AudibleAnarchist</title>
+      <link>http://localhost:3000/audibleanarchist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/audibleanarchist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australia</title>
+      <link>http://localhost:3000/tags/australia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/tags/australia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BadEmpanada</title>
+      <link>http://localhost:3000/badempanada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/badempanada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BadMouse Productions</title>
+      <link>http://localhost:3000/badmouseproductions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/badmouseproductions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bat&#39;ko</title>
+      <link>http://localhost:3000/batko/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/batko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beau of the Fifth Column</title>
+      <link>http://localhost:3000/beauofthefifthcolumn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/beauofthefifthcolumn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bemundolack</title>
+      <link>http://localhost:3000/bemundolack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/bemundolack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benji Adam Whiskettes</title>
+      <link>http://localhost:3000/benjiadamwhiskettes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/benjiadamwhiskettes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Joel</title>
+      <link>http://localhost:3000/bigjoel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/bigjoel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Black Red Guard</title>
+      <link>http://localhost:3000/blackredguard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/blackredguard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BlackGoat 666</title>
+      <link>http://localhost:3000/blackgoat666/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/blackgoat666/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brianne and Matt</title>
+      <link>http://localhost:3000/brianneandmatt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/brianneandmatt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brother Neuro</title>
+      <link>http://localhost:3000/brotherneuro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/brotherneuro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C0nc0rdance</title>
+      <link>http://localhost:3000/c0nc0rdance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/c0nc0rdance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chapo Trap House</title>
+      <link>http://localhost:3000/chapotraphouse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/chapotraphouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chomsky&#39;s Philosophy</title>
+      <link>http://localhost:3000/chomskysphilosophy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/chomskysphilosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christo Aivalis</title>
+      <link>http://localhost:3000/christoaivalis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/christoaivalis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christopher Szabo</title>
+      <link>http://localhost:3000/christopherszabo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/christopherszabo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CitizenFoffie Hassel</title>
+      <link>http://localhost:3000/citizenfoffiehassel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/citizenfoffiehassel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claudia Brown</title>
+      <link>http://localhost:3000/claudiabrown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/claudiabrown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrapoints</title>
+      <link>http://localhost:3000/contrapoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/contrapoints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creationist Cat</title>
+      <link>http://localhost:3000/creationistcat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/creationistcat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuck Philosophy</title>
+      <link>http://localhost:3000/cuckphilosophy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/cuckphilosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cult of Dusty</title>
+      <link>http://localhost:3000/cultofdusty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/cultofdusty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Curio</title>
+      <link>http://localhost:3000/curio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/curio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuñado de izquierdas</title>
+      <link>http://localhost:3000/cunadodeizquierdas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/cunadodeizquierdas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeadHead Animation</title>
+      <link>http://localhost:3000/deadheadanimation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/deadheadanimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Democracy At Work</title>
+      <link>http://localhost:3000/democracyatwork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/democracyatwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Democracy Now</title>
+      <link>http://localhost:3000/democracynow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/democracynow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Democratic Socialist 01</title>
+      <link>http://localhost:3000/democraticsocialist01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/democraticsocialist01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dirk Kelly</title>
+      <link>http://localhost:3000/dirkkelly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/dirkkelly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dirk Socialist</title>
+      <link>http://localhost:3000/dirksocialist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/dirksocialist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Layman</title>
+      <link>http://localhost:3000/drlayman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/drlayman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dumpster Flower</title>
+      <link>http://localhost:3000/dumpsterflower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/dumpsterflower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Earth Strike</title>
+      <link>http://localhost:3000/earthstrike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/earthstrike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empire Files</title>
+      <link>http://localhost:3000/empirefiles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/empirefiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Taxxon</title>
+      <link>http://localhost:3000/erictaxxon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/erictaxxon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erin Collective</title>
+      <link>http://localhost:3000/erincollective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/erincollective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Essence of Thought</title>
+      <link>http://localhost:3000/essenceofthought/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/essenceofthought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faraday Speaks</title>
+      <link>http://localhost:3000/faradayspeaks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/faradayspeaks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feminist Frequency</title>
+      <link>http://localhost:3000/feministfrequency/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/feministfrequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flea Market Socialist</title>
+      <link>http://localhost:3000/fleamarketsocialist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/fleamarketsocialist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Folding Ideas</title>
+      <link>http://localhost:3000/foldingideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/foldingideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>For Harriet</title>
+      <link>http://localhost:3000/forharrietdotcom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/forharrietdotcom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graham Elwood</title>
+      <link>http://localhost:3000/grahamelwood/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/grahamelwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gwen_No_Fear</title>
+      <link>http://localhost:3000/gwennofear/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/gwennofear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hakim</title>
+      <link>http://localhost:3000/hakim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/hakim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Halim Alrah</title>
+      <link>http://localhost:3000/halimalrah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/halimalrah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hasan Piker</title>
+      <link>http://localhost:3000/hasanpiker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/hasanpiker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hbomberguy</title>
+      <link>http://localhost:3000/hbomberguy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/hbomberguy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Anarchism Works</title>
+      <link>http://localhost:3000/playlists/how-anarchism-works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/playlists/how-anarchism-works/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huntress X Thompson</title>
+      <link>http://localhost:3000/huntressxthompson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/huntressxthompson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Otter Words</title>
+      <link>http://localhost:3000/inotterwords/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/inotterwords/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Innuendo Studios</title>
+      <link>http://localhost:3000/innuendostudios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/innuendostudios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet Comment Etiquette with Erik</title>
+      <link>http://localhost:3000/internetcommentiquette/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/internetcommentiquette/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jack Saint / LackingSaint</title>
+      <link>http://localhost:3000/jacksaintlackingsaint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/jacksaintlackingsaint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jay-Dee Forrester</title>
+      <link>http://localhost:3000/jaydeeforrester/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/jaydeeforrester/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jim Sterling</title>
+      <link>http://localhost:3000/jimsterling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/jimsterling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>José</title>
+      <link>http://localhost:3000/jose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/jose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kat Blaque</title>
+      <link>http://localhost:3000/katblaque/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/katblaque/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Logan</title>
+      <link>http://localhost:3000/kevinlogan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/kevinlogan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knowing Better</title>
+      <link>http://localhost:3000/knowingbetter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/knowingbetter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristi Winters</title>
+      <link>http://localhost:3000/kristiwinters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/kristiwinters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kurzgesagt – In a Nutshell</title>
+      <link>http://localhost:3000/kurzgesagt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/kurzgesagt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyle Kallgren BHH</title>
+      <link>http://localhost:3000/kylekallgrenbhh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/kylekallgrenbhh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Left1ne</title>
+      <link>http://localhost:3000/left1ne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/left1ne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Libertarian Socialist Rants</title>
+      <link>http://localhost:3000/libertariansocialistrants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/libertariansocialistrants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lindsay Ellis</title>
+      <link>http://localhost:3000/lindsayellis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/lindsayellis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linke Sau</title>
+      <link>http://localhost:3000/linkesau/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/linkesau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Literary Hangover</title>
+      <link>http://localhost:3000/literaryhangover/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/literaryhangover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luna Oi</title>
+      <link>http://localhost:3000/lunaoi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/lunaoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEANS TV</title>
+      <link>http://localhost:3000/meanstv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/meanstv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mad Blender</title>
+      <link>http://localhost:3000/madblender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/madblender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria the Witch</title>
+      <link>http://localhost:3000/mariathewitch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/mariathewitch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maru</title>
+      <link>http://localhost:3000/maru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/maru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mexie</title>
+      <link>http://localhost:3000/mexie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/mexie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mia Mulder</title>
+      <link>http://localhost:3000/miamulder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/miamulder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NFKRZ</title>
+      <link>http://localhost:3000/nfkrz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/nfkrz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Never Speak in Absolutes</title>
+      <link>http://localhost:3000/neverspeakinabsolutes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/neverspeakinabsolutes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>http://localhost:3000/tags/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non Compete</title>
+      <link>http://localhost:3000/noncompete/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/noncompete/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novara Media</title>
+      <link>http://localhost:3000/novaramedia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/novaramedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nyx Fears</title>
+      <link>http://localhost:3000/nyxfears/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/nyxfears/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Obambay</title>
+      <link>http://localhost:3000/obambay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/obambay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Man Left</title>
+      <link>http://localhost:3000/onemanleft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/onemanleft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PD Morrin</title>
+      <link>http://localhost:3000/pdmorrin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/pdmorrin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perseus999</title>
+      <link>http://localhost:3000/perseus999/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/perseus999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peter Coffin</title>
+      <link>http://localhost:3000/petercoffin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/petercoffin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy Tube</title>
+      <link>http://localhost:3000/philosophytube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/philosophytube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PoliDice</title>
+      <link>http://localhost:3000/polidice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/polidice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pop Culture Detective</title>
+      <link>http://localhost:3000/popculturedetective/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/popculturedetective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Punks For Progress</title>
+      <link>http://localhost:3000/punksforprogress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/punksforprogress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queer Transmission</title>
+      <link>http://localhost:3000/queertransmission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/queertransmission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quinton Reviews</title>
+      <link>http://localhost:3000/quintonreviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/quintonreviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radical Reviewer</title>
+      <link>http://localhost:3000/radicalreviewer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/radicalreviewer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rational Disconnect</title>
+      <link>http://localhost:3000/rationaldisconnect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/rationaldisconnect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real Media</title>
+      <link>http://localhost:3000/realmedia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/realmedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rebecca Watson</title>
+      <link>http://localhost:3000/rebeccawatson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/rebeccawatson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Plateaus</title>
+      <link>http://localhost:3000/redplateaus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/redplateaus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Red Star Videos</title>
+      <link>http://localhost:3000/redstarvideos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/redstarvideos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reddebrek</title>
+      <link>http://localhost:3000/reddebrek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/reddebrek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reich-Wing Watch</title>
+      <link>http://localhost:3000/reichwingwatch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/reichwingwatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renegade Cut</title>
+      <link>http://localhost:3000/renegadecut/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/renegadecut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resonance Audio</title>
+      <link>http://localhost:3000/resonanceaudio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/resonanceaudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revolution Tube</title>
+      <link>http://localhost:3000/revolutiontube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/revolutiontube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReyRoSho</title>
+      <link>http://localhost:3000/reyrosho/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/reyrosho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard D Wolff</title>
+      <link>http://localhost:3000/richarddwolff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/richarddwolff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard Wolff Briefly</title>
+      <link>http://localhost:3000/richardwolffbriefly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/richardwolffbriefly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RightWingWatchdotorg</title>
+      <link>http://localhost:3000/rightwingwatchdotorg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/rightwingwatchdotorg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ron</title>
+      <link>http://localhost:3000/ron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/ron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rotfront Gaming</title>
+      <link>http://localhost:3000/rotfrontgaming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/rotfrontgaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Jay Double View</title>
+      <link>http://localhost:3000/sjaydoubleview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/sjaydoubleview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SJW101, the political gamer</title>
+      <link>http://localhost:3000/sjw101thepoliticalgamer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/sjw101thepoliticalgamer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah Z</title>
+      <link>http://localhost:3000/sarahz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/sarahz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarcasmitron</title>
+      <link>http://localhost:3000/sarcasmitron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/sarcasmitron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secular Talk</title>
+      <link>http://localhost:3000/seculartalk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/seculartalk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shaun</title>
+      <link>http://localhost:3000/shaun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/shaun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shonen Ronin</title>
+      <link>http://localhost:3000/shonenronin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/shonenronin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Obirek</title>
+      <link>http://localhost:3000/simonobirek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/simonobirek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some More News</title>
+      <link>http://localhost:3000/somemorenews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/somemorenews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space Babies</title>
+      <link>http://localhost:3000/spacebabies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/spacebabies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Step Back History</title>
+      <link>http://localhost:3000/stepbackhistory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/stepbackhistory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunflower Socialist</title>
+      <link>http://localhost:3000/sunflowersocialist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/sunflowersocialist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T1J</title>
+      <link>http://localhost:3000/t1j/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/t1j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TMM</title>
+      <link>http://localhost:3000/tmm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/tmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Antifada</title>
+      <link>http://localhost:3000/theantifada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/theantifada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Devtopian Commune</title>
+      <link>http://localhost:3000/devtopiancommune/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/devtopiancommune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Double Take</title>
+      <link>http://localhost:3000/thedoubletake/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thedoubletake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Grayzone</title>
+      <link>http://localhost:3000/thegrayzone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thegrayzone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Humanist Report</title>
+      <link>http://localhost:3000/thehumanistreport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thehumanistreport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Intercept</title>
+      <link>http://localhost:3000/theintercept/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/theintercept/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Jimmy Dore Show</title>
+      <link>http://localhost:3000/thejimmydoreshow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thejimmydoreshow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Juice Media</title>
+      <link>http://localhost:3000/thejuicemedia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thejuicemedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Kavernacle</title>
+      <link>http://localhost:3000/thekavernacle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thekavernacle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Majority Report</title>
+      <link>http://localhost:3000/themajorityreport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/themajorityreport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Michael Brooks Show</title>
+      <link>http://localhost:3000/tmbs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/tmbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Progressive Voice</title>
+      <link>http://localhost:3000/theprogressivevoice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/theprogressivevoice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Rational National</title>
+      <link>http://localhost:3000/rationalnational/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/rationalnational/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Real News Network</title>
+      <link>http://localhost:3000/therealnewsnetwork/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/therealnewsnetwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Serfs</title>
+      <link>http://localhost:3000/theserfs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/theserfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Spartacast League</title>
+      <link>http://localhost:3000/thespartacastleague/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thespartacastleague/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Young Turks</title>
+      <link>http://localhost:3000/theyoungturks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/theyoungturks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TheFinnishBolshevik</title>
+      <link>http://localhost:3000/thefinnishbolshevik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thefinnishbolshevik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thom Avella</title>
+      <link>http://localhost:3000/thomavella/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thomavella/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thought Slime</title>
+      <link>http://localhost:3000/thoughtslime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thoughtslime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three Arrows</title>
+      <link>http://localhost:3000/threearrows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/threearrows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tom Nicholas</title>
+      <link>http://localhost:3000/tomnicholas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/tomnicholas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tovarishch Endymion</title>
+      <link>http://localhost:3000/tovarishchendymion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/tovarishchendymion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trash Smash</title>
+      <link>http://localhost:3000/trashsmash/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/trashsmash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unicorn Riot</title>
+      <link>http://localhost:3000/unicornriot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/unicornriot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vaush</title>
+      <link>http://localhost:3000/vaush/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/vaush/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veggie Anarchist</title>
+      <link>http://localhost:3000/veggieanarchist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/veggieanarchist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verso Books</title>
+      <link>http://localhost:3000/versobooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/versobooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vic Berger</title>
+      <link>http://localhost:3000/vicberger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/vicberger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wisecrack</title>
+      <link>http://localhost:3000/wisecrack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/wisecrack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xexizy</title>
+      <link>http://localhost:3000/xexizy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/xexizy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YUGOPNIK</title>
+      <link>http://localhost:3000/yugopnik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/yugopnik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaz Minsky</title>
+      <link>http://localhost:3000/yazminsky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/yazminsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeria</title>
+      <link>http://localhost:3000/zeria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/zeria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero Books</title>
+      <link>http://localhost:3000/zerobooks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/zerobooks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>a privileged vegan</title>
+      <link>http://localhost:3000/aprivilegedvegan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/aprivilegedvegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anarchopac</title>
+      <link>http://localhost:3000/anarchopac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/anarchopac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azureScapegoat</title>
+      <link>http://localhost:3000/azurescapegoat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/azurescapegoat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brendan makes videos</title>
+      <link>http://localhost:3000/brendanmakesvideos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/brendanmakesvideos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brendanmcooney</title>
+      <link>http://localhost:3000/brendanmcooney/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/brendanmcooney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chrisiousity</title>
+      <link>http://localhost:3000/chrisiousity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/chrisiousity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>donoteat01</title>
+      <link>http://localhost:3000/donoteat01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/donoteat01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>friendlyjordies</title>
+      <link>http://localhost:3000/friendlyjordies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/friendlyjordies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>honker 3d</title>
+      <link>http://localhost:3000/honker3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/honker3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>just wondering...</title>
+      <link>http://localhost:3000/justwondering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/justwondering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>let&#39;s talk about stuff</title>
+      <link>http://localhost:3000/letstalkaboutstuff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/letstalkaboutstuff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>muke</title>
+      <link>http://localhost:3000/muke/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/muke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>potholer54</title>
+      <link>http://localhost:3000/potholer54/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/potholer54/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stimulator</title>
+      <link>http://localhost:3000/stimulator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/stimulator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>the Bronx Blogger</title>
+      <link>http://localhost:3000/bronxblogger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/bronxblogger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>the new symbolization</title>
+      <link>http://localhost:3000/thenewsymbolization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thenewsymbolization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theory pleeb</title>
+      <link>http://localhost:3000/theorypleeb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/theorypleeb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

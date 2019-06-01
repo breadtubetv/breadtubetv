@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>canada on BreadTube</title>
+    <link>http://localhost:3000/tags/canada/</link>
+    <description>Recent content in canada on BreadTube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:3000/tags/canada/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Halim Alrah</title>
+      <link>http://localhost:3000/halimalrah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/halimalrah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Serfs</title>
+      <link>http://localhost:3000/theserfs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/theserfs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

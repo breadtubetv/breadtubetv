@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BreadTube Privacy Policy on BreadTube</title>
+    <link>http://localhost:3000/privacy/</link>
+    <description>Recent content in BreadTube Privacy Policy on BreadTube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:3000/privacy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

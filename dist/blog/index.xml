@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on BreadTube</title>
+    <link>http://localhost:3000/blog/</link>
+    <description>Recent content in Blog on BreadTube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Apr 2019 18:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:3000/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Homepage from r/BreadTube Upvotes</title>
+      <link>http://localhost:3000/blog/homepage/</link>
+      <pubDate>Thu, 25 Apr 2019 18:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:3000/blog/homepage/</guid>
+      <description>Now that we&amp;rsquo;ve added so much content to BreadTube based on the fantastic suggestions from the community, it&amp;rsquo;s time to start showing off more dynamic content on the homepage.
+By reviewing the r/BreadTube community content we were able to identify the top rated videos for the last month and show them on the homepage.
+This content is easily updated and something we want to automate by having bots monitor Reddit in order to update these periodically.</description>
+    </item>
+    
+    <item>
+      <title>Searching and Suggesting Channels!</title>
+      <link>http://localhost:3000/blog/search/</link>
+      <pubDate>Sat, 16 Mar 2019 20:00:00 -0500</pubDate>
+      
+      <guid>http://localhost:3000/blog/search/</guid>
+      <description>We&amp;rsquo;ve added a channel search feature to https://breadtube.tv!
+Search is based on full or partial results from
+ Name https://breadtube.tv/channels/#search:contra Description https://breadtube.tv/channels/#search:anarchist Tags https://breadtube.tv/channels/#search:news  Going forward there are a few things that it would be good to work on.
+ Adding a bunch of tags here&amp;rsquo;s an example to kick off thoughts We have a great collection of channels (please let us know what&amp;rsquo;s missing!) but we&amp;rsquo;re very light on videos.</description>
+    </item>
+    
+  </channel>
+</rss>

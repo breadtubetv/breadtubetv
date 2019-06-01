@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>antifascism on BreadTube</title>
+    <link>http://localhost:3000/tags/antifascism/</link>
+    <description>Recent content in antifascism on BreadTube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:3000/tags/antifascism/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chomsky&#39;s Philosophy</title>
+      <link>http://localhost:3000/chomskysphilosophy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/chomskysphilosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrapoints</title>
+      <link>http://localhost:3000/contrapoints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/contrapoints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeadHead Animation</title>
+      <link>http://localhost:3000/deadheadanimation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/deadheadanimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One Man Left</title>
+      <link>http://localhost:3000/onemanleft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/onemanleft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Punks For Progress</title>
+      <link>http://localhost:3000/punksforprogress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/punksforprogress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Antifada</title>
+      <link>http://localhost:3000/theantifada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/theantifada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thought Slime</title>
+      <link>http://localhost:3000/thoughtslime/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thoughtslime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vaush</title>
+      <link>http://localhost:3000/vaush/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/vaush/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

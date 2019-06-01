@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gaming on BreadTube</title>
+    <link>http://localhost:3000/tags/gaming/</link>
+    <description>Recent content in gaming on BreadTube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:3000/tags/gaming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Curio</title>
+      <link>http://localhost:3000/curio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/curio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feminist Frequency</title>
+      <link>http://localhost:3000/feministfrequency/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/feministfrequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hasan Piker</title>
+      <link>http://localhost:3000/hasanpiker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/hasanpiker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jim Sterling</title>
+      <link>http://localhost:3000/jimsterling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/jimsterling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Devtopian Commune</title>
+      <link>http://localhost:3000/devtopiancommune/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/devtopiancommune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theory pleeb</title>
+      <link>http://localhost:3000/theorypleeb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/theorypleeb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

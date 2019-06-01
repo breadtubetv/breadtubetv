@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:3000/playlists/this-week/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/playlists/mainsteam-to-leftism/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/playlists/deprogramming/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/playlists/re-educate/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/playlists/organizing/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/playlists/authority/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/playlists/zizek-peterson/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/playlists/anarchist-revolution-syria/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/blog/</loc>
+    <lastmod>2019-04-25T18:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/</loc>
+    <lastmod>2019-04-25T18:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/blog/homepage/</loc>
+    <lastmod>2019-04-25T18:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/blog/search/</loc>
+    <lastmod>2019-03-16T20:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/channels/new/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/playlists/new/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/anactualjoke/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/andrejpskraba/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/angiespeaks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/antisocialmedia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/aphreditto/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/arthousepolitics/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/askamortician/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/audibleanarchist/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/australia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/badempanada/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/badmouseproductions/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/batko/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/beauofthefifthcolumn/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/bemundolack/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/benjiadamwhiskettes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/bigjoel/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/blackredguard/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/blackgoat666/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/brianneandmatt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/brotherneuro/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/c0nc0rdance/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/channels/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/channels/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/chapotraphouse/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/chomskysphilosophy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/christoaivalis/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/christopherszabo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/citizenfoffiehassel/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/claudiabrown/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/contrapoints/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/creationistcat/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/cuckphilosophy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/cultofdusty/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/curio/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/cunadodeizquierdas/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/deadheadanimation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/democracyatwork/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/democracynow/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/democraticsocialist01/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/dirkkelly/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/dirksocialist/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/drlayman/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/dumpsterflower/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/earthstrike/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/empirefiles/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/erictaxxon/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/erincollective/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/essenceofthought/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/faradayspeaks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/feministfrequency/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/fleamarketsocialist/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/foldingideas/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/forharrietdotcom/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/grahamelwood/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/gwennofear/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/hakim/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/halimalrah/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/hasanpiker/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/hbomberguy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/playlists/how-anarchism-works/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/huntressxthompson/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/inotterwords/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/innuendostudios/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/internetcommentiquette/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/jacksaintlackingsaint/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/jaydeeforrester/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/jimsterling/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/jose/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/katblaque/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/kevinlogan/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/knowingbetter/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/kristiwinters/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/kurzgesagt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/kylekallgrenbhh/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/left1ne/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/libertariansocialistrants/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/lindsayellis/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/linkesau/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/literaryhangover/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/lunaoi/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/meanstv/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/madblender/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/mariathewitch/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/maru/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/mexie/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/miamulder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/nfkrz/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/neverspeakinabsolutes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/news/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/noncompete/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/novaramedia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/nyxfears/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/obambay/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/onemanleft/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/pdmorrin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/palestine/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/perseus999/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/petercoffin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/philosophytube/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/playlists/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/polidice/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/popculturedetective/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/punksforprogress/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/queertransmission/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/quintonreviews/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/radicalreviewer/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/rationaldisconnect/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/realmedia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/rebeccawatson/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/redplateaus/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/redstarvideos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/reddebrek/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/reichwingwatch/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/renegadecut/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/resonanceaudio/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/revolutiontube/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/reyrosho/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/richarddwolff/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/richardwolffbriefly/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/rightwingwatchdotorg/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/ron/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/rotfrontgaming/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/sjaydoubleview/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/sjw101thepoliticalgamer/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/sarahz/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/sarcasmitron/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/seculartalk/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/shaun/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/shonenronin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/simonobirek/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/somemorenews/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/spacebabies/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/stepbackhistory/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/sunflowersocialist/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/t1j/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tmm/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/theantifada/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/devtopiancommune/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/thedoubletake/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/thegrayzone/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/thehumanistreport/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/theintercept/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/thejimmydoreshow/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/thejuicemedia/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/thekavernacle/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/themajorityreport/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tmbs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/theprogressivevoice/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/rationalnational/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/therealnewsnetwork/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/theserfs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/thespartacastleague/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/theyoungturks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/thefinnishbolshevik/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/thomavella/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/thoughtslime/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/threearrows/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tomnicholas/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tovarishchendymion/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/trashsmash/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/unicornriot/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/vaush/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/veggieanarchist/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/versobooks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/vicberger/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/videos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/wisecrack/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/xexizy/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/yugopnik/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/yazminsky/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/zeria/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/zerobooks/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/aprivilegedvegan/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/activism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/aesthetic/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/alt-right/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/america/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/anarchism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/anarchopac/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/anime/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/antifacism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/antifascism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/arts/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/audio/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/australia/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/azurescapegoat/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/belarusian/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/brazil/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/breadpilling/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/breadtube/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/brendanmakesvideos/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/brendanmcooney/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/canada/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/capitalist-realism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/chapotraphouse/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/chrisiousity/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/cinema/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/cities/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/comedy/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/communism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/communities/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/creativity/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/culture/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/democracy/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/depression/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/documentaries/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/donoteat01/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/economics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/education/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/entertainment/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/fascism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/feminism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/friendlyjordies/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/gaming/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/gender/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/germany/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/halloween/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/hegemony/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/history/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/homophobia/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/honker3d/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/hypernormalization/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/ideology/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/journalism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/justwondering/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/labor/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/letstalkaboutstuff/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/liberalism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/media/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/mortality/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/muke/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/music/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/nationalism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/nazism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/news/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/nihilism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/nonprofit/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/organizing/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/philosophy/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/politics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/postmodernism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/potholer54/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/psychology/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/racism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/religion/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/research/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/revolution/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/russia/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/social-heirarchy/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/socialism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/society/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/sociology/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/spectacle/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/stimulator/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/student/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/terrorism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/bronxblogger/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/thenewsymbolization/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/theory/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/theorypleeb/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/theyoungturks/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/toxic-masculinity/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/unions/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/veganism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/venezuela/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:3000/tags/video-games/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

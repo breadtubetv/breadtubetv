@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>australia on BreadTube</title>
+    <link>http://localhost:3000/tags/australia/</link>
+    <description>Recent content in australia on BreadTube</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://localhost:3000/tags/australia/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BadEmpanada</title>
+      <link>http://localhost:3000/badempanada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/badempanada/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dirk Kelly</title>
+      <link>http://localhost:3000/dirkkelly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/dirkkelly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Juice Media</title>
+      <link>http://localhost:3000/thejuicemedia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/thejuicemedia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>friendlyjordies</title>
+      <link>http://localhost:3000/friendlyjordies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:3000/friendlyjordies/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
