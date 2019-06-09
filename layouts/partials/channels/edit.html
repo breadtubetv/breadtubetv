@@ -7,10 +7,6 @@
     <input class="field-input" id="channelName" type="text" name="CHANNEL_NAME" value="{{ .channel.name }}" required />
   </div>
   <div class="field">
-    <label class="field-label" for="channelTags">Channel Tags</label>
-    <textarea class="field-input is-textarea" class="form-control" id="channelTags" rows="2" cols="50" name="CHANNEL_TAGS">{{ range .tags }}{{ . }}, {{ end }}</textarea>
-  </div>
-  <div class="field">
     <label class="field-label" for="channelUrl">Channel URL</label>
     <input class="field-input" id="channelUrl" type="text" name="CHANNEL_URL" value="{{ .channel.providers.youtube.url }}" required />
   </div>
@@ -19,9 +15,18 @@
     <textarea class="field-input is-textarea" class="form-control" id="channelDescription" rows="2" cols="50" name="CHANNEL_DESCRIPTION">{{ .channel.description }}</textarea>
   </div>
   <div class="field">
+    <label class="field-label" for="channelTags">Channel Tags</label>
+    <textarea class="field-input is-textarea" class="form-control" id="channelTags" rows="4" cols="50" name="CHANNEL_TAGS">{{ if .tags }}{{ delimit .tags ", " }}{{ end }}</textarea>
+  </div>
+  <div class="field">
     <label class="field-label" for="videoUrl">Video URLs</label>
-    <textarea class="field-input is-textarea" class="form-control" id="videoUrl" rows="6" cols="50" name="VIDEO_URLS">{{ range .videos }}
-https://youtu.be/{{ . }}{{ end }}</textarea>
+    <textarea class="field-input is-textarea" class="form-control" id="videoUrl" rows="{{ if .videos }}{{ (add (len .videos) 5) }}{{ else }}6{{ end }}" cols="50" name="VIDEO_URLS">{{ range .videos }}
+https://youtu.be/{{ . }}{{ end }}
+</textarea>
+  </div>
+  <div class="field">
+    <label class="field-label" for="videoUrl">Comments</label>
+    <textarea class="field-input is-textarea" class="form-control" id="comments" rows="4" cols="50" name="COMMENTS"></textarea>
   </div>
   <div class="field">
     <div data-netlify-recaptcha="true"></div>
