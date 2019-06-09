@@ -1,8 +1,7 @@
 ---
 title: BreadTube.tv
-tags:
+type: index
 videoChannel: true
-videoIframe: false
 videos:
 - SEMB1Ky2n1E
 - GjNILjFters
