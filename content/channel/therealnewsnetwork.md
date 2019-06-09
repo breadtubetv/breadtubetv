@@ -7,4 +7,5 @@ menu:
     parent: Channels
 videos:
 - NBP71TkKYe4
+url: /therealnewsnetwork/
 ---
