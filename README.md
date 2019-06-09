@@ -34,11 +34,15 @@ We have a video to walk you through the process, [let us know](https://breadtube
 
 ### Bake Command Line Interface (Recommended)
 
+[You'll need to install Bake](https://github.com/breadtubetv/bake/)
+
 ```bake channel import SLUG youtube URL```
 
 _Visit [github.com/breadtubetv/bake](https://github.com/breadtubetv/bake) for more information_
 
 ### Manually Add Channel
+
+You really shouldn't need to do this, work to get Bake working and you'll be able to work more efficiently.
 
 - Create a `<channelName>.yaml` file in [`data/channels/`](https://github.com/breadtubetv/breadtubetv/blob/master/data/channels)
 - Fill in the required information:
@@ -59,7 +63,7 @@ _Visit [github.com/breadtubetv/bake](https://github.com/breadtubetv/bake) for mo
     tags:
     - breadtube
   ```
-- Create a `<channelName>.md` file in [`content`](https://github.com/breadtubetv/breadtubetv/blob/master/content)
+- Create a `<channelName>.md` file in [`content/channel/`](https://github.com/breadtubetv/breadtubetv/blob/master/content)
 - Follow this example format:
   ```
   ---
