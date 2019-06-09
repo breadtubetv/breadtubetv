@@ -1,0 +1,88 @@
+backend:
+  name: github
+  repo: breadtubetv/breadtubetv
+  branch: master
+publish_mode: editorial_workflow
+media_folder: "static/uploads"
+public_folder: "/uploads"
+site_url: https://breadtube.tv
+logo_url: https://breadtube.tv/img/breadtube.png
+collections: # A list of collections the CMS should be able to edit
+  - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Blog" # Used in the UI, ie.: "New Post"
+    folder: "content/blog" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+      - label: "Intro Blurb"
+        name: "description"
+        widget: "text"
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+  - name: "channel"
+    label: "Channel"
+    folder: "content/channel"
+    create: true
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - label: "Type"
+        name: "type"
+        widget: "hidden"
+        default: "channel"
+      - label: "Channel Slug"
+        name: "channel"
+        widget: "string"
+      - label: "Menu"
+        name: "menu.main.parent"
+        widget: "string"
+        default: "Channels"
+      - label: "Tags"
+        name: "tags"
+        widget: "relation"
+        collection: "channel"
+        searchFields: "tags"
+        valueField: "tags"
+        multiple: true
+      - label: "Tags"
+        name: "tags"
+        widget: "select"
+        multiple: true
+        options:
+          - breadtube
+          - activism
+          - aesthetic
+          - alt-right
+          - america
+          - anarchism
+          - anime
+          - antifascism
+          - arts
+          - australia
+        default:
+          - breadtube
+      - label: "URL"
+        name: "url"
+        widget: "string"
+        default: "/SLUG/"
+title: AnActualJoke
+type: channel
+channel: anactualjoke
+menu:
+  main:
+    parent: Channels
+videos:
+tags:
+- breadtube
+url: /anactualjoke/
