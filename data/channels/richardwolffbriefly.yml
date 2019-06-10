@@ -1,7 +1,20 @@
-description: "I'm not Richard Wolff. \n\nPosting byte-sized videos, audio segments and animated videos. Soon to be scheduled, hopefully."
+description: "I'm not Richard Wolff. \n\nPosting byte-sized videos, audio segments
+  and animated videos. Soon to be scheduled, hopefully."
 name: Richard Wolff Briefly
 permalink: richardwolffbriefly
 providers:
+  website:
+    name: democracyatwork.info
+    slug: democracyatwork.info
+    url: http://www.democracyatwork.info/
+    description: ""
+    subscribers: 0
+  website2:
+    name: rdwolff.com
+    slug: dwolff.com
+    url: http://www.rdwolff.com/
+    description: ""
+    subscribers: 0
   youtube:
     name: Richard Wolff Briefly
     slug: UCTTxcWMfjX4zUjezBWIIIEw
@@ -9,12 +22,4 @@ providers:
     description: "I'm not Richard Wolff. \n\nPosting byte-sized videos, audio segments
       and animated videos. Soon to be scheduled, hopefully."
     subscribers: 0
-  website:
-    name: democracyatwork.info
-    slug: democracyatwork.info
-    url: http://www.democracyatwork.info/
-  website2:
-    name: rdwolff.com
-    slug: dwolff.com
-    url: http://www.rdwolff.com/
 slug: richardwolffbriefly
