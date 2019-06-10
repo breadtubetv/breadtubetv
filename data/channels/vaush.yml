@@ -41,3 +41,5 @@ providers:
       Donate - https://www.paypal.me/vaush
     subscribers: 25538
 slug: vaush
+tags:
+- breadtube
