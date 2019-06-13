@@ -4,6 +4,7 @@ tags:
 videoChannel: true
 videoIframe: false
 videos:
+- VIXksTpJS98
 - oY_Dt1jey4M
 - SEMB1Ky2n1E
 - GjNILjFters
@@ -17,10 +18,4 @@ videos:
 - exheGjFGNko
 - _ebUz98qGzQ
 - rXpQUz_uQaI
-- qOTRVyXzjuE
-- 0QxT9aIowvw
-- gx0MLwhvWtY
-- 0QxT9aIowvw
-- USrdUXH3iqg
-- GE5j0LRxR8Y
 ---
