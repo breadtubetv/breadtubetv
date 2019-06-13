@@ -16,6 +16,4 @@ videos:
 - mhSL95deEPI
 - agzNANfNlTs
 - exheGjFGNko
-- _ebUz98qGzQ
-- rXpQUz_uQaI
 ---

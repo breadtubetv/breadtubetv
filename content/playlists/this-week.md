@@ -8,6 +8,7 @@ menu:
   main:
     parent: "Playlists"
 videos:
+- VIXksTpJS98
 - n9mspMJTNEY
 - XdbwZbK7kGo
 - 1DZfUzxZ2VU
