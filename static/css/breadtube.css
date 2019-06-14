@@ -189,24 +189,6 @@ ul {
   padding: 0;
 }
 
-.content {
-  max-width: 45rem;
-}
-
-.content h2,
-.text-content h2 {
-  font-size: 1.3rem;
-  font-weight: bold;
-  margin-top: 0.5rem;
-  margin-bottom: 0.2rem;
-}
-
-.content p,
-.text-content p {
-  max-width: 35rem;
-  margin-bottom: 0.5rem;
-}
-
 button, select, input, textarea { font-family: inherit; }
 
 /* Container */
@@ -803,4 +785,72 @@ button, select, input, textarea { font-family: inherit; }
 .tag:hover {
   background-color: #880e7d;
   color: white;
+}
+
+.content,
+.text-content {
+  max-width: 45rem;
+}
+
+.content h2,
+.text-content h2 {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+  margin-bottom: 0.2rem;
+}
+
+.content p,
+.text-content p {
+  max-width: 35rem;
+  margin-bottom: 0.5rem;
+}
+
+.text-content h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 1.5rem;
+  margin-bottom: 0.2rem;
+}
+
+.text-content h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-top: 1rem;
+  margin-bottom: 0.2rem;
+  position: relative;
+  text-decoration: none;
+  -webkit-transition: color 0.2s;
+  margin-bottom: 0.3rem;
+}
+
+.text-content h4 {
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-top: 0.5rem;
+  margin-bottom: 0.2rem;
+  position: relative;
+  text-decoration: none;
+  -webkit-transition: color 0.2s;
+  margin-bottom: 0.3rem;
+}
+
+.text-content ul {
+  padding-left: 1rem;
+}
+
+.text-content ul li {
+  list-style: disc;
+  margin-top: 0.3rem;
+}
+
+.text-content blockquote {
+  margin-left: 1rem;
+}
+
+.text-content code {
+  width: 35rem;
+  display: inline-block;
+  background: #cecece;
+  padding: 0.5rem;
 }

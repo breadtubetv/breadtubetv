@@ -1,5 +1,6 @@
 ---
-title: BreadTube Privacy Policy
+title: Privacy Policy
+type: page
 ---
 
 The https://github.com/breadtubetv community operates https://BreadTube.tv, which provides listings of content creators.
