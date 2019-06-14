@@ -13,7 +13,7 @@ BreadTube is a reference to the left-wing anarchist Peter Kropotkin's 1982 book 
 
 This website is a resource for discovering and sharing BreadTube content, content is suggested by public users through various forms ([Channels](/channels/new), [Playlists](/playlists/new)), these submissions are re viewable by interested members on [Discord](httsp://breadtube.tv/discord) and then added to the source code by a team of volunteer developers.
 
-Services such as YouTube use hidden algorithms to serve content to users, the preferences of these algorithms are determined by YouTube's values, which as they are a subsidiary of Google is  the generation of capital through Advertising.
+Services such as YouTube use hidden algorithms to serve content to users, the preferences of these algorithms are determined by YouTube's values, which as they are a subsidiary of Google is the generation of capital through Advertising.
 
 Replacing a service like YouTube is unfeasible for any community, let alone one as small as ours, however utilizing its features and circumnavigating the algorithm using our own listings is possible.
 
