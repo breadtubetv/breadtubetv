@@ -7,4 +7,5 @@ menu:
     parent: Channels
 videos:
 - qDxwD0i9eGU
+url: /revolutiontube/
 ---

@@ -1,4 +1,5 @@
-description: Welcome to RevolutionTube! Here you will find a bunch of political video essays.
+description: Welcome to RevolutionTube! Here you will find a bunch of political video
+  essays.
 name: Revolution Tube
 permalink: revolutiontube
 providers:
@@ -8,5 +9,5 @@ providers:
     url: https://www.youtube.com/channel/UC2VEO7YxiqPeeUnI2jBax-g
     description: Welcome to RevolutionTube! Here you will find a bunch of political
       video essays.
-    subscribers: 1402
+    subscribers: 1485
 slug: revolutiontube

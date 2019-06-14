@@ -2,18 +2,22 @@ description: Palestine and film analysis from a critical and post-colonial persp
 name: Maru
 permalink: maru
 providers:
+  patreon:
+    name: Valerie Sinclair
+    slug: vsinclair
+    url: https://www.patreon.com/vsinclair
+    description: ""
+    subscribers: 0
+  twitter:
+    name: Valerie Sinclair
+    slug: maruchan1312
+    url: https://www.twitter.com/maruchan1312
+    description: ""
+    subscribers: 0
   youtube:
     name: Maru
     slug: UC3hGc5eonszeA-KZAuA6wCA
     url: https://www.youtube.com/channel/UC3hGc5eonszeA-KZAuA6wCA
     description: Palestine and film analysis from a critical and post-colonial perspective.
-    subscribers: 616
-  patreon:
-    name: Valerie Sinclair
-    slug: vsinclair
-    url: https://www.patreon.com/vsinclair
-  twitter:
-    name: Valerie Sinclair
-    slug: maruchan1312
-    url: https://www.twitter.com/maruchan1312
+    subscribers: 678
 slug: maru
