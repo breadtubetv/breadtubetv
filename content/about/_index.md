@@ -11,7 +11,7 @@ BreadTube is a reference to the left-wing anarchist Peter Kropotkin's 1982 book 
 
 > ["The Making of a YouTube Radical" New York Times](https://www.nytimes.com/interactive/2019/06/08/technology/youtube-radical.html)
 
-This website is a resource for discovering and sharing BreadTube content, content is suggested by public users through various forms ([Channels](/channels/new), [Playlists](/playlists/new)), these submissions are re viewable by interested members on [Discord](httsp://breadtube.tv/discord) and then added to the source code by a team of volunteer developers.
+This website is a resource for discovering and sharing BreadTube content, content is suggested by public users through various forms ([Channels](/channels/new), [Playlists](/playlists/new)), can be reviewed by any interested community members on [Discord](httsp://breadtube.tv/discord) and later added to the source code.
 
 Services such as YouTube use hidden algorithms to serve content to users, the preferences of these algorithms are determined by YouTube's values, which as they are a subsidiary of Google is the generation of capital through Advertising.
 
