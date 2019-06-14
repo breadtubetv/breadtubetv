@@ -7,7 +7,7 @@ type: page
 
 [BreadTube.tv](/) is the collaborative effort of Creators, Subscribers, Moderators, Developers, Designers, and Coordinators working together to list content that is posted on [r/BreadTube](/reddit) and related mediums.
 
-BreadTube is a reference to the left-wing anarchist Peter Kropotkin's 1982 book, ["The Conquest of Bread"](https://theanarchistlibrary.org/library/petr-kropotkin-the-conquest-of-bread). The goal of the community is to challenge the far-right content creators who have taken power on services like YouTube for the purpose of spreading hate and to instead educate people on how their world operates, the alternative possible visions for our future, and how we organize ourselves to get there.
+BreadTube is a reference to the left-wing anarchist Peter Kropotkin's 1982 book - ["The Conquest of Bread"](https://theanarchistlibrary.org/library/petr-kropotkin-the-conquest-of-bread). The goal of the community is to challenge the far-right content creators who have taken advantage of the profit-driven algorithms used by services like YouTube for the purpose of spreading hate. Instead we wish educate people on how their world operates, the alternative possible visions for our future, and how we organize ourselves to get there.
 
 > ["The Making of a YouTube Radical" New York Times](https://www.nytimes.com/interactive/2019/06/08/technology/youtube-radical.html)
 
