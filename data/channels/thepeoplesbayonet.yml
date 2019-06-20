@@ -1,7 +1,20 @@
-description: Hi! I am just a concerned citizen trying to figure out the world! My series "The Problem" updates whenever I finish a video!
+description: Hi! I am just a concerned citizen trying to figure out the world! My
+  series "The Problem" updates whenever I finish a video!
 name: The People's Bayonet
 permalink: thepeoplesbayonet
 providers:
+  patreon:
+    name: The People's Bayonet
+    slug: PeoplesBayonet
+    url: https://twitter.com/PeoplesBayonet
+    description: ""
+    subscribers: 0
+  twitter:
+    name: Luna The Bayonet
+    slug: PeoplesBayonet
+    url: https://twitter.com/PeoplesBayonet
+    description: ""
+    subscribers: 0
   youtube:
     name: The People's Bayonet
     slug: UCr0575ba5GhFemZHC8alnRQ
@@ -12,13 +25,5 @@ providers:
       Hi! I am just a concerned citizen trying to figure out the world! My series "The Problem" updates whenever I finish a video!
 
       (WATCH! THIS! SPAAAAAAAAAACE!)
-    subscribers: 1532
-  patreon:
-    name: The People's Bayonet
-    slug: PeoplesBayonet
-    url: https://twitter.com/PeoplesBayonet
-  twitter:
-    name: Luna The Bayonet
-    slug: PeoplesBayonet
-    url: https://twitter.com/PeoplesBayonet
+    subscribers: 1565
 slug: thepeoplesbayonet
