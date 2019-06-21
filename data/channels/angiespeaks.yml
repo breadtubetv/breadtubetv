@@ -10,8 +10,8 @@ providers:
     subscribers: 0
   twitter:
     name: Angie Speaks
-    slug: angiespeaks
-    url: https://www.twitter.com/angiespeaks
+    slug: speaksangie
+    url: https://www.twitter.com/speaksangie
     description: ""
     subscribers: 0
   youtube:
