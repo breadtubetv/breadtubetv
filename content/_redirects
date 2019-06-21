@@ -10,5 +10,5 @@ https://www.breadtube.tv/* https://breadtube.tv/:splat 301!
 /twitter https://twitter.com/breadtubetv
 /facebook https://www.facebook.com/BreadTubeTV/
 /tumblr https://breadtubetv.tumblr.com/
-/github* https://github.com/breadtubetv/breadtubetv:splat 301!
+/github* https://github.com/breadtubetv/breadtubetv/:splat 301!
 /youtube https://www.youtube.com/channel/UCv8O1dx5UjWHlJuo_Wl6o5w
