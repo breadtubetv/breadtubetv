@@ -9,7 +9,7 @@ providers:
     description: ""
     subscribers: 0
   discord:
-    name: AnActualJoke
+    name: AnActualJoke of a Discord
     slug: anactualjoke
     url: https://discord.gg/CevGcYc
     description: ""
