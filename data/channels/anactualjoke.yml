@@ -8,12 +8,18 @@ providers:
     url: https://www.patreon.com/anactualjoke
     description: ""
     subscribers: 0
+  discord:
+    name: AnActualJoke
+    slug: anactualjoke
+    url: https://discord.gg/CevGcYc
+    description: ""
+    subscribers: 0
   twitter:
     name: Sonia | anactualjoke
     slug: anactualjoke
     url: https://twitter.com/anactualjoke
     description: ""
-    subscribers: 0    
+    subscribers: 0
   youtube:
     name: anactualjoke
     slug: UC-CDQ-MPUdBWcjB7SrD1HZA
