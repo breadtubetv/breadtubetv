@@ -1,6 +1,6 @@
 <script>
 var list = [
-  {{ range .Pages }}
+  {{ range (.Pages | union .Sections) }}
     {
       'name': "{{ .Title }}",
       'slug': "{{ .Params.channel }}",

@@ -6,4 +6,5 @@ video: "theaesthetic"
 menu:
   main:
     parent: "Videos"
+url: /contrapoints/theaesthetic/
 ---

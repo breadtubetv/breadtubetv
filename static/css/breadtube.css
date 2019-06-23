@@ -854,3 +854,52 @@ button, select, input, textarea { font-family: inherit; }
   background: #cecece;
   padding: 0.5rem;
 }
+
+.content .video-metadata {
+  margin-left: 0;
+  margin-bottom: 1rem;
+}
+
+.video-metadata .heading {
+  font-size: 1.3em;
+  margin-top: 0rem;
+}
+
+.video-metadata .channel-image {
+  margin-top: 0rem;
+}
+
+.iframe-list {
+  overflow: hidden;
+  display: flex;
+}
+
+.iframe-list li {
+  width: 100%;
+  margin: 1rem 1rem 0 0;
+}
+
+@media (min-width: 768px) {
+  .iframe-list li {
+    max-width: 500px;
+  }
+}
+
+.iframe-list li h3 {
+  font-weight: bold;
+}
+
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}

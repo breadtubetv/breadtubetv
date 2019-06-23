@@ -1,22 +1,46 @@
-{{ define "main" }}
+{{- define "main" -}}
+  {{- $channelSlug := (or .Params.channel (index (split .Page.RelPermalink "/") 1)) -}}
+  {{- $channels := $.Site.Data.channels -}}
+  {{- $scratch := newScratch -}}
+  {{- range $channels -}}
+    {{- if eq .slug $channelSlug -}}
+      {{- $scratch.Set "channel" . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $channel := $scratch.Get "channel" -}}
   <div class="heading-wrap" style="overflow: hidden">
-    <h1 class="heading"><a href=".">Channels</a></h1>
-  </div>
-
-  <div class="tags">
-    {{ range .Site.Taxonomies.tags }}
-      {{ if .Page.Title }}
-        <a href="/channels/#search:{{ .Page.Title | lower }}" class="tag">{{ .Page.Title | lower }}</a>
+    <img src="/img/channels/{{ $channel.slug }}.jpg" class="channel-image heading-image" alt=" {{ $channel.name }}" />
+    <h1 class="heading"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></h1>
+    <div class="content">
+      <p>{{ $channel.description | markdownify }}</p>
+      {{ with $channel.description_more }}
+        <p>{{ . | markdownify }}</p>
       {{ end }}
-    {{ end }}
+    </div>
   </div>
+  <div class="heading-meta">
+    <ul class="plain-list">
+      <li>
+        <a href="https://www.reddit.com/r/BreadTube/search?q=title:{{ $channel.name | lower }} OR flair:{{ $channel.name | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
+      </li>
+      {{- range $provider, $data := $channel.providers -}}
+        <li>
+          <a href="{{ $data.url }}" target="_blank" title="{{ $data.slug }}">{{ or (i18n $provider) ($provider | humanize) }}</a>
+        </li>
+      {{- end -}}
+    </ul>
 
-
-  {{ partial "channels/row.html" . }}
-
-  <div class="header-action" style="margin-top: 10px">
-    <a href="/channels/new/" class="header-add">Add Channel</a>
+    <div class="tags">
+      {{ range .Params.tags }}
+        {{ if not (eq . "breadtube") }}
+          <a href="/channels/#search:{{ . | lower }}" class="tag">{{ . }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
   </div>
 
   {{ partial "playlists/videos.html" . }}
-{{ end }}
+
+  <h2 id="update" class="heading">Update Channel</h2>
+  {{ partial "channels/edit.html" (dict "channel" $channel "videos" .Params.videos "tags" .Params.tags) }}
+{{- end -}}

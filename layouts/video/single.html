@@ -27,6 +27,8 @@
     <section class="video-metadata">
       {{ partial "channels/heading.html" (dict "scratch" $scratch "h" "h1") }}
     </section>
+
+    <p>{{ $video.description | markdownify }}</p>
   </div>
 
   {{ with $video }}
