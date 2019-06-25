@@ -4,7 +4,7 @@ name: In Otter Words
 permalink: inotterwords
 providers:
   music:
-    name: Evan Witt
+    name: wittynotes
     slug: ""
     url: www.wittynotes.com
     description: ""
