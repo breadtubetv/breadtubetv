@@ -3,6 +3,18 @@ description: One otter sets out to convince others of his positions on ethics an
 name: In Otter Words
 permalink: inotterwords
 providers:
+  music:
+    name: Evan Witt
+    slug: ""
+    url: www.wittynotes.com
+    description: ""
+    subscribers: 0
+  twitter:
+    name: In Otter Words
+    slug: In_Otter_Words
+    url: https://twitter.com/In_Otter_Words
+    description: ""
+    subscribers: 0
   youtube:
     name: In Otter Words
     slug: UCH0ca3eEQP_rnAHNI68qg2w
