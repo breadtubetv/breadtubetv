@@ -1,6 +1,19 @@
-name: Maria the Witch
+description: Brazilian left-communist commenting on politics, social issues, and books.
+name: Maria Jorge
 permalink: mariathewitch
 providers:
+  twitter:
+    name: Maria Jorge
+    slug: mariajorgex
+    url: http://twitter.com/mariajorgex
+    description: ""
+    subscribers: 0
+  patreon:
+    name: Maria Jorge
+    slug: mariajorgex
+    url: https://www.patreon.com/mariajorgex
+    description: ""
+    subscribers: 0
   youtube:
     name: Maria Jorge
     slug: UCrd-uibzFaauNlPB8-OJ_qQ
