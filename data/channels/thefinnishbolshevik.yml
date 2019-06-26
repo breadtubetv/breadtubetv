@@ -17,7 +17,7 @@ providers:
     url: https://twitter.com/finnbolshevik?
     description: ""
     subscribers: 0
-  other-channel:
+  OtherChannel:
     name: Marxist-Leninist Theory
     slug: Marxist-Leninist Theory
     url: https://www.youtube.com/channel/UCEzvnHqlIPv0QbXpdoH0f0Q
