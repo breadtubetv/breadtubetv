@@ -9,6 +9,6 @@ videos:
 tags:
 - breadtube
 url: /mariajorge/
-alias:
+aliases:
 - /mariathewitch/
 ---
