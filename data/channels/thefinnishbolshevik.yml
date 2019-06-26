@@ -7,7 +7,7 @@ permalink: thefinnishbolshevik
 providers:
   blog:
     name: ML-Theory
-    slug: ""
+    slug: ML-Theory
     url: https://mltheory.wordpress.com
     description: ""
     subscribers: 0
@@ -17,7 +17,7 @@ providers:
     url: https://twitter.com/finnbolshevik?
     description: ""
     subscribers: 0
-  other channel:
+  other-channel:
     name: Marxist-Leninist Theory
     slug: Marxist-Leninist Theory
     url: https://www.youtube.com/channel/UCEzvnHqlIPv0QbXpdoH0f0Q
