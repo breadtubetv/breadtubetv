@@ -1,6 +1,5 @@
 description:  One otter sets out to convince others of his positions on ethics and politics, 
   and perhaps be convinced of other positions himself! 
-  My music www.wittynotes.com
 name: In Otter Words
 permalink: inotterwords
 providers:
@@ -8,6 +7,12 @@ providers:
     name: In Otter Words
     slug: In_Otter_Words
     url: https://twitter.com/In_Otter_Words
+    description: ""
+    subscribers: 0
+  website:
+    name: My music
+    slug: wittynotes
+    url: http://www.wittynotes.com
     description: ""
     subscribers: 0
   youtube:
