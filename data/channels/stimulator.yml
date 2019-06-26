@@ -1,7 +1,30 @@
-description: ""
+description: Anarchist video collective cranking out radical videos since 1994.
+  sub.Media is a video production ensemble, which aims to promote anarchist and 
+  anti-capitalist ideas, and aid social struggles through the dissemination of radical films and videos. 
+  Founded in 1994, sub.Media has produced hundreds of videos on everything from anti-globalization 
+  protests to films about shoplifting. Our films have been screened around the world in social centers 
+  and movie theaters and have been watched by millions on the internet.
 name: stimulator
 permalink: stimulator
 providers:
+  instagram:
+    name: sub.Media
+    slug: sub.media
+    url: https://www.instagram.com/sub.media/
+    description: ""
+    subscribers: 0
+  twitter:
+    name: sub.Media
+    slug: sub.media
+    url: https://twitter.com/submedia
+    description: ""
+    subscribers: 0
+  Donate:
+    name: sub.Media
+    slug: ""
+    url: https://sub.media/donate
+    description: ""
+    subscribers: 0
   youtube:
     name: stimulator
     slug: UCDG73pGqESS1XcEVY_0xwWw
