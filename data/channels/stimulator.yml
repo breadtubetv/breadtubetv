@@ -22,7 +22,7 @@ providers:
   Donate:
     name: sub.Media
     slug: ""
-    url: Donate https://sub.media/donate
+    url: https://sub.media/donate
     description: ""
     subscribers: 0
   youtube:
