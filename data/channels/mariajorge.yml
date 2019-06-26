@@ -1,6 +1,7 @@
 description: Brazilian left-communist commenting on politics, social issues, and books.
 name: Maria Jorge
-permalink: mariathewitch
+name: Maria Jorge
+permalink: mariajorge
 providers:
   twitter:
     name: Maria Jorge
@@ -21,4 +22,4 @@ providers:
     description: Brazilian left-communist commenting on politics, social issues, and
       books.
     subscribers: 8342
-slug: mariathewitch
+slug: mariajorge

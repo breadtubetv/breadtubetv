@@ -1,12 +1,14 @@
 ---
-title: Maria the Witch
+title: Maria Jorge
 type: channel
-channel: mariathewitch
+channel: mariajorge
 menu:
   main:
     parent: Channels
 videos:
 tags:
 - breadtube
-url: /mariathewitch/
+url: /mariajorge/
+alias:
+- /mariathewitch/
 ---
