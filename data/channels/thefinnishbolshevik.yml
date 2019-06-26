@@ -1,6 +1,28 @@
+description: I'm a young Finnish Communist & Marxist-Leninist.
+  This channel is about the science of Marxism-Leninism. 
+  I give information and my personal thoughts on various topics dealing with Marxism-Leninism. 
+  Feel free to ask questions and voice your opinion.
 name: TheFinnishBolshevik
 permalink: thefinnishbolshevik
 providers:
+  blog:
+    name: ML-Theory
+    slug: ""
+    url: https://mltheory.wordpress.com
+    description: ""
+    subscribers: 0
+  twitter:
+    name: TheFinnishBolshevik
+    slug: finnbolshevik?
+    url: https://twitter.com/finnbolshevik?
+    description: ""
+    subscribers: 0
+  other channel:
+    name: Marxist-Leninist Theory
+    slug: Marxist-Leninist Theory
+    url: https://www.youtube.com/channel/UCEzvnHqlIPv0QbXpdoH0f0Q
+    description: ""
+    subscribers: 0
   youtube:
     name: TheFinnishBolshevik
     slug: UCCvdjsJtifsZoShjcAAHZpA
