@@ -1,7 +1,25 @@
-description: ""
+description: My name is Dick Coughlan. I'm a stand up comedian, Youtuber & that is all I can be. 
 name: Brother Neuro
 permalink: brotherneuro
 providers:
+  patreon:
+    name: Dick Coughlan
+    slug: SUPPORT DICK COUGHLAN 
+    url: https://www.patreon.com/DickDynasty666
+    description: ""
+    subscribers: 0
+  paypal:
+    name: Dick Coughlan
+    slug: TheDick
+    url: https://www.paypal.me/TheDick
+    description: ""
+    subscribers: 0
+  other channel:
+    name: Insane Rat Bloke
+    slug: Insane Rat Bloke
+    url: https://www.youtube.com/c/InsaneRatBloke
+    description: ""
+    subscribers: 0
   youtube:
     name: Brother Neuro
     slug: UC3-oMyTXwAmICDRyZ7HSOVg
