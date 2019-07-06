@@ -8,6 +8,8 @@ providers:
     id: z1afqR5QkDM
   queertube:
     id: 10db232f-8c7f-4cd2-b83d-d79f422649f9
+  peertube.social:
+    id: 10db232f-8c7f-4cd2-b83d-d79f422649f9
 menu:
   main:
     parent: "Videos"

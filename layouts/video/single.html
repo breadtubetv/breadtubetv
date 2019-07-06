@@ -23,7 +23,8 @@
   <ul class="iframe-list">
   {{ range $provider, $data := .Params.providers }}
     <li>
-      {{ partial $provider (dict "title" $title "id" .id) }}
+      {{ $path := printf "%s/%s" "iframe" $provider }}
+      {{ partial $path (dict "title" $title "id" .id) }}
     </li>
   {{ end }}
   </ul>
