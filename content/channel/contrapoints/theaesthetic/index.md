@@ -2,8 +2,7 @@
 title: "The Aesthetic"
 description: What matters more—the way things are or the way things look?
 type: "video"
-channel: "contrapoints"
-video: "theaesthetic"
+slug: "theaesthetic"
 providers:
   youtube:
     id: z1afqR5QkDM

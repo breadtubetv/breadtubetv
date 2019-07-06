@@ -4,6 +4,30 @@
 {{ $videoIframe := (eq true .Params.videoIframe) }}
 
 <ul class="list plain-list">
+  {{ range .Pages }}
+    <li id="{{ .Params.slug }}" class="channel-item list-item">
+      <div class="video">
+        <div class="video-link-container">
+          <div class="video-image">
+            <div class="video-imageWrap">
+              <img src="https://i3.ytimg.com/vi/{{ .Params.providers.youtube.id }}/hqdefault.jpg" alt="{{ .Title }}" />
+            </div>
+          </div>
+          <div class="video-text">
+            <div class="video-title">
+              <a class="video-link" href="{{ .Permalink }}">
+                {{ .Title }}
+              </a>
+            </div>
+            <div class="video-description">
+              {{ .Description }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </li>
+  {{ end }}
+
   {{- range .Params.videos -}}
     {{- $id := . -}}
     {{- range $channelSlug, $channelVideos := $videos -}}
