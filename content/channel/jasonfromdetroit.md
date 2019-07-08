@@ -2,7 +2,8 @@
 title: Jason From Detroit
 type: channel
 channel: jasonfromdetroit
-tags: []
+tags:
+- breadtube
 url: '"jasonfromdetroit"'
 videos:
 - AliB5TX9nq4
