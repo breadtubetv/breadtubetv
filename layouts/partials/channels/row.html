@@ -1,7 +1,7 @@
 <ul class="list plain-list">
   {{ $jump := .Site.Params.targetBlank | default true }}
   {{ $tags := .Params.tags | default .Site.Params.defaultTags }}
-  {{ range (shuffle .Pages) }}
+  {{ range (shuffle (where .Pages ".Params.tags" "intersect" $tags)) }}
     {{ $channel := .Params.channel }}
     {{ range .Site.Data.channels }}
       {{ if eq .slug $channel }}
