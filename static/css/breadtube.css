@@ -158,18 +158,23 @@ input[type=button] {width: auto; overflow: visible;}
 }
 
 body {
-  background: #e1dbe1;
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  background: url("/img/background2.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
 }
 
 a {
-  color: #000;
+  color: #e71bd5;
   text-decoration-color: rgba(0, 0, 0, 0.5);
 }
 
 a:hover {
-  color: #880e7d;
-  text-decoration-color: #880e7d;
+  color: #e71bd5;
+  text-decoration-color: #e71bd5;
 }
 
 img {
@@ -211,7 +216,6 @@ button, select, input, textarea { font-family: inherit; }
 
 /* Header */
 .header {
-  background: #fff;
   border-bottom: 1px solid #aea6ad;
   border-top: 8px solid #a60e95;
   padding-top: 1.5rem;
@@ -226,7 +230,7 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .header-logo a {
-  color: #880e7d;
+  color: #e71bd5;
   text-decoration: none;
 }
 
@@ -235,7 +239,7 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .header-intro {
-  color: #5d4c5c;
+  color: #FFF;
   font-size: 1.25rem;
   margin-bottom: 0.5rem;
 }
@@ -288,15 +292,18 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .nav-link {
-  color: #000;
+  color: #FFF;
+  text-shadow: 1px 3px #000;
   display: block;
   margin-bottom: -2px;
   padding: 1rem 0;
+  text-decoration: none;
   border-bottom: 4px solid transparent;
   cursor: pointer;
 }
 
 .nav-link.is-active {
+  color: #e71bd5;
   border-bottom-color: #db19c8;
   font-weight: bold;
 }
@@ -307,10 +314,15 @@ button, select, input, textarea { font-family: inherit; }
 
 /* Heading */
 .heading {
-  color: #333;
+  color: #FFF;
   font-size: 1.5rem;
   font-weight: 600;
   margin: 1rem 0 0.5rem;
+}
+
+.heading a {
+  color: #FFF;
+  text-decoration: none;
 }
 
 .heading-image,
@@ -453,6 +465,8 @@ button, select, input, textarea { font-family: inherit; }
 .channel-text {
   flex: 1;
   padding-left: 1rem;
+  background: rgba(0,0,0,0.5);
+  padding: 0.2rem;
 }
 
 .channel-video .channel-text {
@@ -463,8 +477,8 @@ button, select, input, textarea { font-family: inherit; }
 
 @media (min-width: 768px) {
   .channel-text {
-    padding-left: 0;
-    padding-top: 1rem;
+    padding: 0.3rem;
+    margin-top: 0.5rem;
   }
 }
 
@@ -476,6 +490,10 @@ button, select, input, textarea { font-family: inherit; }
 
 .channel-video .channel-title {
   font-size: 1rem;
+}
+
+.channel-link {
+  color: #e71bd5;
 }
 
 .channel-link::after {
@@ -508,6 +526,7 @@ button, select, input, textarea { font-family: inherit; }
 
 .video-link-container .video-link {
   text-decoration: none;
+  color: #FFF;
 }
 
 @media (min-width: 768px) {
@@ -519,6 +538,10 @@ button, select, input, textarea { font-family: inherit; }
 
 .channel-video .video-item {
   margin-bottom: 0.5rem;
+}
+
+.video-item {
+  padding-right: 0 !important;
 }
 
 @media (max-width: 767px) {
@@ -568,7 +591,11 @@ button, select, input, textarea { font-family: inherit; }
 
 .video-text {
   flex: 1;
-  padding-left: 1em;
+  margin-left: 0.5rem;
+  margin-top: 0rem;
+  padding: 0.5rem;
+  background: rgba(0,0,0,0.5);
+  text-shadow: 3px 3px #000;
 }
 
 .channel-video .video-text {
@@ -578,8 +605,9 @@ button, select, input, textarea { font-family: inherit; }
 
 @media (min-width: 768px) {
   .video-text {
-    padding-left: 0;
-    padding-top: 0.5rem;
+    padding: 0.5rem;
+    margin-left: 0;
+    margin-top: 0.5rem;
   }
 }
 
@@ -623,12 +651,15 @@ button, select, input, textarea { font-family: inherit; }
 .video-metadata .video-channel-name {
   float: left;
   padding-top: 6px;
-  color: #555;
+  color: #FFF;
   margin-bottom: 0.5rem;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: clip;
 }
 
 .video-metadata .video-channel-link .video-channel-name:hover {
-  color: #880e7d;
+  color: #e71bd5;
 }
 
 .content {
@@ -652,6 +683,7 @@ button, select, input, textarea { font-family: inherit; }
 /* Footer */
 .footer {
   margin: 2rem 0;
+  color: #FFF;
 }
 
 .footer::before {
@@ -783,13 +815,22 @@ button, select, input, textarea { font-family: inherit; }
 }
 
 .tag:hover {
-  background-color: #880e7d;
+  background-color: #e71bd5;
   color: white;
 }
 
 .content,
 .text-content {
   max-width: 45rem;
+}
+
+.text-content {
+  background: rgba(0,0,0,0.5);
+  padding: 0.1rem 0.5rem;
+}
+
+.text-content a {
+  color: #e71bd5;
 }
 
 .content h2,
@@ -804,13 +845,6 @@ button, select, input, textarea { font-family: inherit; }
 .text-content p {
   max-width: 35rem;
   margin-bottom: 0.5rem;
-}
-
-.text-content h2 {
-  font-size: 1.5rem;
-  font-weight: bold;
-  margin-top: 1.5rem;
-  margin-bottom: 0.2rem;
 }
 
 .text-content h3 {
@@ -851,6 +885,6 @@ button, select, input, textarea { font-family: inherit; }
 .text-content code {
   width: 35rem;
   display: inline-block;
-  background: #cecece;
+  background: #241a33;
   padding: 0.5rem;
 }
