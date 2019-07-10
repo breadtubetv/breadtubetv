@@ -159,12 +159,27 @@ input[type=button] {width: auto; overflow: visible;}
 
 body {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-  background: url("/img/background2.jpg") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
   color: white;
+}
+
+@media (max-width: 767px) {
+  body {
+    background: #001147 url("/img/background-mobile.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+}
+
+@media (min-width: 768px) {
+  body {
+    background: #001147 url("/img/background.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
 }
 
 a {
@@ -444,12 +459,12 @@ button, select, input, textarea { font-family: inherit; }
 
 .channel:hover .channel-image,
 .channel:focus-within .channel-image {
-  box-shadow: 0 0 0 0.5rem #beb8be;
+  box-shadow: 0 0 0 0.3rem #a132a1;
 }
 
 .channel-video .channel:hover .channel-image,
 .channel-video .channel:focus-within .channel-image {
-  box-shadow: 0 0 0 0.2rem #beb8be;
+  box-shadow: 0 0 0 0.2rem #a132a1;
 }
 
 .channel:hover .channel-imageWrap > img,
@@ -581,7 +596,7 @@ button, select, input, textarea { font-family: inherit; }
 
 .video:hover .video-image,
 .video:focus-within .video-image {
-  box-shadow: 0 0 0 0.5rem #beb8be;
+  box-shadow: 0 0 0 0.3rem #a132a1;
 }
 
 .video:hover .video-imageWrap > img,
@@ -682,17 +697,10 @@ button, select, input, textarea { font-family: inherit; }
 
 /* Footer */
 .footer {
-  margin: 2rem 0;
+  margin: 0;
+  padding: 1rem;
   color: #FFF;
-}
-
-.footer::before {
-  background: #aea6ad;
-  content: '';
-  display: block;
-  height: 1px;
-  margin-bottom: 1rem;
-  width: 5rem;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .footer-header {
