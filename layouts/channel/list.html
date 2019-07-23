@@ -5,7 +5,7 @@
 
   <div class="tags">
     {{ range .Site.Taxonomies.tags }}
-      {{ if .Page.Title }}
+      {{ if (and .Page.Title (not (eq .Page.Title "breadtube"))) }}
         <a href="/channels/#search:{{ .Page.Title | lower }}" class="tag">{{ .Page.Title | lower }}</a>
       {{ end }}
     {{ end }}
