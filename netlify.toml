@@ -1,13 +1,15 @@
 [build]
   publish = "public"
   command = "hugo"
+  functions = "functions"
 
 [build.environment]
   HUGO_VERSION = "0.55.6"
   NODE_VERSION = "12.1.0"
   YARN_VERSION = "1.16.0"
   HUGO_ENV = "staging"
-
+  GO_IMPORT_PATH = "github.com/breadtubetv/breadtubetv/"
+  
 [context.production]
   command = "hugo -b ${URL}/"
 
