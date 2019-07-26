@@ -1,12 +1,12 @@
 ---
-title: The Michael Brooks Show
+title: Gutian
 type: channel
-channel: tmbs
+channel: gutian
 tags:
 - breadtube
-url: /tmbs/
+url: '"gutian"'
 videos:
-- j_tGhlPdeAo
+- vH35lLKm4VI
 menu:
   main:
     parent: Channels
