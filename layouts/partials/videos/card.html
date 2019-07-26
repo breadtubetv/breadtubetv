@@ -40,7 +40,7 @@
           </a>
         </div>
         <div class="video-description">
-          {{ (substr .video.description 0 100) | replaceRE "https?://([^/]+).*" "" }}
+          {{ (substr .video.description 0 120) | replaceRE "https?://([^/]+).*" "" }}
         </div>
       </div>
     </div>
