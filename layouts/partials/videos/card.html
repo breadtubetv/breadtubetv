@@ -10,7 +10,7 @@
             {{ .video.title }}
           </div>
           <div class="video-description">
-            {{ (substr .video.description 0 100) | markdownify }}
+            {{ .video.description | replaceRE "https?://([^ ]+)" "" | truncate 140 }}
           </div>
         </div>
       </div>
@@ -40,7 +40,7 @@
           </a>
         </div>
         <div class="video-description">
-          {{ (substr .video.description 0 120) | replaceRE "https?://([^/]+).*" "" }}
+          {{ .video.description | replaceRE "https?://([^ ]+)" "" | truncate 140 }}
         </div>
       </div>
     </div>
