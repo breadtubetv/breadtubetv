@@ -2,7 +2,9 @@
 title: TheFinnishBolshevik
 type: channel
 channel: thefinnishbolshevik
-tags: []
+tags:
+- breadtube
+- communism
 url: /thefinnishbolshevik/
 videos:
 - TODO
