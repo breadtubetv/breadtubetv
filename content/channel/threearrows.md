@@ -2,12 +2,13 @@
 title: Three Arrows
 type: channel
 channel: threearrows
-menu:
-  main:
-    parent: Channels
-videos:
-- 69obN625Fjs
 tags:
 - breadtube
 url: /threearrows/
+videos:
+- 69obN625Fjs
+- O8UzmLsXGRU
+menu:
+  main:
+    parent: Channels
 ---

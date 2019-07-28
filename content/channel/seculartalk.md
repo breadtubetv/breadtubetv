@@ -2,9 +2,9 @@
 title: Secular Talk
 type: channel
 channel: seculartalk
-menu:
-  main:
-    parent: Channels
+tags:
+- news
+url: /seculartalk/
 videos:
 - _ebUz98qGzQ
 - 8fkFAmIxgcs
@@ -15,7 +15,8 @@ videos:
 - Xi7jbtioxCE
 - yBObh_XC1A4
 - -H6aFWphNcA
-tags:
-- news
-url: /seculartalk/
+- _L6NoLbhsVo
+menu:
+  main:
+    parent: Channels
 ---

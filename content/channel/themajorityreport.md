@@ -2,11 +2,13 @@
 title: The Majority Report
 type: channel
 channel: themajorityreport
-menu:
-  main:
-    parent: Channels
-videos:
 tags:
 - news
 url: /themajorityreport/
+videos:
+- _EsCM25_tF0
+- GFNuNHMC5n4
+menu:
+  main:
+    parent: Channels
 ---
