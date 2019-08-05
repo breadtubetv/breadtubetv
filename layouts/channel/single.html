@@ -4,7 +4,7 @@
     <img src="/img/channels/{{ $channelSlug }}.jpg" class="channel-image heading-image" alt=" {{ .Title }}" />
     <h1 class="heading"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></h1>
     <div class="content">
-      <p>{{ .Description | markdownify }}</p>
+      <p>{{ .Params.description | markdownify }}</p>
       {{ with .Params.description_more }}
         <p>{{ . | markdownify }}</p>
       {{ end }}
