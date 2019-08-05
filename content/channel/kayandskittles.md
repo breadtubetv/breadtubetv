@@ -1,4 +1,5 @@
 ---
+title: Kay and Skittles
 type: channel
 channel: kayandskittles
 tags:
