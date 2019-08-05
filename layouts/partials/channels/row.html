@@ -2,10 +2,11 @@
   {{ $jump := .Site.Params.targetBlank | default true }}
   {{ $tags := .Params.tags | default .Site.Params.defaultTags }}
   {{ range (shuffle (where .Pages ".Params.tags" "intersect" $tags)) }}
+    {{ $description := .Params.description }}
     {{ $channel := .Params.channel }}
     {{ range .Site.Data.channels }}
       {{ if eq .slug $channel }}
-        {{ partial "channels/card.html" (dict "channel" . "target_blank" $jump) }}
+        {{ partial "channels/card.html" (dict "channel" . "description" $description "target_blank" $jump) }}
       {{ end }}
     {{ end }}
   {{ end }}
