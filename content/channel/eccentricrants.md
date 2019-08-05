@@ -5,6 +5,7 @@ channel: eccentricrants
 tags:
 - breadtube
 - america
+- anarchism
 - communism
 url: '"eccentricrants"'
 videos:
