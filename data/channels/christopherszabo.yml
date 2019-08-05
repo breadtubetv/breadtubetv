@@ -4,11 +4,4 @@ description: The Christopher Szabo Show is an ongoing web series updated monthly
   under the influence and wearing headphones.
 name: Christopher Szabo
 permalink: christopherszabo
-providers:
-  youtube:
-    name: Christopher Szabo
-    slug: UCLzx8lUHtURlm3amY2Xivng
-    url: https://www.youtube.com/channel/UCLzx8lUHtURlm3amY2Xivng
-    description: I am an anarcho-communist content creator.
-    subscribers: 1614
 slug: christopherszabo

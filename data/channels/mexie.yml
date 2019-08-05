@@ -5,41 +5,4 @@ description: PhD graduate from Toronto. I studied Human Geography / Political Ec
   veganism, and issues relating to social/economic justice
 name: Mexie
 permalink: mexie
-providers:
-  facebook:
-    name: Mexie
-    slug: mexieYT
-    url: https://www.facebook.com/mexieYT/
-    description: ""
-    subscribers: 0
-  instagram:
-    name: Mexie
-    slug: _mexie_
-    url: https://www.instagram.com/_mexie_/
-    description: ""
-    subscribers: 0
-  podcast:
-    name: The Vegan Vanguard
-    slug: ""
-    url: https://veganvanguardpodcast.com
-    description: ""
-    subscribers: 0
-  patreon:
-    name: Mexie
-    slug: u=5385111
-    url: https://www.patreon.com/user?u=5385111
-    description: ""
-    subscribers: 0
-  twitter:
-    name: Mexie
-    slug: mexieYT
-    url: https://twitter.com/mexieYT
-    description: ""
-    subscribers: 0
-  youtube:
-    name: Mexie
-    slug: UCepkun0sH16b-mqxBN22ogA
-    url: https://www.youtube.com/channel/UCepkun0sH16b-mqxBN22ogA
-    description: ""
-    subscribers: 39359
 slug: mexie

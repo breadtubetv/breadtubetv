@@ -1,4 +1,8 @@
 ---
+description: |
+  I make political commentaries, parodies, video essays, and sometimes
+  other stuff. Subscribe for several new videos weekly! If you have questions,
+  leave them in the discussion section.
 title: Jason From Detroit
 type: channel
 channel: jasonfromdetroit
@@ -24,4 +28,13 @@ videos:
 menu:
   main:
     parent: Channels
+providers:
+  youtube:
+    name: Jason From Detroit
+    slug: UCUFqXiz5MuzCfrMovxs_DJQ
+    url: https://www.youtube.com/channel/UCUFqXiz5MuzCfrMovxs_DJQ
+    description: I make political commentaries, parodies, video essays, and sometimes
+      other stuff. Subscribe for several new videos weekly! If you have questions,
+      leave them in the discussion section.
+    subscribers: 0
 ---
