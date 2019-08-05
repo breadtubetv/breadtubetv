@@ -1,4 +1,5 @@
 ---
+description: Official video content from Current Affairs
 title: Current Affairs
 type: channel
 channel: currentaffairs
@@ -47,4 +48,11 @@ videos:
 menu:
   main:
     parent: Channels
+providers:
+  youtube:
+    name: Current Affairs
+    slug: UCSmOl7Hau-YX2VKfz1CMAZQ
+    url: https://www.youtube.com/channel/UCSmOl7Hau-YX2VKfz1CMAZQ
+    description: Official video content from Current Affairs magazine
+    subscribers: 5577
 ---

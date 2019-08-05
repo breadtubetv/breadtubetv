@@ -12,8 +12,8 @@
     <img src="/img/channels/{{ $channel.slug }}.jpg" class="channel-image heading-image" alt=" {{ $channel.name }}" />
     <h1 class="heading"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></h1>
     <div class="content">
-      <p>{{ $channel.description | markdownify }}</p>
-      {{ with $channel.description_more }}
+      <p>{{ .Params.description | markdownify }}</p>
+      {{ with .Params.description_more }}
         <p>{{ . | markdownify }}</p>
       {{ end }}
     </div>
@@ -23,7 +23,7 @@
       <li>
         <a href="https://www.reddit.com/r/BreadTube/search?q=title:{{ $channel.name | lower }} OR flair:{{ $channel.name | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
       </li>
-      {{- range $provider, $data := $channel.providers -}}
+      {{- range $provider, $data := .Params.providers -}}
         <li>
           <a href="{{ $data.url }}" target="_blank" title="{{ $data.slug }}">{{ or (i18n $provider) ($provider | humanize) }}</a>
         </li>
