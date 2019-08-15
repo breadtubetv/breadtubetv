@@ -9,13 +9,15 @@ menu:
     parent: Channels
 tags:
 - alt-right
-- antifacism
+- antifascism
 - breadpilling
 - breadtube
-- chapotraphouse
 - culture
 - gaming
-- theyoungturks
+- debates
+- news
+- political commentary
+- journalism
 url: /hasanpiker/
 videos:
 - NGvlKHaH6fQ
