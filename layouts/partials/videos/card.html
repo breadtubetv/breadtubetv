@@ -20,9 +20,10 @@
 {{ else }}
 <li id="{{ .video.id }}" class="video-item list-item">
   {{ if .videoChannel }}
+    {{- $channelSlug := (or .channel.Params.channel (index (split .channel.RelPermalink "/") 1)) -}}
     <div class="video-metadata">
-      <a class="video-channel-link" href="/{{ .channel.slug }}">
-        <strong class="video-channel-name">{{ .channel.name }}</strong>
+      <a class="video-channel-link" href="/{{ $channelSlug }}">
+        <strong class="video-channel-name">{{ .channel.Title }}</strong>
       </a>
     </div>
   {{ end }}

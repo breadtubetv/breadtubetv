@@ -4,23 +4,23 @@
   </p>
   <div class="field">
     <label class="field-label" for="channelName">Channel Name</label>
-    <input class="field-input" id="channelName" type="text" name="CHANNEL_NAME" value="{{ .channel.name }}" required />
+    <input class="field-input" id="channelName" type="text" name="CHANNEL_NAME" value="{{ .Title }}" required />
   </div>
   <div class="field">
     <label class="field-label" for="channelUrl">Channel URL</label>
-    <input class="field-input" id="channelUrl" type="text" name="CHANNEL_URL" value="{{ .channel.providers.youtube.url }}" required />
+    <input class="field-input" id="channelUrl" type="text" name="CHANNEL_URL" value="{{ .Params.providers.youtube.url }}" required />
   </div>
   <div class="field">
     <label class="field-label" for="channelDescription">Channel Description</label>
-    <textarea class="field-input is-textarea" class="form-control" id="channelDescription" rows="2" cols="50" name="CHANNEL_DESCRIPTION">{{ .channel.description }}</textarea>
+    <textarea class="field-input is-textarea" class="form-control" id="channelDescription" rows="2" cols="50" name="CHANNEL_DESCRIPTION">{{ .Description }}</textarea>
   </div>
   <div class="field">
     <label class="field-label" for="channelTags">Channel Tags</label>
-    <textarea class="field-input is-textarea" class="form-control" id="channelTags" rows="4" cols="50" name="CHANNEL_TAGS">{{ if .tags }}{{ delimit .tags ", " }}{{ end }}</textarea>
+    <textarea class="field-input is-textarea" class="form-control" id="channelTags" rows="4" cols="50" name="CHANNEL_TAGS">{{ with .Params.tags }}{{ delimit . ", " }}{{ end }}</textarea>
   </div>
   <div class="field">
     <label class="field-label" for="videoUrl">Video URLs</label>
-    <textarea class="field-input is-textarea" class="form-control" id="videoUrl" rows="{{ if .videos }}{{ (add (len .videos) 5) }}{{ else }}6{{ end }}" cols="50" name="VIDEO_URLS">{{ range .videos }}
+    <textarea class="field-input is-textarea" class="form-control" id="videoUrl" rows="{{ if .Params.videos }}{{ (add (len .Params.videos) 5) }}{{ else }}6{{ end }}" cols="50" name="VIDEO_URLS">{{ range .Params.videos }}
 https://youtu.be/{{ . }}{{ end }}
 </textarea>
   </div>
