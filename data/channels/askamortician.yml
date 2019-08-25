@@ -1,0 +1,31 @@
+description: Mortician in Los Angeles. nYou got death questions, we got death answers.
+  Mortality + Culture.
+name: Ask A Mortician
+permalink: askamortician
+providers:
+  facebook:
+    name: The Order of the Good Death
+    slug: OrderoftheGoodDeath
+    url: https://www.facebook.com/orderofthegooddeath
+    description: ""
+    subscribers: 0
+  twitter:
+    name: TheGoodDeath
+    slug: ""
+    url: https://www.twitter.com/thegooddeath
+    description: ""
+    subscribers: 0
+  website:
+    name: orderofthegooddeath.com
+    slug: orderofthegooddeath.com
+    url: https://www.orderofthegooddeath.com
+    description: ""
+    subscribers: 0
+  youtube:
+    name: Ask A Mortician
+    slug: UCi5iiEyLwSLvlqnMi02u5gQ
+    url: https://www.youtube.com/channel/UCi5iiEyLwSLvlqnMi02u5gQ
+    description: "Mortician in Los Angeles.  \n\nYou got death questions, we got death
+      answers.\n\nMortality + Culture.\n\nwww.orderofthegooddeath.com\n\nwww.facebook.com/OrderoftheGoodDeath\n\ntwitter.com/TheGoodDeath"
+    subscribers: 774292
+slug: askamortician

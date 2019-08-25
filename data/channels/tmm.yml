@@ -1,0 +1,29 @@
+description: Leftist Video Essays
+name: TMM
+permalink: tmm
+providers:
+  patreon:
+    name: the messianic manic
+    slug: themessianicmanic
+    url: https://www.patreon.com/themessianicmanic
+    description: ""
+    subscribers: 0
+  tumblr:
+    name: the messianic manic
+    slug: the messianic manic
+    url: http://themessianicmanic.tumblr.com/
+    description: ""
+    subscribers: 0
+  twitter:
+    name: the messianic manic
+    slug: idiolekt
+    url: https://twitter.com/idiolekt
+    description: ""
+    subscribers: 0
+  youtube:
+    name: TMM
+    slug: UCQb22imbIqKKWOC98C8Rm2A
+    url: https://www.youtube.com/channel/UCQb22imbIqKKWOC98C8Rm2A
+    description: ""
+    subscribers: 42489
+slug: tmm
