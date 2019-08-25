@@ -1,18 +1,10 @@
 {{- define "main" -}}
   {{- $channelSlug := (or .Params.channel (index (split .Page.RelPermalink "/") 1)) -}}
-  {{- $channels := $.Site.Data.channels -}}
-  {{- $scratch := newScratch -}}
-  {{- range $channels -}}
-    {{- if eq .slug $channelSlug -}}
-      {{- $scratch.Set "channel" . -}}
-    {{- end -}}
-  {{- end -}}
-  {{- $channel := $scratch.Get "channel" -}}
   <div class="heading-wrap" style="overflow: hidden">
-    <img src="/img/channels/{{ $channel.slug }}.jpg" class="channel-image heading-image" alt=" {{ $channel.name }}" />
+    <img src="/img/channels/{{ $channelSlug }}.jpg" class="channel-image heading-image" alt=" {{ .Title }}" />
     <h1 class="heading"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></h1>
     <div class="content">
-      <p>{{ .Params.description | markdownify }}</p>
+      <p>{{ .Description | markdownify }}</p>
       {{ with .Params.description_more }}
         <p>{{ . | markdownify }}</p>
       {{ end }}
@@ -21,7 +13,7 @@
   <div class="heading-meta">
     <ul class="plain-list">
       <li>
-        <a href="https://www.reddit.com/r/BreadTube/search?q=title:{{ $channel.name | lower }} OR flair:{{ $channel.name | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
+        <a href="https://www.reddit.com/r/BreadTube/search?q=title:{{ .Title | lower }} OR flair:{{ .Title | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
       </li>
       {{- range $provider, $data := .Params.providers -}}
         <li>
@@ -42,5 +34,5 @@
   {{ partial "playlists/videos.html" . }}
 
   <h2 id="update" class="heading">Update Channel</h2>
-  {{ partial "channels/edit.html" (dict "channel" $channel "videos" .Params.videos "tags" .Params.tags) }}
+  {{ partial "channels/edit.html" . }}
 {{- end -}}

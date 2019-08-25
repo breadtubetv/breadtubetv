@@ -1,16 +1,13 @@
 {{ define "main" }}
   {{ $videos := $.Site.Data.videos }}
-  {{ $channels := $.Site.Data.channels }}
   <h1 class="heading"><a href=".">{{ .Title }}</a></h1>
   <ul class="list plain-list">
     {{- range $channelSlug, $channelVideos := $videos -}}
       {{- range $videoID, $video := $channelVideos -}}
-        {{- range $channel := $channels -}}
+        {{ with $.Site.GetPage $channelSlug }}
           {{ $channel := . }}
-          {{ if eq $channel.slug $video.channel }}
-            {{ partial "videos/card.html" (dict "video" $video "channel" $channel "videoChannel" true "videoIframe" false) }}
-          {{ end }}
-        {{- end -}}
+          {{ partial "videos/card.html" (dict "video" $video "channel" $channel) }}
+        {{ end }}
       {{- end -}}
     {{- end -}}
   </ul>
