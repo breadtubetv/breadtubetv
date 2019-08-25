@@ -1,0 +1,11 @@
+description: Vic Berger IV's YouTube channel.
+name: Vic Berger
+permalink: vicberger
+providers:
+  youtube:
+    name: Vic Berger
+    slug: UCWZ3HFiJkxG1K8C4HVnyBvQ
+    url: https://www.youtube.com/channel/UCWZ3HFiJkxG1K8C4HVnyBvQ
+    description: Vic Berger IV's YouTube channel.
+    subscribers: 76285
+slug: vicberger
