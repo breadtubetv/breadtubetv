@@ -3,7 +3,7 @@
   command = "hugo"
 
 [build.environment]
-  HUGO_VERSION = "0.55.6"
+  HUGO_VERSION = "0.57.2"
   NODE_VERSION = "12.1.0"
   YARN_VERSION = "1.16.0"
   HUGO_ENV = "staging"
