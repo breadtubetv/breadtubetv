@@ -1,0 +1,26 @@
+---
+id: wADGwkv304E
+title: Why the USSR didn't reach full-communism
+description: |-
+  My video on Withering Away of the State
+  https://www.youtube.com/watch?v=S5o-_qYjB9g
+
+  My video on Makhnovism
+  https://www.youtube.com/watch?v=ZiSM8SkE4mo
+
+  My video on the CNT-FAI
+  https://www.youtube.com/watch?v=3ufTFRGPrCM
+
+  Allied intervention in the Russian Civil War
+  https://en.wikipedia.org/wiki/Allied_intervention_in_the_Russian_Civil_War
+
+  North Russia Intervention
+  https://en.wikipedia.org/wiki/North_Russia_Intervention
+
+  American Expeditionary Force Siberia
+  https://en.wikipedia.org/wiki/American_Expeditionary_Force_Siberia
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/wADGwkv304E/
+---

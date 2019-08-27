@@ -1,0 +1,15 @@
+---
+id: gM6ZgY4JQUo
+title: '"Steven Crowder Is A Racist Homophobe"'
+description: |-
+  The spectacle in action.
+
+  https://www.patreon.com/deadheadanimation
+  https://www.instagram.com/re_education.official/?hl=en
+  https://twitter.com/professordarwin
+  https://discord.gg/TVrdRMM
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/gM6ZgY4JQUo/
+---

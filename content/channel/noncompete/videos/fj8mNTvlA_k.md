@@ -1,0 +1,12 @@
+---
+id: fj8mNTvlA_k
+title: Abolish ICE -- [Breadcast Highlights]
+description: |-
+  Subscribe to Luna: https://www.youtube.com/lunaoi
+
+  Support Non-Compete: https://www.non-compete.com/shop/
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/fj8mNTvlA_k/
+---

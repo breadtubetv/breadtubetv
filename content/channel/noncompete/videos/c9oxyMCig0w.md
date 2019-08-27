@@ -1,0 +1,16 @@
+---
+id: c9oxyMCig0w
+title: Discussion (debate?) on Capitalism -- Non-Compete / PoliDice
+description: |-
+  We'll be discussing capitalism today with PoliDice! Moderated by Sean Matthew King!
+
+  PoliDice's channel:
+  https://www.youtube.com/channel/UCjs0WTUUKk8tvsbG9so6Iag
+
+  Sean Matthew King's channel:
+  https://www.youtube.com/channel/UCn4W9J79Hdg-3f2B5HWmOZg
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/c9oxyMCig0w/
+---

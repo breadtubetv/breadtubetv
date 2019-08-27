@@ -1,0 +1,12 @@
+---
+id: qfxluzyU568
+title: Lohjan Punaisten Muistomerkki (Monument to Finnish Reds in Lohja)
+description: |-
+  Muistomerkki Lohjalla tapetuille Punaisille. Suurin osa kuoli teloituksissa ja keskitysleireillä.
+
+  Memorial monument to the Reds killed in Lohja. The majority died in executions and concentration camps.
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/qfxluzyU568/
+---

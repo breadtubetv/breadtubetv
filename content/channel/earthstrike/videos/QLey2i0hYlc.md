@@ -1,0 +1,10 @@
+---
+id: QLey2i0hYlc
+title: "EarthStrike Jan 15th Promo"
+channel: earthstrike
+description:
+series: earthstrike
+source: youtube
+type: video
+url: /earthstrike/videos/QLey2i0hYlc/
+---

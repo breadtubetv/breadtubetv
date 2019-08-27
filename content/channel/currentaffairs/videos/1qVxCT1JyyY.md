@@ -1,0 +1,12 @@
+---
+id: 1qVxCT1JyyY
+title: 'Current Affairs presents: "The Mistaken Séance of William F. Buckley"'
+description: |-
+  Subscribe to the podcast at: CurrentAffairs.org/podcast
+  Subscribe to the magazine at: CurrentAffairs.org/subscribe
+  Support Current Affairs at: Patreon.com/CurrentAffairs
+source: youtube
+channel: currentaffairs
+type: video
+url: /currentaffairs/videos/1qVxCT1JyyY/
+---

@@ -1,0 +1,9 @@
+---
+id: OniLn0X5HH8
+title: Camping!
+description: ""
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/OniLn0X5HH8/
+---

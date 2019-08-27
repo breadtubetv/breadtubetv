@@ -1,0 +1,23 @@
+---
+id: Am7Rt5AmgJI
+title: Non-Compete is a nice YouTube channel for nice people
+description: |-
+  Anarcho-communism and puppets, together at last.
+
+  Music by A Spoooky Ghost: https://soundcloud.com/aspoookyghost
+
+  Non-Compete is a leftist blog and YouTube channel.
+
+  Follow me on Mastodon. Find out more:
+  https://www.non-compete.com/its-time-...
+
+  Facebook/Twitter/Email info:
+  http://www.non-compete.com/about/
+
+  Patreon:
+  https://www.patreon.com/noncompete
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/Am7Rt5AmgJI/
+---

@@ -1,0 +1,10 @@
+---
+id: 2DACBsU_Eeo
+title: "Leftism IS Narcissism (if you lie about studies n stuff)"
+channel: vaush
+description: SMASH those like & subscribe buttons if you also like listening to weird Nazi babies tearily recite the first draft of their manifesto.
+series:
+source: youtube
+type: video
+url: /vaush/videos/2DACBsU_Eeo/
+---

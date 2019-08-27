@@ -1,0 +1,10 @@
+---
+id: kqHql6XeQVs
+title: "The Marketplace of Ideas Doesn't Work"
+channel: drlayman
+description:
+series:
+source: youtube
+type: video
+url: /drlayman/videos/kqHql6XeQVs/
+---

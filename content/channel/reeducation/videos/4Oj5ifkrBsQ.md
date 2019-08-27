@@ -1,0 +1,9 @@
+---
+id: 4Oj5ifkrBsQ
+title: "\U0001D400\U0001D40D\U0001D413\U0001D408\U0001D405\U0001D400 Part 1"
+description: When is violence not the answer?
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/4Oj5ifkrBsQ/
+---

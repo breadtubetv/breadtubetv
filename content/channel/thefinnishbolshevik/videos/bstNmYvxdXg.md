@@ -1,0 +1,11 @@
+---
+id: bstNmYvxdXg
+title: The Capitalist "Self-made man" argument
+description: |-
+  I misremembered the statistics. Only 35% of rich Americans came from normal circumstances.
+  https://inequality.org/research/selfmade-myth-hallucinating-rich/
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/bstNmYvxdXg/
+---

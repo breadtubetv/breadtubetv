@@ -1,0 +1,12 @@
+---
+id: g5RkoYAH6Q4
+title: Live Stream Interview with Curio!
+description: |-
+  Join us as we interview Curio, who runs this great political and media analysis channel:
+
+  https://www.youtube.com/channel/UCJmlCcnfMlyPA2oSbb072QA
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/g5RkoYAH6Q4/
+---

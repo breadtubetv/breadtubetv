@@ -1,0 +1,40 @@
+---
+id: n9mspMJTNEY
+title: Beauty | ContraPoints
+description: |-
+  Storytime: my facial plastic surgery journey
+
+  ✿Patreon: https://www.patreon.com/contrapoints
+  ✿Donate: https://paypal.me/contrapoints
+  ✿Merch: https://www.teepublic.com/stores/contrapoints?ref_id=5379
+  ✿Subscribe: https://www.youtube.com/c/ContraPoints
+  ✿Live Stream Channel: https://www.youtube.com/c/ContraPointsLive
+  ✿Twitter: https://twitter.com/ContraPoints
+  ✿Facebook: https://www.facebook.com/ContraPoints/
+  ✿Instagram: https://www.instagram.com/contrapoints/
+
+  Title song "Faceshopping" by SOPHIE
+  Satie's "Gymnopedie No. 1" arranged by Zoë Blade: http://www.zoeblade.com/
+  Other Zoë Blade tracks used:
+  "Stalker" "Tranquility Bass" "Jukko" "Acid Serum" "Serum Pads" "Beginnings" "Dead Inside"
+
+  Other music:
+  "Frontier" by DOCTOR VOX
+  "All I Need" by Valesco
+  "Catalyst" by TheDiabolicalWaffle
+  Check out my other videos:
+  Gender Critical: https://youtu.be/1pTPuoGjQsI
+  The Darkness: https://youtu.be/qtj7LDYaufM
+  "Are Traps Gay?": https://youtu.be/PbBzhqJK3bg
+  The Apocalypse: https://youtu.be/S6GodWn4XMM
+  Pronouns: https://youtu.be/9bbINLWtMKI
+  The Aesthetic: https://youtu.be/z1afqR5QkDM
+  Incels: https://youtu.be/fD2briZ6fB0
+  The West: https://youtu.be/hyaftqCORT4
+  Tiffany Tumbles: https://youtu.be/j1dJ8whOM8E
+  Jordan Peterson: https://youtu.be/4LqZdkkBDas
+source: youtube
+channel: contrapoints
+type: video
+url: /contrapoints/videos/n9mspMJTNEY/
+---

@@ -1,0 +1,9 @@
+---
+id: Czs13EFE4Vk
+title: Refugee Crisis At The Border
+description: 4 million refugees crossed the border. What should we do?
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/Czs13EFE4Vk/
+---

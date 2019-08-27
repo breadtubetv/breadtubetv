@@ -1,0 +1,29 @@
+---
+id: a3XjRO4-kGk
+title: What the Alt-Right Fears
+description: "DEAR YOUTUBE MODERATOR: My channel has recently been the target of a
+  spurious flagging campaign. Please take an extra moment to review this video! ❤\n\nMaximum
+  cuckoldry.\n\nBECOME MY PATRON: https://www.patreon.com/contrapoints\nDONATE: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted\nSUBSCRIBE:
+  https://www.youtube.com/c/ContraPoints\nLIVE STREAM CHANNEL: https://www.youtube.com/channel/UCGh4KSR8TZZlyq3qQDBsBLA\nTWEET:
+  https://twitter.com/ContraPoints\nFACEBOOK: https://www.facebook.com/ContraPoints/\n\nVoice
+  actors:\nDick Coughlan: https://www.youtube.com/user/DickDynasty666\nthe1janitor:
+  https://www.youtube.com/user/the1janitor\nhbomberguy: https://www.youtube.com/user/hbomberguy\nLindsay
+  Ellis: https://www.youtube.com/user/chezapoctube\n\nPrevious video about the Alt-Right:
+  https://youtu.be/U-c2qnfUNXE\n\nShaun and Jen: https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ\n\nCheck
+  out my videos about:\nWhy the Alt-Right Is Wrong: https://youtu.be/wyV0yeSZ94o\nViolence:
+  https://youtu.be/lmsoVFCUN3Q\nDegeneracy: https://youtu.be/9BlNGZunYM8\nThe Left:
+  https://youtu.be/QuN6GfUix7c\nDecrypting the Alt-Right: https://youtu.be/Sx4BVGPkdzk\nTERFs:
+  https://youtu.be/AQPWI7cEJGs\nGender Dysphoria: https://youtu.be/Ayuqizp4fyY\nFree
+  Speech (Part 1): https://youtu.be/4Z2uzEM0ugY\nFree Speech (Part 2): https://youtu.be/IBUuBd5VRbY\nDebating
+  the Alt-Right: https://youtu.be/zPa1wikTd5c\nWhat is Race?: https://youtu.be/PY3lBKje46E\nWhat
+  is Gender?: https://youtu.be/b_uEXzqW43c\nBDSM: https://youtu.be/T58pd_D_xYo\nPunching
+  Natsees: https://youtu.be/iEyL1rDe60w\n\nMusic:\n\n\"Catharsis\" by Romo\nBeethoven
+  Symphony No 5, Mvt 1\n\"Under the Double Eagle\" by Joseph Wagner\n\"Hopper\" by
+  Zoë Blade\nhttp://www.zoeblade.com \n\"Born Barnstormers\" by Brian Boyko\nBach
+  Adagio for violin (I'm not actually sure which one)\n\"Dub Trippin\" by MK2\n\"Still
+  Shining\" by The Passion HiFi\nand my cover of \"Old Time Rock N' Roll\""
+source: youtube
+channel: contrapoints
+type: video
+url: /contrapoints/videos/a3XjRO4-kGk/
+---

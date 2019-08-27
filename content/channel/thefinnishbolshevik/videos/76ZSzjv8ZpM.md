@@ -1,0 +1,9 @@
+---
+id: 76ZSzjv8ZpM
+title: She is the engineer
+description: Meanwhile in the Soviet Union...
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/76ZSzjv8ZpM/
+---

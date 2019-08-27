@@ -1,0 +1,21 @@
+---
+id: iGYnmZ9uN7g
+title: Ghost in the Shell Changed my Politics
+description: |-
+  How GITS: SAC's explicit focus on political potentialities, combined with the way it drew from real philosophers, helped guide my shift towards a leftist politics.
+
+  Support me on Patreon: https://www.patreon.com/Zeria
+  Or send a one-time donation through Ko-Fi: https://ko-fi.com/zeria_
+
+  Transcript: floatingintobliss.wordpress.com/2018/12/22/day-9-ghost-in-the-shell-changed-my-politics/
+
+  Follow me on Twitter: https://twitter.com/_Zeria_
+  Couples' Side Channel: https://www.youtube.com/channel/UC9mvbU-HNjLzYqx8ZiHsdBw
+  Trans Culture Club: https://www.youtube.com/channel/UCfmDm5OvKcDrDKb3F8sxVrw
+  Check out my blog: https://floatingintobliss.wordpress.com/
+  And my AO3 page: https://archiveofourown.org/users/Zeria/works
+source: youtube
+channel: zeria
+type: video
+url: /zeria/videos/iGYnmZ9uN7g/
+---

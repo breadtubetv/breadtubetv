@@ -1,0 +1,9 @@
+---
+id: gIvAQSw52V4
+title: Dies Irae Lööp
+description: Experiments with guitar looping and an epic one-take of Dotty the Turtle.
+source: youtube
+channel: mysticmuttering
+type: video
+url: /mysticmuttering/videos/gIvAQSw52V4/
+---

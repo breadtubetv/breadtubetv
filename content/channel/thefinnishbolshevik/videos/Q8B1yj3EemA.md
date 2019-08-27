@@ -1,0 +1,9 @@
+---
+id: Q8B1yj3EemA
+title: Otto Ville Kuusinen
+description: Suomalainen vallankumouksellinen
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/Q8B1yj3EemA/
+---

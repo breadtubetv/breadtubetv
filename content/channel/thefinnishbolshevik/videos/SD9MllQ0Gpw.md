@@ -1,0 +1,22 @@
+---
+id: SD9MllQ0Gpw
+title: '"27 Smuggled Pictures North Korea Doesnt Want You To See" Commentary'
+description: |-
+  Me and my good friend Zach decided to give our thoughts on the 27 DPRK pictures which circulated the internet and social media sites a short while ago.
+
+  For some reason anti-North Korea people were really excited about these pictures although they are actually very underwhelming.
+
+  Almost all of them are taken out of context, faked or manipulated in some way or there is simply nothing unusual or worth mentioning happening in the picture what so ever and if they were taken in any other country no one would care one bit.
+
+  There were at least two sites that featured these pictures and for some reason they have them in different order and some times drastically different explanations for what is happening in the pictures:
+
+  We went through them in the order they were in this article
+  http://www.policymic.com/articles/89555/27-smuggled-photos-reveal-the-harsh-realities-of-life-in-north-korea?utm_source=policymicFB&utm_medium=main&utm_campaign=social
+
+  This is the second one
+  http://atchuup.com/eye-opening-photos-of-north-korea/
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/SD9MllQ0Gpw/
+---

@@ -1,0 +1,17 @@
+---
+id: OW6GB4miOLk
+title: Politics IS Pro Wrestling
+description: |-
+  This is not a sport! It's a game.
+
+
+  Peter coffin https://youtu.be/VMU-YjVGiGs
+  https://www.patreon.com/deadheadanimation
+  https://www.instagram.com/re_education.official/?hl=en
+  https://twitter.com/professordarwin
+  https://discord.gg/2xrc6U4
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/OW6GB4miOLk/
+---

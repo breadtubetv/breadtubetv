@@ -1,0 +1,17 @@
+---
+id: YV_8WhzdYnE
+title: 'Communism For Beginners: Ep.5 - Foundations of Leninism #4 (Theory)'
+description: |-
+  THE TEXT
+  https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/ch03.htm
+
+  Audio version
+  https://www.youtube.com/watch?v=iPJZtxFDu_c
+
+  My video about 'Socialism in One Country'
+  https://www.youtube.com/watch?v=hCvyjA-7Dps
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/YV_8WhzdYnE/
+---

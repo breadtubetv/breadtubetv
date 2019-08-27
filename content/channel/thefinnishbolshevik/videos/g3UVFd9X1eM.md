@@ -1,0 +1,10 @@
+---
+id: g3UVFd9X1eM
+title: Red Guard monument in Karkkila Finland
+description: Monument to Red Guards and their families who were murdered by the capitalists
+  in the aftermath of the civil war
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/g3UVFd9X1eM/
+---

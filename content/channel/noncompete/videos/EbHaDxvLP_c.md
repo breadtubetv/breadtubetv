@@ -1,0 +1,26 @@
+---
+id: EbHaDxvLP_c
+title: Vietnamese Witch Banishes Emerican | Breadcast Highlights
+description: |-
+  Shirts and Stickers now available for pre-order!
+  CONSUME, COMRADES:
+  https://www.non-compete.com/stuff
+
+  Subscribe to Luna's channel!
+  http://www.youtube.com/lunaoi
+
+  Non-Compete is a leftist blog and YouTube channel.
+
+  Follow me on Mastodon. Find out more:
+  https://www.non-compete.com/its-time-...
+
+  Facebook/Twitter/Email info:
+  http://www.non-compete.com/about/
+
+  Patreon:
+  https://www.patreon.com/noncompete
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/EbHaDxvLP_c/
+---

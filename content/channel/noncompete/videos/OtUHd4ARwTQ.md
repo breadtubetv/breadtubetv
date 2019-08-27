@@ -1,0 +1,20 @@
+---
+id: OtUHd4ARwTQ
+title: Is this the worst meme we've ever wrecked...? [ Breadcast Highlights ]
+description: |-
+  Subscribe to Luna:
+  https://www.youtube.com/lunaoi
+
+  Support Non-Compete:
+  https://www.patreon.com/noncompete
+
+  Shop:
+  https://www.non-compete.com/shop/
+
+  Give Amazon's Money to Us:
+  https://amzn.to/2H6CKfe
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/OtUHd4ARwTQ/
+---

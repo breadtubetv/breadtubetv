@@ -1,0 +1,10 @@
+---
+id: 42WvkEEKFiM
+title: "Why the Right Doesn't Care About FACTS"
+channel: sjaydoubleview
+description: "Ben Shapiro EVISCERATED with FACTS and MAIMED by LOGIC."
+series:
+source: youtube
+type: video
+url: /sjaydoubleview/videos/42WvkEEKFiM/
+---

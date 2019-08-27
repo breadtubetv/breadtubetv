@@ -1,0 +1,23 @@
+---
+id: NdOZWCsTiVQ
+title: I got a Donald Trump Haircut in Hanoi (for World Peace!)
+description: |-
+  ...the things I do for world peace...
+
+  Subscribe to Luna Oi:
+  https://www.youtube.com/lunaoi
+
+  Buy Non-Compete Stuff: https://www.non-compete.com/stuff/
+
+  Patreon: https://patreon.com/noncompete
+
+  Follow me on Mastodon. Find out more:
+  https://www.non-compete.com/its-time-...
+
+  Facebook/Twitter/Email info:
+  http://www.non-compete.com/about/
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/NdOZWCsTiVQ/
+---

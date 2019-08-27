@@ -1,0 +1,18 @@
+---
+id: 8RhDLnn6d7g
+title: Fascism vs. Leftism in Austria | Micro-Internationale e01 [HIGHLIGHTS]
+description: |-
+  These are the highlights from the first episode of the Micro-Internationale!
+
+  Edited by: https://twitter.com/wellredwriting
+
+  Music by Dreamhaunt: https://www.youtube.com/watch?v=9j7E7pPfNYQ
+
+  Subscribe to Luna: https://www.youtube.com/lunaoi
+
+  Patreon: https://www.patreon.com/noncompete
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/8RhDLnn6d7g/
+---

@@ -1,0 +1,10 @@
+---
+id: C9yx-VKIBrM
+title: Why Prepare for Economic Collapse?
+description: Massive job loss, consolidation, automation and ever rising debt... Go
+  on with your day. Nothing to see here.
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/C9yx-VKIBrM/
+---

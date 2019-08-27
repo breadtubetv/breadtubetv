@@ -1,0 +1,10 @@
+---
+id: -radpXAviws
+title: "DEBUNKING Alt-Right Myths about the First Crusade"
+channel: thekavernacle
+description: "The alt-right and general conservatives like to paint the First Crusade as a defence of Christendom after sustained Muslim attack since the Islamic Empire spread to Iberia in 711 and was finally halted in Tours, France in 732. I debunk these myths and give the topic the nuance it requires."
+series:
+source: youtube
+type: video
+url: /thekavernacle/videos/-radpXAviws/
+---

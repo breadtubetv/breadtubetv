@@ -1,0 +1,38 @@
+---
+id: 4LqZdkkBDas
+title: Jordan Peterson | ContraPoints
+description: |-
+  A response.
+
+  ✿Patreon: https://www.patreon.com/contrapoints
+  ✿Donate: https://paypal.me/contrapoints
+  ✿Merch: https://www.teepublic.com/stores/contrapoints?ref_id=5379&ref_type=aff
+  ✿Subscribe: https://www.youtube.com/c/ContraPoints
+  ✿Live Stream Channel: https://www.youtube.com/c/ContraPointsLive
+  ✿Twitter: https://twitter.com/ContraPoints
+  ✿Facebook: https://www.facebook.com/ContraPoints/
+  ✿Instagram: https://www.instagram.com/contrapoints/
+
+  Credits music by Zoë Blade: http://zoeblade.com/
+
+  Check out my videos about:
+  Capitalism (Part 2): https://youtu.be/AR7ryg1w_IQ
+  Capitalism (Part 1): https://youtu.be/gJW4-cOZt8A
+  America—Still Racist: https://youtu.be/GWwiUIVpmNY
+  Autogynephilia: https://youtu.be/6czRFLs5JQo
+  Violence: https://youtu.be/lmsoVFCUN3Q
+  Degeneracy: https://youtu.be/9BlNGZunYM8
+  The Left: https://youtu.be/QuN6GfUix7c
+  Decrypting the Alt-Right: https://youtu.be/Sx4BVGPkdzk
+  TERFs: https://youtu.be/AQPWI7cEJGs
+  Gender Dysphoria: https://youtu.be/Ayuqizp4fyY
+  Free Speech (Part 1): https://youtu.be/GGTDhutW_us
+  Free Speech (Part 2): https://youtu.be/IBUuBd5VRbY
+  Debating the Alt-Right: https://youtu.be/zPa1wikTd5c
+  What is Race?: https://youtu.be/PY3lBKje46E
+  What is Gender?: https://youtu.be/b_uEXzqW43c
+source: youtube
+channel: contrapoints
+type: video
+url: /contrapoints/videos/4LqZdkkBDas/
+---

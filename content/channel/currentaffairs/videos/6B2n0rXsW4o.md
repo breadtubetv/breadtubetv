@@ -1,0 +1,12 @@
+---
+id: 6B2n0rXsW4o
+title: 'Current Affairs presents: The Natural Sleep Aerobed'
+description: |-
+  Subscribe to the podcast at: CurrentAffairs.org/podcast
+  Subscribe to the magazine at: CurrentAffairs.org/subscribe
+  Support Current Affairs at: Patreon.com/CurrentAffairs
+source: youtube
+channel: currentaffairs
+type: video
+url: /currentaffairs/videos/6B2n0rXsW4o/
+---

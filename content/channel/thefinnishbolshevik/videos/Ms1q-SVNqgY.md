@@ -1,0 +1,12 @@
+---
+id: Ms1q-SVNqgY
+title: '[2K SUBS!] I''m doing a Q&A!'
+description: |-
+  Post your questions in the comment section of this video!
+
+  Thanks to all of my subscribers!
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/Ms1q-SVNqgY/
+---

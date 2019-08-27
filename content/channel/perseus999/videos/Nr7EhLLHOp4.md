@@ -1,0 +1,10 @@
+---
+id: Nr7EhLLHOp4
+title: "A message from the anarchists fighting in Syria against ISIS (Raqqa)"
+channel: perseus999
+description: "A message from the comrades of the \"Revolutionary Union for Internationalist Solidarity\" (RUIS) fighting in Syria against ISIS, following the Raqqa city liberation."
+series: "The Anarchist Revolution in Syria"
+source: youtube
+type: video
+url: /perseus999/videos/Nr7EhLLHOp4/
+---

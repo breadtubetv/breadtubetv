@@ -1,0 +1,10 @@
+---
+id: _EkaM3K9nNc
+title: "How Jake Paul is Late Capitalism Personified"
+channel: yugopnik
+description: "A dive into Late Capitalism through the prism of modern mainstream content creators."
+series: yugopnik
+source: youtube
+type: video
+url: /yugopnik/videos/_EkaM3K9nNc/
+---

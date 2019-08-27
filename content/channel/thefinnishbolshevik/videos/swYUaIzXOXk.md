@@ -1,0 +1,11 @@
+---
+id: swYUaIzXOXk
+title: Thoughts on Maoism
+description: |-
+  Thoughts on Hoxha & Hoxhaism
+  https://mltheory.wordpress.com/2017/07/14/thoughts-on-hoxha-hoxhaism/
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/swYUaIzXOXk/
+---

@@ -1,0 +1,9 @@
+---
+id: yUAS2ZNX0nA
+title: Net Neutrality (see the link in the description)
+description: https://www.battleforthenet.com/
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/yUAS2ZNX0nA/
+---

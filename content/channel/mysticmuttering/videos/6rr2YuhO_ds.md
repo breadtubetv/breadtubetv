@@ -1,0 +1,12 @@
+---
+id: 6rr2YuhO_ds
+title: The Return of the Tea
+description: |-
+  A piece of original utopian fiction set on an English country estate and village being run along syndicalist lines. The story takes the form of a diary entry, recounting a momentous day in the life of an unnamed farm worker. Thanks to my comrades for the seed of this idea and the courage to make it a thing. The music is based on Halantow, the Halston May Day carol.
+
+  Merch Here: https://www.teepublic.com/user/mysticmuttering
+source: youtube
+channel: mysticmuttering
+type: video
+url: /mysticmuttering/videos/6rr2YuhO_ds/
+---

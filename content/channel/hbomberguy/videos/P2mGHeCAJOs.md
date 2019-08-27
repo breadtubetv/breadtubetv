@@ -1,0 +1,13 @@
+---
+id: P2mGHeCAJOs
+title: What Modern Games Can Learn From Yooka-Laylee
+description: |-
+  A short exploration of the mechanics of Yooka-Laylee that have been abandoned in the time since its formula was popular, and how they still have some value.
+
+  Patreon: https://www.patreon.com/Hbomb
+  Twitter: https://twitter.com/hbomberguy
+source: youtube
+channel: hbomberguy
+type: video
+url: /hbomberguy/videos/P2mGHeCAJOs/
+---

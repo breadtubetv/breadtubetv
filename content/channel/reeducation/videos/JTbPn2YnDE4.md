@@ -1,0 +1,9 @@
+---
+id: JTbPn2YnDE4
+title: Cooperation Vs Competition
+description: Is it survival of the fittest, or mutual aid, that wins out?
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/JTbPn2YnDE4/
+---

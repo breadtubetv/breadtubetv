@@ -1,0 +1,11 @@
+---
+id: bqT-CiPnnxM
+title: Making fun of Steven Crowder (Feat. "The Hammer and Sickle")
+description: |-
+  The Hammer and Sickle channel
+  https://www.youtube.com/channel/UCAOU2ZMxUTJYzOganZqgJkQ
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/bqT-CiPnnxM/
+---

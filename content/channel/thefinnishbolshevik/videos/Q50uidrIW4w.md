@@ -1,0 +1,38 @@
+---
+id: Q50uidrIW4w
+title: The Historical Legacy of Socialism
+description: |-
+  Most Russians miss the Soviet Union
+  https://www.rbth.com/politics_and_society/2016/11/04/why-more-than-half-of-russians-miss-the-soviet-union_643655
+
+  Majority of East Germans prefer the GDR
+  http://www.spiegel.de/international/germany/homesick-for-a-dictatorship-majority-of-eastern-germans-feel-life-better-under-communism-a-634122.html
+
+  Economist  Taimur Rahman on Mao-era economic growth
+  https://redpakistan.wordpress.com/2006/05/28/the-meteoric-rise-of-china/
+
+  Russian life expectancy before Revolution was approx. 34 years
+  http://www.cas.miamioh.edu/havighurstcenter/papers/THREE%20CENTURIES%20OF%20RUSSIA%27S%20ENDEAVORS.pdf
+
+  Soviet life expectancy was double that of pre-revolutionary Russia
+  http://www.rand.org/content/dam/rand/www/external/pubs/issue_papers/IP162/xIP162.f5.jpg.pagespeed.ic.yY89aqx6xE.jpg
+
+  I got the GDR clips from this channel. Their video is excellent
+  https://www.youtube.com/watch?v=yQ23YijcT5M&t=79s
+
+  A lot of the Albania clips are from here
+  https://www.youtube.com/watch?v=-UWdRSkP99Y
+
+  Also used some footage from Benji's video
+  https://www.youtube.com/watch?v=2hSx6wEmiCA
+
+  Songs:
+  Guerilla War Tactix - Planet of the Apes (Dj s.R. Remix)
+  The People's Vanguard - This Means War
+  Pablo Hasél - Añorando a Iósif
+  Dead Prez - Malcolm, Garvey, Huey
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/Q50uidrIW4w/
+---

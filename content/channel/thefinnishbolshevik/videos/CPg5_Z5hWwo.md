@@ -1,0 +1,13 @@
+---
+id: CPg5_Z5hWwo
+title: Insane Finnish Capitalist Bureaucracy!
+description: |-
+  A small Finnish enterprise wants to sell repaired road construction machinery to Soviet Karelia right on the other side of the border. This turns out to be a rather difficult undertaking under the Finnish legal system!
+
+  The footage is from this show
+  https://en.wikipedia.org/wiki/Karpolla_on_asiaa
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/CPg5_Z5hWwo/
+---

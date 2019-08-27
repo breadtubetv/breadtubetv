@@ -1,0 +1,12 @@
+---
+id: X7nzyrbWv9E
+title: Nathan J. Robinson interviews Noam Chomsky
+description: |-
+  February 2019
+  Support Current Affairs at: Patreon.com/CurrentAffairs
+  Visit Current Affairs at: CurrentAffairs.org
+source: youtube
+channel: currentaffairs
+type: video
+url: /currentaffairs/videos/X7nzyrbWv9E/
+---

@@ -1,0 +1,10 @@
+---
+id: 3bbj63mrSU0
+title: "Justice for Waluigi: A Gateway Cause"
+channel: arthousepolitics
+description: "For many, #JusticeForWaluigi has become an entry point for larger political projects. Turn your volume down"
+series: JusticeForWaluigi
+source: youtube
+type: video
+url: /arthousepolitics/videos/3bbj63mrSU0/
+---

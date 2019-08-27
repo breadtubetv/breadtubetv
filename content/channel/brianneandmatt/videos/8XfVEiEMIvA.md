@@ -1,0 +1,10 @@
+---
+id: 8XfVEiEMIvA
+title: "Soy squad REACTS to SJW Gillette add!!!"
+channel: brianneandmatt
+description: "Watching reactionaries repeatedly miss the mark on large corporations trying to co-opt social justice is one of my favorite hobbies."
+series:
+source: youtube
+type: video
+url: /brianneandmatt/videos/8XfVEiEMIvA/
+---

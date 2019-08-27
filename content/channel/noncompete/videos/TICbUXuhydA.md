@@ -1,0 +1,14 @@
+---
+id: TICbUXuhydA
+title: Why aren't you (yes, you) in a union?
+description: |-
+  https://www.iww.org
+
+  Support Non-Compete:
+  https://www.patreon.com/noncompete
+  https://www.non-compete.com/shop/
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/TICbUXuhydA/
+---

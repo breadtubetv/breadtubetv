@@ -1,0 +1,11 @@
+---
+id: 1mivqglTQ_8
+title: Debunking RedandBlackRevolutionary
+description: |-
+  RedandBlackRevolutionary's video:
+  https://www.youtube.com/watch?v=jSmp6Mtw3q0
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/1mivqglTQ_8/
+---

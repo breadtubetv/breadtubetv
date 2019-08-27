@@ -1,0 +1,10 @@
+---
+id: BhfqQzMVJxI
+title: "Aussie Arms Industry | Honest Government Ad"
+channel: thejuicemedia
+description: "The Australien Government made an ad about how its plans to become one of the top 10 exporters of arms in the world, and it's surprisingly honest and informative."
+series: Honest Government Ads
+source: youtube
+type: video
+url: /thejuicemedia/videos/BhfqQzMVJxI/
+---

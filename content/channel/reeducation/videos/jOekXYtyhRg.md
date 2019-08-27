@@ -1,0 +1,12 @@
+---
+id: jOekXYtyhRg
+title: 'Anarcho-Communism: The ONLY Logical Position'
+description: |-
+  Anarchist communism is the most moral and easily defendable position to hold. Period.
+  Anarchy - the abolition of unjustified hierarchies
+  Communism- Workers own and control of the means of production
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/jOekXYtyhRg/
+---

@@ -1,0 +1,14 @@
+---
+id: 2pYG3XTx9RQ
+title: Global Climate Change is Going to Kill us All :) | Breadcast Highlights
+description: |-
+  Subscribe to Luna:
+  https://www.youtube.com/lunaoi
+
+  Patreon: https://www.patreon.com/noncompete
+  Non-Compete Shirts and Stickers: https://www.non-compete.com/shop/
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/2pYG3XTx9RQ/
+---

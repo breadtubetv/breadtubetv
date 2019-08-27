@@ -1,0 +1,10 @@
+---
+id: RCfGxe1-8as
+title: Capitalism Forces You To Be Sick
+description: Corporations make money by selling you low quality food. Low quality
+  food makes you unhealthy.
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/RCfGxe1-8as/
+---

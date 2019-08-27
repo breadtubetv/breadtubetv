@@ -1,0 +1,15 @@
+---
+id: j7f26gVlDQI
+title: My Transformers Midlife Crisis
+description: |-
+  Bah-weep-Graaaaagnah wheep ni ni bong
+
+  My Twitter: https://twitter.com/hbomberguy
+  My Patreon: https://www.patreon.com/Hbomb
+  My Twitch: https://www.twitch.tv/hbomberguy/
+  My Tumblr: http://hbomberguy.tumblr.com
+source: youtube
+channel: hbomberguy
+type: video
+url: /hbomberguy/videos/j7f26gVlDQI/
+---

@@ -1,0 +1,10 @@
+---
+id: 8nEvwthW8Es
+title: Anarcho-Communism and Equal Rights
+description: If everyone's vote is equal, will society be majority rule? Who will
+  stand up for the little guy?
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/8nEvwthW8Es/
+---

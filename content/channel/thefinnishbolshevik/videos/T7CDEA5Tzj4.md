@@ -1,0 +1,10 @@
+---
+id: T7CDEA5Tzj4
+title: I will stop accepting Q&A questions after Aug 22
+description: If you want your question to be included in the Q&A then post it by next
+  monday (august 22)
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/T7CDEA5Tzj4/
+---

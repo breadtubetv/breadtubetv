@@ -1,0 +1,55 @@
+---
+id: TBY_aDd5knE
+title: 'The Moscow Trials (Part 1: the investigation)'
+description: "Very good shorter video on the topic by Tovarich Endymion:\nhttps://www.youtube.com/watch?v=RbEmfzJeY48&t=1s\n\nMY
+  SOURCES:\n\nThe sources didn't all fit in the description. Full list here:\nhttps://mltheory.wordpress.com/2017/07/11/the-moscow-trials-part-1-the-investigation/\n\nLenin,
+  Summing-Up Speech On Party Unity And The Anarcho-Syndicalist Deviation\nhttp://www.marxistsfr.org/archive/lenin/works/1921/10thcong/ch04.htm\n\nTrotsky's
+  letters about the Bloc:\nLibrary of Harvard College 13905c, 1010, 4782 quoted in
+  Pierre Broué’s The “Bloc” of the Oppositions against Stalin. Available at https://mltheory.wordpress.com/2014/07/12/on-the-existence-and-character-of-the-united-bloc-of-rights-zinoviev-ites-and-trotsky-ites/\n\nSedov,
+  The Red Book\nhttps://www.marxists.org/history/etol/writers/sedov/works/red/\n\nGetty,
+  Origins of the Great Purges: The Soviet Communist Party Reconsidered, 1933-1938\nhttps://books.google.fi/books?id=R5zx54LB-A4C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false\n\nGetty
+  on the Kirov Murder:\nArch Getty, the H-RUSSIA discussion list August 24, 2000.\nquoted
+  here http://clogic.eserver.org/2009/furr.pdf\n\nAlexander Zinoviev, The remorse
+  of a dissident quoted here:\nhttps://communismgr.blogspot.fi/2016/08/the-remorse-of-dissident-alexander.html#more)\n\nJules
+  Humbert-Droz's statement:\n‘De Lénin à Staline, Dix Ans Au Service de L’ Internationale
+  Communiste 1921-31’\navailable at http://www.revolutionarydemocracy.org/rdv8n1/bukharin.htm\n\nTokaev,
+  Comrade X. Publisher, Harvill Press, 1956 (page 43)\nhttps://books.google.fi/books?redir_esc=y&id=HqoeAAAAMAAJ&focus=searchwithinvolume&q=left-wing+socialists\n\nIbid.
+  (page 68)\nhttps://books.google.fi/books?redir_esc=y&id=HqoeAAAAMAAJ&focus=searchwithinvolume&q=we+tried+to+save+Bukharin\n\nTokaev,
+  Grigori. Betrayal of an Ideal, Bloomington, Ind.: Indiana University Press, 1955\nhttps://archive.org/stream/betrayalofandide008698mbp/betrayalofandide008698mbp_djvu.txt\n\nLetter
+  from Marshall Budyanni to Commissar for Defense Kliment Voroshilov (June 26, 1937)\n\nColonel
+  Alksnis interviews\nElementy, 2000 & Bobrov, Vladimir L’vovich Transcript of a recorded
+  conversation with Deputy V.I. Alksnis quoted here http://clogic.eserver.org/2009/furr.pdf\n\nMolotov
+  Remembers quoted here:\nhttps://espressostalinist.com/category/revisionism/trotskyism/page/4/\n\nTrotsky,
+  Problem of the Ukraine\nhttps://www.marxists.org/archive/trotsky/1939/04/ukraine.html\n\nTrotsky,
+  On the Eve of the Congress https://www.marxists.org/archive/trotsky/1934/01/congress.htm\n\nTrotsky,
+  On the Kirov Assassination \nhttps://www.marxists.org/archive/trotsky/1934/12/kirov.htm\n\nTrotsky,
+  Are There Limits to the Fall? \nhttps://www.marxists.org/archive/trotsky/1934/01/fall.htm\n\nTrotsky,
+  Pour sa propre sauvegarde, la bureaucratie entretient la terreur (26 September 1935).
+  L'appareil policier du stalinisme (Paris: Union générale d'éditions, 1976), pp.
+  85-87.\n\nTrotsky, Que signifie la capitulation de Rakovsky? (31 March 1934). La
+  lutte, pp. 59—60.\n\nTrotsky, Le gouvernement soviétique applique-t-il toujours
+  les principes définis il y a vingt ans? (13 January 1938). La lutte, pp. 159—160.\n\nTrotsky,
+  A Political Dialogue, pp. 156, 158. \n\nTrotsky, A Fresh Lesson: After the \"Imperialist
+  Peace\" at Munich (10 October 1938). Writings, vol. 11, p. 68.\n\nTrotsky, Stalin
+  After the Finnish Experience (13 March 1940). Writings, vol. 12, p. 160. \n\nZborowski
+  reports 8 feb. 1837 & 11 feb. 1938, quoted in Bertrand M. Patenaude, Stalin's Nemesis\n\nTukhachevsky's
+  testimony published in Molodaia Gvardiia issue 10 of 1994 quoted here: http://clogic.eserver.org/2009/furr.pdf\n\nGeoffrey
+  Bailey, The Conspirators (page 215)\nhttps://books.google.fi/books?redir_esc=y&id=rP4jAAAAMAAJ&focus=searchwithinvolume&q=Titulescu\n\nYuri
+  Yemelianov, The Tukhachevsky Conspiracy\nhttp://www.revolutionarydemocracy.org/rdv13n2/tukhach.htm\n\nHitler
+  read Trotsky's Autobiography:\nKonrad Heiden, Der Fuehrer: Hitler's rise to power
+  (page 318)\nhttps://books.google.fi/books?redir_esc=y&id=_lUTAQAAMAAJ&focus=searchwithinvolume&q=i+have+learned\n\nAnna
+  Strong, The Soviets Expected It. New York: The Dial press, 1941, p. 134 available
+  here\nhttp://www.stalinsociety.org/2016/04/10/the-real-stalin-series-part-fourteen-military-purges/\n\nAlexander
+  Werth, quoted in Harpal Brar, Perestroika: The Complete Collapse of Revisionism
+  \ (1992) p. 161 here: \nhttps://books.google.fi/books?redir_esc=y&id=LOBoAAAAMAAJ&focus=searchwithinvolume&q=alexander\n\nAlso
+  here: http://marxism.halkcephesi.net/Ludo%20Martens/node115.html\n\nFull book in
+  Russian here:http://www.cpgb-ml.org/download/publications/HarpalBrar_Perestroika_Russian.pdf\n\nVlasov
+  and Vlasovites. New Times 44 (1990), pp. 36—40. \"Why I embarked on the road of
+  struggle against Bolshevism\" available here:\nhttp://marxism.halkcephesi.net/Ludo%20Martens/node117.html\n\nFrederick
+  Ludwig Carsten, \"New Evidence against Marshal Tukhachevskii\" in 'New Light On
+  Old Stories About Marshal Tukhachevskii : Some Documents Reconsidered'"
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/TBY_aDd5knE/
+---

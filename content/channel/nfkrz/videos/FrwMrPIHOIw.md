@@ -1,0 +1,10 @@
+---
+id: FrwMrPIHOIw
+title: "Fast Food in the USSR: The History"
+channel: nfkrz
+description: "In this EPIC video essay I'll tell you about how fast food brands like McDonalds, Pizza Hut, Burger King and others made their way into the Soviet Union and Russia. Including stories on how the USSR government traded vodka and Soviet warships for Pepsi."
+series:
+source: youtube
+type: video
+url: /nfkrz/videos/FrwMrPIHOIw/
+---

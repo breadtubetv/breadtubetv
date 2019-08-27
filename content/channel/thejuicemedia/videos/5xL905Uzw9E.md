@@ -1,0 +1,10 @@
+---
+id: 5xL905Uzw9E
+title: "Batman | Honest Government Ad"
+channel: thejuicemedia
+description: "Mining giant Adani has made an ad about the Batman by-election on March 17, and it's surprisingly honest and informative."
+series: Honest Government Ads
+source: youtube
+type: video
+url: /thejuicemedia/videos/5xL905Uzw9E/
+---

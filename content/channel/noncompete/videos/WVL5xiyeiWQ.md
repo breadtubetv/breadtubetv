@@ -1,0 +1,17 @@
+---
+id: WVL5xiyeiWQ
+title: Talkin' Maoism with Black Red Guard
+description: |-
+  Subscribe to Black Red Guard:
+  https://www.youtube.com/channel/UCpYZYH_1VTB9q8Leg0TrROA
+
+  Subscribe to Luna:
+  https://www.youtube.com/lunaoi
+
+  Support Noncompete:
+  https://www.patreon.com/noncompete
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/WVL5xiyeiWQ/
+---

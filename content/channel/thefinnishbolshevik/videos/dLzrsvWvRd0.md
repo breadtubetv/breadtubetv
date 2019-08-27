@@ -1,0 +1,9 @@
+---
+id: dLzrsvWvRd0
+title: Dprk preparing for another arduous march?
+description: https://www.youtube.com/channel/UCrU8WB39jDfuQ5k_6Y7kT7g
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/dLzrsvWvRd0/
+---

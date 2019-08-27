@@ -1,0 +1,13 @@
+{{ define "main" }}
+  <div class="content">
+    <h1 class="heading">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h1>
+
+    <p>{{ .Description | markdownify }}</p>
+
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/{{ .Params.id }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+  </div>
+{{ end }}

@@ -1,0 +1,10 @@
+---
+id: daOAduw9h9g
+title: Žižek vs Peterson - a Horrendous Mismatch of Minds
+channel: vaush
+description: This was a really fun one for me. Hope you all enjoy!
+series:
+source: youtube
+type: video
+url: /vaush/videos/daOAduw9h9g/
+---

@@ -1,0 +1,9 @@
+---
+id: Cw2uZ1HqOjs
+title: Liberals Build Pipeline During Climate Emergency [Trudeau Week Ep2]
+description: "Pipelines Kill Jobs and the Environment \nhttps://www.patreon.com/deadheadanimation\nhttps://www.instagram.com/re_education.official/?hl=en\nhttps://twitter.com/professordarwin\nhttps://discord.gg/TVrdRMM"
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/Cw2uZ1HqOjs/
+---

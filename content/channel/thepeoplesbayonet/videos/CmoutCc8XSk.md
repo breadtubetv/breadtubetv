@@ -1,0 +1,11 @@
+---
+id: CmoutCc8XSk
+title: 'The Problem: GLOBALIZATION (EP 04)'
+description: |-
+  The Problem: This Video Was Almost Called Globalism But It Turns Out That's Not What That Means Anymore
+source: youtube
+channel: thepeoplesbayonet
+series: The Problem
+type: video
+url: /thepeoplesbayonet/videos/CmoutCc8XSk/
+---

@@ -1,0 +1,10 @@
+---
+id: QjU8R8oj328
+title: "Visit West Papua! | Honest Government Ad"
+channel: thejuicemedia
+description: "The Australien Government has made an ad about West Papua and it’s surprisingly honest and informative!"
+series: Honest Government Ads
+source: youtube
+type: video
+url: /thejuicemedia/videos/QjU8R8oj328/
+---

@@ -1,0 +1,10 @@
+---
+id: 5FiW4vVh3xo
+title: "EXTINCTION"
+channel: arthousepolitics
+description: "{ 𝔼𝕏𝕋𝕀ℕℂ𝕋𝕀𝕆ℕ } A desperate Parasaurolophus talks to dinosaurs about the coming asteroid extinction."
+series: Extinction
+source: youtube
+type: video
+url: /arthousepolitics/videos/5FiW4vVh3xo/
+---

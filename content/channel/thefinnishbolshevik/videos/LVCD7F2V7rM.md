@@ -1,0 +1,14 @@
+---
+id: LVCD7F2V7rM
+title: Long Response to Luis (With Raven)
+description: |-
+  Responding to Luis Marrero's hilarious video.
+
+  Luis not only makes a total fool of himself in his ignorance of history, failure to understand what constitutes as evidence, but also resorts to adhominem attacks, crude propaganda tactics.
+
+  If that wasn't enough he makes a borderline homophobic attack against me and defends Rhodesian white supremacy! I'm not even fucking kidding, its awful.
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/LVCD7F2V7rM/
+---

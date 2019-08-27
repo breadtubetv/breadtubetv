@@ -1,0 +1,14 @@
+---
+id: Vg5l_rt2rsw
+title: Defund And Privatize
+description: |-
+  It's not in the best interest of the state to help you.
+  https://www.patreon.com/deadheadanimation
+  https://www.instagram.com/re_education.official/?hl=en
+  https://twitter.com/professordarwin
+  https://discord.gg/TVrdRMM
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/Vg5l_rt2rsw/
+---

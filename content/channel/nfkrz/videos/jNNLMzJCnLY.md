@@ -1,0 +1,10 @@
+---
+id: jNNLMzJCnLY
+title: "t.A.T.u. - The Story of The Russian Lesbian Pop Group"
+channel: nfkrz
+description: "This video is about the Russian 2000s band known as t.A.T.u. or TATU. This was a duo that shook the West and had a lot to do with LGBT rights in Russia. Today we examine the story of t.A.T.u. and their cultural impact."
+series:
+source: youtube
+type: video
+url: /nfkrz/videos/jNNLMzJCnLY/
+---

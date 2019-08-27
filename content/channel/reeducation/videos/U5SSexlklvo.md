@@ -1,0 +1,15 @@
+---
+id: U5SSexlklvo
+title: Production in Ancom (Gift Economy)
+description: |-
+  Three forms of production. One is better.
+
+  https://www.patreon.com/deadheadanimation
+  https://www.instagram.com/re_education.official/?hl=en
+  https://twitter.com/professordarwin
+  https://discord.gg/2xrc6U4
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/U5SSexlklvo/
+---

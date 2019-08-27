@@ -1,0 +1,65 @@
+---
+id: yCxqdhZkxCo
+title: 'Transphobia: An Analysis | Philosophy Tube'
+description: |-
+  Ancient Greek Scepticism is back, and this time it’s personal.
+  Subscribe! http://tinyurl.com/pr99a46
+
+  Patreon: http://www.patreon.com/PhilosophyTube
+
+  Paypal.me/PhilosophyTube
+
+  Wanna get me a book for the show? http://amzn.eu/5JAYdOd
+
+  Check out my other videos on:
+  Suic!de and Ment@l He@lth: https://www.youtube.com/watch?v=eQNw2FBdpyE
+  Elon Musk: https://www.youtube.com/watch?v=5gnlhmaM-dM
+  When Will Security Go Back to Normal? https://www.youtube.com/watch?v=yyzd_a6vLWY
+  Why Do I Hate My Self? https://www.youtube.com/watch?v=0AuFvboGKrQ
+  What is Solitary Confinement Like? https://www.youtube.com/watch?v=k-ZfPYRkEGk
+
+  Facebook: http://tinyurl.com/jgjek5w
+
+  Twitter: @PhilosophyTube
+
+  Email: ollysphilosophychannel@gmail.com
+
+  Google+: google.com/+thephilosophytube
+
+  realphilosophytube.tumblr.com
+
+  Recommended Reading:
+  Bettcher, “When Tables Speak”: On the Existence of Trans Philosophy (https://dailynous.com/2018/05/30/tables-speak-existence-trans-philosophy-guest-talia-mae-bettcher/) and “Brainsex” (https://archive.org/details/Brainsex) and “Trapped in the Wrong Theory: Rethinking Trans Oppression & Resistance”
+  https://learningtrans.files.wordpress.com/2010/11/trapped-in-the-wrong-theory.pdf
+  Julia Serano, Whipping Girl https://tinyurl.com/ybuqerey
+  David Hume, Enquiry Concerning Human Understanding, Section XII
+  Sextus Empiricus, Outlines of Scepticism (pdf) https://track3.mixtape.moe/xstcvo.pdf
+  Cicero, De Natura Deorum http://oll.libertyfund.org/titles/cicero-on-the-nature-of-the-gods
+  Butler, Gender Trouble https://tinyurl.com/ycqbwp6b
+  Natalie Wynn - https://www.youtube.com/user/ContraPoints
+  Casey Explosion - https://www.twitch.tv/caseyexplosion
+  Riley J. Dennis - https://www.youtube.com/user/JustinDennisYT
+  Kat Blaque - https://www.youtube.com/user/TransDIYer
+  Jackson Bird - https://www.youtube.com/user/loraxism
+  100 Ways to Be A Trans Ally: https://www.vice.com/en_uk/article/mbdx7n/100-ways-be-trans-ally-tips
+
+  Music by Zoe Blade:
+  Jukko - https://www.amazon.com/Jukko/dp/B01AZM11UK
+  Inner Harp - https://zoeblade.bandcamp.com/album/hello-calm
+  Sunshine - https://zoeblade.bandcamp.com/album/hello-calm
+  Walking In the Rain - https://zoeblade.bandcamp.com/album/hello-calm
+
+  Other Music by Epidemic Sound (Epidemicsound.com)
+
+  "Trans Lives Are Not A Debate" sticker design by @theFoxFisher, https://www.youtube.com/mygenderation
+  Photo of the Ruined Temple of Zeus by Karta24
+  Smiling Man Stock Footage by Videvo
+
+  If you or your organisation would like to financially support Philosophy Tube in distributing philosophical knowledge to those who might not otherwise have access to it in exchange for credits on the show, please get in touch!
+
+  Any copyrighted material should fall under fair use for educational purposes or commentary, but if you are a copyright holder and believe your material has been used unfairly please get in touch with us and we will be happy to discuss it.
+source: youtube
+channel: philosophytube
+type: video
+url: /philosophytube/videos/yCxqdhZkxCo/
+---

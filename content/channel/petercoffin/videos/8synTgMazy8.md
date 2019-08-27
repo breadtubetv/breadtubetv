@@ -1,0 +1,11 @@
+---
+id: 8synTgMazy8
+title: Cake + Answers
+description: "Help us caption & translate this video!\n\nhttps://amara.org/v/daGJ/\n\n-~-~~-~~~-~~-~-\nNEW
+  VIDEO: \"Free Speech 2: Censorship Boogaloo (Infowars, Steven Crowder) | Very Important
+  Docs²³\" \nhttps://www.youtube.com/watch?v=SlFdykutQ0g&list=PL9oHQnEByWyXObkJN9YYQS9hxBjpN8RLG\n-~-~~-~~~-~~-~-"
+source: youtube
+channel: petercoffin
+type: video
+url: /petercoffin/videos/8synTgMazy8/
+---

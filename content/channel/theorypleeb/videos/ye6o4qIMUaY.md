@@ -1,0 +1,10 @@
+---
+id: ye6o4qIMUaY
+title: "GAME: Commodify Yourself | Alain Badiou | feat. Ashleigh Coffin, Chrisiousity, and Kiwi"
+channel: theorypleeb
+description: "This video examines the idea that you should \"Commodify yourself in the 'dating market'!\" It seeks to show why 'scarcity dynamics' work, and how they can be harmful. What are the alternatives? Sit in on a session at the Center for Game Recovery and find out!"
+series: theorypleeb
+source: youtube
+type: video
+url: /theorypleeb/videos/ye6o4qIMUaY/
+---

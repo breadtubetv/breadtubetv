@@ -1,0 +1,14 @@
+---
+id: PxaZ0SCQhCs
+title: Vietnamese communist can't understand American conservatives | Breadcast
+description: |-
+  It's Luna's birthday and she's mighty confused about reactionaries!
+
+  Subscribe to Luna: https://www.youtube.com/LunaOi
+  Patreon: https://www.patreon.com/noncompete
+  Shirts 'n Stuff: https://www.non-compete.com/shop/
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/PxaZ0SCQhCs/
+---

@@ -1,0 +1,17 @@
+---
+id: ciDVSDcxGjU
+title: SlimeCast! NOT FEATURING LUNA!
+description: |-
+  No Luna today! Subscribe to ThoughtSlime:
+  https://www.youtube.com/thoughtslime
+
+  Subscribe to Luna anyway I guess:
+  https://www.youtube.com/lunaoi
+
+  Support Non-Compete:
+  https://www.patreon.com/noncompete
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/ciDVSDcxGjU/
+---

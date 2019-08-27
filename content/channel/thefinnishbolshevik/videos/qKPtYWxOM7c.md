@@ -1,0 +1,20 @@
+---
+id: qKPtYWxOM7c
+title: PragerU response ("Who is Karl Marx?") (ft. Big Brain University)
+description: "Subscribe to Polinkazh to watch our new podcast\nhttps://www.youtube.com/channel/UCTVqVQpikHxgLaPf8kguMHg\n\nLibertarians
+  just don't get the \"10 planks of communism\" \nhttps://www.youtube.com/watch?v=p9OyYMsvvw4\n\nCommunist
+  Poland documentary\nhttps://www.youtube.com/watch?v=kwMGfeNqwyU\n\nSOVIET ELECTIONS
+  & DEMOCRACY:\nhttps://www.youtube.com/watch?v=9PoYzPfguJc\nhttps://www.youtube.com/watch?v=Okz2YMW1AwY\nhttps://www.youtube.com/watch?v=XvcafXtNdr8\n\nLower
+  & Higher stages of Communism explained\nhttps://www.marxists.org/archive/marx/works/1875/gotha/ch01.htm\n\nCommunism
+  is stateless: Withering away of the state\nhttps://www.youtube.com/watch?v=S5o-_qYjB9g\n\nWhy
+  labour theory of value is right\nhttps://www.youtube.com/watch?v=emnYMfjYh1Q\n\nMarx
+  & Engels against utopian religious socialism\nhttp://hiaw.org/defcon6/works/1846/05/11.html\nhttps://www.marxists.org/archive/marx/works/1880/soc-utop/index.htm\n\nDeath
+  toll of Capitalism\nhttps://www.youtube.com/watch?v=QnIsdVaCnUE\nhttps://www.youtube.com/watch?v=XQe3e94PzWo\nhttps://www.youtube.com/watch?v=tzw28phbEi4\n\n__________________________\n\nMy
+  discord\nhttps://discord.gg/tsJTycv\n\nMy patreon\nhttps://www.patreon.com/TheFinnishBolshevik\n\nMy
+  facebook\nhttps://www.facebook.com/theFinnishBolshevik\n\nMy twitter\nhttps://twitter.com/FinnBolshevik\n\nMy
+  blog\nhttps://mltheory.wordpress.com/"
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/qKPtYWxOM7c/
+---

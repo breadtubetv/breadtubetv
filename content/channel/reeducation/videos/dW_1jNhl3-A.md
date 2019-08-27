@@ -1,0 +1,9 @@
+---
+id: dW_1jNhl3-A
+title: Why I HATE Liberals
+description: There is no such thing as a radical centrist.
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/dW_1jNhl3-A/
+---

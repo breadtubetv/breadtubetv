@@ -1,0 +1,10 @@
+---
+id: qqC1v79UXEg
+title: Live Stream Interview with Anarchist YouTuber Christopher Szabo!
+description: I'll be checking in with Christopher Szabo about his YouTube channel
+  in this live stream interview!
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/qqC1v79UXEg/
+---

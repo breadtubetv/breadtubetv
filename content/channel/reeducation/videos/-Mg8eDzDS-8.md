@@ -1,0 +1,10 @@
+---
+id: -Mg8eDzDS-8
+title: My journey From Neo-Nazi To Anarcho-Communist
+description: How I went from an angsty, shitloard, alt-right, racist, to a radically
+  decent person. Apparently I enjoy the extremes.
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/-Mg8eDzDS-8/
+---

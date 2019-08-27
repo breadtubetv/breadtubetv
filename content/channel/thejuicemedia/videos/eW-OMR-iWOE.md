@@ -1,0 +1,10 @@
+---
+id: eW-OMR-iWOE
+title: "Anti Encryption Law | Honest Government Ad"
+channel: thejuicemedia
+description: "The Australien Government has made an ad about its proposed anti encryption law and it's surprisingly honest and informative."
+series: Honest Government Ads
+source: youtube
+type: video
+url: /thejuicemedia/videos/eW-OMR-iWOE/
+---

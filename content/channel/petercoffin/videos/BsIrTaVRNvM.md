@@ -1,0 +1,21 @@
+---
+id: BsIrTaVRNvM
+title: Plastic Straws  | Many Peters³⁶
+description: "The idea that plastic straws should be banned distracts from corporate
+  waste.\nsubscribe and ring the bell and/or become a patron @ http://patreon.com/petercoffin\n\nfollow:
+  http://twitter.com/petercoffin\nmerch: http://teepublic.com/stores/peter-coffin?ref_id=6134\nbook:
+  http://amzn.to/32aT4FJ\npodcast: http://brew.com/shows/peter-coffin\n\n\n*****************\n\nsources:\n\nScience
+  Says: Amount of straws, plastic pollution is huge\n(only about 2,000 of the nearly
+  9 million tons, 0.022%, of yearly plastic waste is straws)\nhttps://phys.org/news/2018-04-science-amount-straws-plastic-pollution.html\n\nEvidence
+  that the Great Pacific Garbage Patch is rapidly accumulating plastic (46 percent
+  of the plastic in the garbage patch by weight is fishing nets)\nhttps://www.nature.com/articles/s41598-018-22939-w\n\n4
+  things we learned about plastic straw bans from people with disabilities\nhttps://mashable.com/2018/07/16/plastic-straw-ban-people-with-disabilities/#3IuH6OJaSPqW\n\nPlastic
+  straw alternative chart\nhttps://twitter.com/coraloha/status/1018711344269283328\n\nDisability
+  Rights Advocates Point Out Problem with Banning Plastic Straws\nhttps://nowthisnews.com/videos/news/disability-rights-advocates-on-the-problem-with-banning-plastic-straws\n\n********************\n\n#PlasticStraws
+  #Environmentalism #Outrage\n\n-~-~~-~~~-~~-~-\nNEW VIDEO: \"Free Speech 2: Censorship
+  Boogaloo (Infowars, Steven Crowder) | Very Important Docs²³\" \nhttps://www.youtube.com/watch?v=SlFdykutQ0g&list=PL9oHQnEByWyXObkJN9YYQS9hxBjpN8RLG\n-~-~~-~~~-~~-~-"
+source: youtube
+channel: petercoffin
+type: video
+url: /petercoffin/videos/BsIrTaVRNvM/
+---

@@ -1,0 +1,15 @@
+---
+id: GjNILjFters
+title: PewDiePie Is A Nazi
+description: |-
+  It's time to correct the record on The Media, which is definitely out to get me, for some reason
+
+
+  Twitter: https:/twitter.com/hbomberguy
+  Patreon: https://www.patreon.com/Hbomb
+  Music by Incompetech, Passions Hi-Fi and Arcade High
+source: youtube
+channel: hbomberguy
+type: video
+url: /hbomberguy/videos/GjNILjFters/
+---

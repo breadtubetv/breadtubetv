@@ -1,0 +1,18 @@
+---
+id: 54ECvhUXUkY
+title: Anarchist Organization Methodology and YOU! | Communist Quick-Start Training
+  Series
+description: "Welcome to the exciting world of Anarchist Revolution! This series of
+  training videos will prepare you for global liberation of humanity.\n\nResources:\nSecurity
+  Culture: https://deepgreenresistance.org/en/get-involved/security-culture\n\nCyber-Security
+  Basics: \nhttps://www.comparitech.com/blog/vpn-privacy/what-is-doxxing-how-to-avoid/\n\nMinimanual
+  of the Urban Guerilla:\nhttps://socialhistoryportal.org/sites/default/files/raf/0719730000_0.pdf\n\nLoomio
+  Flat Hierarchy Organization Handbook:\nhttps://loomio.coop/working_groups.html\n\nOrganizations:\nhttp://internationalistcommune.com\nhttps://socialistra.org/\nhttp://foodnotbombs.net/new_site/\nhttps://mutualaiddisasterrelief.org/\n\nNon-Compete
+  is a leftist blog and YouTube channel.\n\nBuy Non-Compete Stuff: https://www.non-compete.com/stuff/\n\nPatreon:
+  patreon.com/noncompete\n\nFollow me on Mastodon. Find out more:\nhttps://www.non-compete.com/its-time-...\n\nFacebook/Twitter/Email
+  info:\nhttp://www.non-compete.com/about/"
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/54ECvhUXUkY/
+---

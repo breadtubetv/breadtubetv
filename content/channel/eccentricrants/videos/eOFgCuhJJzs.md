@@ -1,0 +1,11 @@
+---
+id: eOFgCuhJJzs
+title: 'Eccentric Cast EP2: Fuck the Monarchy, Bring Back John Brown!'
+description: |-
+  --LINKS & RESOURCES--
+  Eccentric Rants Discord Server: https://discord.gg/HkgZF2P
+source: youtube
+channel: eccentricrants
+type: video
+url: /eccentricrants/videos/eOFgCuhJJzs/
+---

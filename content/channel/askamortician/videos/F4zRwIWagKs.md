@@ -1,0 +1,10 @@
+---
+id: F4zRwIWagKs
+title: "WHAT HAPPENED TO HIROSHIMA'S DEAD?"
+channel: askamortician
+description: What became of the bodies of those killed by the world's first nuclear bomb drop?
+series:
+source: youtube
+type: video
+url: /askamortician/videos/F4zRwIWagKs/
+---

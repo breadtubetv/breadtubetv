@@ -1,0 +1,11 @@
+---
+id: nXsvEHovKnA
+title: Reply to redandblackrevolutionary on The Black Book Of Communism
+description: |-
+  redandblackrevolutionary's response to me
+  https://www.youtube.com/watch?v=IuyFOm2Ezig
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/nXsvEHovKnA/
+---

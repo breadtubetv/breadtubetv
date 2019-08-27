@@ -1,0 +1,9 @@
+---
+id: czJ9dYoHaZc
+title: 'There is No Such Thing as a Natural Disaster. Part 2: Puerto Rico'
+description:
+source: youtube
+channel: mexie
+type: video
+url: /mexie/videos/czJ9dYoHaZc/
+---

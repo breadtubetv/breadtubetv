@@ -1,0 +1,9 @@
+---
+id: S5o-_qYjB9g
+title: Withering Away of the State
+description: https://www.marxists.org/archive/lenin/works/1917/staterev/ch05.htm
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/S5o-_qYjB9g/
+---

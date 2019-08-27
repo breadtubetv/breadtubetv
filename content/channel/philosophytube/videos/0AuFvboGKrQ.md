@@ -1,0 +1,28 @@
+---
+id: 0AuFvboGKrQ
+title: Why Do I Hate My Self? | Philosophy Tube ★
+description: "Self-hatred, anxiety, and internalised oppression can tell us a lot
+  about the philosophy of mind... Have you been hearing voices?\nPatreon: http://www.patreon.com/PhilosophyTube\n\nPaypal.me/PhilosophyTube\n\nWanna
+  get me a book for the show? http://amzn.eu/5JAYdOd\n\nCheck out my other videos
+  on:\nIntro to Hegel (& Progressive Politics) https://www.youtube.com/watch?v=OgNt1C72B_4\nCould
+  You Upload Your Mind Into A Computer? https://www.youtube.com/watch?v=UmXaMNE70g0\nAre
+  You Rational? https://www.youtube.com/watch?v=QiFOZEiehFo&t=0s&list=PLvoAL-KSZ32cABqZ-0SvFVsc4FY7iIyqv&index=2\n\nFacebook:
+  http://tinyurl.com/jgjek5w\n\nTwitter: @PhilosophyTube\n\nEmail: ollysphilosophychannel@gmail.com\n\nGoogle+:
+  google.com/+thephilosophytube\n\nrealphilosophytube.tumblr.com\n\nRecommended Reading:\nHelene
+  Shugart, Heavy https://tinyurl.com/yb6547oq\nWEB Du Bois, The Souls of Black Folk
+  https://www.bartleby.com/114/\nFanon, Black Skin, White Masks https://tinyurl.com/ybfzl828\nBivens,
+  Flipping the Script: White Privilege and Community Building (pdf) http://www.racialequitytools.org/resourcefiles/potapchuk1.pdf\nHume,
+  A Treatise of Human Nature http://www.gutenberg.org/files/4705/4705-h/4705-h.htm\nKant,
+  Groundwork of the Metaphysics of Morals \nAristotle, Nichomachean Ethics\nHeather
+  Widdows, Perfect Me https://tinyurl.com/ybypgpod\n\nMusic by Epidemic Sound (Epidemicsound.com)\n\nIf
+  you or your organisation would like to financially support Philosophy Tube in distributing
+  philosophical knowledge to those who might not otherwise have access to it in exchange
+  for credits on the show, please get in touch!\n\nAny copyrighted material should
+  fall under fair use for educational purposes or commentary, but if you are a copyright
+  holder and believe your material has been used unfairly please get in touch with
+  us and we will be happy to discuss it."
+source: youtube
+channel: philosophytube
+type: video
+url: /philosophytube/videos/0AuFvboGKrQ/
+---

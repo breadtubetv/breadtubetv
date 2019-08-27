@@ -1,0 +1,10 @@
+---
+id: A2ymjCqaAsY
+title: "Anti-Corruption Body | Honest Government Ad"
+channel: thejuicemedia
+description: "The Australien Government has made an ad about government corruption, and it's surprisingly honest and informative."
+series: Honest Government Ads
+source: youtube
+type: video
+url: /thejuicemedia/videos/A2ymjCqaAsY/
+---

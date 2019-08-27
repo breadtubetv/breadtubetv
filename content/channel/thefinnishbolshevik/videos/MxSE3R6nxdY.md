@@ -1,0 +1,9 @@
+---
+id: MxSE3R6nxdY
+title: My Thoughts On Anarchism
+description: You might be able to tell I don't like Anarchism much.
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/MxSE3R6nxdY/
+---

@@ -1,0 +1,13 @@
+---
+id: EYOFkYSQxr8
+title: The MEANS of PRODUCTION -- Interview with Means TV
+description: |-
+  Means TV is anticapitalist worker-owned entertainment network and streaming service.
+
+  https://www.youtube.com/meanstv
+  https://twitter.com/means_tv
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/EYOFkYSQxr8/
+---

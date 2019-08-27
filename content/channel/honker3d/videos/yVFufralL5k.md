@@ -1,0 +1,10 @@
+---
+id: yVFufralL5k
+title: "Stupid City, Episode 1 - Sky Parks"
+channel: honker3d
+description: "A look at how Ojamajo Doremi constructs its classroom and uses magic to recreate that time in childhood where capitalism didn't feel quite so hegemonic."
+series: Stupid City
+source: youtube
+type: video
+url: /honker3d/videos/yVFufralL5k/
+---

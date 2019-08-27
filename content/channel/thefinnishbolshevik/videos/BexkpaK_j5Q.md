@@ -1,0 +1,14 @@
+---
+id: BexkpaK_j5Q
+title: The Gulag Argument
+description: |-
+  https://libcom.org/files/WorkersAgainstWork-Seidman_0.pdf
+
+  http://www.isreview.org/issues/53/makhno.shtml
+
+  http://libcom.org/files/Kontrrazvedka%20-%20The%20Story%20of%20the%20Makhnovist%20Intelligence%20Service%20-%20V.%20Azarov.pdf
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/BexkpaK_j5Q/
+---

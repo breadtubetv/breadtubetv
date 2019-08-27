@@ -1,0 +1,17 @@
+---
+id: lQUHyB95d9s
+title: The Great Debate ft. Skeptical Unchild (Epic Rap Battles of Atheism)
+description: "Subscribe to Skeptical Unchild on YouTube: \nhttps://www.youtube.com/channel/UCXsBXTjcEqKDqfcdKvkGqzA\n\nTwitter:
+  https://twitter.com/SkepticUnchild\noriginal song: https://www.youtube.com/watch?v=lNpphVumJ_4\nA
+  big thanks to Browski for letting us use his beats!\nCheck out all his stuff!\nBrowski
+  - Si Sen Choir\nhttps://www.youtube.com/watch?v=2ggvs...\nBrowski - Drop That Bitch
+  \nhttps://www.youtube.com/watch?v=hqxNH...\nSoundcloud: https://soundcloud.com/browskimusic\nYouTube:
+  https://www.youtube.com/channel/UC8Jt...\nFace Book: https://www.facebook.com/browskimusic...\nTwitter:
+  https://twitter.com/BROWSKIMUSIC\n\nNEW Videos Every Week! Subscribe for more AWESOMENESS\nFollow
+  me on twitter https://twitter.com/professordarwin\nand Like us on FaceBook at https://www.facebook.com/legodarwin\n\nᵀʰᶦˢ
+  ᶜʰᵃᶰᶰᵉᶫ ᶦˢ ᶦᶰ ᶰᵒ ʷᵃʸ ˢᵖᵒᶰˢᵒʳᵉᵈ, ᵃᵘᵗʰᵒʳᶦᶻᵉᵈ ᵒʳ ᵉᶰᵈᵒʳˢᵉᵈ ᵇʸ ᵗʰᵉ ᴸᴱᴳᴼ ᶜᵒᵐᵖᵃᶰʸ⋅"
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/lQUHyB95d9s/
+---

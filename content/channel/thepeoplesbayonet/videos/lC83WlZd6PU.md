@@ -1,0 +1,11 @@
+---
+id: lC83WlZd6PU
+title: 'Study Break: Assange, Shkreli, Justice, and Vengeance'
+description: |-
+  Study Break: Yes, I still really don't like Julian Assange. Don't ask
+  me to defend his nasty ass.
+channel: thepeoplesbayonet
+series: Study Break
+type: video
+url: /thepeoplesbayonet/videos/lC83WlZd6PU/
+---

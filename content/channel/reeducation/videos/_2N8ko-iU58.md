@@ -1,0 +1,14 @@
+---
+id: _2N8ko-iU58
+title: Let's Talk About PRAXIS
+description: |-
+  Welcome new subscribers! It's time to discuss Fast, Nonviolent, Révolution.
+
+  A Modern Mass Line Could Save The World (11 Years Left)
+  Link:
+  https://www.reddit.com/r/DebateCommunism/comments/arj4e7/a_modern_mass_line_could_save_the_world_11_years/
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/_2N8ko-iU58/
+---

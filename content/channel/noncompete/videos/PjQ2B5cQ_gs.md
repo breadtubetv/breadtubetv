@@ -1,0 +1,22 @@
+---
+id: PjQ2B5cQ_gs
+title: A MANLY video for MANLY men about TOXIC MASCULINITY
+description: |-
+  If you're a man and you are skeptical about feminism, this video's for you. Don't swallow that red pill just yet - let's set some things straight about what "toxic masculinity" really means!
+
+  Non-Compete is a leftist blog and video series .
+  Read and watch more at http://www.non-compete.com
+
+  Subscribe on Facebook:
+  https://www.facebook.com/NonCompeteBlog/
+
+  Be my comrade on Twitter:
+  https://twitter.com/EmericanJohnson
+
+  Toot at me on Mastodon:
+  https://mastodon.social/@emerican
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/PjQ2B5cQ_gs/
+---

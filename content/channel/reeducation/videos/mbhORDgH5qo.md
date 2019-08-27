@@ -1,0 +1,9 @@
+---
+id: mbhORDgH5qo
+title: Is An Armed Rebellion A Bad Idea?
+description: The constitution says NO! But drone warfare says YES!
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/mbhORDgH5qo/
+---

@@ -1,0 +1,11 @@
+---
+id: NZsPM3-Rws4
+title: Freddy Mercury and a carrot and Vietnamese ASMR | Breadcast Highlights
+description: |-
+  Communism will win, subscribe to Luna Oi:
+  youtube.com/lunaoi
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/NZsPM3-Rws4/
+---

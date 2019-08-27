@@ -1,0 +1,10 @@
+---
+id: viq07uK17ss
+title: "Gamer Outrage: LGBT Characters (Soldier: 76)"
+channel: sjaydoubleview
+description: "Attention, EPIC gamers! In order to save the world from civilizational collapse, we need to stop the SJW agenda!"
+series:
+source: youtube
+type: video
+url: /sjaydoubleview/videos/viq07uK17ss/
+---

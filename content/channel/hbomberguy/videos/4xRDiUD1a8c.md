@@ -1,0 +1,15 @@
+---
+id: 4xRDiUD1a8c
+title: The Killing Joke Movie and The Problem With Comics
+description: |-
+  A video essay about the comic industry and its inevitable destruction of even the good things it creates.
+
+  My Patreon: https://www.patreon.com/hbomb
+  My Twitter: https://twitter.com/hbomberguy
+
+  Special thanks to Cob Ricefield
+source: youtube
+channel: hbomberguy
+type: video
+url: /hbomberguy/videos/4xRDiUD1a8c/
+---

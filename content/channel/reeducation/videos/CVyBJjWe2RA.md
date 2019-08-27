@@ -1,0 +1,16 @@
+---
+id: CVyBJjWe2RA
+title: The Liberals Are Coming [Trudeau Week Trailer]
+description: |-
+  Trudeau is a neoliberal corporatist tool
+  The Title says June 1st... I meant July 1st!!! hahahaha Typos
+
+  https://www.patreon.com/deadheadanimation
+  https://www.instagram.com/re_education.official/?hl=en
+  https://twitter.com/professordarwin
+  https://discord.gg/TVrdRMM
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/CVyBJjWe2RA/
+---

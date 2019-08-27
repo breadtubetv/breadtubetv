@@ -1,0 +1,22 @@
+---
+id: 91ik3hVCvx8
+title: Channel Update!
+description: |-
+  This is my first channel update, in which I update the channel.
+
+  Non-Compete is a leftist blog and video series .
+  Read and watch more at http://www.non-compete.com
+
+  Subscribe on Facebook:
+  https://www.facebook.com/NonCompeteBlog/
+
+  Be my comrade on Twitter:
+  https://twitter.com/EmericanJohnson
+
+  Toot at me on Mastodon:
+  https://mastodon.social/@emerican
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/91ik3hVCvx8/
+---

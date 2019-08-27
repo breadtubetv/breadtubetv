@@ -1,0 +1,16 @@
+---
+id: bTomsgnRZFk
+title: Pick-Up Artists
+description: "A critical look, in which I finally get my hetero on.\n\nBECOME MY PATRON:
+  https://www.patreon.com/contrapoints\nDONATE: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted\nSUBSCRIBE:
+  https://www.youtube.com/c/ContraPoints\nTWEET: https://twitter.com/ContraPoints\nFACEBOOK:
+  https://www.facebook.com/ContraPoints/\n\nMusic credits:\n\n\"Slaughter,\" and \"Still
+  Shining\"  by The Passion HiFi\nwww.thepassionhifi.com\n\nWaltz Op. 69 No. 2 in
+  B Minor by Chopin\n\n\"Occhi di Bambola\" by Giovanni Vicari\n\n\"Cantus Firmus
+  Monks\" by Doug Maxwell/Media Right Productions\n\n\"Beer Belly Blues\" by John
+  Deley\n\nand \n\nSeveral bits from Mozart's Don Giovanni"
+source: youtube
+channel: contrapoints
+type: video
+url: /contrapoints/videos/bTomsgnRZFk/
+---

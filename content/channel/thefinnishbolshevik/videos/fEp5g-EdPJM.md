@@ -1,0 +1,11 @@
+---
+id: fEp5g-EdPJM
+title: To RedScare about language
+description: |-
+  RedScareTV's video:
+  https://www.youtube.com/watch?v=4pCO_sS_1Lk
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/fEp5g-EdPJM/
+---

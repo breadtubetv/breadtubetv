@@ -1,0 +1,9 @@
+---
+id: YrhM7wgh7Ns
+title: Are Your Choices Your Own?
+description: Free will doesn't exist under capitalism.
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/YrhM7wgh7Ns/
+---

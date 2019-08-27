@@ -1,0 +1,11 @@
+---
+id: oO8MiZxpNrE
+title: 'The Study: REACTION'
+description: |-
+  The Study: A performance in the logical space between advertising and reactionary ideology in 3 acts.
+source: youtube
+channel: thepeoplesbayonet
+series: The Study
+type: video
+url: /thepeoplesbayonet/videos/oO8MiZxpNrE/
+---

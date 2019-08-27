@@ -1,0 +1,16 @@
+---
+id: lToem4V_wUs
+title: Ultra-Lefts Don't Understand Anti-Imperialism
+description: |-
+  ...and that's why they suck
+
+
+
+  Subscribe to my 'Marxist-Leninist Theory' Channel for Marxist Audiobooks!
+
+  https://www.youtube.com/channel/UCEzvnHqlIPv0QbXpdoH0f0Q
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/lToem4V_wUs/
+---

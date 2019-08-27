@@ -1,0 +1,13 @@
+---
+id: mD6LQpP7GZc
+title: Antifa Tactics - Thinking Through
+description: |
+  #antifa #nazis #NaziScumEatS Nazi's, the alt right, liberals, progressives.
+  Not groups leftist generally like. But with the Proud Boys regrouping in August,
+  under what the Southern Poverty Law Center is calling Charlottesville 2, it's worth
+  thinking through Antifa tactics. If you're part of Antifa LLC, all footage is fair-use
+source: youtube
+channel: literallygarbage
+type: video
+url: /literallygarbage/videos/mD6LQpP7GZc/
+---

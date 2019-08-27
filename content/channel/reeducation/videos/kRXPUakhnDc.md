@@ -1,0 +1,13 @@
+---
+id: kRXPUakhnDc
+title: Would the Disabled Suffer in the Revolution?
+description: |-
+  https://www.patreon.com/deadheadanimation
+  https://www.instagram.com/re_education.official/?hl=en
+  https://twitter.com/professordarwin
+  https://discord.gg/TVrdRMM
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/kRXPUakhnDc/
+---

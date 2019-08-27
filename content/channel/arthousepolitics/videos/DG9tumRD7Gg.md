@@ -1,0 +1,10 @@
+---
+id: DG9tumRD7Gg
+title: "Ben Shapiro, Cultural Critic"
+channel: arthousepolitics
+description: "Conservative pundit Ben Shapiro trashes the lyrics of the song Imagine and the grammar of rap music."
+series:
+source: youtube
+type: video
+url: /arthousepolitics/videos/DG9tumRD7Gg/
+---

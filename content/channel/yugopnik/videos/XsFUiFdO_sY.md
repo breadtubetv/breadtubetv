@@ -1,0 +1,10 @@
+---
+id: XsFUiFdO_sY
+title: "NIKE Doesn't Care About Civil Rights or Police Brutality"
+channel: yugopnik
+description: "Watch to the end if you can, the argument circles up nicely in my opinion. "
+series: yugopnik
+source: youtube
+type: video
+url: /yugopnik/videos/XsFUiFdO_sY/
+---

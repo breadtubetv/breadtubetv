@@ -1,0 +1,15 @@
+---
+id: mBMv4_E4Tz0
+title: Capitalism Destroys Unions
+description: |-
+  We all suffer because of it
+
+  https://www.patreon.com/deadheadanimation
+  https://www.instagram.com/re_education.official/?hl=en
+  https://twitter.com/professordarwin
+  https://discord.gg/TVrdRMM
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/mBMv4_E4Tz0/
+---

@@ -1,0 +1,14 @@
+---
+id: 0rlLIyjUgiE
+title: LIBERALS
+description: |-
+  Leftists aren't big fans of liberals. Here's why.
+
+  Patreon: https://www.patreon.com/noncompete
+
+  Shirts 'n Stickers 'n Stuff: https://www.non-compete.com/shop/
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/0rlLIyjUgiE/
+---

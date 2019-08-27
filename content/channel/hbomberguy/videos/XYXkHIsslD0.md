@@ -1,0 +1,14 @@
+---
+id: XYXkHIsslD0
+title: Soy Boy Diet Aftermath
+description: |-
+  Here's a quick look at what it was like eating a bunch of Soy for 2 months for a silly stunt
+
+  My Twitter: https://twitter.com/hbomberguy
+  My Patreon: https://www.patreon.com/Hbomb
+  My Twitch: https://www.twitch.tv/hbomberguy/
+source: youtube
+channel: hbomberguy
+type: video
+url: /hbomberguy/videos/XYXkHIsslD0/
+---

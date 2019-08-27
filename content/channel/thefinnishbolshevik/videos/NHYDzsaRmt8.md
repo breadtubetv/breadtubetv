@@ -1,0 +1,11 @@
+---
+id: NHYDzsaRmt8
+title: Marxist Understanding Of Classes
+description: |-
+  The video I mentioned:
+  https://www.youtube.com/watch?v=Ta4g-GPAXgI
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/NHYDzsaRmt8/
+---

@@ -1,0 +1,34 @@
+---
+id: HzQ_HT48wJ4
+title: Talking Anticapitalist Game Development with Silver Spook
+description: |-
+  Silver Spook is a native Hawaiian indie game developer who has produced the epic cyberpunk/feudal fantasy crossover anticapitalist game Neofeud.
+
+  Silver Spook's YouTube Channel:
+  https://www.youtube.com/channel/UCIOX1fY9Ow52-RXrTxm0FKg/
+
+  Neofeud on Steam:
+  https://store.steampowered.com/app/673850/Neofeud/
+
+  Neofeud on Itch.io:
+  https://silverspook.itch.io/neofeud
+
+  Neofeud Trailer:
+  https://www.youtube.com/watch?time_continue=98&v=VQAMJgs5euA
+
+  Subscribe to Luna:
+  https://www.youtube.com/lunaoi
+
+  Support Non-Compete:
+  https://www.patreon.com/noncompete
+
+  Shop:
+  https://www.non-compete.com/shop/
+
+  Give Amazon's Money to Us:
+  https://amzn.to/2H6CKfe
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/HzQ_HT48wJ4/
+---

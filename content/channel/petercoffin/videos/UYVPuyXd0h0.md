@@ -1,0 +1,22 @@
+---
+id: UYVPuyXd0h0
+title: Loot Boxes  | Many Peters⁸
+description: "The influx of randomized loot boxes into games like Shadow of War and
+  Star Wars Battlefront II has kicked off a discussion about their inclusion in games.
+  Discussions of multiplayer imbalance and blocked off game content ignore an important
+  truth: loot boxes are an ethical problem. They exist largely to exploit players
+  and create addicts.\n\n \U0001F4A5BECOME A PATRON at http://patreon.com/petercoffin\n
+  \n*****************************************\nYou've reached the channel of Peter
+  Coffin, a weirdo. Very Important Documentaries, Adversaries (with Ashleigh!) and
+  Many Peters are coming out all the time so make sure to check back soon. Please
+  subscribe so you don't miss any and leave a message at the beep. BEEEEEEEEEP.\n\n\U0001F4FASubscribe
+  NOW! http://petercoff.in/subscribe\n\U0001F496BECOME A PATRON! http://patreon.com/petercoffin\n\U0001F4D5
+  pre-order \"Custom Reality and You\" (2/21) http://amzn.to/2FEsqJR \n\nFOLLOW PETER
+  ON:\n\n\U0001F426TWITTER: https://twitter.com/petercoffin\n\U0001F4F0MEDIUM: https://medium.com/@petercoffin\n\U0001F4F1NOTIFICATIONS:
+  http://petercoff.in\n\n-~-~~-~~~-~~-~-\nNEW VIDEO: \"Free Speech 2: Censorship Boogaloo
+  (Infowars, Steven Crowder) | Very Important Docs²³\" \nhttps://www.youtube.com/watch?v=SlFdykutQ0g&list=PL9oHQnEByWyXObkJN9YYQS9hxBjpN8RLG\n-~-~~-~~~-~~-~-"
+source: youtube
+channel: petercoffin
+type: video
+url: /petercoffin/videos/UYVPuyXd0h0/
+---

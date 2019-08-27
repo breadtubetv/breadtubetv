@@ -1,0 +1,15 @@
+---
+id: dTPJItO_YEM
+title: IMPORTANT ANNOUNCEMENTS! (Cockshott & Reddit)
+description: |-
+  THANKS POLINKAZH
+
+  BeardTube: https://www.reddit.com/r/BeardTube/
+  Danov's Channel: https://youtube.com/c/DanovYT
+  Polinkazh's Channel: https://youtube.com/c/Polinkazh
+  Finbol's Commune Discord: https://discord.gg/fJQM3N9
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/dTPJItO_YEM/
+---

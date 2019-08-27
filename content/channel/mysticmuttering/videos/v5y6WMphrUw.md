@@ -1,0 +1,9 @@
+---
+id: v5y6WMphrUw
+title: Mirror - Does the Left Hate Free Speech
+description: Mirror of ContraPoints' latest video, unfairly flagged and removed.
+source: youtube
+channel: mysticmuttering
+type: video
+url: /mysticmuttering/videos/v5y6WMphrUw/
+---

@@ -1,0 +1,12 @@
+---
+id: uT5A0sVd0xI
+title: Cheap Suit Intersectionalist vs. Brocialist Class Reductionist
+description: |-
+  The Swoletariat: https://www.youtube.com/channel/UCko8bu6w_OpE8DlKDubg9sQ
+
+  Subscribe to Luna: https://www.youtube.com/lunaoi
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/uT5A0sVd0xI/
+---

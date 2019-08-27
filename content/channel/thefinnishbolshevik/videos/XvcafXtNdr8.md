@@ -1,0 +1,22 @@
+---
+id: XvcafXtNdr8
+title: 'Socialism vs Individualism? (RE: LibertarianSocialistRants)'
+description: "This video turned out quite long but this is a complex topic. Please
+  watch the full video.\n\nLSR's video\nhttps://www.youtube.com/watch?v=sD3W9Yj-QO4\n\nWorker
+  control\nhttp://sfr-21.org/workers-control.html\n\nTrade Unions in Soviet Russia\nhttps://books.google.nl/books/about/Trade_unions_in_Soviet_Russia.html?id=V2YfAAAAMAAJ&redir_esc=y&hl=nl\n\nLife
+  and Labor in the Soviet Union by Dunn & Wallace\nhttp://ciml.250x.com/archive/ussr/english/1937_life_and_labor_in_the_soviet_union.pdf\n\nWorkers'
+  Participation in the Soviet Union by Mick Costello\nhttps://ia600506.us.archive.org/1/items/WorkersParticipationInTheSovietUnion/Workers%20Participation%20in%20the%20Soviet%20Union.pdf\n\nStrikes
+  in Soviet Russia, \"Workers Against Lenin\"\nhttps://books.google.fi/books?id=jDhNb3EDSNoC&pg=PA69&lpg=PA69&dq=lenin+higher+pay+striking+workers&source=bl&ots=Wy0oKYrU4i&sig=RF8EFmwwD8JTZj8cejxlQiMRiPQ&hl=en&sa=X&ved=2ahUKEwi4qqeIiKjdAhWFiiwKHRvyABE4ChDoATACegQIBxAB#v=onepage&q=lenin%20higher%20pay%20striking%20workers&f=false\n\nLeninism
+  Under Lenin by Marcel Liebman\nhttps://books.google.nl/books/about/Leninism_Under_Lenin.html?id=OQjzAAAAMAAJ&redir_esc=y\n\nSubbotniks,
+  volunteer work\nhttps://www.marxists.org/archive/lenin/works/1919/jun/19.htm\n\nActually
+  Existing Anarchism Pt. 2 (CNT-FAI Catalonia)\nhttps://www.youtube.com/watch?v=3ufTFRGPrCM\n\nSoviet
+  Government & Electoral System \nhttps://www.youtube.com/watch?v=9PoYzPfguJc\n\nThe
+  USSR: Democratic or Totalitarian?\nhttps://www.youtube.com/watch?v=Okz2YMW1AwY\n\n__________________________\n\nMy
+  discord\nhttps://discord.gg/tsJTycv\n\nMy patreon\nhttps://www.patreon.com/TheFinnishBolshevik\n\nMy
+  facebook\nhttps://www.facebook.com/theFinnishBolshevik\n\nMy twitter\nhttps://twitter.com/FinnBolshevik\n\nMy
+  blog\nhttps://mltheory.wordpress.com/"
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/XvcafXtNdr8/
+---

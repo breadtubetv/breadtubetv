@@ -1,0 +1,14 @@
+---
+id: vZ-w8OfYVvc
+title: People Hate the 2018 YouTube Rewind  | Many Peters⁴⁶
+description: "People hate the YouTube Rewind. Good!\nsubscribe and ring the bell and/or
+  become a patron @ http://patreon.com/petercoffin\n\nfollow: http://twitter.com/petercoffin\nmerch:
+  http://teepublic.com/stores/peter-coffin?ref_id=6134\nbook: http://amzn.to/32aT4FJ\npodcast:
+  http://brew.com/shows/peter-coffin\n\n\n*****************\n\n#YouTubeRewind #Capitalism
+  #Corporatism\n\n-~-~~-~~~-~~-~-\nNEW VIDEO: \"Free Speech 2: Censorship Boogaloo
+  (Infowars, Steven Crowder) | Very Important Docs²³\" \nhttps://www.youtube.com/watch?v=SlFdykutQ0g&list=PL9oHQnEByWyXObkJN9YYQS9hxBjpN8RLG\n-~-~~-~~~-~~-~-"
+source: youtube
+channel: petercoffin
+type: video
+url: /petercoffin/videos/vZ-w8OfYVvc/
+---

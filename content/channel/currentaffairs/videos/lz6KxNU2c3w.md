@@ -1,0 +1,12 @@
+---
+id: lz6KxNU2c3w
+title: 'Current Affairs presents: "Red Rose & The Lost Library"'
+description: |-
+  Subscribe to the podcast at: CurrentAffairs.org/podcast
+  Subscribe to the magazine at: CurrentAffairs.org/subscribe
+  Support Current Affairs at: Patreon.com/CurrentAffairs
+source: youtube
+channel: currentaffairs
+type: video
+url: /currentaffairs/videos/lz6KxNU2c3w/
+---

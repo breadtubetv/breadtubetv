@@ -1,0 +1,15 @@
+---
+id: dVbC0jASJYA
+title: ELECTIONWATCH 2017
+description: |-
+  Let's take a look back at how we got here, and think about where we're probably going.
+
+  My Twitter: https://twitter.com/Hbomberguy
+  My Patreon: https://www.patreon.com/Hbomb
+
+  Contributions by Shaun: https://twitter.com/shaun_jen
+source: youtube
+channel: hbomberguy
+type: video
+url: /hbomberguy/videos/dVbC0jASJYA/
+---

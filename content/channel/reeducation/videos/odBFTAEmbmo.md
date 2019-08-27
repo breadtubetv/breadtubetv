@@ -1,0 +1,9 @@
+---
+id: odBFTAEmbmo
+title: Andy Ngo, Anti-fascism And Milkshakes
+description: "Andy was attacked by antifa in Portland. These are my thoughts. \n\n\nhttps://www.patreon.com/deadheadanimation\nhttps://www.instagram.com/re_education.official/?hl=en\nhttps://twitter.com/professordarwin\nhttps://discord.gg/TVrdRMM"
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/odBFTAEmbmo/
+---

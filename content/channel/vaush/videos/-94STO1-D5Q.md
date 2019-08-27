@@ -1,0 +1,11 @@
+---
+id: -94STO1-D5Q
+title: E N L I G H T E N E D  C E N T R I S M
+description: "Thought I'd take a shot at YouTube stuff. I'm new to video editing/audio
+  editing/scriptwriting, but let's not let that get in between us and hating centrists.
+  \n\nPlease do share your feelings down in the comments."
+source: youtube
+channel: vaush
+type: video
+url: /vaush/videos/-94STO1-D5Q/
+---

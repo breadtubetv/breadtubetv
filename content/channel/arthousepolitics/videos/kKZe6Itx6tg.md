@@ -1,0 +1,10 @@
+---
+id: kKZe6Itx6tg
+title: "Nationalism"
+channel: arthousepolitics
+description: "A grade school play about America goes horribly wrong."
+series:
+source: youtube
+type: video
+url: /arthousepolitics/videos/kKZe6Itx6tg/
+---

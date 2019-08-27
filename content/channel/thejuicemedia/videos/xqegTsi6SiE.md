@@ -1,0 +1,10 @@
+---
+id: xqegTsi6SiE
+title: "Visit Timor-Leste! | Honest Government Ad"
+channel: thejuicemedia
+description: "The Australien Government has made a tourism ad about East Timor, and it’s surprisingly honest and informative!"
+series: Honest Government Ads
+source: youtube
+type: video
+url: /thejuicemedia/videos/xqegTsi6SiE/
+---

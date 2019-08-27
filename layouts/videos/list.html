@@ -4,7 +4,8 @@
   <ul class="list plain-list">
     {{- range $channelSlug, $channelVideos := $videos -}}
       {{- range $videoID, $video := $channelVideos -}}
-        {{ with $.Site.GetPage $channelSlug }}
+        {{ $page:= printf "channel/%s/_index.md" $channelSlug }}
+        {{ with $.Site.GetPage $page }}
           {{ $channel := . }}
           {{ partial "videos/card.html" (dict "video" $video "channel" $channel) }}
         {{ end }}

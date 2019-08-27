@@ -1,0 +1,9 @@
+---
+id: OqYcpeQwtL4
+title: Debunking the "Communism Goes Against Human Nature" Argument
+description: Debunking a cliche argument
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/OqYcpeQwtL4/
+---

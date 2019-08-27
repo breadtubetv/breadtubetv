@@ -1,0 +1,9 @@
+---
+id: XBOn_SGVClA
+title: Why You Should Give Up Sex and Devote Your Life to Capitalism
+description: the title says it all
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/XBOn_SGVClA/
+---

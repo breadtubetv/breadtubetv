@@ -1,0 +1,9 @@
+---
+id: 1CnUpPmCIr4
+title: Looking for Livestreams?
+description: https://www.youtube.com/channel/UCNL8SCfixpPsU5shwmv9Kuw?sub_confirmation=1
+source: youtube
+channel: philosophytube
+type: video
+url: /philosophytube/videos/1CnUpPmCIr4/
+---

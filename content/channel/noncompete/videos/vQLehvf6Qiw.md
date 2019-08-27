@@ -1,0 +1,13 @@
+---
+id: vQLehvf6Qiw
+title: Andrew Yang's Trickle Up Economics vs. Joe Biden Being the Absoluute Worst
+  [Breadcast Highlights]
+description: |-
+  Subscribe to Luna: https://www.youtube.com/lunaoi
+
+  Support Non-Compete: https://www.patreon.com/noncompete
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/vQLehvf6Qiw/
+---

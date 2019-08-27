@@ -1,0 +1,13 @@
+---
+id: FO8HjGDhmPA
+title: Does Anarchy Go Against Human Nature?
+description: |-
+  Is cooperation and humanitarianism within our nature? Or is human nature inherently selfish?
+
+  Link:
+  https://www.atsdr.cdc.gov/emergency_response/common_misconceptions.pdf
+source: youtube
+channel: reeducation
+type: video
+url: /reeducation/videos/FO8HjGDhmPA/
+---

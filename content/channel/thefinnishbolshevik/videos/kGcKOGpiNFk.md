@@ -1,0 +1,28 @@
+---
+id: kGcKOGpiNFk
+title: The Leninist theory of the Communist Party
+description: "BIBLIOGRAPHY:\n\nLENIN, What Is To Be Done?\nhttps://www.marxists.org/archive/lenin/works/1901/witbd/\n\nLENIN,
+  “Left-Wing” Communism: an Infantile Disorder\nhttp://www.marx2mao.com/Lenin/LWC20.html\n\nLENIN,
+  One Step Forward, Two Steps Back\nhttps://www.marxists.org/archive/lenin/works/1904/onestep/index.htm\n\nLENIN,
+  Report on the Unity Congress of the R.S.D.L.P.\nhttps://www.marxists.org/archive/lenin/works/1906/rucong/index.htm\n\nLENIN,
+  Terms of Admission into Communist International\nhttps://www.marxists.org/archive/lenin/works/1920/jul/x01.htm\n\nLENIN,
+  Tenth Congress of the R.C.P.(B.)\nhttps://www.marxists.org/archive/lenin/works/1921/10thcong/index.htm\n\nLENIN,
+  Once Again On The Trade Unions, The Current Situation and the Mistakes of Trotsky
+  and Buhkarin\nhttps://www.marxists.org/archive/lenin/works/1921/jan/25.htm\n\nPrinciples
+  of Party Organization, adopted by the 3rd Congress of the Comintern\nhttp://www.marx2mao.com/Other/PPO21.html\n\nMAO,
+  The Role of the Chinese Communist Party in the National War\nhttps://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_10.htm\n\nMAO,
+  Talk At An Enlarged Working Conference Convened By The Central Committee Of The
+  Communist Party Of China\nhttps://www.marxists.org/reference/archive/mao/selected-works/volume-8/mswv8_62.htm\n\n\nSTALIN,
+  The Foundations of Leninism \nhttps://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/index.htm\n\nSTALIN,
+  The Prospects of the Communist Party of Germany and the Question of Bolshevisation\nhttp://marx2mao.com/Stalin/PCPG25.html\n\nSTALIN,
+  Mastering Bolshevism\nhttp://www.marx2mao.com/Stalin/MB37.html\n\n\nFurther reading
+  etc.:\n\nPEKING REVIEW: A Discussion on Party Democratic Centralism\nhttps://www.marxists.org/subject/china/peking-review/1971/PR1971-43a.htm\n\nLENIN,
+  Two Tactics\nhttps://www.marxistsfr.org/archive/lenin/works/1905/feb/14.htm\n\nLENIN,
+  The Reorganisation of the Party\nhttps://www.marxists.org/archive/lenin/works/1905/reorg/i.htm#v10pp65-029\n\nA
+  Huey P. Newton Story\nhttps://www.youtube.com/watch?v=j19WrVx-kS8&t=408s\n\nHashtnagar:
+  A Song of Another World\nhttps://www.youtube.com/watch?v=q3MbRGKBEhM\n\nScript:\nhttps://mltheory.wordpress.com/2017/10/30/basic-description-of-vanguardism-democratic-centralism/"
+source: youtube
+channel: thefinnishbolshevik
+type: video
+url: /thefinnishbolshevik/videos/kGcKOGpiNFk/
+---

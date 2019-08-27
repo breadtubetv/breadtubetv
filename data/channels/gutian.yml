@@ -10,4 +10,16 @@ providers:
 
       Icon courtesy of Roske's drawing skills
     subscribers: 2625
+  patreon:
+    name: Gutian
+    slug: GutiansAcademy
+    url: https://www.patreon.com/GutiansAcademy
+  twitch:
+    name: Gutian
+    slug: gutian666
+    url: https://www.twitch.tv/gutian666
+  twitter:
+    name: Gutian
+    slug: GutianGang
+    url: https://twitter.com/GutianGang
 slug: gutian

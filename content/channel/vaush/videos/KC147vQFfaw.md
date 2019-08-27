@@ -1,0 +1,10 @@
+---
+id: KC147vQFfaw
+title: "(Surprisingly Civil) Debate with Hunter Avallone Fan"
+channel: vaush
+description: Sorry about the audio-only video, guys. I know how substantially my dabs and fist pumps add to the discourse.
+series:
+source: youtube
+type: video
+url: /vaush/videos/KC147vQFfaw/
+---

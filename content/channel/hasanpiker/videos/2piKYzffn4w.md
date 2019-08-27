@@ -1,0 +1,13 @@
+---
+id: 2piKYzffn4w
+title: Conversation With Michael Tracey on Russiagate his Appearances on Tucker and
+  Sri Lanka Terror
+description: |-
+ Russiagate: what was acceptable and what was silly |
+ Appearing on Fox News Tucker Carlson |
+ Sri Lanka and why the US Media doesn't cover violence against Christians with the same fervor
+source: youtube
+channel: hasanpiker
+type: video
+url: /hasanpiker/videos/2piKYzffn4w/
+---

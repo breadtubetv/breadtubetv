@@ -1,0 +1,14 @@
+---
+id: 01ndibqm29o
+title: Swamp Van Puppy Chaos | Breadcast Highlights
+description: |-
+  Non-Compete Stickers and Shirts and Stuff:
+  https://www.non-compete.com/stuff/
+
+  Subscribe to Luna's channel:
+  youtube.com/lunaoi
+source: youtube
+channel: noncompete
+type: video
+url: /noncompete/videos/01ndibqm29o/
+---
