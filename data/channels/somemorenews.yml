@@ -71,4 +71,12 @@ providers:
     - mFYiD8NfrMI
     - Ngr4bNZsPeQ
     - HBR_dcp38KA
+  twitter:
+    name: Some More News
+    slug: drmistercody
+    url: https://twitter.com/drmistercody
+  patreon:
+    name: Some More News
+    slug: SomeMoreNews
+    url: https://www.patreon.com/SomeMoreNews
 slug: somemorenews

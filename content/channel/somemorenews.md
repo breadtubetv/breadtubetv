@@ -4,6 +4,16 @@ type: channel
 channel: somemorenews
 tags:
 - breadtube
+- antifascism
+- comedy
+- news
+- journalism
+- america
+- russia
+- society
+- democracy
+- critical theory
+- culture
 url: /somemorenews/
 videos:
 - H9MTMCo8JbQ
