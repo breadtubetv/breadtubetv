@@ -2,11 +2,55 @@
 title: Aphreditto
 type: channel
 channel: aphreditto
-menu:
-  main:
-    parent: Channels
-videos:
 tags:
 - breadtube
 url: /aphreditto/
+videos:
+- QhaKLhmb2KQ
+- Sulv3Zs79ps
+- 19fMGL0Lt_M
+- sxM03lMGJPA
+- wtR1FicZ8JI
+- RZZvcpGvNTc
+- m-vuyyTMPCA
+- p8mJo8KZ9yY
+- gGu32VV0lw0
+- ZdS4x71KIE0
+- AU7PK8XLT48
+- ZWrrQCKQi6Q
+- zpxkMeK19ho
+- EJ5Qezp1fE0
+- LlMmAgi5Fts
+- GXYpYq96Uh4
+- DPav8NY4hNs
+- WX3H-rBKGEU
+- g_yo61YI7RM
+- mcNhJzuQhhM
+- Sx2Om1rTv2g
+- LRR7Wn4eYpA
+- QpsPaSl-lxc
+- dlpnff53pWg
+- tscnX4bXzQI
+- CIcsm8kW0iw
+- ErWNr5o4H90
+- _HgxUi6pnBM
+- _0h4xRqzR6A
+- Dh3Bhvx8Y9k
+- NMn_pa-nUZY
+- CFslDC7cwLU
+- IwGsa_Y9mG4
+- 9NJlYbIjSNE
+- 2BAEx2yGoeA
+- CzPHqclmaZY
+- 7nlms82BUx8
+- aviHp-K43RY
+- MbIJ5xzMagY
+- sQj9OUtPr1I
+- IqUGn1cPK44
+- wZucPqEAo6o
+- YztGIGhK78k
+- 0YG3mQ8uZL0
+menu:
+  main:
+    parent: Channels
 ---

@@ -2,12 +2,92 @@
 title: anarchopac
 type: channel
 channel: anarchopac
-menu:
-  main:
-    parent: Channels
-videos:
 tags:
 - breadtube
 - feminism
 url: /anarchopac/
+videos:
+- bsNETm_Hm34
+- CDMGfsUjS_I
+- vCQZYiAVNKU
+- WlK_b-lGoEU
+- O1jxOsFsKnY
+- DOjZJOvFE4s
+- sjd2hWgIy44
+- iZtnyuzFBoQ
+- vsRyTWBj84E
+- PRptrb6P8x4
+- 0YZgdYXXQr8
+- flNVGHDcYJA
+- dGmb_ds4HLU
+- 2e6hL8IgpiY
+- pYBBdktYwgs
+- WuPcL_5GRQg
+- XBJ2BgbWTy8
+- j_srHFez588
+- HWX9dPPI3Gk
+- Q8sdB0CF_sk
+- cHnAMrBjIco
+- xJwQaXKUCuQ
+- ApB9G29O_II
+- oSltrojXtXc
+- AxTmVmqe7as
+- l87FqyjLxVw
+- PjQO1W96udI
+- 6oUjFouUl2o
+- oLRAUsoT_cQ
+- eOdChL4tKjg
+- PTtXIOh1ubo
+- 5-Vab1dFL-U
+- hkjVlmgWbMU
+- JB3LF0dR590
+- qFAsHCttcV4
+- fDDFMACh46g
+- gvEBa2PgO-w
+- Rm5qBsyHea8
+- SIhIM-jge2c
+- hGlsNON_JUA
+- AMl_sK9ZFXI
+- T1CUVk2laJQ
+- -9QTQ7yxExQ
+- ooATRCyWTJo
+- KOKVFzYXK3Q
+- 8KySlGOlMts
+- S2pUJu7UVGU
+- lMfbxdLJKFI
+- cj6Ee-ngFn0
+- -iDHpVfm6nw
+- j4pZLH9Ro54
+- 8bjFsCAo8ZY
+- I60EPOeHfqo
+- Cfy0MjDyhvM
+- aO5KayvhCdI
+- xSlfWTp1CP4
+- Q3cWaQQGEqg
+- vAKcixWvxYM
+- 4u5YH3kRU7g
+- HeJmbamnhH8
+- 6PCRDgamZSw
+- Krj4v2LIMYs
+- Qi4dyFp2FBw
+- 63NlTZjH60E
+- pf6s-WVMlTU
+- 7lZwIEOOJ0U
+- _qAUBLkhoI0
+- 6hicxy7NXeg
+- XmtPMVXLV3A
+- Skh4d-m3krc
+- Dq_2llkOSfA
+- XGsj87HaQo8
+- f1womYO7GNQ
+- e0cgEhzSDL8
+- 44EPrrZAgWY
+- w6MdPt4eKks
+- S_RcE2o08gA
+- gXmksPClbes
+- CarUYvGGHyo
+- YqghKRF9564
+menu:
+  main:
+    parent: Channels
 ---
