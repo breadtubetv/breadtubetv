@@ -21,9 +21,24 @@ providers:
     description: ""
     subscribers: 0
   youtube:
-    name: literally garbage
+    name: The Garbage Bin of Ideas
     slug: UChKGZBVdKbiBGgn2yhhcmSA
     url: https://www.youtube.com/channel/UChKGZBVdKbiBGgn2yhhcmSA
     description: the german che-pard
-    subscribers: 2208
+    subscribers: 3007
+    videos:
+    - S7hZN8qH58s
+    - 2O_SN4pg-lk
+    - VIXksTpJS98
+    - EPBCd1GkYh0
+    - m4dfYc96GPs
+    - UG70ZTAFGx8
+    - qUxCXckcBcU
+    - 2JB9BA9V5aI
+    - y3FtNkzBIsk
+    - gxVoLbNU0a8
+    - j3Es8ai227w
+    - c8d4QkfMcfs
+    - khh4ZK01xuc
+    - koDF7qse0PU
 slug: literallygarbage

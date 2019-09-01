@@ -6,6 +6,24 @@ description: |
 name: Kathrin
 permalink: kathrin
 providers:
+  facebook:
+    name: Kathrin
+    slug: Kathrinytchannel
+    url: https://www.facebook.com/Kathrinytchannel/
+    description: ""
+    subscribers: 0
+  patreon:
+    name: Kathrin
+    slug: https://www.patreon.com/kathrin_YT
+    url: kathrin_YT
+    description: ""
+    subscribers: 0
+  twitter:
+    name: Kathrin
+    slug: kathrin_YT
+    url: https://twitter.com/kathrin_YT
+    description: ""
+    subscribers: 0
   youtube:
     name: Kathrin
     slug: UCVbWFrI5NrLCWIjjW5cbzMg
@@ -14,17 +32,16 @@ providers:
       about political ecology, climate change, activism, feminism, sexual violence,
       economic and social injustices, veganism, environmentalism and other social
       issues from an anti-capitalist, intersectional perspective.
-    subscribers: 1208
-  facebook:
-    name: Kathrin
-    slug: Kathrinytchannel
-    url: https://www.facebook.com/Kathrinytchannel/
-  twitter:
-    name: Kathrin
-    slug: kathrin_YT
-    url: https://twitter.com/kathrin_YT
-  patreon:
-    name: Kathrin
-    url: kathrin_YT
-    slug: https://www.patreon.com/kathrin_YT
+    subscribers: 2372
+    videos:
+    - S12xLJrb1zo
+    - 5jqXzMKtrMw
+    - xt3SQhWZk2U
+    - 3xnx1eEJcDo
+    - itIIgDFXZ9A
+    - wmeZvyeIv1k
+    - s1Jd9q_Sg-0
+    - YTnEQgndkdg
+    - 7LL3M8Iw53o
+    - OFRScWwlIsc
 slug: kathrin
