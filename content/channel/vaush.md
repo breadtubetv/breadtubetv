@@ -20,7 +20,6 @@ videos:
 - -94STO1-D5Q
 - BHQapW0HzEw
 tags:
-- breadtube
 - antifascism
 url: /vaush/
 ---
