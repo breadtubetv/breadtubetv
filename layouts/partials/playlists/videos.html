@@ -1,5 +1,4 @@
 {{ $videos := $.Site.Data.videos }}
-{{ $channels := $.Site.Data.channels }}
 {{ $videoChannel := (or (in .Permalink "playlist") (eq true .Params.videoChannel)) }}
 {{ $videoIframe := (eq true .Params.videoIframe) }}
 
@@ -9,12 +8,10 @@
     {{- range $channelSlug, $channelVideos := $videos -}}
       {{- range $videoID, $video := $channelVideos -}}
         {{- if eq $id $videoID -}}
-          {{- range $channels -}}
+          {{ with $.Site.GetPage $channelSlug }}
             {{ $channel := . }}
-            {{- if eq $channel.slug $video.channel -}}
-              {{ partial "videos/card.html" (dict "video" $video "channel" $channel "videoChannel" $videoChannel "videoIframe" $videoIframe) }}
-            {{- end -}}
-          {{- end -}}
+            {{ partial "videos/card.html" (dict "video" $video "channel" $channel "videoChannel" $videoChannel "videoIframe" $videoIframe) }}
+          {{ end }}
         {{- end -}}
       {{- end -}}
     {{- end -}}

@@ -1,4 +1,6 @@
 ---
+description: It's my goal to show through the use of solid evidence and rational argument
+  what is junk science, and what is real.
 title: C0nc0rdance
 type: channel
 channel: c0nc0rdance
@@ -9,4 +11,20 @@ videos:
 tags:
 - breadtube
 url: /c0nc0rdance/
+providers:
+  youtube:
+    name: C0nc0rdance
+    slug: C0nc0rdance
+    url: https://youtube.com/C0nc0rdance
+    description: |-
+      What is Concordance?
+
+      In common use, it means:
+      Harmony between all the parts.
+
+      In scientific use, it means:
+      Arriving at the same conclusion by multiple methodologies.
+
+      It's my goal to show through the use of solid evidence and rational argument what is junk science, and what is real.
+    subscribers: 54548
 ---

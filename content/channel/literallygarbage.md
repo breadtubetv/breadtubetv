@@ -1,4 +1,5 @@
 ---
+description: the german che-pard
 title: literally garbage
 type: channel
 channel: literallygarbage
@@ -27,4 +28,29 @@ videos:
 menu:
   main:
     parent: Channels
+providers:
+  kofi:
+    name: torres
+    slug: torres
+    url: https://ko-fi.com/torres
+    description: ""
+    subscribers: 0
+  reddit:
+    name: litgarbo
+    slug: litgarbo
+    url: https://reddit.com/u/litgarbo
+    description: ""
+    subscribers: 0
+  twitter:
+    name: literally garbage
+    slug: torres
+    url: https://twitter.com/torres_asdf
+    description: ""
+    subscribers: 0
+  youtube:
+    name: literally garbage
+    slug: UChKGZBVdKbiBGgn2yhhcmSA
+    url: https://www.youtube.com/channel/UChKGZBVdKbiBGgn2yhhcmSA
+    description: the german che-pard
+    subscribers: 2208
 ---
