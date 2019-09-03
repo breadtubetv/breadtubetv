@@ -1,4 +1,4 @@
-ls content/channel/ | while read data; do
+ls content/channels/ | while read data; do
   if [ $data != "_index.md" ]
   then
     page="content/channel/${data}";
@@ -6,8 +6,8 @@ ls content/channel/ | while read data; do
     slug=`echo $slug | tr -d '"'`;
     echo $slug;
 
-    mkdir content/$slug
-    mv $page content/$slug/index.md
-    mv static/img/channels/$slug.jpg content/$slug/logo.jpg
+    mkdir content/channels/$slug
+    mv $page content/channels/$slug/_index.md
+    mv static/img/channels/$slug.jpg content/channels/$slug/logo.jpg
   fi
 done

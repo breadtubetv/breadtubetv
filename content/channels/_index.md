@@ -1,6 +1,6 @@
 ---
 title: Channels
-type: "channels"
+type: "channel_list"
 tags: [breadtube]
 url: "/channels/"
 ---

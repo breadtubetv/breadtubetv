@@ -1,7 +1,8 @@
 ---
 title: Add a Channel
-type: new_channels
+type: channel_new
 menu:
   main:
     parent: "Channels"
+url: "/channels/new/"
 ---
