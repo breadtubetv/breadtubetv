@@ -1,0 +1,32 @@
+---
+description: We are recording anarchist and related texts and distributing them in
+  audio form. In this way we hope to make anarchist ideas more accessible, and anarchist
+  practice more informed. We may not agree with every word of every text we record,
+  but we hope that the distribution of these texts in audio form continues lively
+  anarchist discussions — and ultimately we hope that those discussions lead us into
+  the streets.
+title: Resonance Audio
+type: channel
+channel: resonanceaudio
+menu:
+  main:
+    parent: Channels
+videos:
+tags:
+- breadtube
+- audio
+- organizing
+- education
+- anarchism
+url: /resonanceaudio/
+providers:
+  youtube:
+    name: Resonance Audio
+    slug: UC6YOiFJXuvI1f90WXZWC1sQ
+    url: https://www.youtube.com/channel/UC6YOiFJXuvI1f90WXZWC1sQ
+    description: |-
+      We are recording anarchist and related texts and distributing them in audio form. In this way we hope to make anarchist ideas more accessible, and anarchist practice more informed. We may not agree with every word of every text we record, but we hope that the distribution of these texts in audio form continues lively anarchist discussions — and ultimately we hope that those discussions lead us into the streets.
+      Visit us at resonanceaudiodistro.org
+      or send us an email at resonanceaudio@protonmail.com
+    subscribers: 1198
+---

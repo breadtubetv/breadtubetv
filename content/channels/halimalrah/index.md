@@ -1,0 +1,54 @@
+---
+description: I make political videos on Canadian politics, American politics, political
+  ideology explainers, and political philosophy.
+title: "Halim Alrah"
+type: "channel"
+channel: "halimalrah"
+menu:
+  main:
+    parent: "Channels"
+videos:
+- 5vS4eKwCEC0
+- TLwHsUBIK_A
+- 7HybHG6mUck
+tags:
+- breadtube
+- canada
+- america
+- politics
+- philosophy
+- ideology
+- communism
+- education
+url: /halimalrah/
+providers:
+  instagram:
+    name: Halim Alrah
+    slug: halimalrah
+    url: https://www.instagram.com/halimalrah
+    description: ""
+    subscribers: 0
+  patreon:
+    name: Halim Alrah
+    slug: halimalrah
+    url: https://www.patreon.com/halimalrah
+    description: ""
+    subscribers: 0
+  twitter:
+    name: Halim Alrah
+    slug: halimalrah
+    url: https://www.twitter.com/halimalrah
+    description: ""
+    subscribers: 0
+  youtube:
+    name: halim alrah
+    slug: UCGog4JPn5-W3_XIKccENysg
+    url: https://www.youtube.com/channel/UCGog4JPn5-W3_XIKccENysg
+    description: |-
+      support me on Patreon: @halimalrah
+      follow me on Twitter: @halimalrah
+      follow me on Instagram: @halimalrah
+
+      radicalize yourself and those around you lmao
+    subscribers: 770
+---

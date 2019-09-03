@@ -1,0 +1,43 @@
+---
+description: SPEED BOAT DOPE COCAINE GENESIS
+title: "Chapo Trap House"
+type: "channel"
+channel: "chapotraphouse"
+menu:
+  main:
+    parent: "Channels"
+tags:
+- breadtube
+url: /chapotraphouse/
+providers:
+  patreon:
+    name: Chapo Trap House
+    slug: chapotraphouse
+    url: https://www.patreon.com/chapotraphouse
+    description: ""
+    subscribers: 0
+  twitter:
+    name: Chapo Trap House
+    slug: chapotraphouse
+    url: https://twitter.com/chapotraphouse
+    description: ""
+    subscribers: 0
+  youtube:
+    name: Chapo Trap House
+    slug: UCokqzNPBJ65raczldVuHAww
+    url: https://www.youtube.com/channel/UCokqzNPBJ65raczldVuHAww
+    description: |-
+      SPEED BOAT DOPE COCAINE GENESIS  ❄️⚖
+      YouTube channel for Chapo Trap House, a podcast by:
+
+      Will Menaker
+      Matt Christman
+      Felix Biederman
+      Amber Frost
+      Virgil Texas
+
+      https://twitter.com/chapotraphouse?lang=en
+      https://www.patreon.com/chapotraphouse
+      chapotraphouse.com
+    subscribers: 19371
+---

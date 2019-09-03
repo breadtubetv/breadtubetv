@@ -1,0 +1,45 @@
+---
+description: Rebecca leads a team of skeptical female activists at Skepchick.org.
+  She travels around the world delivering entertaining talks on science, atheism, feminism, and skepticism.
+  There is currently an asteroid orbiting the sun with her name on it.
+  Assorted nerdery.
+title: Rebecca Watson
+type: channel
+channel: rebeccawatson
+menu:
+  main:
+    parent: Channels
+videos:
+- 0QxT9aIowvw
+tags:
+
+url: /rebeccawatson/
+providers:
+  blog:
+    name: Rebecca Watson
+    slug: skepchick
+    url: https://skepchick.org/
+    description: ""
+    subscribers: 0
+  twitter:
+    name: Rebecca Watson
+    slug: rebeccawatson
+    url: https://twitter.com/rebeccawatson
+    description: ""
+    subscribers: 0
+  patreon:
+    name: Rebecca Watson
+    slug: rebecca
+    url: https://www.patreon.com/rebecca
+    description: ""
+    subscribers: 0
+  youtube:
+    name: Rebecca Watson
+    slug: UCFJxE0l3cVYU4kHzi4qVEkw
+    url: https://www.youtube.com/channel/UCFJxE0l3cVYU4kHzi4qVEkw
+    description: Rebecca leads a team of skeptical female activists at Skepchick.org.
+      She travels around the world delivering entertaining talks on science, atheism,
+      feminism, and skepticism. There is currently an asteroid orbiting the sun with
+      her name on it.
+    subscribers: 35592
+---
