@@ -1,7 +1,12 @@
 ---
+description: The discussions of a southern journalist who is tired of a lack of common
+  sense.
 title: Beau of the Fifth Column
 type: channel
 channel: beauofthefifthcolumn
+menu:
+  main:
+    parent: Channels
 tags:
 - activism
 - alt-right
@@ -9,6 +14,14 @@ tags:
 - breadtube
 - communism
 url: /beauofthefifthcolumn/
+providers:
+  youtube:
+    name: Beau of the Fifth Column
+    slug: UC0YvoAYGgdOfySQSLcxtu1w
+    url: https://www.youtube.com/channel/UC0YvoAYGgdOfySQSLcxtu1w
+    description: The discussions of a southern journalist who is tired of a lack of
+      common sense.
+    subscribers: 131482
 videos:
 - Zx0w0k0xurU
 - BmjB7TUroyE
@@ -323,7 +336,4 @@ videos:
 - XO6sdC3AlQ8
 - WD8mWq0Hdcw
 - mfDasT0zSpg
-menu:
-  main:
-    parent: Channels
 ---

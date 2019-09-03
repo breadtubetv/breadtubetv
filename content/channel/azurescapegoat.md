@@ -1,10 +1,21 @@
 ---
+description: Channel combining politics & gaming. What could go wrong?
 title: azureScapegoat
 type: channel
 channel: azurescapegoat
+menu:
+  main:
+    parent: Channels
 tags:
 - breadtube
 url: /azurescapegoat/
+providers:
+  youtube:
+    name: azureScapegoat
+    slug: UCXIN3HIH0eon5hVYYpnoNuQ
+    url: https://www.youtube.com/channel/UCXIN3HIH0eon5hVYYpnoNuQ
+    description: Just your friendly neighborhood leftist cuck.
+    subscribers: 23235
 videos:
 - vyl2DeKT-Vs
 - HSJH3uEpiI8
@@ -85,7 +96,4 @@ videos:
 - 8KBmYCB4mSo
 - NvOx_s7LjVg
 - -LS3C9PdmfY
-menu:
-  main:
-    parent: Channels
 ---

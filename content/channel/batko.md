@@ -1,10 +1,21 @@
 ---
+description: Anarchist shitposter
 title: Bat'ko
 type: channel
 channel: batko
+menu:
+  main:
+    parent: Channels
 tags:
 - breadtube
 url: /batko/
+providers:
+  youtube:
+    name: Bat'ko
+    slug: UC_oi8JESlRbOQW5n7Pl07NA
+    url: https://www.youtube.com/channel/UC_oi8JESlRbOQW5n7Pl07NA
+    description: Anarchist shitposter
+    subscribers: 19589
 videos:
 - q7r7D2x4WiM
 - 6Z5oi6xeih8
@@ -126,7 +137,4 @@ videos:
 - vFx2y2TOpJI
 - Eik6dFKwzmU
 - A300tHG0bO4
-menu:
-  main:
-    parent: Channels
 ---

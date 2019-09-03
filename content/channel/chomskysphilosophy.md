@@ -1,4 +1,5 @@
 ---
+description: A collection of Noam Chomsky's ideas and analyses.
 title: Chomsky's Philosophy
 type: channel
 channel: chomskysphilosophy
@@ -20,4 +21,11 @@ tags:
 - politics
 - society
 url: /chomskysphilosophy/
+providers:
+  youtube:
+    name: Chomsky's Philosophy
+    slug: UCHuLYgw4dGbC2BuZQqPWV1g
+    url: https://www.youtube.com/channel/UCHuLYgw4dGbC2BuZQqPWV1g
+    description: A collection of Noam Chomsky's ideas and analyses.
+    subscribers: 169536
 ---

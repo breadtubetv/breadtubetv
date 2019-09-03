@@ -1,10 +1,30 @@
 ---
+description: Welcome! I created this channel to talk about pro-intersectional justice,
+  always making sure that humans and other animals are a part of that conversation.
+  I also like to find cool activists and interview them about their work/ views/projects.
 title: a privileged vegan
 type: channel
 channel: aprivilegedvegan
+menu:
+  main:
+    parent: Channels
 tags:
 - breadtube
 url: /aprivilegedvegan/
+providers:
+  youtube:
+    name: a privileged vegan
+    slug: UCYDLbeHgGKvr4bQdLcasBaA
+    url: https://www.youtube.com/channel/UCYDLbeHgGKvr4bQdLcasBaA
+    description: "Welcome! I created this channel to talk about pro-intersectional
+      justice, always making sure that humans and other animals are a part of that
+      conversation. I also like to find cool activists and interview them about their
+      work/ views/projects.
+
+Follow me on Facebook and say hi! https://www.facebook.com/aprivilegedvegan.
+
+xxx"
+    subscribers: 14536
 videos:
 - 3IXshusc6I0
 - 3UHANEARi9s
@@ -69,7 +89,4 @@ videos:
 - 6rL0N6-gqXM
 - tWfViw8Qxc8
 - nulTqmHH7eg
-menu:
-  main:
-    parent: Channels
 ---

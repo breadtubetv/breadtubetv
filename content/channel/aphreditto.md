@@ -1,10 +1,21 @@
 ---
+description: Fiat iustitia, pereat cultura
 title: Aphreditto
 type: channel
 channel: aphreditto
+menu:
+  main:
+    parent: Channels
 tags:
 - breadtube
 url: /aphreditto/
+providers:
+  youtube:
+    name: Aphreditto
+    slug: UC4cBSjn3x4BimpTEP-104kA
+    url: https://www.youtube.com/channel/UC4cBSjn3x4BimpTEP-104kA
+    description: Fiat iustitia, pereat cultura
+    subscribers: 332
 videos:
 - QhaKLhmb2KQ
 - Sulv3Zs79ps
@@ -50,7 +61,4 @@ videos:
 - wZucPqEAo6o
 - YztGIGhK78k
 - 0YG3mQ8uZL0
-menu:
-  main:
-    parent: Channels
 ---

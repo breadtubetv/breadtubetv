@@ -1,10 +1,23 @@
 ---
+description: Leftist with left wing views. I'm not a furry, I just like cute things.
 title: BadMouse Productions
 type: channel
 channel: badmouseproductions
+menu:
+  main:
+    parent: Channels
 tags:
 - breadtube
 url: /badmouseproductions/
+providers:
+  youtube:
+    name: BadMouseProductions
+    slug: xaxie1
+    url: https://www.youtube.com/xaxie1
+    description: |-
+      A full time Lefty and a sometimes video creator. Not a furry.
+      My views have changed over the years and thus my older stuff is not necessarily in line or supported with my opinions today.
+    subscribers: 69496
 videos:
 - k46uaDvnoYE
 - IjGPm6qjIWk
@@ -110,7 +123,4 @@ videos:
 - j99Ek6RdXNY
 - zWDvKrV6qfg
 - ewIIK3a6-nc
-menu:
-  main:
-    parent: Channels
 ---
