@@ -2,28 +2,4 @@ description: Hi! I am just a concerned citizen trying to figure out the world! M
   series "The Problem" updates whenever I finish a video!
 name: The People's Bayonet
 permalink: thepeoplesbayonet
-providers:
-  patreon:
-    name: The People's Bayonet
-    slug: PeoplesBayonet
-    url: https://twitter.com/PeoplesBayonet
-    description: ""
-    subscribers: 0
-  twitter:
-    name: Luna The Bayonet
-    slug: PeoplesBayonet
-    url: https://twitter.com/PeoplesBayonet
-    description: ""
-    subscribers: 0
-  youtube:
-    name: The People's Bayonet
-    slug: UCr0575ba5GhFemZHC8alnRQ
-    url: https://www.youtube.com/channel/UCr0575ba5GhFemZHC8alnRQ
-    description: |-
-      Luna Abbot: The People's Bayonet
-
-      Hi! I am just a concerned citizen trying to figure out the world! My series "The Problem" updates whenever I finish a video!
-
-      (WATCH! THIS! SPAAAAAAAAAACE!)
-    subscribers: 1565
 slug: thepeoplesbayonet

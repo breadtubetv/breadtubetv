@@ -3,25 +3,4 @@ description: The Humanist Report is a video + audio podcast. This channel dissem
   commentary.
 name: The Humanist Report
 permalink: thehumanistreport
-providers:
-  patreon:
-    name: The Humanist Report
-    slug: humanistreport
-    url: https://www.patreon.com/humanistreport
-    description: ""
-    subscribers: 0
-  twitter:
-    name: The Humanist Report
-    slug: HumanistReport
-    url: https://twitter.com/HumanistReport
-    description: ""
-    subscribers: 0
-  youtube:
-    name: The Humanist Report
-    slug: MikeAnthonyTV
-    url: https://www.youtube.com/user/MikeAnthonyTV
-    description: The Humanist Report is a video + audio podcast. This channel disseminates
-      sociopolitical and religious news stories that is supplemented with progressive
-      commentary.
-    subscribers: 234831
 slug: thehumanistreport
