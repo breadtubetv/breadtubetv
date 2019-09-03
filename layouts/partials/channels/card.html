@@ -1,25 +1,20 @@
-{{- $subscribers := (or .channel.providers.youtube.subscribers .channel.subscribers) -}}
-<li id="{{ .channel.slug }}" class="channel-item list-item">
+{{- $channelSlug := (or .Params.channel (index (split .Page.RelPermalink "/") 1)) -}}
+<li id="{{ $channelSlug }}" class="channel-item list-item">
   <div class="channel">
     <div class="channel-image">
       <div class="channel-imageWrap">
-        <img src="/img/channels/{{ .channel.slug }}.jpg" alt=" {{ .channel.name }}" />
+        <img src="/img/channels/{{ $channelSlug }}.jpg" alt=" {{ .Title }}" />
       </div>
     </div>
     <div class="channel-text">
       <div class="channel-title">
-        <a class="channel-link" href="/{{ or .channel.permalink .channel.providers.youtube.url .channel.url }}" {{ if not .channel.permalink }}target="_blank"{{ end }}>
-          {{ .channel.name }}
+        <a class="channel-link" href="{{ .RelPermalink }}">
+          {{ .Title }}
         </a>
       </div>
       <div class="channel-description">
-        {{ .channel.description | markdownify }}
+        {{ .Description | markdownify }}
       </div>
-      {{ if $subscribers }}
-        <div class="channel-metadata">
-          {{ lang.NumFmt 0 $subscribers }} <span class="visually-hidden">subscribers</span>
-        </div>
-      {{ end }}
     </div>
   </div>
 </li>

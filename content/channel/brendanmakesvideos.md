@@ -1,4 +1,5 @@
 ---
+description: Learn something every day!
 title: brendan makes videos
 type: channel
 channel: brendanmakesvideos
@@ -11,4 +12,11 @@ videos:
 tags:
 - breadtube
 url: /brendanmakesvideos/
+providers:
+  youtube:
+    name: brendan makes videos
+    slug: UCwKvgFP7gsNdlBQWOXq_fIg
+    url: https://www.youtube.com/channel/UCwKvgFP7gsNdlBQWOXq_fIg
+    description: The ideas that control us
+    subscribers: 94
 ---
