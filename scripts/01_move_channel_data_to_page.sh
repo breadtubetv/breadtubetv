@@ -1,6 +1,9 @@
 ls data/channels/ | while read data; do
   yml="data/channels/${data}";
-  slug=`sed -n -e 's/^slug: //p' $yml`;
+  slug=`echo $data | sed -e "s/.yml$//";`;
+
+  echo $slug;
+
   page="content/channel/${slug}.md";
   description=`sed -n "/^description:/,/^name:/p" $yml`;
   providers=`sed '1,/providers/d' $yml`;
@@ -26,4 +29,6 @@ $providers
       sed -i '/^name/d' $page;
     fi
   fi
+
+  rm $yml;
 done
