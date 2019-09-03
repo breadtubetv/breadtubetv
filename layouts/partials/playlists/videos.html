@@ -8,7 +8,8 @@
     {{- range $channelSlug, $channelVideos := $videos -}}
       {{- range $videoID, $video := $channelVideos -}}
         {{- if eq $id $videoID -}}
-          {{ with $.Site.GetPage $channelSlug }}
+          {{- $channelPage := (printf "/channels/%s" $channelSlug) -}}
+          {{ with $.Site.GetPage $channelPage }}
             {{ $channel := . }}
             {{ partial "videos/card.html" (dict "video" $video "channel" $channel "videoChannel" $videoChannel "videoIframe" $videoIframe) }}
           {{ end }}
