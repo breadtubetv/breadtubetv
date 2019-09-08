@@ -50,28 +50,7 @@ collections: # A list of collections the CMS should be able to edit
         default: "Channels"
       - label: "Tags"
         name: "tags"
-        widget: "relation"
-        collection: "channel"
-        searchFields: "tags"
-        valueField: "tags"
-        multiple: true
-      - label: "Tags"
-        name: "tags"
-        widget: "select"
-        multiple: true
-        options:
-          - breadtube
-          - activism
-          - aesthetic
-          - alt-right
-          - america
-          - anarchism
-          - anime
-          - antifascism
-          - arts
-          - australia
-        default:
-          - breadtube
+        widget: "list"
       - label: "URL"
         name: "url"
         widget: "string"
