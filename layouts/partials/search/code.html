@@ -1,6 +1,6 @@
 <script>
 var list = [
-  {{ range .Pages }}
+  {{ range where $.Site.Pages "Type" "channel" }}
     {
       'name': "{{ .Title }}",
       'slug': "{{ .Params.channel }}",
