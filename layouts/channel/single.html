@@ -1,7 +1,7 @@
 {{- define "main" -}}
   {{- $channelSlug := (or .Params.channel (index (split .Page.RelPermalink "/") 1)) -}}
   <div class="heading-wrap" style="overflow: hidden">
-    <img src="/img/channels/{{ $channelSlug }}.jpg" class="channel-image heading-image" alt=" {{ .Title }}" />
+    <img src="/{{ $channelSlug }}/logo.jpg" class="channel-image heading-image" alt=" {{ .Title }}" />
     <h1 class="heading"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></h1>
     <div class="content">
       <p>{{ .Description | markdownify }}</p>

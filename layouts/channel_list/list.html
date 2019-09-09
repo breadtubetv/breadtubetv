@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <div class="heading-wrap" style="overflow: hidden">
+    <h1 class="heading"><a href=".">Channels</a></h1>
+  </div>
+
+  <div class="tags">
+    {{ range .Site.Taxonomies.tags }}
+      {{ if (and .Page.Title (not (eq .Page.Title "breadtube"))) }}
+        <a href="/channels/#search:{{ .Page.Title | lower }}" class="tag">{{ .Page.Title | lower }}</a>
+      {{ end }}
+    {{ end }}
+  </div>
+
+  {{ partial "channels/row.html" . }}
+
+  <div class="header-action" style="margin-top: 10px">
+    <a href="/channels/new/" class="header-add">Add Channel</a>
+  </div>
+{{ end }}

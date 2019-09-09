@@ -1,6 +1,9 @@
 <ul class="list plain-list">
   {{ $tags := .Params.tags | default .Site.Params.defaultTags }}
-  {{ range (shuffle (where .Pages ".Params.tags" "intersect" $tags)) }}
+  {{ $channels := where $.Site.Pages "Type" "channel" }}
+  {{ $tagged := where $.Site.Pages ".Params.tags" "intersect" $tags }}
+  {{ $filtered := $channels | intersect $tagged }}
+  {{ range (shuffle ($tagged)) }}
     {{ partial "channels/card.html" . }}
   {{ end }}
 </ul>
