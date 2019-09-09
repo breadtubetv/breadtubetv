@@ -1,13 +1,11 @@
----
 description: The Humanist Report is a video + audio podcast. This channel disseminates
   sociopolitical and religious news stories that is supplemented with progressive
   commentary.
-title: "The Humanist Report"
-type: "channel"
-channel: "thehumanistreport"
+title: The Humanist Report
+type: channel
 menu:
   main:
-    parent: "Channels"
+    parent: Channels
 tags:
 - breadtube
 - news
@@ -35,4 +33,4 @@ providers:
       sociopolitical and religious news stories that is supplemented with progressive
       commentary.
     subscribers: 234831
----
+--- null

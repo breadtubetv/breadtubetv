@@ -1,4 +1,3 @@
----
 description: |
   Hi my name is Kathrin and I make videos every two to three weeks
   about political ecology, climate change, activism, feminism, sexual violence,
@@ -6,7 +5,6 @@ description: |
   issues from an anti-capitalist, intersectional perspective.
 title: Kathrin
 type: channel
-channel: kathrin
 tags:
 - breadtube
 url: /kathrin/
@@ -43,4 +41,4 @@ providers:
     name: Kathrin
     url: kathrin_YT
     slug: https://www.patreon.com/kathrin_YT
----
+--- null

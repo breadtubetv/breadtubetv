@@ -1,8 +1,6 @@
----
 description: Channel combining politics & gaming. What could go wrong?
 title: azureScapegoat
 type: channel
-channel: azurescapegoat
 menu:
   main:
     parent: Channels
@@ -18,4 +16,4 @@ providers:
     url: https://www.youtube.com/channel/UCXIN3HIH0eon5hVYYpnoNuQ
     description: Just your friendly neighborhood leftist cuck.
     subscribers: 23235
----
+--- null

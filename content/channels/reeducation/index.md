@@ -1,10 +1,8 @@
----
 description: RE-EDUCATION Is a video series about Anarcho-Communism, Anti Capitalism,
 aliases:
 - /deadheadanimation/
 title: RE-EDUCATION
 type: channel
-channel: reeducation
 tags:
 - activism
 - anarchism
@@ -271,4 +269,4 @@ providers:
     - kNA6PDZBYPw
     - g30aLS4vWX8
 subscribers: 2373
----
+--- null

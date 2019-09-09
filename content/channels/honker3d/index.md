@@ -1,8 +1,6 @@
----
 description: STUPID CITY, the new Google Earth series on architecture and urban spaces
 title: honker 3d
 type: channel
-channel: honker3d
 menu:
   main:
     parent: Channels
@@ -30,4 +28,4 @@ providers:
 
       Thanks!
     subscribers: 1131
----
+--- null

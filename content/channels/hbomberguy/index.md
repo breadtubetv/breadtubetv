@@ -1,8 +1,6 @@
----
 description: Internet? (media analysis and left video essay)
 title: Hbomberguy
 type: channel
-channel: hbomberguy
 tags:
 - breadtube
 url: /hbomberguy/
@@ -154,4 +152,4 @@ providers:
     - VZ72TJ1d9tk
     - I6OhqPt_LwM
     - CAvsO7oO7Hk
----
+--- null

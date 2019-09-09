@@ -1,8 +1,6 @@
----
 description: Videos about stuff from a leftist perspective.
 title: Huntress X Thompson
 type: channel
-channel: huntressxthompson
 menu:
   main:
     parent: Channels
@@ -26,4 +24,4 @@ providers:
     url: https://www.youtube.com/channel/UCnAOIfdL832B16f9Gb4xeTA
     description: ""
     subscribers: 149
----
+--- null

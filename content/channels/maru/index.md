@@ -1,8 +1,6 @@
----
 description: Palestine and film analysis from a critical and post-colonial perspective.
 title: Maru
 type: channel
-channel: maru
 menu:
   main:
     parent: Channels
@@ -31,4 +29,4 @@ providers:
     url: https://www.youtube.com/channel/UC3hGc5eonszeA-KZAuA6wCA
     description: Palestine and film analysis from a critical and post-colonial perspective.
     subscribers: 691
----
+--- null

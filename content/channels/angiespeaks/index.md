@@ -1,8 +1,6 @@
----
 description: Anarchist Leftist channel with a creative and mystical flair!
 title: Angie Speaks
 type: channel
-channel: angiespeaks
 menu:
   main:
     parent: Channels
@@ -43,4 +41,4 @@ providers:
       you like what I do and want to support me so I can make more, please consider
       becoming a Patron! You can also come hang with me on twitter @speaksangie!
     subscribers: 22704
----
+--- null

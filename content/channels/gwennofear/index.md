@@ -1,4 +1,3 @@
----
 description: Hey there! I'm Guinevere, and I plan on doing some political, critical
   analysis and current events stuff on YouTube as well as some hangouts with friends.
   I've only recently started bringing content onto this channel, but hopefully I'll
@@ -6,7 +5,6 @@ description: Hey there! I'm Guinevere, and I plan on doing some political, criti
   me, I might do some videos on that as well.
 title: Gwen_No_Fear
 type: channel
-channel: gwennofear
 menu:
   main:
     parent: Channels
@@ -38,4 +36,4 @@ providers:
 
       Being bad at video games is fun. I do a lot of Dark Souls and Overwatch content, plus some others, so stick around for that as well.
     subscribers: 3492
----
+--- null

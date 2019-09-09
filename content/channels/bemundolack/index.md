@@ -1,14 +1,12 @@
----
 description: Started this channel to talk about art. I'm still gonna do that, but
   now I'm gonna talk about other stuff, too. It's gonna be scripted from now on, too,
   even though I didn't script my videos at first.
 title: Bemundolack
 type: channel
-channel: bemundolack
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - anarchism
@@ -36,16 +34,9 @@ providers:
     name: Bemundolack
     slug: UC8Ubtzq6EXH8CPA9v7-1pmA
     url: https://www.youtube.com/channel/UC8Ubtzq6EXH8CPA9v7-1pmA
-    description: "Started this channel to talk about art. I'm still gonna do that,
-      but now I'm gonna talk about other stuff, too. It's gonna be scripted from now
-      on, too, even though I didn't script my videos at first.
-
-You can contact
-      me here:
-
-bemundolack@gmail.com
-https://twitter.com/bemundolack
-https://www.instagram.com/bemundolack/
-https://www.facebook.com/Bemundolack/"
+    description: |-
+      Started this channel to talk about art. I'm still gonna do that, but now I'm gonna talk about other stuff, too. It's gonna be scripted from now on, too, even though I didn't script my videos at first.
+      You can contact me here:
+      bemundolack@gmail.com https://twitter.com/bemundolack https://www.instagram.com/bemundolack/ https://www.facebook.com/Bemundolack/
     subscribers: 2353
----
+--- null

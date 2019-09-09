@@ -1,11 +1,9 @@
----
 description: Hey, comrades! This channel exists so I can channel my creative energy,
   artistic talent, and rhetorical skill into something productive and useful to others.
   In time, it will be a weapon against fascism. Until that point, I'll be learning
   how to make YouTube videos.
 title: Vaush
 type: channel
-channel: vaush
 menu:
   main:
     parent: Channels
@@ -64,4 +62,4 @@ providers:
     subscribers: 27434
 tags:
 - breadtube
----
+--- null

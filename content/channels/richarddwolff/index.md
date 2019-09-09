@@ -1,13 +1,11 @@
----
 description: An educational web series about philosophies espoused by individual films.
   Common topics include politics and social issues.
 title: Richard D Wolff
 type: channel
-channel: richarddwolff
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /richarddwolff/
@@ -25,4 +23,4 @@ providers:
       http://democracyatwork.info
       http://rdwolff.com
     subscribers: 62790
----
+--- null

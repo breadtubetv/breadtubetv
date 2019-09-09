@@ -1,8 +1,6 @@
----
 description: YouTuber, ex-philosopher. Sex, drugs, and social justice.
 title: Contrapoints
 type: channel
-channel: contrapoints
 tags:
 - aesthetic
 - alt-right
@@ -153,4 +151,4 @@ providers:
     - spHCEBTqaUE
     - -fR6g9CDMsA
     - klfH9QaEcqY
----
+--- null

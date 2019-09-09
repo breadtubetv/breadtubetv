@@ -1,10 +1,8 @@
----
 description: AKA Floating into Bliss. I focus on analyzing the media I enjoy as well
   as exploring its creators and fandoms. Come for the topical content, stay for the
   yuri and Ikuhara.
 title: Zeria
 type: channel
-channel: zeria
 menu:
   main:
     parent: Channels
@@ -48,4 +46,4 @@ tags:
 - breadtube
 - anime
 - depression
----
+--- null

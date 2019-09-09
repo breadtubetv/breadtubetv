@@ -1,12 +1,10 @@
----
 description: Hello everyone! I make youtube videos talking about feminism.
 title: Claudia Brown
 type: channel
-channel: claudiabrown
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - feminism
@@ -21,4 +19,4 @@ providers:
 
       I do hope you give my channel a chance and hear me out, my goals here are mostly to raise awareness about more feminist causes and show another side I think often gets overlooked on youtube when talking about feminism.
     subscribers: 10496
----
+--- null

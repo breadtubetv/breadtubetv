@@ -1,9 +1,7 @@
----
 description: My name is Simon Obirek, and I suffer from an existential crisis. This
   channel is all about exploring this phenomenon.
 title: Simon Obirek
 type: channel
-channel: simonobirek
 menu:
   main:
     parent: Channels
@@ -41,4 +39,4 @@ providers:
 
       For business inquiries, contact me here: simonobirek@gmail.com
     subscribers: 4112
----
+--- null

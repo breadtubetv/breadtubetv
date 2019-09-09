@@ -1,13 +1,11 @@
----
 description: I make videos about politics, social justice, and science. They aren't
   very good, but they're getting there.
 title: Rational Disconnect
 type: channel
-channel: rationaldisconnect
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /rationaldisconnect/
@@ -19,4 +17,4 @@ providers:
     description: I make videos about politics, social justice, and science. They aren't
       very good, but they're getting there.
     subscribers: 18059
----
+--- null

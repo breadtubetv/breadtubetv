@@ -1,14 +1,12 @@
----
 description: I make videos about History, Government, and Psychology so that maybe
   next time you're in a conversation or you see a stupid meme on facebook, you'll
   know better.
 title: Knowing Better
 type: channel
-channel: knowingbetter
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /knowingbetter/
@@ -43,4 +41,4 @@ providers:
       I am not a doctor, lawyer, accountant, or anything else; don't take my advice on anything.
       No products or brands shown in my videos are paid sponsors, unless otherwise stated.
     subscribers: 419479
----
+--- null

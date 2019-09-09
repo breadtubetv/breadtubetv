@@ -1,13 +1,11 @@
----
-description:  One otter sets out to convince others of his positions on ethics and politics,
-  and perhaps be convinced of other positions himself!
+description: One otter sets out to convince others of his positions on ethics and
+  politics, and perhaps be convinced of other positions himself!
 title: In Otter Words
 type: channel
-channel: inotterwords
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /inotterwords/
@@ -31,4 +29,4 @@ providers:
     description: One otter sets out to convince others of his positions on ethics
       and politics, and perhaps be convinced of other positions himself!
     subscribers: 426
----
+--- null

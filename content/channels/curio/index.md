@@ -1,13 +1,11 @@
----
 description: Spreading cultural-marxism-gamerism to destroy the west and socialise
   anime
 title: Curio
 type: channel
-channel: curio
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - gaming
@@ -20,4 +18,4 @@ providers:
     description: Spreading cultural-marxism-gamerism to destroy the west and socialise
       anime
     subscribers: 5255
----
+--- null

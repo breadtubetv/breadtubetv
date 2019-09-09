@@ -1,9 +1,7 @@
----
 description: Welcome to RevolutionTube! Here you will find a bunch of political video
   essays.
 title: Revolution Tube
 type: channel
-channel: revolutiontube
 menu:
   main:
     parent: Channels
@@ -18,4 +16,4 @@ providers:
     description: Welcome to RevolutionTube! Here you will find a bunch of political
       video essays.
     subscribers: 1513
----
+--- null

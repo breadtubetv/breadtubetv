@@ -1,8 +1,6 @@
----
 description: Leftist, Anarchist, Communist, Feminist video essays.
 title: Non Compete
 type: channel
-channel: noncompete
 tags:
 - breadtube
 - organizing
@@ -437,4 +435,4 @@ providers:
     - ncbQNw2aG8E
     - MDRr6hh2KAk
     - RXAyLIqEn4s
----
+--- null

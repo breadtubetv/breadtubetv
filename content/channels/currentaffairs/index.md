@@ -1,8 +1,6 @@
----
 description: Official video content from Current Affairs
 title: Current Affairs
 type: channel
-channel: currentaffairs
 tags:
 - breadtube
 url: '"currentaffairs"'
@@ -55,4 +53,4 @@ providers:
     url: https://www.youtube.com/channel/UCSmOl7Hau-YX2VKfz1CMAZQ
     description: Official video content from Current Affairs magazine
     subscribers: 5577
----
+--- null

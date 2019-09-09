@@ -1,13 +1,11 @@
----
 description: Writer, Animator, Videographer, Director (BIG IRON). Nice to meet you!
   I'm here to tell stories and connect with people.
 title: Jack Saint / LackingSaint
 type: channel
-channel: jacksaintlackingsaint
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /jacksaintlackingsaint/
@@ -24,4 +22,4 @@ providers:
 
       If you need to contact me personally for any reason, please don't hesitate to throw me an email, message or tweet!
     subscribers: 70259
----
+--- null

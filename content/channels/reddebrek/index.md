@@ -1,12 +1,10 @@
----
 description: Educate, Agitate, Organise. News and Activism
 title: Reddebrek
 type: channel
-channel: reddebrek
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - news
@@ -24,4 +22,4 @@ providers:
 
       News and Activism
     subscribers: 1602
----
+--- null

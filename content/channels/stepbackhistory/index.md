@@ -1,14 +1,12 @@
----
 description: Step Back is a history channel that invites you to consider the past
   and how it connects to today. We make videos that take a historical topic and look
   at it from a new angle.
 title: Step Back History
 type: channel
-channel: stepbackhistory
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /stepbackhistory/
@@ -28,4 +26,4 @@ providers:
       https://www.patreon.com/stepbackhistory
       https://www.paypal.me/stepbackhistory
     subscribers: 51243
----
+--- null

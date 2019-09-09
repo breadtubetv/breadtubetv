@@ -1,11 +1,9 @@
----
 description: |
   I make political commentaries, parodies, video essays, and sometimes
   other stuff. Subscribe for several new videos weekly! If you have questions,
   leave them in the discussion section.
 title: Jason From Detroit
 type: channel
-channel: jasonfromdetroit
 tags:
 - breadtube
 url: '"jasonfromdetroit"'
@@ -37,4 +35,4 @@ providers:
       other stuff. Subscribe for several new videos weekly! If you have questions,
       leave them in the discussion section.
     subscribers: 0
----
+--- null

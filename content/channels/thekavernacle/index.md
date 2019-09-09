@@ -1,9 +1,7 @@
----
 description: Give a man a gun and he’ll rob a bank. Give a man a bank and he’ll rob
   the world
 title: The Kavernacle
 type: channel
-channel: thekavernacle
 menu:
   main:
     parent: Channels
@@ -44,4 +42,4 @@ providers:
 
       The Kavernacle is a channel covering Politics, History, Video Games, TV, Film to general videos on religion and current events.
     subscribers: 6123
----
+--- null

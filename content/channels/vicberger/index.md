@@ -1,8 +1,6 @@
----
 description: Vic Berger IV's YouTube channel.
 title: Vic Berger
 type: channel
-channel: vicberger
 menu:
   main:
     parent: Channels
@@ -24,4 +22,4 @@ providers:
     url: https://www.youtube.com/channel/UCWZ3HFiJkxG1K8C4HVnyBvQ
     description: Vic Berger IV's YouTube channel.
     subscribers: 76285
----
+--- null

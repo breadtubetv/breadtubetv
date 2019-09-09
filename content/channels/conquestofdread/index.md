@@ -1,8 +1,6 @@
----
 description: Pakeha/Maori content creator from New Zealand
 title: C o n q u e s t o f D r e a d
 type: channel
-channel: conquestofdread
 tags:
 - breadtube
 - new zealand
@@ -32,4 +30,4 @@ videos:
 menu:
   main:
     parent: Channels
----
+--- null

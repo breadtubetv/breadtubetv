@@ -1,9 +1,7 @@
----
 description: I'm a smug anarchist poseur vomiting out video essays for you. I love
   you.
 title: Thought Slime
 type: channel
-channel: thoughtslime
 tags:
 - breadtube
 - alt-right
@@ -41,4 +39,4 @@ providers:
       I'm a smug anarchist poseur vomiting out video essays for you.
       I love you.
     subscribers: 52280
----
+--- null

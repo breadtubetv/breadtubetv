@@ -1,9 +1,7 @@
----
 description: I do "political" video essays on YouTube. The videos are way too long
   and it takes a lot of time to work on them. Help!!
 title: Linke Sau
 type: channel
-channel: linkesau
 menu:
   main:
     parent: Channels
@@ -35,4 +33,4 @@ providers:
     url: https://www.youtube.com/channel/UCgvn7jvqgqnswXUraQoMrOg
     description: ""
     subscribers: 392
----
+--- null

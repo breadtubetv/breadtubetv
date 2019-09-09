@@ -1,13 +1,11 @@
----
 description: PhD graduate from Toronto. I studied Human Geography / Political Ecology,
-  focusing on the intersections between political economy and global environmental governance.
-  This sobering experience has led me to be the staunch anti-capitalist, vegan activist you see today!
-  I make educational videos about political economy/capitalism, environmental issues,
-  veganism, and issues relating to social/economic justice
+  focusing on the intersections between political economy and global environmental
+  governance. This sobering experience has led me to be the staunch anti-capitalist,
+  vegan activist you see today! I make educational videos about political economy/capitalism,
+  environmental issues, veganism, and issues relating to social/economic justice
 aliases: []
 title: Mexie
 type: channel
-channel: mexie
 menu:
   main:
     parent: Channels
@@ -76,4 +74,4 @@ providers:
     url: https://www.youtube.com/channel/UCepkun0sH16b-mqxBN22ogA
     description: ""
     subscribers: 39359
----
+--- null

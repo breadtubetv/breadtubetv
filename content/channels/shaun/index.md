@@ -1,9 +1,6 @@
----
-description: Reclaiming the Skull.
-  Video essays critiqing the alt-right.
+description: Reclaiming the Skull. Video essays critiqing the alt-right.
 title: Shaun
 type: channel
-channel: shaun
 menu:
   main:
     parent: Channels
@@ -55,4 +52,4 @@ providers:
     url: https://www.youtube.com/channel/UCJ6o36XL0CpYb6U5dNBiXHQ
     description: reclaiming the skull
     subscribers: 243056
----
+--- null

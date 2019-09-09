@@ -1,4 +1,3 @@
----
 description: Greetings! I am Comrade Dirk and you are welcome to my channel 'Dirk
   Socialist' It may be no surprise that the channel Dirk Socialist is ran by a socialist.
 description_more: Although to many the term 'Socialism' appears to be vulgar, I believe
@@ -12,12 +11,10 @@ description_more: Although to many the term 'Socialism' appears to be vulgar, I 
   share and subscribe-- it really does help. Take care, Comrades!
 title: Dirk Socialist
 type: channel
-channel: dirksocialist
 menu:
   main:
     parent: Channels
-tags:
-
+tags: null
 url: /dirksocialist/
 providers:
   patreon:
@@ -38,4 +35,4 @@ providers:
     url: https://www.youtube.com/channel/UCyq44Ci_OWISNPS2QErs8OA
     description: ""
     subscribers: 146
----
+--- null

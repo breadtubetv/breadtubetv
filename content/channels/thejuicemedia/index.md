@@ -1,8 +1,6 @@
----
 description: '#GenuineSatire We make Honest Government Ads & Rap News'
 title: The Juice Media
 type: channel
-channel: thejuicemedia
 menu:
   main:
     parent: Channels
@@ -69,4 +67,4 @@ providers:
     description: '"#GenuineSatire" We make Honest Government Ads & Rap News. You can
       keep us going on Patreon: http://www.patreon.com/thejuicemedia'
     subscribers: 227302
----
+--- null

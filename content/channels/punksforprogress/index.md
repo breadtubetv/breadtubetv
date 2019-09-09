@@ -1,4 +1,3 @@
----
 description: 5 Punk Rock Anticapitalists covering the world's events from a Socialist
   perspective. We would like this Marxist Media collective to grow, so we are WAY
   open to submissions and hearing from anyone interested in covering the goings on
@@ -6,11 +5,10 @@ description: 5 Punk Rock Anticapitalists covering the world's events from a Soci
   Are you at the very least Socialism curious?
 title: Punks For Progress
 type: channel
-channel: punksforprogress
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - news
@@ -24,4 +22,4 @@ providers:
     url: https://www.youtube.com/channel/UCrKDqm_Q8i42tZSsXLmLz3Q
     description: ""
     subscribers: 1167
----
+--- null

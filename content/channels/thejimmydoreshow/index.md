@@ -1,13 +1,10 @@
----
-description: |-
-  We Release Clips Daily!
+description: We Release Clips Daily!
 title: The Jimmy Dore Show
 type: channel
-channel: thejimmydoreshow
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - comedy
@@ -25,4 +22,4 @@ providers:
 
       Tune in on Saturdays at 2pm PST for our Livestream. #SolidChaturday
     subscribers: 572624
----
+--- null

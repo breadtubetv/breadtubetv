@@ -1,8 +1,6 @@
----
 description: My name is Roman and I'm from Russia. What's up?
 title: NFKRZ
 type: channel
-channel: nfkrz
 menu:
   main:
     parent: Channels
@@ -680,4 +678,4 @@ videos:
 - 3DWX1i9N3L4
 - mOJ__VaQnaI
 - 7sxB2mBnkqQ
----
+--- null

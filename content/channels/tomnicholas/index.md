@@ -1,11 +1,9 @@
----
 description: I aim to provide some introductions to key theories and concepts in the
   humanities in my series What the Theory?, provide an insight into my PhD journey
   through my PhD vlogs and uncover the cultural politics of some of the most popular
   current TV shows and movies through my series Politix.
 title: Tom Nicholas
 type: channel
-channel: tomnicholas
 menu:
   main:
     parent: Channels
@@ -46,4 +44,4 @@ providers:
       Twitter: @Tom_Nicholas
       Website: www.tomnicholas.com
     subscribers: 15657
----
+--- null

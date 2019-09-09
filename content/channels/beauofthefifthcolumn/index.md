@@ -1,9 +1,7 @@
----
 description: The discussions of a southern journalist who is tired of a lack of common
   sense.
 title: Beau of the Fifth Column
 type: channel
-channel: beauofthefifthcolumn
 menu:
   main:
     parent: Channels
@@ -27,4 +25,4 @@ providers:
     description: The discussions of a southern journalist who is tired of a lack of
       common sense.
     subscribers: 131482
----
+--- null

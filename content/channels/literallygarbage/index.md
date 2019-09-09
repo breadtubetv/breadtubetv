@@ -1,8 +1,6 @@
----
 description: the german che-pard
 title: literally garbage
 type: channel
-channel: literallygarbage
 tags:
 - breadtube
 - antifascism
@@ -53,4 +51,4 @@ providers:
     url: https://www.youtube.com/channel/UChKGZBVdKbiBGgn2yhhcmSA
     description: the german che-pard
     subscribers: 2208
----
+--- null

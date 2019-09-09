@@ -1,7 +1,5 @@
----
 title: Eccentric Rants
 type: channel
-channel: eccentricrants
 tags:
 - breadtube
 - america
@@ -32,4 +30,4 @@ videos:
 menu:
   main:
     parent: Channels
----
+--- null

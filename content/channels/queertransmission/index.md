@@ -1,13 +1,11 @@
----
 description: A weekly YouTube Livestream where I discuss Leftie/Queer stuff with a
   variety of guests
 title: Queer Transmission
 type: channel
-channel: queertransmission
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /queertransmission/
@@ -18,4 +16,4 @@ providers:
     url: https://www.youtube.com/channel/UC-KbKS2_A4YIvdAQ_u9B5SQ
     description: ""
     subscribers: 118
----
+--- null

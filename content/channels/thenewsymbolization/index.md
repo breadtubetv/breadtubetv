@@ -1,9 +1,7 @@
----
 description: We critique and outgrow reactionary and capitalist realist discourses.
   Reclaim the future.
 title: the new symbolization
 type: channel
-channel: thenewsymbolization
 menu:
   main:
     parent: Channels
@@ -26,4 +24,4 @@ providers:
     url: https://www.youtube.com/channel/UCYL9UReTgKYZHGRMMHaqQyA
     description: ""
     subscribers: 1792
----
+--- null

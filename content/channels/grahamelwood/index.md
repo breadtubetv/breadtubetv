@@ -1,13 +1,11 @@
----
 description: Official YouTube channel of Comedian/Filmmaker Graham Elwood (Director
   of Earbuds)
 title: Graham Elwood
 type: channel
-channel: grahamelwood
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /grahamelwood/
@@ -21,4 +19,4 @@ providers:
       podcast, and co-producer of LA PodFest). Visit www.grahamelwood.com for DVDs,
       comedy albums, tour dates, t-shirts, and more!'
     subscribers: 21598
----
+--- null

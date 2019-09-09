@@ -1,13 +1,11 @@
----
 description: Explanations about social policies using Cities Skylines as a visual
   aide
 title: donoteat01
 type: channel
-channel: donoteat01
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - capitalist realism
@@ -26,4 +24,4 @@ providers:
 
       here is the patreon: https://www.patreon.com/donoteat
     subscribers: 40458
----
+--- null

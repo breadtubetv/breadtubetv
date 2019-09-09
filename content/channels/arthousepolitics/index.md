@@ -1,8 +1,6 @@
----
 description: Aesthetic and high quality political commentary
 title: Art House Politics
 type: channel
-channel: arthousepolitics
 menu:
   main:
     parent: Channels
@@ -39,10 +37,8 @@ providers:
     name: Art House Politics
     slug: UCnuC9wCnogZA8VcTQJ1_5wg
     url: https://www.youtube.com/channel/UCnuC9wCnogZA8VcTQJ1_5wg
-    description: "Our politics are high-brow, nuanced, subtle, inspired, enlightened
-      even.
-To us, politics is an art form. Our politics belong hanging in museums.
-
-Our politics are beautiful, misunderstood in their time"
+    description: |-
+      Our politics are high-brow, nuanced, subtle, inspired, enlightened even. To us, politics is an art form. Our politics belong hanging in museums.
+      Our politics are beautiful, misunderstood in their time
     subscribers: 8246
----
+--- null

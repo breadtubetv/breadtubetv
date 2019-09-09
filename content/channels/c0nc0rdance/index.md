@@ -1,13 +1,11 @@
----
 description: It's my goal to show through the use of solid evidence and rational argument
   what is junk science, and what is real.
 title: C0nc0rdance
 type: channel
-channel: c0nc0rdance
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /c0nc0rdance/
@@ -27,4 +25,4 @@ providers:
 
       It's my goal to show through the use of solid evidence and rational argument what is junk science, and what is real.
     subscribers: 54548
----
+--- null

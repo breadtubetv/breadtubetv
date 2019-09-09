@@ -1,9 +1,7 @@
----
 description: The Majority Report is a daily, political talk show at majority.fm live
   at 12PM ET.
 title: The Majority Report
 type: channel
-channel: themajorityreport
 tags:
 - news
 url: /themajorityreport/
@@ -22,4 +20,4 @@ providers:
       live at 12PM ET. Call the show after 12:30PM ET 646-257-3920. Available on Itunes
       or the site as a podcast.
     subscribers: 577308
----
+--- null

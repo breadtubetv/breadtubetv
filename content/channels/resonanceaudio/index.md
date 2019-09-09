@@ -1,4 +1,3 @@
----
 description: We are recording anarchist and related texts and distributing them in
   audio form. In this way we hope to make anarchist ideas more accessible, and anarchist
   practice more informed. We may not agree with every word of every text we record,
@@ -7,11 +6,10 @@ description: We are recording anarchist and related texts and distributing them 
   the streets.
 title: Resonance Audio
 type: channel
-channel: resonanceaudio
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - audio
@@ -29,4 +27,4 @@ providers:
       Visit us at resonanceaudiodistro.org
       or send us an email at resonanceaudio@protonmail.com
     subscribers: 1198
----
+--- null

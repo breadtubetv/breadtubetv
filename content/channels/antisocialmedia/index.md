@@ -1,8 +1,6 @@
----
 description: I make stupid videos about stupid people.
 title: Anti-Social Media
 type: channel
-channel: antisocialmedia
 menu:
   main:
     parent: Channels
@@ -63,4 +61,4 @@ providers:
 
       Latest episodes only via SOUNDCLOUD: https://soundcloud.com/antisocial_media
     subscribers: 3550
----
+--- null

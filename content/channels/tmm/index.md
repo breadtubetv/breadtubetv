@@ -1,12 +1,10 @@
----
 description: Leftist Video Essays
 title: TMM
 type: channel
-channel: tmm
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /tmm/
@@ -35,4 +33,4 @@ providers:
     url: https://www.youtube.com/channel/UCQb22imbIqKKWOC98C8Rm2A
     description: ""
     subscribers: 42489
----
+--- null

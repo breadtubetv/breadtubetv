@@ -1,10 +1,8 @@
----
 description: The Real News Network (TRNN) produces independent, verifiable, fact-based
   journalism that engages ordinary people in solving the critical problems of our
   times.
 title: The Real News Network
 type: channel
-channel: therealnewsnetwork
 tags: []
 url: /therealnewsnetwork/
 videos:
@@ -27,4 +25,4 @@ providers:
 
       Our motto is “The Future Depends on Knowing.”
     subscribers: 327137
----
+--- null

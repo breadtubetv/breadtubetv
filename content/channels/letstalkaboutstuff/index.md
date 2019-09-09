@@ -1,14 +1,12 @@
----
 description: this is a channel where a trans person named sarah makes video essays
   about stuff. sometimes that stuff includes movies, video games, or other flavors
   of media.
 title: let's talk about stuff
 type: channel
-channel: letstalkaboutstuff
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /letstalkaboutstuff/
@@ -22,4 +20,4 @@ providers:
 
       sarah prefers the pronouns she/her. just, y'know, in case it comes up.
     subscribers: 18136
----
+--- null

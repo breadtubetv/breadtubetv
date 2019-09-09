@@ -1,13 +1,11 @@
----
 description: A documentary & interview series hosted by Abby Martin - reporting on
   war & inequality from the heart of Empire
 title: Empire Files
 type: channel
-channel: empirefiles
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - news
@@ -26,4 +24,4 @@ providers:
       Hosted, directed & written by Abby Martin (twitter.com/AbbyMartin)
       Produced & written by Mike Prysner (twitter.com/MikePrysner)
     subscribers: 143555
----
+--- null

@@ -1,11 +1,9 @@
----
 description: Exploring meaning and nuance in cinema that is both artful and genre.
   I am interested in finding what is interesting about film as opposed to what is
   good or bad. I seek to create fun content that speaks to the meaningful experience
   of how we watch and create movies.
 title: Nyx Fears
 type: channel
-channel: nyxfears
 menu:
   main:
     parent: Channels
@@ -54,4 +52,4 @@ providers:
       is good or bad. I seek to create fun content that speaks to the meaningful experience
       of how we watch and create movies.
     subscribers: 84530
----
+--- null

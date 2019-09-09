@@ -1,13 +1,11 @@
----
 description: Hi! I make well-researched videos about world history, politics, society,
   etc.
 title: BadEmpanada
 type: channel
-channel: badempanada
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - politics
@@ -24,4 +22,4 @@ providers:
     url: https://www.youtube.com/channel/UCUzmizB92LJ9oxf5T_snZNA
     description: Hi! I make videos about world history, politics, society, etc.
     subscribers: 2317
----
+--- null

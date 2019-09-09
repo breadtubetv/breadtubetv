@@ -1,15 +1,9 @@
----
-description: "Videos explaining things with optimistic nihilism.
-
-We are a small
-  team who want to make science look beautiful. Because it is beautiful.
-
-Currently
-  we make one animation video per month. Follow us on Twitter, Facebook to get notified
-  when a new one comes out."
+description: |-
+  Videos explaining things with optimistic nihilism.
+  We are a small team who want to make science look beautiful. Because it is beautiful.
+  Currently we make one animation video per month. Follow us on Twitter, Facebook to get notified when a new one comes out.
 title: Kurzgesagt – In a Nutshell
 type: channel
-channel: kurzgesagt
 menu:
   main:
     parent: Channels
@@ -51,18 +45,12 @@ providers:
     name: Kurzgesagt – In a Nutshell
     slug: UCsXVk37bltHxD1rDPwtNM8Q
     url: https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q
-    description: "Videos explaining things with optimistic nihilism.
+    description: |-
+      Videos explaining things with optimistic nihilism.
+      We are a small team who want to make science look beautiful. Because it is beautiful.
 
-We are a
-      small team who want to make science look beautiful. Because it is beautiful.
-
-
-Currently we make one animation video per month. Follow us on Twitter, Facebook
-      to get notified when a new one comes out.
-
-FAQ:
-
-- We do the videos with
-      After Effects and Illustrator."
+      Currently we make one animation video per month. Follow us on Twitter, Facebook to get notified when a new one comes out.
+      FAQ:
+      - We do the videos with After Effects and Illustrator.
     subscribers: 9006085
----
+--- null

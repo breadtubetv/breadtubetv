@@ -1,10 +1,8 @@
----
 description: A leftist gaming and political channel that makes gaming videos with
   leftist jokes, humor, and/or topics. Along with gaming, the channel makes leftist
   political videos that are usually short.
 title: The Devtopian Commune
 type: channel
-channel: devtopiancommune
 menu:
   main:
     parent: Channels
@@ -26,39 +24,12 @@ providers:
     name: The Devtopian Commune
     slug: UCgCURpCw73Cj9zE0GvflL0Q
     url: https://www.youtube.com/channel/UCgCURpCw73Cj9zE0GvflL0Q
-    description: "On this channel, we play mostly calm games that require little effort
-      to edit because we are lazy comrade. Socialism and communism is mentioned a
-      lot in videos mostly as an opportunity to seize a joke or two. Leftist informing
-      videos as well as creative videos are uploaded on weekends whenever there is
-      one. Hope you enjoy, comrade. Solidarity. ☭
+    description: |-
+      On this channel, we play mostly calm games that require little effort to edit because we are lazy comrade. Socialism and communism is mentioned a lot in videos mostly as an opportunity to seize a joke or two. Leftist informing videos as well as creative videos are uploaded on weekends whenever there is one. Hope you enjoy, comrade. Solidarity. ☭
+      Note: Most videos are recorded at night. This may or may not disrupt your viewing pleasure. ————————————————————————————————— Video Plan [EST] (Uploads: 1st - 4PM, 2nd - 6PM):
+      Monday(/Friday) - City: Skylines (Wednesday) - Mystery Saturday/Sunday - Other • Leftism [Politics/Economics/News/etc.] (5PM) ~ Every 2 Weeks - Weekends • Art & Music [Parodies, Covers] (5PM) ~ Very Rare - Weekends
+      [This schedule is very inconsistent at times] () - May Or May Not Happen ————————————————————————————————— The Flag:
 
-Note: Most videos are recorded
-      at night. This may or may not disrupt your viewing pleasure.
-—————————————————————————————————
-Video
-      Plan [EST] (Uploads: 1st - 4PM, 2nd - 6PM):
-
-Monday(/Friday) - City: Skylines
-(Wednesday)
-      - Mystery
-Saturday/Sunday - Other
-   • Leftism [Politics/Economics/News/etc.]
-      (5PM)
-     ~ Every 2 Weeks - Weekends
-   • Art & Music [Parodies, Covers]
-      (5PM)
-     ~ Very Rare - Weekends
-
-[This schedule is very inconsistent at
-      times]
-() - May Or May Not Happen
-—————————————————————————————————
-The Flag:
-
-
-Black - Revolution & Unity
-Purple - Peace & Communism (Blue/Red)
-Ⓐ - Anarchism
-      & Order"
+      Black - Revolution & Unity Purple - Peace & Communism (Blue/Red) Ⓐ - Anarchism & Order
     subscribers: 332
----
+--- null

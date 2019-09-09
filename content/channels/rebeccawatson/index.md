@@ -1,18 +1,15 @@
----
 description: Rebecca leads a team of skeptical female activists at Skepchick.org.
-  She travels around the world delivering entertaining talks on science, atheism, feminism, and skepticism.
-  There is currently an asteroid orbiting the sun with her name on it.
-  Assorted nerdery.
+  She travels around the world delivering entertaining talks on science, atheism,
+  feminism, and skepticism. There is currently an asteroid orbiting the sun with her
+  name on it. Assorted nerdery.
 title: Rebecca Watson
 type: channel
-channel: rebeccawatson
 menu:
   main:
     parent: Channels
 videos:
 - 0QxT9aIowvw
-tags:
-
+tags: null
 url: /rebeccawatson/
 providers:
   blog:
@@ -42,4 +39,4 @@ providers:
       feminism, and skepticism. There is currently an asteroid orbiting the sun with
       her name on it.
     subscribers: 35592
----
+--- null

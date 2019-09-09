@@ -1,9 +1,7 @@
----
 description: In a media landscape blemished with uncertainty two indentured plebs
   bring you their comedic spin on the weekly news.
 title: The Serfs
 type: channel
-channel: theserfs
 menu:
   main:
     parent: Channels
@@ -59,4 +57,4 @@ providers:
 
       If you like what you see and hear please subscribe, share, and like at will. Be sure to check out our podcast at www.weareserfs.com
     subscribers: 27456
----
+--- null

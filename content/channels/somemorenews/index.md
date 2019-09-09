@@ -1,8 +1,6 @@
----
 description: Hello, I am a news dude and, news-wise, here is some of it.
 title: Some More News
 type: channel
-channel: somemorenews
 menu:
   main:
     parent: Channels
@@ -89,4 +87,4 @@ videos:
 - mFYiD8NfrMI
 - Ngr4bNZsPeQ
 - HBR_dcp38KA
----
+--- null

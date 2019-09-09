@@ -1,4 +1,3 @@
----
 description: TODO
 title: Example
 type: channel
@@ -7,6 +6,8 @@ menu:
     parent: Channels
 tags:
 - breadtube
+- and more
+- and more and more
 url: /example/
 providers:
   patreon:
@@ -21,4 +22,4 @@ providers:
     url: https://www.youtube.com/channel/TODO
     description: TODO
     subscribers: TODO
----
+--- null

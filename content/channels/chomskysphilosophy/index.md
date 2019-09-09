@@ -1,8 +1,6 @@
----
 description: A collection of Noam Chomsky's ideas and analyses.
 title: Chomsky's Philosophy
 type: channel
-channel: chomskysphilosophy
 menu:
   main:
     parent: Channels
@@ -28,4 +26,4 @@ providers:
     url: https://www.youtube.com/channel/UCHuLYgw4dGbC2BuZQqPWV1g
     description: A collection of Noam Chomsky's ideas and analyses.
     subscribers: 169536
----
+--- null
