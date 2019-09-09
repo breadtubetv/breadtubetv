@@ -1,3 +1,4 @@
+---
 description: Zero Books publishes books of critical theory, cultural criticism, Marxist
   economics, experimental fiction, and books on aesthetics. This channel features
   short videos that use memes, gifs, and popular culture to illustrate and explain
@@ -26,4 +27,4 @@ providers:
       Zero Books publishes books of critical theory, cultural criticism, Marxist economics, experimental fiction, and a e s t h e t i c s.
       This channel features short videos that use memes, gifs, and popular culture to illustrate and explain the ideas in our books. Also featured on this channel is the Zero Squared podcast,  a weekly interview podcast with philosophers, novelists, artists and other radicals.
     subscribers: 49717
---- null
+---

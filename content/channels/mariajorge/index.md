@@ -1,3 +1,4 @@
+---
 description: Brazilian left-communist commenting on politics, social issues, and books.
 title: Maria Jorge
 type: channel
@@ -30,4 +31,4 @@ providers:
     description: Brazilian left-communist commenting on politics, social issues, and
       books.
     subscribers: 8342
---- null
+---

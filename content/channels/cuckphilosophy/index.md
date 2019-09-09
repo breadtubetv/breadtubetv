@@ -1,3 +1,4 @@
+---
 description: Leftist video essays on various topics and media.
 title: Cuck Philosophy
 type: channel
@@ -16,4 +17,4 @@ providers:
     url: https://www.youtube.com/channel/UCSkzHxIcfoEr69MWBdo0ppg
     description: ""
     subscribers: 97394
---- null
+---

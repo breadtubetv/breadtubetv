@@ -1,3 +1,4 @@
+---
 description: (liberal news show) We are a rare show that combines all of the news
   that people care about in one place. We are not afraid to talk about politics and
   entertainment and sports and pop culture. But that is not the revolution either.
@@ -24,4 +25,4 @@ providers:
       Like The Young Turks on Facebook: https://facebook.com/theyoungturks Follow The Young Turks on Twitter: https://twitter.com/theyoungturks
       Buy TYT Merch: https://www.shoptyt.com
     subscribers: 4375505
---- null
+---

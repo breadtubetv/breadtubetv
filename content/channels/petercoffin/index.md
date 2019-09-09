@@ -1,3 +1,4 @@
+---
 description: The official channel of satirist and weirdo Peter Coffin. Home to Very
   Important Documentaries (infotainment) and Adversaries (commercial critique).
 title: Peter Coffin
@@ -182,4 +183,4 @@ providers:
     description: Many Peters live here. Home to Very Important Documentaries (video
       essays) and Adversaries (commercial critique).
     subscribers: 255461
---- null
+---

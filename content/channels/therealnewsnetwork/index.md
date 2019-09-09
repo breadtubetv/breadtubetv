@@ -1,3 +1,4 @@
+---
 description: The Real News Network (TRNN) produces independent, verifiable, fact-based
   journalism that engages ordinary people in solving the critical problems of our
   times.
@@ -25,4 +26,4 @@ providers:
 
       Our motto is “The Future Depends on Knowing.”
     subscribers: 327137
---- null
+---

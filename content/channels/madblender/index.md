@@ -1,3 +1,4 @@
+---
 description: I'm Leslie and on this channel I discuss all kinds of issues from a leftist
   perspective. Find me on twitter @madblender
 title: Mad Blender
@@ -17,4 +18,4 @@ providers:
     description: I'm Leslie and on this channel I discuss all kinds of issues from
       a leftist perspective.  Find me on Twitter @madblender and Patreon at https://www.patreon.com/MadBlender
     subscribers: 5663
---- null
+---

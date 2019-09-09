@@ -1,3 +1,4 @@
+---
 description: Anarchist Trans Girl. She/Her. Making Video Essays and hot takes
 title: AnActualJoke
 type: channel
@@ -33,4 +34,4 @@ providers:
     url: https://www.youtube.com/channel/UC-CDQ-MPUdBWcjB7SrD1HZA
     description: Anarchist Trans Girl. She/Her. Making Video Essays and hot takes.
     subscribers: 9752
---- null
+---

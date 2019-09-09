@@ -1,3 +1,4 @@
+---
 description: Take down video essays of Right Wing content.
 title: BlackGoat 666
 type: channel
@@ -15,4 +16,4 @@ providers:
     url: https://www.youtube.com/channel/UCbbsW7_Esx8QZ8PgJ13pGxw
     description: ""
     subscribers: 1547
---- null
+---

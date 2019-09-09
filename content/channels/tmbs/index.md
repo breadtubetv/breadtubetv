@@ -1,3 +1,4 @@
+---
 description: The Vanguard of the New Left. Features guests, analysis of politics and
   culture from a socialist perspective.
 title: The Michael Brooks Show
@@ -38,4 +39,4 @@ providers:
       To support the Michael Brooks Show on Patreon and receive hours of weekly members-only content, subscribe at Patreon.com/TMBS. You can also support us through PayPal at https://paypal.me/TMBSTV.
       Follow The Michael Brooks Show and crew on twitter: @TMBSfm @_michaelbrooks @mattlech @davidslavick @davidgriscom.
     subscribers: 52107
---- null
+---

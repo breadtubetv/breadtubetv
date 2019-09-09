@@ -1,3 +1,4 @@
+---
 description: '"Justice is what love looks like in public" -Dr. Cornel West'
 title: the Bronx Blogger
 type: channel
@@ -15,4 +16,4 @@ providers:
     url: https://www.youtube.com/channel/UCxkk0VDNt0OJ3AZMNlRrGNg
     description: '"Justice is what love looks like in public" -Dr. Cornel West'
     subscribers: 1494
---- null
+---

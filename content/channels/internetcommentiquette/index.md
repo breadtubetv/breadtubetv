@@ -1,3 +1,4 @@
+---
 description: Follow Teacher Erik as he guides you through the muck of the internet.
   Together, we'll learn how to leave proper and respectful internet comments!
 title: Internet Comment Etiquette with Erik
@@ -18,4 +19,4 @@ providers:
     description: Follow Teacher Erik as he guides you through the muck of the internet.
       Together, we'll learn how to leave proper and respectful internet comments!
     subscribers: 813528
---- null
+---

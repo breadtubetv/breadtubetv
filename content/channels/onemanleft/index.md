@@ -1,3 +1,4 @@
+---
 description: Modern folk music for the proletariat.
 title: One Man Left
 type: channel
@@ -26,4 +27,4 @@ providers:
     url: https://www.youtube.com/channel/UCvdRLOuOzUdT3cfp8G0DiLQ
     description: One Man Left.. Modern folk music for the proletariat.
     subscribers: 486
---- null
+---

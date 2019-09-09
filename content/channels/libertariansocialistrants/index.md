@@ -1,3 +1,4 @@
+---
 description: Hello! I'm a libertarian socialist. Here you will find my rants about
   the world we live in from an anarchist perspective.
 title: Libertarian Socialist Rants
@@ -30,4 +31,4 @@ providers:
       Peter Gelderloos - Anarchy Works
       Noam Chomsky - On Anarchism
     subscribers: 49737
---- null
+---

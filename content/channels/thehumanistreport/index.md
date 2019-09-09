@@ -1,3 +1,4 @@
+---
 description: The Humanist Report is a video + audio podcast. This channel disseminates
   sociopolitical and religious news stories that is supplemented with progressive
   commentary.
@@ -33,4 +34,4 @@ providers:
       sociopolitical and religious news stories that is supplemented with progressive
       commentary.
     subscribers: 234831
---- null
+---

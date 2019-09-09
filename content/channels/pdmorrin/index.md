@@ -1,3 +1,4 @@
+---
 description: Irish leftist video essays and all manner of nonsense
 title: PD Morrin
 type: channel
@@ -15,4 +16,4 @@ providers:
     url: https://www.youtube.com/channel/UCpBRZBzWQ_cCc_9zKG08L-g
     description: Irish leftist video essays and all manner of nonsense
     subscribers: 2436
---- null
+---

@@ -1,3 +1,4 @@
+---
 description: Internet? (media analysis and left video essay)
 title: Hbomberguy
 type: channel
@@ -152,4 +153,4 @@ providers:
     - VZ72TJ1d9tk
     - I6OhqPt_LwM
     - CAvsO7oO7Hk
---- null
+---

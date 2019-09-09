@@ -1,3 +1,4 @@
+---
 description: Novara Media is an independent media organisation addressing the issues
   – from a crisis of capitalism to racism and climate change – that are set to define
   the 21st century.
@@ -20,4 +21,4 @@ providers:
       Weekly videos and livestreams bringing you best comment, debate and analysis on the left.
       Support our work here: http://support.novaramedia.com
     subscribers: 48231
---- null
+---

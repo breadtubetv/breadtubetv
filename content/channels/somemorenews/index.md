@@ -1,3 +1,4 @@
+---
 description: Hello, I am a news dude and, news-wise, here is some of it.
 title: Some More News
 type: channel
@@ -87,4 +88,4 @@ videos:
 - mFYiD8NfrMI
 - Ngr4bNZsPeQ
 - HBR_dcp38KA
---- null
+---

@@ -1,3 +1,4 @@
+---
 description: Video essays exploring Philosophy, Politics, Media and the world from
   a radical left perspective.
 title: Dumpster Flower
@@ -29,4 +30,4 @@ providers:
     url: https://www.youtube.com/channel/UCo2Q5Z0F_NgLh0p0WQ30Jmg?view_as=subscriber
     description: ""
     subscribers: 966
---- null
+---

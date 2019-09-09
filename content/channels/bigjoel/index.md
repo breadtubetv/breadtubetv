@@ -1,3 +1,4 @@
+---
 description: I make video essays and deep dives about movies and other things.
 title: Big Joel
 type: channel
@@ -17,4 +18,4 @@ providers:
     description: I make video essays and deep dives about movies and other things.
       I release a new video every other Friday.
     subscribers: 160447
---- null
+---

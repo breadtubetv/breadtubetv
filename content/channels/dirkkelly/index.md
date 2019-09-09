@@ -1,3 +1,4 @@
+---
 description: Austramerican thinking about politics, economics, and technology during
   the people's struggle to survive the collapse of capitalism.
 title: Dirk Kelly
@@ -41,4 +42,4 @@ providers:
     description: Austramerican thinking about politics, economics, and technology
       during the people's struggle to survive the collapse of capitalism.
     subscribers: 24
---- null
+---

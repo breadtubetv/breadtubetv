@@ -1,3 +1,4 @@
+---
 description: We are entering a period of profound economic, political and cultural
   crisis. In such periods it is essential for society to have the right theoretical
   tools for understanding our condition and how to change it.
@@ -23,4 +24,4 @@ providers:
       I highly recommend David Harvey's Kapital class:
       http://davidharvey.org/reading-capital/
     subscribers: 8121
---- null
+---

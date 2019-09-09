@@ -1,3 +1,4 @@
+---
 description: I make videos about politics, social justice, and science. They aren't
   very good, but they're getting there.
 title: Rational Disconnect
@@ -17,4 +18,4 @@ providers:
     description: I make videos about politics, social justice, and science. They aren't
       very good, but they're getting there.
     subscribers: 18059
---- null
+---

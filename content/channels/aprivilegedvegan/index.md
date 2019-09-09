@@ -1,3 +1,4 @@
+---
 description: Welcome! I created this channel to talk about pro-intersectional justice,
   always making sure that humans and other animals are a part of that conversation.
   I also like to find cool activists and interview them about their work/ views/projects.
@@ -20,4 +21,4 @@ providers:
       Follow me on Facebook and say hi! https://www.facebook.com/aprivilegedvegan.
       xxx
     subscribers: 14536
---- null
+---

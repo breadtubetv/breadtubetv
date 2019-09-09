@@ -1,3 +1,4 @@
+---
 description: We make dank memes and dope political analysis.
 title: Red Star Videos
 type: channel
@@ -15,4 +16,4 @@ providers:
     url: https://www.youtube.com/channel/UCPF2TnvBH88EKgmS-TAMM4w
     description: We make dank memes and dope political analysis.
     subscribers: 8118
---- null
+---

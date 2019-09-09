@@ -1,3 +1,4 @@
+---
 description: PhD graduate from Toronto. I studied Human Geography / Political Ecology,
   focusing on the intersections between political economy and global environmental
   governance. This sobering experience has led me to be the staunch anti-capitalist,
@@ -74,4 +75,4 @@ providers:
     url: https://www.youtube.com/channel/UCepkun0sH16b-mqxBN22ogA
     description: ""
     subscribers: 39359
---- null
+---

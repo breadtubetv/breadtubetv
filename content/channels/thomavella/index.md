@@ -1,3 +1,4 @@
+---
 description: Gender-neutral video essayist and musician, seeking to spread the good
   word of libertarian socialism far and wide. they/them.
 title: Thom Avella
@@ -17,4 +18,4 @@ providers:
     description: Agender video essayist and musician, seeking to spread the good word
       of libertarian socialism far and wide. they/them.
     subscribers: 26103
---- null
+---

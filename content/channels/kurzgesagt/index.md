@@ -1,3 +1,4 @@
+---
 description: |-
   Videos explaining things with optimistic nihilism.
   We are a small team who want to make science look beautiful. Because it is beautiful.
@@ -53,4 +54,4 @@ providers:
       FAQ:
       - We do the videos with After Effects and Illustrator.
     subscribers: 9006085
---- null
+---

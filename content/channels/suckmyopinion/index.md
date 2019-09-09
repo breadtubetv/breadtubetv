@@ -1,3 +1,4 @@
+---
 description: Im a Democratic Socialist Atheist trying to push the LEFT to victory.
 title: Suck My Opinion
 type: channel
@@ -19,4 +20,4 @@ providers:
     url: https://www.youtube.com/channel/UCANy3kC3VoPnzXnNhv--wuA
     description: Im a Democratic Socialist Atheist trying to push the LEFT to victory.
     subscribers: 2657
---- null
+---

@@ -1,3 +1,4 @@
+---
 description: Home of news & politics commentary from the libertarian-left; populist;
   social democratic; agnostic-atheist perspective.
 title: Secular Talk
@@ -39,4 +40,4 @@ providers:
     description: Home of news & politics commentary from the libertarian-left; populist;
       social democratic; agnostic-atheist perspective.
     subscribers: 679933
---- null
+---

@@ -1,3 +1,4 @@
+---
 description: Politics channel made from a place of honesty and ignorance... and the
   Left! I'm poor, send me some dough
 title: Cuñado de izquierdas
@@ -33,4 +34,4 @@ providers:
 
       Politics channel made from a place of honesty and ignorance... and the Left! I'm poor, send me some dough https://www.patreon.com/cucudeizqui
     subscribers: 570
---- null
+---

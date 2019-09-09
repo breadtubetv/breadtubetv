@@ -1,3 +1,4 @@
+---
 description: Marxist youtuber making Marxist material
 title: Tovarishch Endymion
 type: channel
@@ -15,4 +16,4 @@ providers:
     url: https://www.youtube.com/channel/UCTG-iJm0HtjWVOAwN8sA4Xg
     description: Marxist youtuber making Marxist material
     subscribers: 7519
---- null
+---

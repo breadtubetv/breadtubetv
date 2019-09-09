@@ -1,3 +1,4 @@
+---
 description: Challenging Society Through Commentary
 title: ReyRoSho
 type: channel
@@ -21,4 +22,4 @@ providers:
     url: https://www.youtube.com/channel/UCceuqddArsKcKEXwKfKGU1w
     description: Challenging Society Through Commentary
     subscribers: 84248
---- null
+---

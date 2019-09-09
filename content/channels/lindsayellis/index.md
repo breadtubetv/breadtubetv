@@ -1,3 +1,4 @@
+---
 description: (film analysis and critiqe, feminist perspective)
 title: Lindsay Ellis
 type: channel
@@ -18,4 +19,4 @@ providers:
       on Youtube for her previous work. Enjoy these hottest of takes on Disney, Transformers,
       and Musicals. All hail the Algorithm.
     subscribers: 697588
---- null
+---

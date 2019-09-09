@@ -1,3 +1,4 @@
+---
 description: A series of critical video essays looking at media through a critical
   lens with an emphasis on the intersections of politics, masculinity and entertainment..
   Hosted by Jonathan McIntosh.
@@ -21,4 +22,4 @@ providers:
       Help me make more videos!
       https://www.patreon.com/popdetective
     subscribers: 546194
---- null
+---

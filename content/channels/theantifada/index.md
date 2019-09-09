@@ -1,3 +1,4 @@
+---
 description: 'The Antifada is more than a podcast.  It’s a specter haunting the globe.
   It is the synthesis of the two most frightening things for the cheerleaders of this
   reactionary hell world, one ravaged by the unbounded savagery of capital and it’s
@@ -39,4 +40,4 @@ providers:
       Help support the show, access premium content, and join the Antifada community for as little as $2 a month at
       https://www.patreon.com/theantifada
     subscribers: 4010
---- null
+---

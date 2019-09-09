@@ -1,3 +1,4 @@
+---
 description: Wisecrack is a collective of comedians, academics, filmmakers, and artists
   who are super curious about the world around us. Our channel explores big ideas
   in unusual (and hopefully super entertaining) ways. We dive into philosophy and
@@ -38,4 +39,4 @@ providers:
 
       Cover art by Mike Perry.
     subscribers: 2650209
---- null
+---

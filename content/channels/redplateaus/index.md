@@ -1,3 +1,4 @@
+---
 description: A new channel that specialises in Marxist and anarchist theory.
 title: Red Plateaus
 type: channel
@@ -18,4 +19,4 @@ providers:
       Patreon: https://www.patreon.com/redplateaus/overview
       Twitter: https://twitter.com/RPlateaus
     subscribers: 1842
---- null
+---

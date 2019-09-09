@@ -1,3 +1,4 @@
+---
 description: YouTuber, ex-philosopher. Sex, drugs, and social justice.
 title: Contrapoints
 type: channel
@@ -151,4 +152,4 @@ providers:
     - spHCEBTqaUE
     - -fR6g9CDMsA
     - klfH9QaEcqY
---- null
+---

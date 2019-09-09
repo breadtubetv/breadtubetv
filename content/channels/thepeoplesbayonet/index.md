@@ -1,3 +1,4 @@
+---
 description: Hi! I am just a concerned citizen trying to figure out the world! My
   series "The Problem" updates whenever I finish a video!
 title: The People's Bayonet
@@ -43,4 +44,4 @@ providers:
 
       (WATCH! THIS! SPAAAAAAAAAACE!)
     subscribers: 1565
---- null
+---

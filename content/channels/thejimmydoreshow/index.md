@@ -1,3 +1,4 @@
+---
 description: We Release Clips Daily!
 title: The Jimmy Dore Show
 type: channel
@@ -22,4 +23,4 @@ providers:
 
       Tune in on Saturdays at 2pm PST for our Livestream. #SolidChaturday
     subscribers: 572624
---- null
+---

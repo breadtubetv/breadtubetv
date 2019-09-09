@@ -1,3 +1,4 @@
+---
 description: A philosopher on the path to radicalize you.
 title: Left1ne
 type: channel
@@ -19,4 +20,4 @@ providers:
     url: https://www.youtube.com/channel/UCnGClrK_rQ2C44jfP-Q--tA
     description: A philosopher on the path to radicalize you.
     subscribers: 513
---- null
+---

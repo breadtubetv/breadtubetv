@@ -1,3 +1,4 @@
+---
 description: I'm a Canadian YouTube person creating lefty content that undermines
   the garbage flow of right wing reactionary drivel that pollutes YouTube.
 title: José
@@ -34,4 +35,4 @@ providers:
     url: https://www.youtube.com/channel/UCeDKIj0G5XbultKOQnacu_w
     description: ""
     subscribers: 20704
---- null
+---

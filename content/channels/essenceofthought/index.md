@@ -1,3 +1,4 @@
+---
 description: Online media outlet which produces fully referenced video reviews of
   other online content touching upon secularism, feminism, LGBT+, and ethnic equality.
 title: Essence of Thought
@@ -29,4 +30,4 @@ providers:
       If you'd like to help support us you can do so on Patreon!
       http://www.patreon.com/EssenceOfThought
     subscribers: 31167
---- null
+---

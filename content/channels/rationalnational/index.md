@@ -1,3 +1,4 @@
+---
 description: Independent political commentary, media criticism, news and entertainment,
   with petty attempts at comedy; hosted by David Doel.
 title: The Rational National
@@ -24,4 +25,4 @@ providers:
       Influencers include; The Daily Show with Jon Stewart, The Young Turks, and The Colbert Report.
     subscribers: 200411
 subscribers: 142789
---- null
+---

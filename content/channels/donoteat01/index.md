@@ -1,3 +1,4 @@
+---
 description: Explanations about social policies using Cities Skylines as a visual
   aide
 title: donoteat01
@@ -24,4 +25,4 @@ providers:
 
       here is the patreon: https://www.patreon.com/donoteat
     subscribers: 40458
---- null
+---

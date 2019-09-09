@@ -1,3 +1,4 @@
+---
 title: Eccentric Rants
 type: channel
 tags:
@@ -30,4 +31,4 @@ videos:
 menu:
   main:
     parent: Channels
---- null
+---

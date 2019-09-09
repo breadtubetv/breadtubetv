@@ -1,3 +1,4 @@
+---
 description: I make political videos on Canadian politics, American politics, political
   ideology explainers, and political philosophy.
 title: Halim Alrah
@@ -49,4 +50,4 @@ providers:
 
       radicalize yourself and those around you lmao
     subscribers: 770
---- null
+---

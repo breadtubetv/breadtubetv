@@ -1,3 +1,4 @@
+---
 description: Started this channel to talk about art. I'm still gonna do that, but
   now I'm gonna talk about other stuff, too. It's gonna be scripted from now on, too,
   even though I didn't script my videos at first.
@@ -39,4 +40,4 @@ providers:
       You can contact me here:
       bemundolack@gmail.com https://twitter.com/bemundolack https://www.instagram.com/bemundolack/ https://www.facebook.com/Bemundolack/
     subscribers: 2353
---- null
+---

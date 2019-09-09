@@ -1,3 +1,4 @@
+---
 description: My name is Dick Coughlan. I'm a stand up comedian, Youtuber & that is
   all I can be.
 title: Brother Neuro
@@ -39,4 +40,4 @@ providers:
       Follow me on Social Media https://twitter.com/DickCoughlan https://twitter.com/BrotherNeuro https://www.facebook.com/DirtyCoughlan https://www.facebook.com/RichardTheDickCoughlan https://thedickdynasty666.tumblr.com/ https://www.instagram.com/dick_fucking_coughlan/ https://soundcloud.com/dick-coughlan https://www.reddit.com/r/dickcoughlan/
       Contact email: dickcoughlan@icloud.com Skype name: coughlan666
     subscribers: 2763
---- null
+---

@@ -1,3 +1,4 @@
+---
 title: Political Aphasia
 type: channel
 tags: []
@@ -17,4 +18,4 @@ providers:
       don't worry so much about it. Being better often is more about being aware that
       it can happen than being perfect every time.
     subscribers: 86
---- null
+---

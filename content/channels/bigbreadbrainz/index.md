@@ -1,3 +1,4 @@
+---
 description: Video essays and investigative political journalism about capitalism,
   culture, philosophical literature, and film.
 title: BigBreadBrainz
@@ -26,4 +27,4 @@ providers:
     - o4yNObH25oU
     - QQwJZ2fgTCU
     - EonmLFFic5E
---- null
+---

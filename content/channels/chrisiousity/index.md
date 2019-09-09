@@ -1,3 +1,4 @@
+---
 description: I have a lot of curiosity about various topics. I will discuss topics
   like art, science, parenting, politics, religion, and whatever else i'm curious
   about. Feel free to subscribe and comment as i intend on producing more content
@@ -21,4 +22,4 @@ providers:
       about.  Feel free to subscribe and comment as i intend on producing more content
       for my fellow you tubers.
     subscribers: 6184
---- null
+---

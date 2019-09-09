@@ -1,3 +1,4 @@
+---
 description: Just a lowly critical theory geek aiming to corrupt the youth with videos.
   These videos will supply you with some of the critical resources for understanding
   and deconstructing ideology and the systems of oppression it upholds.
@@ -25,4 +26,4 @@ providers:
     description: I produce video, blog, and podcast content about philosophy and critical
       theory.
     subscribers: 1726
---- null
+---

@@ -1,3 +1,4 @@
+---
 description: I'm a philosopher, author, videographer, coder, gamer, and activist,
   I'm trying to move my labour away from production for exchange and towards production
   for use. Queer, autistic, post-christian, egocom, genre-woman living in South Africa.
@@ -35,4 +36,4 @@ providers:
     url: https://www.youtube.com/channel/UCrH-hm2BOaOgxlPr1gxcttQ
     description: ""
     subscribers: 748
---- null
+---

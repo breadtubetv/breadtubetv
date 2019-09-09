@@ -1,3 +1,4 @@
+---
 description: This is a channel where Space Baby talk about Art, History and Politics.
 title: Space Babies
 type: channel
@@ -38,4 +39,4 @@ providers:
     url: https://www.youtube.com/channel/UC__UuPAX7TvF3hGYb5ciVpQ
     description: This is a channel where Space Baby talk about Art, History and Politics.
     subscribers: 1212
---- null
+---

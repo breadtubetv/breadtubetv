@@ -1,3 +1,4 @@
+---
 description: The Grayzone is a news and politics website dedicated to original investigative
   journalism and analysis, edited by journalist Max Blumenthal.
 title: The Grayzone
@@ -20,4 +21,4 @@ providers:
       Facebook: https://facebook.com/thegrayzone
       Twitter: https://twitter.com/grayzoneproject
     subscribers: 26497
---- null
+---

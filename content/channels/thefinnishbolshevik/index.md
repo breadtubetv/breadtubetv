@@ -1,3 +1,4 @@
+---
 description: I'm a young Finnish Communist & Marxist-Leninist. This channel is about
   the science of Marxism-Leninism. I give information and my personal thoughts on
   various topics dealing with Marxism-Leninism. Feel free to ask questions and voice
@@ -452,4 +453,4 @@ providers:
     - lwJIOvMW0o0
     - I3gl-jXQYKc
     - s5axVunzQSA
---- null
+---

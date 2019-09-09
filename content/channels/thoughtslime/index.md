@@ -1,3 +1,4 @@
+---
 description: I'm a smug anarchist poseur vomiting out video essays for you. I love
   you.
 title: Thought Slime
@@ -39,4 +40,4 @@ providers:
       I'm a smug anarchist poseur vomiting out video essays for you.
       I love you.
     subscribers: 52280
---- null
+---

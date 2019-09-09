@@ -1,3 +1,4 @@
+---
 description: Leftist with left wing views. I'm not a furry, I just like cute things.
 title: BadMouse Productions
 type: channel
@@ -17,4 +18,4 @@ providers:
       A full time Lefty and a sometimes video creator. Not a furry.
       My views have changed over the years and thus my older stuff is not necessarily in line or supported with my opinions today.
     subscribers: 69496
---- null
+---

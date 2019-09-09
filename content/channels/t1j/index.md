@@ -1,3 +1,4 @@
+---
 description: This channel is mostly video essays about things that interest me, usually
   from a progressive socdem point of view. I also livestream weekly. Sometimes I do
   other stuff too tho.
@@ -29,4 +30,4 @@ providers:
       TUMBLR MEH: http://the1janitor.tumblr.com
       REDDIT MEH: http://reddit.com/r/the1janitor
     subscribers: 128407
---- null
+---

@@ -1,3 +1,4 @@
+---
 description: Spreading cultural-marxism-gamerism to destroy the west and socialise
   anime
 title: Curio
@@ -18,4 +19,4 @@ providers:
     description: Spreading cultural-marxism-gamerism to destroy the west and socialise
       anime
     subscribers: 5255
---- null
+---

@@ -1,3 +1,4 @@
+---
 description: I'm an advocate of social justice and a gamer and make no apologies for
   either. Open minded and willing to consider alternative viewpoints to my own, expect
   me to challenge you if you are sowing fear, ignorance or are misled.
@@ -22,4 +23,4 @@ providers:
 
       I reserve a particular brand of cynicism for those who are exploiting others, so if you are reading this as a result of my criticism of a youtube idol of yours I have this to say to you:  DO NOT suspend critical thinking in any situation.
     subscribers: 3060
---- null
+---

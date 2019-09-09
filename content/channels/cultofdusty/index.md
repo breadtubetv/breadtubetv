@@ -1,3 +1,4 @@
+---
 description: Making a mockery out of Religion. One vid at a time.
 title: Cult of Dusty
 type: channel
@@ -18,4 +19,4 @@ providers:
 
       Dusty Smith - The People's Atheist!
     subscribers: 250842
---- null
+---

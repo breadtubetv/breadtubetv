@@ -1,3 +1,4 @@
+---
 description: Step Back is a history channel that invites you to consider the past
   and how it connects to today. We make videos that take a historical topic and look
   at it from a new angle.
@@ -26,4 +27,4 @@ providers:
       https://www.patreon.com/stepbackhistory
       https://www.paypal.me/stepbackhistory
     subscribers: 51243
---- null
+---

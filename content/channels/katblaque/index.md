@@ -1,3 +1,4 @@
+---
 description: Opinion Vlogger, Children's Illustrator and Thrift Store Addict
 title: Kat Blaque
 type: channel
@@ -18,4 +19,4 @@ providers:
       Opinion Vlogger, Children's Illustrator and Thrift Store Addict
       Business Inquiries: kattyblaque@gmail.com
     subscribers: 0
---- null
+---

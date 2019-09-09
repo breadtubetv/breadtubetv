@@ -1,3 +1,4 @@
+---
 description: I'm Olly, giving away a philosophy degree for free every Friday! Subscribe
   to learn and boost your brain power!
 title: Philosophy Tube
@@ -58,4 +59,4 @@ providers:
     description: I'm Olly, giving away a philosophy degree for free! Subscribe to
       learn and boost your brain power!
     subscribers: 405972
---- null
+---

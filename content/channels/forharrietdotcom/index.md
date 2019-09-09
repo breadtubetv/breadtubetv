@@ -1,3 +1,4 @@
+---
 description: For Harriet is an online community for women of African ancestry. We
   encourage women, through storytelling an journalism, to engage in candid, revelatory
   dialogue about the beauty and complexity of Black womanhood. We aspire to educate,
@@ -21,4 +22,4 @@ providers:
       revelatory dialogue about the beauty and complexity of Black womanhood. We aspire
       to educate, inspire, and entertain.
     subscribers: 63347
---- null
+---

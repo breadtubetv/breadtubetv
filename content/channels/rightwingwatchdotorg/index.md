@@ -1,3 +1,4 @@
+---
 description: People For the American Way's Right Wing Watch is dedicated to monitoring
   and reporting on the activities of right-wing political organizations, in order
   to expose the agenda of the extreme Right. We hope that by shedding light on the
@@ -29,4 +30,4 @@ providers:
       While we expect comments to be respectful, we reserve the right to remove or not allow comments that contain:
       •       Vulgar, abusive language or hate speech •       Obscene attacks •       Threats of violence or harm •       Offensive terms targeting individuals or groups •       Suggestions or encouragement of illegal activity •       Defamatory statements •       Spam
     subscribers: 9174
---- null
+---

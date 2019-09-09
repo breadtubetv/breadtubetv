@@ -1,3 +1,4 @@
+---
 description: Hello, I am the Radical Reviewer. I review and analyze Radical and Leftist
   literature and media.
 title: Radical Reviewer
@@ -17,4 +18,4 @@ providers:
     description: Hello, I am the Radical Reviewer. I'm an Anarcho-Communist and I
       review and analyze Radical and Leftist literature and media.
     subscribers: 6367
---- null
+---

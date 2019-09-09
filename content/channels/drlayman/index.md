@@ -1,3 +1,4 @@
+---
 description: Question everything.
 title: Dr. Layman
 type: channel
@@ -41,4 +42,4 @@ providers:
       Patreon:
       http://www.patreon.com/drlayman
     subscribers: 60065
---- null
+---

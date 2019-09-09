@@ -1,3 +1,4 @@
+---
 description: An educational web series about philosophies espoused by individual films.
   Common topics include politics and social issues.
 title: Renegade Cut
@@ -18,4 +19,4 @@ providers:
     description: Renegade Cut is a leftist video essay series about the politics,
       philosophies and culture that inform popular media.
     subscribers: 81382
---- null
+---

@@ -1,3 +1,4 @@
+---
 description: Politically conscious leftist Slav who sometimes makes YouTube videos.
   Tovarishch. He/Him. Alcohol enthusiast.
 title: YUGOPNIK
@@ -28,4 +29,4 @@ providers:
 
       Twitta' : https://twitter.com/yugopnik
     subscribers: 1751
---- null
+---

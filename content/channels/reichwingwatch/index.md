@@ -1,3 +1,4 @@
+---
 description: Exposing the rise of the authoritarian right.
 title: Reich-Wing Watch
 type: channel
@@ -39,4 +40,4 @@ providers:
     url: https://www.youtube.com/channel/UCqNWJOeBOBSF1pm9tjGnKhg
     description: Exposing the rise of the authoritarian right.
     subscribers: 24547
---- null
+---

@@ -1,3 +1,4 @@
+---
 description: Hey there! I'm Guinevere, and I plan on doing some political, critical
   analysis and current events stuff on YouTube as well as some hangouts with friends.
   I've only recently started bringing content onto this channel, but hopefully I'll
@@ -36,4 +37,4 @@ providers:
 
       Being bad at video games is fun. I do a lot of Dark Souls and Overwatch content, plus some others, so stick around for that as well.
     subscribers: 3492
---- null
+---

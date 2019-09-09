@@ -1,3 +1,4 @@
+---
 description: Reporting and Analyzing the news objectively, Progressive Liberal
 title: The Progressive Voice
 type: channel
@@ -15,4 +16,4 @@ providers:
     url: https://www.youtube.com/channel/UCVOpH1nJioh1d7UgTnZ98kg
     description: Reporting and Analyzing the news objectively, Progressive Liberal
     subscribers: 40103
---- null
+---

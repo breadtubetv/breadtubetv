@@ -1,3 +1,4 @@
+---
 description: Anti-SJWs are the new SJWs.
 title: Obambay
 type: channel
@@ -15,4 +16,4 @@ providers:
     url: https://www.youtube.com/channel/UCvSkqICI448EB3KojJ9Y6FA
     description: Anti-SJWs are the new SJWs.
     subscribers: 1530
---- null
+---

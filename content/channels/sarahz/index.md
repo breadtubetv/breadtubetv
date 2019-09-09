@@ -1,3 +1,4 @@
+---
 description: (^з^)-☆ Video essays critiquing popular media (I like to focus on television
   and adaptations, but I also like to critique film and literature sometimes!). I
   try to focus on media through both a critical lens, talking about media as it pertains
@@ -43,4 +44,4 @@ providers:
     url: https://www.youtube.com/channel/UCK-GxvzttTnNhq3JPYpXhqg
     description: (^з^)-☆
     subscribers: 118525
---- null
+---

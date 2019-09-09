@@ -1,3 +1,4 @@
+---
 description: Anarchist video collective cranking out radical videos since 1994. sub.Media
   is a video production ensemble, which aims to promote anarchist and anti-capitalist
   ideas, and aid social struggles through the dissemination of radical films and videos.
@@ -44,4 +45,4 @@ providers:
       and have been watched by millions on the internet. This youtube channel is a
       collection of videos from 2003 onwards.
     subscribers: 22939
---- null
+---

@@ -1,3 +1,4 @@
+---
 description: I'm a disabled pan-sexual trans woman who talks about anarchism, feminism
   and marxism.
 title: anarchopac
@@ -25,4 +26,4 @@ providers:
       I'm a disabled pan-sexual trans woman who talks about anarchism, feminism and marxism.
       For recommended reading on anarchism, feminism and marxism see my blog - https://anarchopac.wordpress.com/
     subscribers: 20480
---- null
+---

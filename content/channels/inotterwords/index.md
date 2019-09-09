@@ -1,3 +1,4 @@
+---
 description: One otter sets out to convince others of his positions on ethics and
   politics, and perhaps be convinced of other positions himself!
 title: In Otter Words
@@ -29,4 +30,4 @@ providers:
     description: One otter sets out to convince others of his positions on ethics
       and politics, and perhaps be convinced of other positions himself!
     subscribers: 426
---- null
+---

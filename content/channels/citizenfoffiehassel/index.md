@@ -1,3 +1,4 @@
+---
 description: Here i script animate play this is a remix of The Other CitizenFoffie
   Channel i got hacked so uh yeah trying to reach 100 subs by the end of the year
 title: CitizenFoffie Hassel
@@ -17,4 +18,4 @@ providers:
     description: Here i script animate play this is a remix of The Other CitizenFoffie
       Channel i got hacked so uh yeah trying to reach 100 subs by the end of the year
     subscribers: 64
---- null
+---

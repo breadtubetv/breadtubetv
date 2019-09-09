@@ -1,3 +1,4 @@
+---
 description: Democracy Now! is an independent, global weekday news hour anchored by
   award-winning journalists Amy Goodman and Juan González.
 title: Democracy Now
@@ -21,4 +22,4 @@ providers:
       on nearly 1,400 TV, radio and Internet stations. Stream the show live Monday
       through Friday at 8AM ET at http://www.democracynow.org.
     subscribers: 544746
---- null
+---

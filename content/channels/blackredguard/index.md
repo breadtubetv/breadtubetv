@@ -1,3 +1,4 @@
+---
 description: Ruminations, rants, lectures, screeds from a New Afrikan Maoist in Saint
   Louis, Missouri.
 title: Black Red Guard
@@ -26,4 +27,4 @@ providers:
       Ruminations, rants, lectures, screeds from a New Afrikan Maoist in Saint Louis, Missouri.
       @BRG on medium
     subscribers: 4819
---- null
+---

@@ -1,3 +1,4 @@
+---
 description: |-
   I'm not Richard Wolff.
   Posting byte-sized videos, audio segments and animated videos. Soon to be scheduled, hopefully.
@@ -39,4 +40,4 @@ providers:
       I'm not Richard Wolff.
       Posting byte-sized videos, audio segments and animated videos. Soon to be scheduled, hopefully.
     subscribers: 0
---- null
+---

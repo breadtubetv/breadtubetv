@@ -1,3 +1,4 @@
+---
 description: We are a non-profit 501c3 that advocates for worker cooperatives and
   democratic workplaces as a key path to a stronger, democratic economic system.
 title: Democracy At Work
@@ -21,4 +22,4 @@ providers:
       and factories have equal voices in the direction of their enterprise and its
       impact within their community and society at large. Learn more: http://www.democracyatwork.info'
     subscribers: 95288
---- null
+---

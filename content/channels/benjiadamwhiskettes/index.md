@@ -1,3 +1,4 @@
+---
 description: (communist video essays)
 title: Benji Adam Whiskettes
 type: channel
@@ -15,4 +16,4 @@ providers:
     url: https://www.youtube.com/channel/UCDG87s_QtD4YrIamqb9k5WQ
     description: So long and thanks for all the fish
     subscribers: 3370
---- null
+---

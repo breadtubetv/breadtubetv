@@ -1,3 +1,4 @@
+---
 description: I take on the manospherian, alt-right, anti-feminist, anti-social justice
   fuckwads of the world, with the occasional cat video thrown in for good measure!
 title: Kevin Logan
@@ -18,4 +19,4 @@ providers:
       justice fuckwads of the world, with the occasional cat video thrown in for good
       measure!
     subscribers: 12378
---- null
+---

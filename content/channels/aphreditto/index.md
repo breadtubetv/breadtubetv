@@ -1,3 +1,4 @@
+---
 description: Fiat iustitia, pereat cultura
 title: Aphreditto
 type: channel
@@ -15,4 +16,4 @@ providers:
     url: https://www.youtube.com/channel/UC4cBSjn3x4BimpTEP-104kA
     description: Fiat iustitia, pereat cultura
     subscribers: 332
---- null
+---

@@ -1,3 +1,4 @@
+---
 description: The main purpose of this channel is to explain in simple terms the conclusions
   of scientific research, and correct some of the unsourced crap we get fed on the
   Internet.
@@ -21,4 +22,4 @@ providers:
       DON'T... 1) ...plagiarize (or copy-and-paste long text from other sites.) 2) ...post racist abuse 3) ...advertise (including posting links that aren't citations.) 4) ...disable the 'replies' function 5) ...disrupt discussions by editing posts after they've been commented on, 5) ...spam and troll -- e.g. repeat posts, or post multiple times simply to fill up the forum and drown out other posts. The purpose of the fora is to promote discussion, not have people disrupt it. So...
       DO ...instigate discussion, debate, criticize, point out errors so that I can correct them (with a time and a verbatim quote)
     subscribers: 183062
---- null
+---

@@ -1,3 +1,4 @@
+---
 description: I'm a former public librarian (MLS) and current stay-at-home dad. I make
   video essays that seek to improve the quality and the subject of discourse online.
   Some of my videos deal with problems that don't get enough attention like peak oil
@@ -18,4 +19,4 @@ providers:
     url: https://www.youtube.com/channel/UCavgbmwn4yxtOPeEvv_7OVg
     description: Leftist mysticism. Video Essays and interviews. Bass.
     subscribers: 1976
---- null
+---

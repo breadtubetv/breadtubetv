@@ -1,3 +1,4 @@
+---
 description: I make music (maybe)(and media video essays)
 title: Patricia Taxxon
 type: channel
@@ -171,4 +172,4 @@ providers:
     - lil15Xjwi3w
     - BFKCPy71fcY
     - MxM63R_5hZ8
---- null
+---

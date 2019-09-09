@@ -1,3 +1,4 @@
+---
 description: The discussions of a southern journalist who is tired of a lack of common
   sense.
 title: Beau of the Fifth Column
@@ -25,4 +26,4 @@ providers:
     description: The discussions of a southern journalist who is tired of a lack of
       common sense.
     subscribers: 131482
---- null
+---

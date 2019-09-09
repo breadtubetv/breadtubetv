@@ -1,3 +1,4 @@
+---
 description: Learn something every day!
 title: brendan makes videos
 type: channel
@@ -17,4 +18,4 @@ providers:
     url: https://www.youtube.com/channel/UCwKvgFP7gsNdlBQWOXq_fIg
     description: The ideas that control us
     subscribers: 94
---- null
+---

@@ -1,3 +1,4 @@
+---
 description: Doing stuff about the bad history on the far-right and more.
 title: Three Arrows
 type: channel
@@ -17,4 +18,4 @@ providers:
     url: https://www.youtube.com/channel/UCCT8a7d6S6RJUivBgNRsiYg
     description: HISTORY BALLER
     subscribers: 157030
---- null
+---

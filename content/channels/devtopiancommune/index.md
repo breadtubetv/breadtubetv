@@ -1,3 +1,4 @@
+---
 description: A leftist gaming and political channel that makes gaming videos with
   leftist jokes, humor, and/or topics. Along with gaming, the channel makes leftist
   political videos that are usually short.
@@ -32,4 +33,4 @@ providers:
 
       Black - Revolution & Unity Purple - Peace & Communism (Blue/Red) Ⓐ - Anarchism & Order
     subscribers: 332
---- null
+---

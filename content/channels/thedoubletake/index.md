@@ -1,3 +1,4 @@
+---
 description: A channel that looks at things from a left-leaning, but fair perspective.
   Critiques not just right-wing reactionaries, but the psychology that makes it possible.
 title: The Double Take
@@ -18,4 +19,4 @@ providers:
       Critiques not just right-wing reactionaries, but the psychology that makes it
       possible.
     subscribers: 15970
---- null
+---

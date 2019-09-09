@@ -1,3 +1,4 @@
+---
 description: I am a folksinger and songwriter with a passion for radical activism,
   geekery, and magick.
 title: Mystic Muttering
@@ -95,4 +96,4 @@ providers:
     - 8EC_ntc4kLM
     - YNsR1f8G4lQ
     - XmADpM9X4LQ
---- null
+---
