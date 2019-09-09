@@ -29,15 +29,6 @@ providers:
     description: I'm a synthwave producer and Big Politic Chum from the country what
       has all the tea. But not the good tea.
     subscribers: 1999
-    videos:
-    - 8srzfbKhIPI
-    - NkMKhWNbLaU
-    - lCmsXusmH4g
-    - bM4kkoIC8Z4
-    - darxphvk058
-    - gfK5cNNjXtg
-    - HhppWK0THpA
-    - OYgwuLd3lSA
   bandcamp:
     name: Kay and Skittles
     slug: zerobinary

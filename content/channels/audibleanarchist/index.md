@@ -18,10 +18,8 @@ providers:
     name: AudibleAnarchist
     slug: UCaO1QA8QL99_eb0XhJI2Fyw
     url: https://www.youtube.com/channel/UCaO1QA8QL99_eb0XhJI2Fyw
-    description: "Audible Anarchist is a project started and operated by a group of
-      volunteers that seek to bring important anarchist texts to the audio format.
-      
-If you or anyone you know wants to contribute in any way drop us a line at
-      audibleanarchist@gmail.com , help is always welcome."
+    description: |-
+      Audible Anarchist is a project started and operated by a group of volunteers that seek to bring important anarchist texts to the audio format.
+      If you or anyone you know wants to contribute in any way drop us a line at audibleanarchist@gmail.com , help is always welcome.
     subscribers: 7362
 ---
