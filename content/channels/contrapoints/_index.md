@@ -7,7 +7,7 @@ tags:
 - alt-right
 - antifascism
 - breadtube
-- capitalist realism
+- anti-capitalism
 - feminism
 - gender
 - nazism

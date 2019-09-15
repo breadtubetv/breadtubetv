@@ -9,7 +9,7 @@ tags:
 - activism
 - anarchism
 - communism
-- capitalist realism
+- anti-capitalism
 url: /noncompete/
 videos:
 - 6KrTK40XxIg

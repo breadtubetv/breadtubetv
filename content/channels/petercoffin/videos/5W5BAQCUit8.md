@@ -22,7 +22,7 @@ description: "The Democrats’ biggest donor says the party is blowing it and sh
   inequality, the 2016 election democrats didn't go well and the Democrats need to
   prepare for the 2018 elections as well as the 2020 elections. We need single payer,
   even a billionaire hedgefund manager Tom Steyer is all about the fight for 15. He's
-  probably not anti capitalism but he is pro Medicare for all. I think we should realize
+  probably not anti-capitalism but he is pro Medicare for all. I think we should realize
   what Tom Steyer Trump statements make sense. Tom Steyer 2020 statements should be
   heeded. On healthcare and medicaid the statements made at the people's summit, or
   hell by Jeremy Corbyn, and realize that socialism is the answer. We need health

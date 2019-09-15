@@ -15,7 +15,7 @@ tags:
 - anarchism
 - antifascism
 - breadtube
-- capitalist realism
+- anti-capitalism
 - philosophy
 - politics
 - society

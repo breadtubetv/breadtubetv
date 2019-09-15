@@ -14,7 +14,7 @@ videos:
 - DJWFpocUvWc
 tags:
 - breadtube
-- capitalist realism
+- anti-capitalism
 - creators of color
 - communism
 - creativity

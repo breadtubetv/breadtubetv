@@ -6,7 +6,7 @@ tags:
 - breadtube
 - music
 - gaming
-- capitalist realism
+- anti-capitalism
 url: '"patriciataxxon"'
 videos:
 - mHXBsuvJPS8

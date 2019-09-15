@@ -5,7 +5,7 @@ title: Peter Coffin
 type: channel
 tags:
 - breadtube
-- capitalist realism
+- anti-capitalism
 - gender
 - philosophy
 - spectacle

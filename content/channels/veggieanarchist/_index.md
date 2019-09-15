@@ -14,7 +14,7 @@ videos:
 tags:
 - anarchism
 - breadtube
-- capitalist realism
+- anti-capitalism
 - veganism
 url: /veggieanarchist/
 providers:

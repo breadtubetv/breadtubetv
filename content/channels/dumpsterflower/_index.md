@@ -19,7 +19,7 @@ videos:
 - nNO3fWe1egY
 tags:
 - breadtube
-- capitalist realism
+- anti-capitalism
 - liberalism
 - politics
 url: /dumpsterflower/

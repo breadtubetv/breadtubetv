@@ -9,7 +9,7 @@ menu:
 videos: null
 tags:
 - breadtube
-- capitalist realism
+- anti-capitalism
 - cities
 - communities
 - labor
