@@ -1,29 +1,8 @@
-{{ if .videoIframe }}
-<li id="{{ .video.id }}" class="channel-video list-item">
-  <ul>
-    <li class="video">
-      <div class="video-item">
-        <iframe class="video-iframe" src="https://www.youtube.com/embed/{{ .video.id }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        {{ partial "channels/card.html" (dict "channel" .channel) }}
-        <div class="video-text">
-          <div class="video-title">
-            {{ .video.title }}
-          </div>
-          <div class="video-description">
-            {{ .video.description | replaceRE "https?://([^ ]+)" "" | truncate 140 }}
-          </div>
-        </div>
-      </div>
-    </li>
-  </ul>
-</li>
-{{ else }}
-<li id="{{ .video.id }}" class="video-item list-item">
-  {{ if .videoChannel }}
-    {{- $channelSlug := (or .channel.Params.channel (index (split .channel.RelPermalink "/") 1)) -}}
+<li id="{{ .video.Params.providers.youtube.id }}" class="video-item list-item">
+  {{ if .linkChannel }}
     <div class="video-metadata">
-      <a class="video-channel-link" href="/{{ $channelSlug }}">
-        <strong class="video-channel-name">{{ .channel.Title }}</strong>
+      <a class="video-channel-link" href="{{ .video.Parent.Permalink }}">
+        <strong class="video-channel-name">{{ .video.Parent.Title }}</strong>
       </a>
     </div>
   {{ end }}
@@ -31,20 +10,19 @@
     <div class="video-link-container">
       <div class="video-image">
         <div class="video-imageWrap">
-          <img src="https://i3.ytimg.com/vi/{{ .video.id }}/hqdefault.jpg" alt="{{ .video.title }}" />
+          <img src="https://i3.ytimg.com/vi/{{ .video.Params.providers.youtube.id }}/hqdefault.jpg" alt="{{ .video.Title }}" />
         </div>
       </div>
       <div class="video-text">
         <div class="video-title">
-          <a class="video-link" href="https://youtu.be/{{ .video.id }}" target="_blank">
-            {{ .video.title }}
+          <a class="video-link" href="{{ .video.RelPermalink }}">
+            {{ .video.Title }}
           </a>
         </div>
         <div class="video-description">
-          {{ .video.description | replaceRE "https?://([^ ]+)" "" | truncate 140 }}
+          {{ .video.Description | replaceRE "https?://([^ ]+)" "" | truncate 140 }}
         </div>
       </div>
     </div>
   </div>
 </li>
-{{ end }}
