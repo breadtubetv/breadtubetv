@@ -3,7 +3,6 @@ description: Politically conscious leftist Slav who sometimes makes YouTube vide
   Tovarishch. He/Him. Alcohol enthusiast.
 title: YUGOPNIK
 type: channel
-channel: yugopnik
 menu:
   main:
     parent: Channels

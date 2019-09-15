@@ -2,11 +2,10 @@
 description: Fiat iustitia, pereat cultura
 title: Aphreditto
 type: channel
-channel: aphreditto
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /aphreditto/

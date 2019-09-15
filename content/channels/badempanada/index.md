@@ -3,11 +3,10 @@ description: Hi! I make well-researched videos about world history, politics, so
   etc.
 title: BadEmpanada
 type: channel
-channel: badempanada
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - politics

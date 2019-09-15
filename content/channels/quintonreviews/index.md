@@ -4,11 +4,10 @@ description: Hi! I'm Quinton! On this channel, I do a lot of stuff. Some reviews
   laugh. As a great man once said, 'Our only thought is to entertain you!'
 title: Quinton Reviews
 type: channel
-channel: quintonreviews
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /quintonreviews/

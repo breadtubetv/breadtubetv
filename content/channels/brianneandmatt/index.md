@@ -2,7 +2,6 @@
 description: We make videos and try to be funny.
 title: Brianne and Matt
 type: channel
-channel: brianneandmatt
 menu:
   main:
     parent: Channels

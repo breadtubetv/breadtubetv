@@ -5,11 +5,10 @@ description: Unicorn Riot is a channel for alternative media, art and culture. A
   tax deductible
 title: Unicorn Riot
 type: channel
-channel: unicornriot
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - culture

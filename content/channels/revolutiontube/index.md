@@ -3,7 +3,6 @@ description: Welcome to RevolutionTube! Here you will find a bunch of political 
   essays.
 title: Revolution Tube
 type: channel
-channel: revolutiontube
 menu:
   main:
     parent: Channels

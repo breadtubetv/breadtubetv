@@ -3,7 +3,6 @@ description: Video essays and investigative political journalism about capitalis
   culture, philosophical literature, and film.
 title: BigBreadBrainz
 type: channel
-channel: bigbreadbrainz
 tags:
 - breadtube
 url: '"bigbreadbrainz"'
@@ -23,9 +22,4 @@ providers:
     description: Video essays and investigative political journalism about capitalism,
       culture, philosophical literature, and film.
     subscribers: 121
-    videos:
-    - lm6xs0gur6U
-    - o4yNObH25oU
-    - QQwJZ2fgTCU
-    - EonmLFFic5E
 ---

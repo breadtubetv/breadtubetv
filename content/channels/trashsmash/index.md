@@ -3,7 +3,6 @@ description: Surveys and defeats of various trash, myths, prejudices and delusio
   are to some extent common in society. Art nauchpop.
 title: Trash Smash
 type: channel
-channel: trashsmash
 menu:
   main:
     parent: Channels

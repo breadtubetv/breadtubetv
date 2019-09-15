@@ -2,11 +2,10 @@
 description: Reporting and Analyzing the news objectively, Progressive Liberal
 title: The Progressive Voice
 type: channel
-channel: theprogressivevoice
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /theprogressivevoice/

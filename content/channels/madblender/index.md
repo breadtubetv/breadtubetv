@@ -3,11 +3,10 @@ description: I'm Leslie and on this channel I discuss all kinds of issues from a
   perspective. Find me on twitter @madblender
 title: Mad Blender
 type: channel
-channel: madblender
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /madblender/

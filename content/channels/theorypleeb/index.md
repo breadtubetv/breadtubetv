@@ -4,7 +4,6 @@ description: Just a lowly critical theory geek aiming to corrupt the youth with 
   and deconstructing ideology and the systems of oppression it upholds.
 title: theory pleeb
 type: channel
-channel: theorypleeb
 menu:
   main:
     parent: Channels

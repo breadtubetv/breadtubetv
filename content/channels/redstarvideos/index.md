@@ -2,11 +2,10 @@
 description: We make dank memes and dope political analysis.
 title: Red Star Videos
 type: channel
-channel: redstarvideos
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /redstarvideos/

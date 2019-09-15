@@ -2,7 +2,6 @@
 description: This is a channel where Space Baby talk about Art, History and Politics.
 title: Space Babies
 type: channel
-channel: spacebabies
 menu:
   main:
     parent: Channels

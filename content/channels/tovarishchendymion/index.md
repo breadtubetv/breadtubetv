@@ -2,11 +2,10 @@
 description: Marxist youtuber making Marxist material
 title: Tovarishch Endymion
 type: channel
-channel: tovarishchendymion
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /tovarishchendymion/

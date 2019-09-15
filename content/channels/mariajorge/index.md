@@ -2,11 +2,10 @@
 description: Brazilian left-communist commenting on politics, social issues, and books.
 title: Maria Jorge
 type: channel
-channel: mariajorge
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /mariajorge/

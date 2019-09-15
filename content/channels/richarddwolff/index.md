@@ -3,11 +3,10 @@ description: An educational web series about philosophies espoused by individual
   Common topics include politics and social issues.
 title: Richard D Wolff
 type: channel
-channel: richarddwolff
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /richarddwolff/

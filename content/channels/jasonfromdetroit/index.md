@@ -5,7 +5,6 @@ description: |
   leave them in the discussion section.
 title: Jason From Detroit
 type: channel
-channel: jasonfromdetroit
 tags:
 - breadtube
 url: '"jasonfromdetroit"'

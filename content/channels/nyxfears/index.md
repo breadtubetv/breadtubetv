@@ -5,7 +5,6 @@ description: Exploring meaning and nuance in cinema that is both artful and genr
   of how we watch and create movies.
 title: Nyx Fears
 type: channel
-channel: nyxfears
 menu:
   main:
     parent: Channels

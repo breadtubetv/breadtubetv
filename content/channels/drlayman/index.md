@@ -2,7 +2,6 @@
 description: Question everything.
 title: Dr. Layman
 type: channel
-channel: drlayman
 menu:
   main:
     parent: Channels

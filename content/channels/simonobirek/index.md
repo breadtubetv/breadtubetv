@@ -3,7 +3,6 @@ description: My name is Simon Obirek, and I suffer from an existential crisis. T
   channel is all about exploring this phenomenon.
 title: Simon Obirek
 type: channel
-channel: simonobirek
 menu:
   main:
     parent: Channels

@@ -7,11 +7,10 @@ description: We are recording anarchist and related texts and distributing them 
   the streets.
 title: Resonance Audio
 type: channel
-channel: resonanceaudio
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - audio

@@ -1,11 +1,10 @@
 ---
 description: SPEED BOAT DOPE COCAINE GENESIS
-title: "Chapo Trap House"
-type: "channel"
-channel: "chapotraphouse"
+title: Chapo Trap House
+type: channel
 menu:
   main:
-    parent: "Channels"
+    parent: Channels
 tags:
 - breadtube
 url: /chapotraphouse/

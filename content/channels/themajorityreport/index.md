@@ -3,7 +3,6 @@ description: The Majority Report is a daily, political talk show at majority.fm 
   at 12PM ET.
 title: The Majority Report
 type: channel
-channel: themajorityreport
 tags:
 - news
 url: /themajorityreport/

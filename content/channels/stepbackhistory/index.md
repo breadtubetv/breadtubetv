@@ -4,11 +4,10 @@ description: Step Back is a history channel that invites you to consider the pas
   at it from a new angle.
 title: Step Back History
 type: channel
-channel: stepbackhistory
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /stepbackhistory/

@@ -4,7 +4,6 @@ description: Animated video essays trying to think through the human world right
   what to cook and how to live in capitalism.
 title: just wondering...
 type: channel
-channel: justwondering
 tags:
 - breadtube
 - philosophy

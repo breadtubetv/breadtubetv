@@ -3,7 +3,6 @@ description: An educational web series about philosophies espoused by individual
   Common topics include politics and social issues.
 title: Renegade Cut
 type: channel
-channel: renegadecut
 menu:
   main:
     parent: Channels

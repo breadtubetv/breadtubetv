@@ -3,7 +3,6 @@ description: I'm Olly, giving away a philosophy degree for free every Friday! Su
   to learn and boost your brain power!
 title: Philosophy Tube
 type: channel
-channel: philosophytube
 tags:
 - breadtube
 - philosophy

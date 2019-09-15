@@ -2,7 +2,6 @@
 description: A collection of Noam Chomsky's ideas and analyses.
 title: Chomsky's Philosophy
 type: channel
-channel: chomskysphilosophy
 menu:
   main:
     parent: Channels

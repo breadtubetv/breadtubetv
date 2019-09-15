@@ -4,7 +4,6 @@ description: AKA Floating into Bliss. I focus on analyzing the media I enjoy as 
   yuri and Ikuhara.
 title: Zeria
 type: channel
-channel: zeria
 menu:
   main:
     parent: Channels

@@ -2,7 +2,6 @@
 description: Learn something every day!
 title: brendan makes videos
 type: channel
-channel: brendanmakesvideos
 menu:
   main:
     parent: Channels

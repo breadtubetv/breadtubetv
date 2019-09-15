@@ -3,7 +3,6 @@ description: Give a man a gun and heâ€™ll rob a bank. Give a man a bank and heâ€
   the world
 title: The Kavernacle
 type: channel
-channel: thekavernacle
 menu:
   main:
     parent: Channels

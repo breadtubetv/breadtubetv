@@ -2,7 +2,6 @@
 description: Videos about stuff from a leftist perspective.
 title: Huntress X Thompson
 type: channel
-channel: huntressxthompson
 menu:
   main:
     parent: Channels

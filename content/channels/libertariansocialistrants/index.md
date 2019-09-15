@@ -3,11 +3,10 @@ description: Hello! I'm a libertarian socialist. Here you will find my rants abo
   the world we live in from an anarchist perspective.
 title: Libertarian Socialist Rants
 type: channel
-channel: libertariansocialistrants
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /libertariansocialistrants/

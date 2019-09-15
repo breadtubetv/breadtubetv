@@ -3,11 +3,10 @@ description: I'm a disabled pan-sexual trans woman who talks about anarchism, fe
   and marxism.
 title: anarchopac
 type: channel
-channel: anarchopac
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - feminism
@@ -23,10 +22,8 @@ providers:
     name: anarchopac
     slug: anarchopac
     url: https://www.youtube.com/user/anarchopac
-    description: "I'm a disabled pan-sexual trans woman who talks about anarchism,
-      feminism and marxism.
-
-For recommended reading on anarchism, feminism and
-      marxism see my blog - https://anarchopac.wordpress.com/"
+    description: |-
+      I'm a disabled pan-sexual trans woman who talks about anarchism, feminism and marxism.
+      For recommended reading on anarchism, feminism and marxism see my blog - https://anarchopac.wordpress.com/
     subscribers: 20480
 ---

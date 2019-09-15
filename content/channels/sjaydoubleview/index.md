@@ -2,7 +2,6 @@
 description: Destroying Western Civilization with Shitposts and Bad Memes.
 title: S. Jay Double View
 type: channel
-channel: sjaydoubleview
 menu:
   main:
     parent: Channels
@@ -12,8 +11,7 @@ videos:
 - XAXXzL2qCO0
 - j73N8cPifWA
 - 42WvkEEKFiM
-tags:
-
+tags: null
 url: /sjaydoubleview/
 providers:
   youtube:

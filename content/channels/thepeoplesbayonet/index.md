@@ -3,7 +3,6 @@ description: Hi! I am just a concerned citizen trying to figure out the world! M
   series "The Problem" updates whenever I finish a video!
 title: The People's Bayonet
 type: channel
-channel: thepeoplesbayonet
 tags: []
 url: '"thepeoplesbayonet"'
 videos:

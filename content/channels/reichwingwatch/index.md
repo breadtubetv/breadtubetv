@@ -2,7 +2,6 @@
 description: Exposing the rise of the authoritarian right.
 title: Reich-Wing Watch
 type: channel
-channel: reichwingwatch
 menu:
   main:
     parent: Channels

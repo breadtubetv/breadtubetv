@@ -6,11 +6,10 @@ description: '......eh can''t be bothered to write anything hahahaha nah actuall
   my formative years'
 title: friendlyjordies
 type: channel
-channel: friendlyjordies
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - comedy
 - australia

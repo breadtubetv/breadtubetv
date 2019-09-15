@@ -1,13 +1,11 @@
 ---
-description: |-
-  We Release Clips Daily!
+description: We Release Clips Daily!
 title: The Jimmy Dore Show
 type: channel
-channel: thejimmydoreshow
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - comedy

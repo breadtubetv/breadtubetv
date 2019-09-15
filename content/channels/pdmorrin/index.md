@@ -2,11 +2,10 @@
 description: Irish leftist video essays and all manner of nonsense
 title: PD Morrin
 type: channel
-channel: pdmorrin
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /pdmorrin/

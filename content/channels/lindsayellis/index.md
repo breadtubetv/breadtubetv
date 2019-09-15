@@ -2,11 +2,10 @@
 description: (film analysis and critiqe, feminist perspective)
 title: Lindsay Ellis
 type: channel
-channel: lindsayellis
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /lindsayellis/

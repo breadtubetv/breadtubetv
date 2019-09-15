@@ -3,11 +3,10 @@ description: I make videos about politics, social justice, and science. They are
   very good, but they're getting there.
 title: Rational Disconnect
 type: channel
-channel: rationaldisconnect
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /rationaldisconnect/

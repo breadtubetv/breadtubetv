@@ -5,7 +5,6 @@ description: Hey, comrades! This channel exists so I can channel my creative ene
   how to make YouTube videos.
 title: Vaush
 type: channel
-channel: vaush
 menu:
   main:
     parent: Channels

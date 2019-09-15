@@ -3,12 +3,11 @@ description: The YouTube home of videogame not-journalist Jim Sterling. A game c
   and raconteur, he runs The Jimquisition as a crowdfunded video series, podcast,
   and game review site, he is one third of FistShark Marketing, and he is trying to
   understand this YouTube thing!
-title: "Jim Sterling"
-type: "channel"
-channel: "jimsterling"
+title: Jim Sterling
+type: channel
 menu:
   main:
-    parent: "Channels"
+    parent: Channels
 videos:
 - HmW0GhdDOvw
 - gXFKnkTr4Rk

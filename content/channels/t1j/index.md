@@ -4,11 +4,10 @@ description: This channel is mostly video essays about things that interest me, 
   other stuff too tho.
 title: T1J
 type: channel
-channel: t1j
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /t1j/

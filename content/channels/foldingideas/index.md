@@ -3,11 +3,10 @@ description: 'I talk about narrative theory: the mechanisms of storytelling. Thi
   encompasses the wider communications theories about the way that we process information.'
 title: Folding Ideas
 type: channel
-channel: foldingideas
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /foldingideas/
@@ -23,14 +22,8 @@ providers:
       theory: the mechanisms of storytelling. This encompasses the wider communications
       theories about the way that we process information, the techniques of how those
       messages are delivered, and the conglomerate application of all of the above.
-
-The
-      main subject is popular culture because it's easier to dissect and its messages
+      The main subject is popular culture because it's easier to dissect and its messages
       are less likely to go interrogated because we're trained to view it as innocuous.
-      \"Just a movie\" or \"just a game.\"
-
-Fascism is a loser ideology.
-
-\U0001F33D"
+      \"Just a movie\" or \"just a game.\" Fascism is a loser ideology. \U0001F33D"
     subscribers: 285232
 ---

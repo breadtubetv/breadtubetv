@@ -3,11 +3,10 @@ description: Explanations about social policies using Cities Skylines as a visua
   aide
 title: donoteat01
 type: channel
-channel: donoteat01
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - capitalist realism

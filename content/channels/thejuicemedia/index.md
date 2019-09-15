@@ -2,7 +2,6 @@
 description: '#GenuineSatire We make Honest Government Ads & Rap News'
 title: The Juice Media
 type: channel
-channel: thejuicemedia
 menu:
   main:
     parent: Channels

@@ -2,7 +2,6 @@
 description: Vic Berger IV's YouTube channel.
 title: Vic Berger
 type: channel
-channel: vicberger
 menu:
   main:
     parent: Channels

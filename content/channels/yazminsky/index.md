@@ -5,7 +5,6 @@ description: An examination of the 1999 strategy game Sid Meier's Alpha Centauri
   us.
 title: Yaz Minsky
 type: channel
-channel: yazminsky
 menu:
   main:
     parent: Channels

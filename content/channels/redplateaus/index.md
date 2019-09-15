@@ -2,13 +2,11 @@
 description: A new channel that specialises in Marxist and anarchist theory.
 title: Red Plateaus
 type: channel
-channel: redplateaus
 menu:
   main:
     parent: Channels
-videos:
-tags:
-
+videos: null
+tags: null
 url: /redplateaus/
 providers:
   youtube:

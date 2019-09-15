@@ -3,11 +3,10 @@ description: A documentary & interview series hosted by Abby Martin - reporting 
   war & inequality from the heart of Empire
 title: Empire Files
 type: channel
-channel: empirefiles
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - news

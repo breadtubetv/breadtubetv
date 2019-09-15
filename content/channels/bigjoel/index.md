@@ -2,7 +2,6 @@
 description: I make video essays and deep dives about movies and other things.
 title: Big Joel
 type: channel
-channel: bigjoel
 menu:
   main:
     parent: Channels

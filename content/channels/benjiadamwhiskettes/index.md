@@ -2,11 +2,10 @@
 description: (communist video essays)
 title: Benji Adam Whiskettes
 type: channel
-channel: benjiadamwhiskettes
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /benjiadamwhiskettes/

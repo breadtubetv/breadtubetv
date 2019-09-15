@@ -4,7 +4,6 @@ description: Verso Books is the largest independent, radical publishing house in
   a lot of discussions of various publications.
 title: Verso Books
 type: channel
-channel: versobooks
 menu:
   main:
     parent: Channels

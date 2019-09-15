@@ -3,11 +3,10 @@ description: Historian and general smart person who does youtube now. Tired and 
   a lot. Trans Woman
 title: Mia Mulder
 type: channel
-channel: miamulder
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /miamulder/

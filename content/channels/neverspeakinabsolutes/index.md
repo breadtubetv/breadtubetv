@@ -5,11 +5,10 @@ description: I'm a former public librarian (MLS) and current stay-at-home dad. I
   and its political and economic implications.
 title: Never Speak in Absolutes
 type: channel
-channel: neverspeakinabsolutes
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /neverspeakinabsolutes/

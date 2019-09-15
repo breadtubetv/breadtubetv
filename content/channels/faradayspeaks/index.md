@@ -1,9 +1,8 @@
 ---
-description: I’m a young gamer who fell down the alt-right rabbit hole,
-  who now wants equality and justice for everyone. No exclusion!
+description: I’m a young gamer who fell down the alt-right rabbit hole, who now wants
+  equality and justice for everyone. No exclusion!
 title: Faraday Speaks
 type: channel
-channel: faradayspeaks
 menu:
   main:
     parent: Channels

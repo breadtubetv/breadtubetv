@@ -5,11 +5,10 @@ description: For Harriet is an online community for women of African ancestry. W
   inspire, and entertain.
 title: For Harriet
 type: channel
-channel: forharrietdotcom
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /forharrietdotcom/

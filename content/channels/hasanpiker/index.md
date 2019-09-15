@@ -4,7 +4,6 @@ aliases:
 - /hasanabi/
 title: Hasan Piker
 type: channel
-channel: hasanpiker
 menu:
   main:
     parent: Channels
@@ -60,11 +59,7 @@ providers:
     name: Hasan Piker
     slug: UCtoaZpBnrd0lhycxYJ4MNOQ
     url: https://www.youtube.com/channel/UCtoaZpBnrd0lhycxYJ4MNOQ
-    description: "the revolution will not be televised.
-ig: hasandpiker
-twitter:
-      hasanthehun
-fb: /hasanpikertyt
-twitch: /hasanabi"
+    description: 'the revolution will not be televised. ig: hasandpiker twitter: hasanthehun
+      fb: /hasanpikertyt twitch: /hasanabi'
     subscribers: 45713
 ---

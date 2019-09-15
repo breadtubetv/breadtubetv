@@ -3,7 +3,6 @@ description: Marxist youtuber determined to bring about the social revolution th
   the internet, somehow.
 title: Xexizy
 type: channel
-channel: xexizy
 menu:
   main:
     parent: Channels

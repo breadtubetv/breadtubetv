@@ -3,7 +3,6 @@ description: Democracy Now! is an independent, global weekday news hour anchored
   award-winning journalists Amy Goodman and Juan González.
 title: Democracy Now
 type: channel
-channel: democracynow
 tags:
 - news
 url: /democracynow/

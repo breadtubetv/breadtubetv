@@ -3,11 +3,10 @@ description: Gender-neutral video essayist and musician, seeking to spread the g
   word of libertarian socialism far and wide. they/them.
 title: Thom Avella
 type: channel
-channel: thomavella
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /thomavella/

@@ -2,7 +2,6 @@
 description: Im a Democratic Socialist Atheist trying to push the LEFT to victory.
 title: Suck My Opinion
 type: channel
-channel: suckmyopinion
 tags:
 - breadtube
 - socialism

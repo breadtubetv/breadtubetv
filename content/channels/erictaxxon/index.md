@@ -2,11 +2,10 @@
 description: I make music (maybe)(and media video essays)
 title: Eric Taxxon
 type: channel
-channel: erictaxxon
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /erictaxxon/

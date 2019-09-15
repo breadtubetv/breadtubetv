@@ -1,13 +1,12 @@
 ---
-description: Low Level Milkshake Violence Studies PhD.
-  Aspiring Game Developer, actual failed youtuber.
+description: Low Level Milkshake Violence Studies PhD. Aspiring Game Developer, actual
+  failed youtuber.
 title: Sarcasmitron
 type: channel
-channel: sarcasmitron
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /sarcasmitron/

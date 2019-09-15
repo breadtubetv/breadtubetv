@@ -2,11 +2,10 @@
 description: Leftist with left wing views. I'm not a furry, I just like cute things.
 title: BadMouse Productions
 type: channel
-channel: badmouseproductions
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /badmouseproductions/

@@ -1,9 +1,9 @@
 ---
-description: I use my videos to argue my positions on issues ranging from economics to healthcare,
-  immigration, social justice, the environment, and any other issue or topic that comes to mind.
+description: I use my videos to argue my positions on issues ranging from economics
+  to healthcare, immigration, social justice, the environment, and any other issue
+  or topic that comes to mind.
 title: PoliDice
 type: channel
-channel: polidice
 menu:
   main:
     parent: Channels

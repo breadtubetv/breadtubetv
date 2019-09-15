@@ -3,7 +3,6 @@ description: A leftist podcast by Matt Lech (from The Majority Report and The Mi
   Brooks Show). Primarily concerned with literary analysis.
 title: Literary Hangover
 type: channel
-channel: literaryhangover
 menu:
   main:
     parent: Channels

@@ -3,11 +3,10 @@ description: Follow Teacher Erik as he guides you through the muck of the intern
   Together, we'll learn how to leave proper and respectful internet comments!
 title: Internet Comment Etiquette with Erik
 type: channel
-channel: internetcommentiquette
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - comedy

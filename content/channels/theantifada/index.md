@@ -5,7 +5,6 @@ description: 'The Antifada is more than a podcast.  It’s a specter haunting th
   states: antifa super-soldiers and intifada; bash the fash and a global uprising.'
 title: The Antifada
 type: channel
-channel: theantifada
 menu:
   main:
     parent: Channels

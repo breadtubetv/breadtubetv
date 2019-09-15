@@ -4,11 +4,10 @@ description: A series of critical video essays looking at media through a critic
   Hosted by Jonathan McIntosh.
 title: Pop Culture Detective
 type: channel
-channel: popculturedetective
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /popculturedetective/

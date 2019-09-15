@@ -3,7 +3,6 @@ description: We critique and outgrow reactionary and capitalist realist discours
   Reclaim the future.
 title: the new symbolization
 type: channel
-channel: thenewsymbolization
 menu:
   main:
     parent: Channels

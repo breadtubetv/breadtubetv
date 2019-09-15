@@ -3,7 +3,6 @@ description: I do "political" video essays on YouTube. The videos are way too lo
   and it takes a lot of time to work on them. Help!!
 title: Linke Sau
 type: channel
-channel: linkesau
 menu:
   main:
     parent: Channels

@@ -1,9 +1,10 @@
 <script>
 var list = [
   {{ range where $.Site.Pages "Type" "channel" }}
+    {{ $url := urls.Parse .Permalink }}
     {
       'name': "{{ .Title }}",
-      'slug': "{{ .Params.channel }}",
+      'slug': "{{ replace $url.Path "/" "" }}",
       'tags': {{ .Params.tags }},
     },
   {{ end }}

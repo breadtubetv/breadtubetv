@@ -1,13 +1,12 @@
 ---
-description: I'm a Canadian YouTube person creating lefty content that undermines the garbage flow
-  of right wing reactionary drivel that pollutes YouTube.
+description: I'm a Canadian YouTube person creating lefty content that undermines
+  the garbage flow of right wing reactionary drivel that pollutes YouTube.
 title: José
 type: channel
-channel: jose
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /jose/

@@ -2,11 +2,10 @@
 description: A mildly immature look at movies and movie-related nonsense.
 title: Kyle Kallgren BHH
 type: channel
-channel: kylekallgrenbhh
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /kylekallgrenbhh/

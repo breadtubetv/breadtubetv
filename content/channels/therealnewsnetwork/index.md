@@ -4,7 +4,6 @@ description: The Real News Network (TRNN) produces independent, verifiable, fact
   times.
 title: The Real News Network
 type: channel
-channel: therealnewsnetwork
 tags: []
 url: /therealnewsnetwork/
 videos:

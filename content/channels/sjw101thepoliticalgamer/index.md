@@ -4,11 +4,10 @@ description: I'm an advocate of social justice and a gamer and make no apologies
   me to challenge you if you are sowing fear, ignorance or are misled.
 title: SJW101, the political gamer
 type: channel
-channel: sjw101thepoliticalgamer
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /sjw101thepoliticalgamer/

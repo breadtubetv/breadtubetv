@@ -1,12 +1,11 @@
 ---
 description: I make political videos on Canadian politics, American politics, political
   ideology explainers, and political philosophy.
-title: "Halim Alrah"
-type: "channel"
-channel: "halimalrah"
+title: Halim Alrah
+type: channel
 menu:
   main:
-    parent: "Channels"
+    parent: Channels
 videos:
 - 5vS4eKwCEC0
 - TLwHsUBIK_A

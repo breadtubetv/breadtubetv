@@ -2,11 +2,10 @@
 description: I do a mix of Lefty Politics and Gaming.
 title: Rotfront Gaming
 type: channel
-channel: rotfrontgaming
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /rotfrontgaming/

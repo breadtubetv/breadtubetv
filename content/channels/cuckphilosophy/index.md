@@ -2,7 +2,6 @@
 description: Leftist video essays on various topics and media.
 title: Cuck Philosophy
 type: channel
-channel: cuckphilosophy
 menu:
   main:
     parent: Channels

@@ -5,7 +5,6 @@ description: The Earth Strike movement has formed a plan of action spanning 2019
   **Sep 27** Earth Strike!
 title: Earth Strike
 type: channel
-channel: earthstrike
 menu:
   main:
     parent: Channels

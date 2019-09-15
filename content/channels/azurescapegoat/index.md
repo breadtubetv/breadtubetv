@@ -2,7 +2,6 @@
 description: Channel combining politics & gaming. What could go wrong?
 title: azureScapegoat
 type: channel
-channel: azurescapegoat
 menu:
   main:
     parent: Channels

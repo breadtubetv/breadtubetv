@@ -2,7 +2,6 @@
 description: An Iraqi Marxist that makes videos from time to time.
 title: Hakim
 type: channel
-channel: hakim
 menu:
   main:
     parent: Channels

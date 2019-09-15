@@ -3,7 +3,6 @@ description: The discussions of a southern journalist who is tired of a lack of 
   sense.
 title: Beau of the Fifth Column
 type: channel
-channel: beauofthefifthcolumn
 menu:
   main:
     parent: Channels

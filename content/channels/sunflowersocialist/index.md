@@ -3,7 +3,6 @@ description: I'm a democratic socialist activist, DSA member and student from Ka
   making vlogs and videos on politics and current events
 title: Sunflower Socialist
 type: channel
-channel: sunflowersocialist
 menu:
   main:
     parent: Channels

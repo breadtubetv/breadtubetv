@@ -6,7 +6,6 @@ description: |
   issues from an anti-capitalist, intersectional perspective.
 title: Kathrin
 type: channel
-channel: kathrin
 tags:
 - breadtube
 url: /kathrin/

@@ -5,11 +5,10 @@ description: The Christopher Szabo Show is an ongoing web series updated monthly
   under the influence and wearing headphones.
 title: Christopher Szabo
 type: channel
-channel: christopherszabo
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /christopherszabo/

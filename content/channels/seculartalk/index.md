@@ -3,7 +3,6 @@ description: Home of news & politics commentary from the libertarian-left; popul
   social democratic; agnostic-atheist perspective.
 title: Secular Talk
 type: channel
-channel: seculartalk
 tags:
 - news
 url: /seculartalk/

@@ -3,7 +3,6 @@ description: Commentator, historian, and writer Christo Aivalis discussing all m
   that interest him in regards to left politics, history, and culture.
 title: Christo Aivalis
 type: channel
-channel: christoaivalis
 menu:
   main:
     parent: Channels

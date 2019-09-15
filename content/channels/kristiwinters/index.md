@@ -2,11 +2,10 @@
 description: Progressive. Feminist. Atheist. Social scientist. Nerd.
 title: Kristi Winters
 type: channel
-channel: kristiwinters
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /kristiwinters/

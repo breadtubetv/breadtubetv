@@ -2,7 +2,6 @@
 description: Palestine and film analysis from a critical and post-colonial perspective.
 title: Maru
 type: channel
-channel: maru
 menu:
   main:
     parent: Channels

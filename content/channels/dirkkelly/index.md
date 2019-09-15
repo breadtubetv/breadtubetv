@@ -3,7 +3,6 @@ description: Austramerican thinking about politics, economics, and technology du
   the people's struggle to survive the collapse of capitalism.
 title: Dirk Kelly
 type: channel
-channel: dirkkelly
 tags:
 - breadtube
 - activism

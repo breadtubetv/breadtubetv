@@ -3,7 +3,6 @@ description: I'm a smug anarchist poseur vomiting out video essays for you. I lo
   you.
 title: Thought Slime
 type: channel
-channel: thoughtslime
 tags:
 - breadtube
 - alt-right

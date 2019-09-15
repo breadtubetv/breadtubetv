@@ -3,11 +3,10 @@ description: Hello, I am the Radical Reviewer. I review and analyze Radical and 
   literature and media.
 title: Radical Reviewer
 type: channel
-channel: radicalreviewer
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /radicalreviewer/

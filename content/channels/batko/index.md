@@ -2,11 +2,10 @@
 description: Anarchist shitposter
 title: Bat'ko
 type: channel
-channel: batko
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /batko/

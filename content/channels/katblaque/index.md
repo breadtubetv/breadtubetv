@@ -2,7 +2,6 @@
 description: Opinion Vlogger, Children's Illustrator and Thrift Store Addict
 title: Kat Blaque
 type: channel
-channel: katblaque
 menu:
   main:
     parent: Channels

@@ -2,7 +2,6 @@
 description: I make stupid videos about stupid people.
 title: Anti-Social Media
 type: channel
-channel: antisocialmedia
 menu:
   main:
     parent: Channels

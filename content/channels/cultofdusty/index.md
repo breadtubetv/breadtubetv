@@ -2,11 +2,10 @@
 description: Making a mockery out of Religion. One vid at a time.
 title: Cult of Dusty
 type: channel
-channel: cultofdusty
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /cultofdusty/

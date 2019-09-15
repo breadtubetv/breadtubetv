@@ -2,7 +2,6 @@
 description: the german che-pard
 title: literally garbage
 type: channel
-channel: literallygarbage
 tags:
 - breadtube
 - antifascism

@@ -2,7 +2,6 @@
 description: Official video content from Current Affairs
 title: Current Affairs
 type: channel
-channel: currentaffairs
 tags:
 - breadtube
 url: '"currentaffairs"'

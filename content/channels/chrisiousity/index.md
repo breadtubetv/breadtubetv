@@ -5,11 +5,10 @@ description: I have a lot of curiosity about various topics. I will discuss topi
   for my fellow you tubers.
 title: chrisiousity
 type: channel
-channel: chrisiousity
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /chrisiousity/

@@ -12,12 +12,10 @@ description_more: Although to many the term 'Socialism' appears to be vulgar, I 
   share and subscribe-- it really does help. Take care, Comrades!
 title: Dirk Socialist
 type: channel
-channel: dirksocialist
 menu:
   main:
     parent: Channels
-tags:
-
+tags: null
 url: /dirksocialist/
 providers:
   patreon:

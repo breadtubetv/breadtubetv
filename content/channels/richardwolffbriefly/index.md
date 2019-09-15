@@ -1,11 +1,9 @@
 ---
-description: "I'm not Richard Wolff.
-
-Posting byte-sized videos, audio segments
-  and animated videos. Soon to be scheduled, hopefully."
+description: |-
+  I'm not Richard Wolff.
+  Posting byte-sized videos, audio segments and animated videos. Soon to be scheduled, hopefully.
 title: Richard Wolff Briefly
 type: channel
-channel: richardwolffbriefly
 menu:
   main:
     parent: Channels
@@ -38,9 +36,8 @@ providers:
     name: Richard Wolff Briefly
     slug: UCTTxcWMfjX4zUjezBWIIIEw
     url: https://www.youtube.com/channel/UCTTxcWMfjX4zUjezBWIIIEw
-    description: "I'm not Richard Wolff.
-
-Posting byte-sized videos, audio segments
-      and animated videos. Soon to be scheduled, hopefully."
+    description: |-
+      I'm not Richard Wolff.
+      Posting byte-sized videos, audio segments and animated videos. Soon to be scheduled, hopefully.
     subscribers: 0
 ---

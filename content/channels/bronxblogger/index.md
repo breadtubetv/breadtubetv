@@ -2,11 +2,10 @@
 description: '"Justice is what love looks like in public" -Dr. Cornel West'
 title: the Bronx Blogger
 type: channel
-channel: bronxblogger
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /bronxblogger/

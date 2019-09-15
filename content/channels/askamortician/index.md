@@ -3,7 +3,6 @@ description: Mortician in Los Angeles. nYou got death questions, we got death an
   Mortality + Culture.
 title: Ask A Mortician
 type: channel
-channel: askamortician
 menu:
   main:
     parent: Channels
@@ -40,17 +39,12 @@ providers:
     name: Ask A Mortician
     slug: UCi5iiEyLwSLvlqnMi02u5gQ
     url: https://www.youtube.com/channel/UCi5iiEyLwSLvlqnMi02u5gQ
-    description: "Mortician in Los Angeles.
-
-You got death questions, we got death
-      answers.
-
-Mortality + Culture.
-
-www.orderofthegooddeath.com
-
-www.facebook.com/OrderoftheGoodDeath
-
-twitter.com/TheGoodDeath"
+    description: |-
+      Mortician in Los Angeles.
+      You got death questions, we got death answers.
+      Mortality + Culture.
+      www.orderofthegooddeath.com
+      www.facebook.com/OrderoftheGoodDeath
+      twitter.com/TheGoodDeath
     subscribers: 774292
 ---

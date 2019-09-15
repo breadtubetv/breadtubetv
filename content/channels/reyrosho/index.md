@@ -2,7 +2,6 @@
 description: Challenging Society Through Commentary
 title: ReyRoSho
 type: channel
-channel: reyrosho
 menu:
   main:
     parent: Channels

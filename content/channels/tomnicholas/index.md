@@ -5,7 +5,6 @@ description: I aim to provide some introductions to key theories and concepts in
   current TV shows and movies through my series Politix.
 title: Tom Nicholas
 type: channel
-channel: tomnicholas
 menu:
   main:
     parent: Channels

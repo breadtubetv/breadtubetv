@@ -4,7 +4,6 @@ description: Hi, I'm non-binary Eastern Europian green anarchist who just starte
   essays.
 title: Veggie Anarchist
 type: channel
-channel: veggieanarchist
 menu:
   main:
     parent: Channels

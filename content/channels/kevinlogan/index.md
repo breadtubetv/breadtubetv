@@ -3,11 +3,10 @@ description: I take on the manospherian, alt-right, anti-feminist, anti-social j
   fuckwads of the world, with the occasional cat video thrown in for good measure!
 title: Kevin Logan
 type: channel
-channel: kevinlogan
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /kevinlogan/

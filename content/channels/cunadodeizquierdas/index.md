@@ -3,7 +3,6 @@ description: Politics channel made from a place of honesty and ignorance... and 
   Left! I'm poor, send me some dough
 title: Cuñado de izquierdas
 type: channel
-channel: cunadodeizquierdas
 menu:
   main:
     parent: Channels

@@ -6,11 +6,10 @@ description: 5 Punk Rock Anticapitalists covering the world's events from a Soci
   Are you at the very least Socialism curious?
 title: Punks For Progress
 type: channel
-channel: punksforprogress
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - news

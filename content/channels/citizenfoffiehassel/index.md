@@ -3,11 +3,10 @@ description: Here i script animate play this is a remix of The Other CitizenFoff
   Channel i got hacked so uh yeah trying to reach 100 subs by the end of the year
 title: CitizenFoffie Hassel
 type: channel
-channel: citizenfoffiehassel
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /citizenfoffiehassel/

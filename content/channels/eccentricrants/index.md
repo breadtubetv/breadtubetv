@@ -1,7 +1,6 @@
 ---
 title: Eccentric Rants
 type: channel
-channel: eccentricrants
 tags:
 - breadtube
 - america

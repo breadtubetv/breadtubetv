@@ -2,7 +2,6 @@
 description: Modern folk music for the proletariat.
 title: One Man Left
 type: channel
-channel: onemanleft
 menu:
   main:
     parent: Channels

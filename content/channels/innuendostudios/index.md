@@ -2,7 +2,6 @@
 description: I make video essays about games, web culture, and social politics.
 title: Innuendo Studios
 type: channel
-channel: innuendostudios
 menu:
   main:
     parent: Channels

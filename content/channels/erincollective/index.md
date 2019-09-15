@@ -1,14 +1,13 @@
 ---
 description: I'm a philosopher, author, videographer, coder, gamer, and activist,
-  I'm trying to move my labour away from production for exchange and towards production for use.
-  Queer, autistic, post-christian, egocom, genre-woman living in South Africa.
+  I'm trying to move my labour away from production for exchange and towards production
+  for use. Queer, autistic, post-christian, egocom, genre-woman living in South Africa.
 title: Erin Collective
 type: channel
-channel: erincollective
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /erincollective/

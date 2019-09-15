@@ -2,7 +2,6 @@
 description: Anarchist Leftist channel with a creative and mystical flair!
 title: Angie Speaks
 type: channel
-channel: angiespeaks
 menu:
   main:
     parent: Channels

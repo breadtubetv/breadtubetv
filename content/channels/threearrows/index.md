@@ -2,7 +2,6 @@
 description: Doing stuff about the bad history on the far-right and more.
 title: Three Arrows
 type: channel
-channel: threearrows
 tags:
 - breadtube
 url: /threearrows/

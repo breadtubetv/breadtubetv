@@ -3,7 +3,6 @@ description: In a media landscape blemished with uncertainty two indentured pleb
   bring you their comedic spin on the weekly news.
 title: The Serfs
 type: channel
-channel: theserfs
 menu:
   main:
     parent: Channels

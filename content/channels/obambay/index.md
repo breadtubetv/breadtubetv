@@ -2,11 +2,10 @@
 description: Anti-SJWs are the new SJWs.
 title: Obambay
 type: channel
-channel: obambay
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /obambay/

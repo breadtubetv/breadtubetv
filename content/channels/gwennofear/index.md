@@ -6,7 +6,6 @@ description: Hey there! I'm Guinevere, and I plan on doing some political, criti
   me, I might do some videos on that as well.
 title: Gwen_No_Fear
 type: channel
-channel: gwennofear
 menu:
   main:
     parent: Channels

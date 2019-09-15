@@ -4,7 +4,6 @@ description: The Intercept is an investigative nonprofit news organization dedic
   transparency and accountability to powerful governmental and corporate institutions.
 title: The Intercept
 type: channel
-channel: theintercept
 menu:
   main:
     parent: Channels

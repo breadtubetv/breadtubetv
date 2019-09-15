@@ -2,11 +2,10 @@
 description: Anarchist Trans Girl. She/Her. Making Video Essays and hot takes
 title: AnActualJoke
 type: channel
-channel: anactualjoke
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /anactualjoke/

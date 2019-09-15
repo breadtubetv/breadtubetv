@@ -3,7 +3,6 @@ description: Video essays exploring Philosophy, Politics, Media and the world fr
   a radical left perspective.
 title: Dumpster Flower
 type: channel
-channel: dumpsterflower
 menu:
   main:
     parent: Channels

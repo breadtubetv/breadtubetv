@@ -5,11 +5,10 @@ description: Wisecrack is a collective of comedians, academics, filmmakers, and 
   critical thinking through the lens of movies, TV shows, video games, and books.
 title: Wisecrack
 type: channel
-channel: wisecrack
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - philosophy
 - entertainment

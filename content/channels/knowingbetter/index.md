@@ -4,11 +4,10 @@ description: I make videos about History, Government, and Psychology so that may
   know better.
 title: Knowing Better
 type: channel
-channel: knowingbetter
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 url: /knowingbetter/

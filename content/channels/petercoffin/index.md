@@ -3,7 +3,6 @@ description: The official channel of satirist and weirdo Peter Coffin. Home to V
   Important Documentaries (infotainment) and Adversaries (commercial critique).
 title: Peter Coffin
 type: channel
-channel: petercoffin
 tags:
 - breadtube
 - capitalist realism

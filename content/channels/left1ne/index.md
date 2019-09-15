@@ -2,11 +2,10 @@
 description: A philosopher on the path to radicalize you.
 title: Left1ne
 type: channel
-channel: left1ne
 menu:
   main:
     parent: Channels
-videos:
+videos: null
 tags:
 - breadtube
 - homophobia
