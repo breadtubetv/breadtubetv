@@ -18,10 +18,12 @@
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h1>
 
-    <p>{{ .Description | markdownify }}</p>
-
     <div class="iframe-container">
       <iframe src="https://www.youtube.com/embed/{{ .Params.providers.youtube.id }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
+
+    <p class="text-content">
+      {{ .Description | markdownify }}
+    </p>
   </div>
 {{ end }}

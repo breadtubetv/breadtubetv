@@ -1,0 +1,14 @@
+---
+title: Capitalism is KILLING Gaming | Breadville Puppet Theater
+date: "2019-09-15T10:36:49+08:00"
+description: 'Always-on DRM, loot crates and DLC, gaming as a service, taking down
+  ROMs... Need we go on?! Something is ruining gaming as we know it! What can it possibly
+  be? Find out in this politically provocative puppet performance! Non-Compete is
+  a leftist blog and YouTube channel. Follow me on Mastodon. Find out more: https://www.non-compete.com/its-time-...
+  Facebook/Twitter/Email info: http://www.non-compete.com/about/ Patreon: https://www.patreon.com/noncompete'
+url: /noncompete/xWlzwvvMhlU/
+providers:
+  youtube:
+    id: xWlzwvvMhlU
+type: video
+---

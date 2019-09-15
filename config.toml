@@ -7,6 +7,7 @@ description = "Quality content going against the prevailing winds of the interne
 logo = "/img/breadtube.png"
 targetBlank = true
 defaultTags = []
+channelTags = ["creators of color","small creators","anti-capitalism","philosophy","feminism","communism","democracy"]
 
 [languages]
   [languages.en]

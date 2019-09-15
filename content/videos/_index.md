@@ -1,5 +1,5 @@
 ---
 title: Videos
-type: "videos"
+type: "video_list"
 tags: []
 ---

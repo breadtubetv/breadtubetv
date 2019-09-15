@@ -1,0 +1,22 @@
+---
+title: Honest Capitalist Inadvertently Wrecks Capitalism
+date: "2019-09-15T10:36:51+08:00"
+description: 'Here''s everything that''s wrong with capitalism, in the words of a
+  capitalist. SOURCES: Resources / Sources: Wealth Inequality in America Video: https://www.youtube.com/watch?v=QPKKQnijnsM
+  Capitalism Violates NAP (Radical Reviewer video from credits) https://youtu.be/edYHtfj7CV8
+  The Conquest of Bread! Text: https://theanarchistlibrary.org/library/petr-kropotkin-the-conquest-of-bread
+  Audio: https://www.youtube.com/watch?v=lfmyJ9VwtNM Explainer Video: https://youtu.be/Swvucix-A4Q
+  Worker Salaries: https://fred.stlouisfed.org/series/MEPAINUSA672N Worker Savings:
+  https://www.gobankingrates.com/banking/savings-account/62-percent-americans-under-1000-savings-survey-finds/
+  Credit Card Debt: https://www.cnbc.com/2018/01/23/credit-card-debt-hits-record-high.html
+  Paycheck to Paycheck: http://press.careerbuilder.com/2017-08-24-Living-Paycheck-to-Paycheck-is-a-Way-of-Life-for-Majority-of-U-S-Workers-According-to-New-CareerBuilder-Survey
+  Business Startup Costs: https://www.mbda.gov/news/blog/2011/11/how-estimate-cost-starting-business-scratch
+  Why Businesses Fail: https://www.preferredcfo.com/cash-flow-reason-small-businesses-fail/
+  SUPPORT NON-COMPETE: Patreon: https://www.patreon.com/noncompete Shirts ''n Stuff:
+  https://www.non-compete.com/shop/ Give Amazon''s Money to Us: https://amzn.to/2H6CKfe'
+url: /noncompete/yvirpCAbGSY/
+providers:
+  youtube:
+    id: yvirpCAbGSY
+type: video
+---

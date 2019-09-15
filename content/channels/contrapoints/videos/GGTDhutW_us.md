@@ -1,0 +1,23 @@
+---
+title: Does the Left Hate Free Speech? (Part 1)
+date: "2019-09-15T10:31:35+08:00"
+description: 'Examining right-wing ("liberal") talking point number 1. ✿Patreon: https://www.patreon.com/contrapoints
+  ✿Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+  ✿Subscribe: https://www.youtube.com/c/ContraPoints ✿Live Stream Channel: https://www.youtube.com/c/ContraPointsLive
+  ✿Twitter: https://twitter.com/ContraPoints ✿Facebook: https://www.facebook.com/ContraPoints/
+  Full Hitchens speech: https://youtu.be/4Z2uzEM0ugY Check out my videos about: Debating
+  the Alt-Right: https://youtu.be/zPa1wikTd5c What is Race?: https://youtu.be/PY3lBKje46E
+  What is Gender?: https://youtu.be/b_uEXzqW43c Being Genderqueer: https://youtu.be/0hmULQc5jIw
+  BDSM: https://youtu.be/T58pd_D_xYo The Alt-Right: https://youtu.be/a3XjRO4-kGk Casual
+  Sex: https://youtu.be/qKrbvLkbHu8 Punching Natsees: https://youtu.be/iEyL1rDe60w
+  White N@tionalism: https://youtu.be/U-c2qnfUNXE Racial Injustice in Baltimore: https://youtu.be/8r6GBo_7UNc
+  Fat Acceptance: https://youtu.be/ZsdaLqAZ9hA Pick-Up Artists: https://youtu.be/bTomsgnRZFk
+  Alpha Males: https://youtu.be/k6jYB74UQmI Music: "Tumult" by Kai Engle "Far Away"
+  by HOME "Stage Theory" by C. Scott "Spanish Winter" and "Still Shining" by ThePassionHiFi
+  "Born Barnstormers" by Brian Boyko "Metaphysik" by Kevin MacLeod'
+url: /contrapoints/GGTDhutW_us/
+providers:
+  youtube:
+    id: GGTDhutW_us
+type: video
+---

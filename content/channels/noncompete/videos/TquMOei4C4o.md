@@ -1,0 +1,15 @@
+---
+title: Contracts and Mutual Aid | How Anarchism Works - Part 2
+date: "2019-09-15T10:36:25+08:00"
+description: 'How can we build a society that allows full participation of everyone?
+  The same way capitalists build huge multinational corporations. With contracts!
+  Part 1: https://youtu.be/ZzEl5RIMp7M Erin Collective''s Video: https://www.youtube.com/watch?v=SxKP9qfybas
+  Non-Compete is a leftist blog and YouTube channel. Follow me on Mastodon. Find out
+  more: https://www.non-compete.com/its-time-... Facebook/Twitter/Email info: http://www.non-compete.com/about/
+  Patreon: https://www.patreon.com/noncompete'
+url: /noncompete/TquMOei4C4o/
+providers:
+  youtube:
+    id: TquMOei4C4o
+type: video
+---
