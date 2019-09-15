@@ -1,4 +1,6 @@
 {{ define "main" }}
+  {{ $videoId := .Params.providers.youtube.id }}
+  {{ $videoTitle := .Title }}
   {{ with .Parent }}
     {{- $channelSlug := (index (split .Page.RelPermalink "/") 1) -}}
     <div class="heading-wrap" style="overflow: hidden">
@@ -11,6 +13,16 @@
         {{ end }}
       </div>
     </div>
+    <div class="heading-meta">
+      <ul class="plain-list">
+        <li>
+          <a href="https://www.reddit.com/r/BreadTube/search?q=title:'{{ $videoTitle | lower }}' OR flair:'{{ .Title | lower }}'&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
+        </li>
+        <li>
+          <a href="https://github.com/breadtubetv/breadtubetv/edit/videos/content/channels/{{ $channelSlug }}/videos/{{ $videoId }}.md" target="_blank"><strong>edit</strong></a>
+        </li>
+      </ul>
+    </div>
   {{ end }}
 
   <div class="content">
@@ -19,7 +31,7 @@
     </h1>
 
     <div class="iframe-container">
-      <iframe src="https://www.youtube.com/embed/{{ .Params.providers.youtube.id }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe src="https://www.youtube.com/embed/{{ $videoId }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
     <p class="text-content">
