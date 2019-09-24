@@ -896,3 +896,20 @@ button, select, input, textarea { font-family: inherit; }
   background: #241a33;
   padding: 0.5rem;
 }
+
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  margin-bottom: 1rem;
+  max-width: 45rem;
+  position: relative;
+}
+
+.iframe-container iframe {
+  border: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}

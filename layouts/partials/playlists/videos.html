@@ -5,16 +5,8 @@
 <ul class="list plain-list">
   {{- range .Params.videos -}}
     {{- $id := . -}}
-    {{- range $channelSlug, $channelVideos := $videos -}}
-      {{- range $videoID, $video := $channelVideos -}}
-        {{- if eq $id $videoID -}}
-          {{- $channelPage := (printf "/channels/%s" $channelSlug) -}}
-          {{ with $.Site.GetPage $channelPage }}
-            {{ $channel := . }}
-            {{ partial "videos/card.html" (dict "video" $video "channel" $channel "videoChannel" $videoChannel "videoIframe" $videoIframe) }}
-          {{ end }}
-        {{- end -}}
-      {{- end -}}
+    {{- range where $.Site.Pages "Params.providers.youtube.id" $id -}}
+      {{ partial "videos/card.html" (dict "video" . "linkChannel" true) }}
     {{- end -}}
   {{- end -}}
 </ul>

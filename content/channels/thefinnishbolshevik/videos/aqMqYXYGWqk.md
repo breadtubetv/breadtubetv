@@ -1,0 +1,17 @@
+---
+title: 'Communism for Beginners: Ep. 9 - The Foundations of Leninism (The National
+  Question)'
+date: "2019-09-15T10:39:10+08:00"
+description: 'THE FOUNDATIONS OF LENINISM (text) https://www.marxists.org/reference/archive/stalin/works/1924/foundations-leninism/
+  Audio versio https://www.youtube.com/watch?v=hLizw1jq_7c&t=459s All the books we''re
+  gonna be covering in this series: https://www.youtube.com/watch?v=PdYLR... "The
+  path which led me to Leninism" by Ho Chi Minh https://www.marxists.org/reference/archive/ho-chi-minh/works/1960/04/x01.htm
+  Stuff about Rojava http://dissidentvoice.org/2017/05/a-liberated-area-in-the-middle-east-western-imperialism-in-rojava/
+  https://internationalistperspective.org/article/rojava-in-the-vortex-of-inter-imperialist-antagonisms/
+  http://kurdishquestion.com/article/3196-rojava-s-strategic-cooperation-with-usa-good-bad-or-neither'
+url: /thefinnishbolshevik/aqMqYXYGWqk/
+providers:
+  youtube:
+    id: aqMqYXYGWqk
+type: video
+---

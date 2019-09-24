@@ -1,0 +1,41 @@
+{{ define "main" }}
+  {{ $videoId := .Params.providers.youtube.id }}
+  {{ $videoTitle := .Title }}
+  {{ with .Parent }}
+    {{- $channelSlug := (index (split .Page.RelPermalink "/") 1) -}}
+    <div class="heading-wrap" style="overflow: hidden">
+      <img src="/{{ $channelSlug }}/logo.jpg" class="channel-image heading-image" alt=" {{ .Title }}" />
+      <h1 class="heading"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></h1>
+      <div class="content">
+        <p>{{ .Description | markdownify }}</p>
+        {{ with .Params.description_more }}
+          <p>{{ . | markdownify }}</p>
+        {{ end }}
+      </div>
+    </div>
+    <div class="heading-meta">
+      <ul class="plain-list">
+        <li>
+          <a href="https://www.reddit.com/r/BreadTube/search?q=title:'{{ $videoTitle | lower }}' OR flair:'{{ .Title | lower }}'&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
+        </li>
+        <li>
+          <a href="https://github.com/breadtubetv/breadtubetv/edit/videos/content/channels/{{ $channelSlug }}/videos/{{ $videoId }}.md" target="_blank"><strong>edit</strong></a>
+        </li>
+      </ul>
+    </div>
+  {{ end }}
+
+  <div class="content">
+    <h1 class="heading">
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </h1>
+
+    <div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/{{ $videoId }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+    <p class="text-content">
+      {{ .Description | markdownify }}
+    </p>
+  </div>
+{{ end }}

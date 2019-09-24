@@ -1,0 +1,9 @@
+{{ define "main" }}
+  <h1 class="heading"><a href=".">{{ .Title }}</a></h1>
+  <ul class="list plain-list">
+    {{- $videos := where $.Site.Pages "Type" "video" -}}
+    {{- range shuffle $videos -}}
+      {{ partial "videos/card.html" (dict "video" . "linkChannel" true) }}
+    {{- end -}}
+  </ul>
+{{ end }}

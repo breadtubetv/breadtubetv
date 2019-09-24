@@ -1,0 +1,14 @@
+---
+title: Riskich discusses Collectivization with historian Boris Yulin (PART 2)
+date: "2019-09-15T10:39:16+08:00"
+description: 00:28 Why letting collectivization proceed in a natural way was unacceptable
+  02:45 The New Economic Policy and it's purpose 04:32 Who were the kulaks and how
+  did they emerge? 07:41 Bukharin's method of pauperization 09:34 Industrializaion
+  in Britain 10:39 Industrialization in the US 12:18 Famines in the USSR and the USA
+  13:21 Collectivization and its success on the ecological level
+url: /thefinnishbolshevik/jrj5X14GeqA/
+providers:
+  youtube:
+    id: jrj5X14GeqA
+type: video
+---

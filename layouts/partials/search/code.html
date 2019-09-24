@@ -9,16 +9,14 @@ var list = [
     },
   {{ end }}
 ].concat([
-  {{- range $channelSlug, $videos := .Site.Data.videos -}}
-    {{- range $videoID, $video := $videos -}}
-      {
-        'name': "{{ $video.title }}",
-        'slug': "{{ $video.id }}",
-        'tags': {{ $video.tags }},
-        'channel': "{{ $video.channel }}",
-        'description': {{ $video.description }},
-      },
-    {{- end -}}
+  {{ range where $.Site.Pages "Type" "video" }}
+    {
+      'name': "{{ .Title }}",
+      'slug': "{{ .Params.providers.youtube.id }}",
+      'tags': {{ .Parent.Params.tags }},
+      'channel': "{{ .Parent.Title }}",
+      'description': {{ .Description }},
+    },
   {{ end }}
 ])
 

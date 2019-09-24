@@ -1,0 +1,46 @@
+{{- define "main" -}}
+  {{- $channelSlug := (index (split .Page.RelPermalink "/") 1) -}}
+  <div class="heading-wrap" style="overflow: hidden">
+    <img src="/{{ $channelSlug }}/logo.jpg" class="channel-image heading-image" alt=" {{ .Title }}" />
+    <h1 class="heading"><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a></h1>
+    <div class="content">
+      <p>{{ .Description | markdownify }}</p>
+      {{ with .Params.description_more }}
+        <p>{{ . | markdownify }}</p>
+      {{ end }}
+    </div>
+  </div>
+  <div class="heading-meta">
+    <ul class="plain-list">
+      <li>
+        <a href="https://www.reddit.com/r/BreadTube/search?q=title:{{ .Title | lower }} OR flair:{{ .Title | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
+      </li>
+      <li>
+        <a href="https://github.com/breadtubetv/breadtubetv/edit/master/content/channels/{{ $channelSlug }}/index.md" target="_blank"><strong>edit</strong></a>
+      </li>
+      {{- range $provider, $data := .Params.providers -}}
+        <li>
+          <a href="{{ $data.url }}" target="_blank" title="{{ $data.slug }}">{{ or (i18n $provider) ($provider | humanize) }}</a>
+        </li>
+      {{- end -}}
+    </ul>
+
+    <div class="tags">
+      {{ range .Params.tags }}
+        {{ if not (eq . "breadtube") }}
+          <a href="/channels/#search:{{ . | lower }}" class="tag">{{ . }}</a>
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+
+  <ul class="list plain-list">
+    {{- range .Pages -}}
+    {{ partial "videos/card.html" (dict "video" .) }}
+    {{- end -}}
+  </ul>
+
+
+  <h2 id="update" class="heading">Update Channel</h2>
+  {{ partial "channels/edit.html" . }}
+{{- end -}}
