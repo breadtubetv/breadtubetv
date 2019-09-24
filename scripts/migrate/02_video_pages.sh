@@ -14,12 +14,10 @@ ls data/videos/ | while read channel; do
     description=$(echo `yq r $data description`);
     title=$(echo `yq r $data title`);
     series=$(echo `yq r $data series`);
-    publishDate=$(echo `yq r $data publishDate`);
+    publishdate=$(echo `yq r $data publishdate`);
     url="/$channel/$id/";
 
     yq w -i $page title -- "$title";
-    yq w -i $page type video;
-    yq d -i $page draft;
 
     if [ "$description" != "null" ]; then
       yq w -i $page description -- "$description";
@@ -30,7 +28,7 @@ ls data/videos/ | while read channel; do
     fi
 
     if [ "$publishDate" != "null" ]; then
-      yq w -i $page publishDate -- "$publishDate";
+      yq w -i $page publishdate -- "$publishdate";
     fi
 
     yq w -i $page url -- "/$channel/$id/";
