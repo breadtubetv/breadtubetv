@@ -1,0 +1,17 @@
+---
+title: Hands off Venezuela
+date: "2019-09-24T17:09:12+08:00"
+type: video
+description: 'On 23 January, 2019, Juan Guaidó declared himself President of Venezuela.
+  He was immediately recognized as such by the US. This is a coup, now backed not
+  just by the US, but by Canada and Europe. The US is attempting to destroy the Bolivarian
+  revolution and the gains made for the Venezuelan working class, in order to subject
+  Venezuela to merciless exploitation. Imperialist hands off Venezuela! Support our
+  work on Patreon: https://patreon.com/prolekult Follow us on Twitter: https://twitter.com/prolekultfilms
+  Like us on Facebook: https://facebook.com/prolekultfilms'
+publishdate: "2019-02-04T23:14:05.000Z"
+url: /prolekult/pGnAmHF2EVU/
+providers:
+  youtube:
+    id: pGnAmHF2EVU
+---

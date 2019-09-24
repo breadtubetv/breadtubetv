@@ -34,6 +34,8 @@ ls data/videos/ | while read channel; do
     yq w -i $page url -- "/$channel/$id/";
     yq w -i $page providers.youtube.id -- "$id";
 
+    yq d -i $page draft;
+
     echo -e "---\n$(cat $page)" > $page;
     sed -i -e 's/--- null/---/g' $page;
 
