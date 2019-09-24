@@ -10,3 +10,4 @@ ls content/channel/ | while read data; do
     mv static/img/channels/$slug.jpg content/channels/$slug/logo.jpg;
   fi
 done
+
