@@ -5,7 +5,6 @@ type: channel
 menu:
   main:
     parent: Channels
-videos: null
 tags:
 - breadtube
 url: /aphreditto/
@@ -15,5 +14,5 @@ providers:
     slug: UC4cBSjn3x4BimpTEP-104kA
     url: https://www.youtube.com/channel/UC4cBSjn3x4BimpTEP-104kA
     description: Fiat iustitia, pereat cultura
-    subscribers: 332
+    subscribers: 458
 ---
