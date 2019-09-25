@@ -1,17 +1,12 @@
 ---
-description: Anarchist Leftist channel with a creative and mystical flair!
+description: Anarchist Leftist channel with a creative and mystical flair! If you
+  like what I do and want to support me so I can make more, please consider becoming
+  a Patron! You can also come hang with me on twitter @speaksangie!
 title: Angie Speaks
 type: channel
 menu:
   main:
     parent: Channels
-videos:
-- 1qkU-evkvMo
-- N7aS1Aabboc
-- c4cB5UdcaHo
-- 3aaxbFIw8oU
-- CNRC76HV_rU
-- DJWFpocUvWc
 tags:
 - breadtube
 - anti-capitalism
@@ -42,5 +37,5 @@ providers:
     description: Anarchist Leftist channel with a creative and mystical flair! If
       you like what I do and want to support me so I can make more, please consider
       becoming a Patron! You can also come hang with me on twitter @speaksangie!
-    subscribers: 22704
+    subscribers: 27700
 ---
