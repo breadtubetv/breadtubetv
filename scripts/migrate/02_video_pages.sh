@@ -14,6 +14,7 @@ ls data/videos/ | while read channel; do
     description=$(echo `yq r $data description`);
     title=$(echo `yq r $data title`);
     series=$(echo `yq r $data series`);
+    publishdate=$(echo `yq r $data publishdate`);
     url="/$channel/$id/";
 
     yq w -i $page title -- "$title";
@@ -26,12 +27,20 @@ ls data/videos/ | while read channel; do
       yq w -i $page series -- "$series";
     fi
 
+    if [ "$publishDate" != "null" ]; then
+      yq w -i $page publishdate -- "$publishdate";
+    fi
+
     yq w -i $page url -- "/$channel/$id/";
     yq w -i $page providers.youtube.id -- "$id";
+
+    yq d -i $page draft;
 
     echo -e "---\n$(cat $page)" > $page;
     sed -i -e 's/--- null/---/g' $page;
 
     rm -rf $data;
   done
+
+  rm -rf data/videos/$channel/;
 done
