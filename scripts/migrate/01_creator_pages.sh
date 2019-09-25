@@ -2,15 +2,19 @@ ls data/channels/ | while read data; do
   yml="data/channels/${data}";
   slug=$(echo `yq r $yml slug`);
   oldpage="content/channel/${slug}.md";
+  folder="content/channels/${slug}/";
+  page="content/channels/${slug}/_index.md";
 
   echo $slug;
 
-  mkdir content/channels/$slug/;
+  if [ ! -d "$folder" ]; then
+    mkdir $folder;
+    hugo new --kind channel-bundle "channels/${slug}";
+  else
+    echo "${folder} exists;"
+  fi
+
   mv static/img/channels/$slug.jpg content/channels/$slug/logo.jpg;
-
-  page="content/channels/${slug}/_index.md";
-
-  hugo new --kind channel-bundle "channels/${slug}";
 
   ytname=$(echo `yq r $yml providers.youtube.name`);
   ytslug=$(echo `yq r $yml providers.youtube.slug`);
@@ -26,6 +30,7 @@ ls data/channels/ | while read data; do
   yq w -i $page providers.youtube.subscribers -- "$ytsubscribers";
 
   yq d -i $page draft;
+  yq d -i $page videos;
 
   echo -e "---\n$(cat $page)" > $page;
   sed -i -e 's/--- null/---/g' $page;
