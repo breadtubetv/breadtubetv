@@ -35,6 +35,5 @@ ls data/channels/ | while read data; do
   echo -e "---\n$(cat $page)" > $page;
   sed -i -e 's/--- null/---/g' $page;
 
-  rm $yml;
   rm $oldpage;
 done
