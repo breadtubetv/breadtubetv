@@ -35,8 +35,8 @@
   </div>
 
   <ul class="list plain-list">
-    {{- range .Pages.ByPublishDate.Reverse }}
-    {{ partial "videos/card.html" (dict "video" .) }}
+    {{- range where .Pages.ByPublishDate.Reverse "Type" "video" }}
+      {{ partial "videos/card.html" (dict "video" .) }}
     {{- end -}}
   </ul>
 

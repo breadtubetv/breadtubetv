@@ -20,8 +20,9 @@
   </div>
   <div class="field">
     <label class="field-label" for="videoUrl">Video URLs</label>
-    <textarea class="field-input is-textarea" class="form-control" id="videoUrl" rows="{{ if .Params.videos }}{{ (add (len .Params.videos) 5) }}{{ else }}6{{ end }}" cols="50" name="VIDEO_URLS">{{ range .Params.videos }}
-https://youtu.be/{{ . }}{{ end }}
+    {{ $videos := where .Pages.ByPublishDate.Reverse "Type" "video" }}
+    <textarea class="field-input is-textarea" class="form-control" id="videoUrl" rows="{{ if $videos }}{{ (add (len $videos) 5) }}{{ else }}6{{ end }}" cols="50" name="VIDEO_URLS">{{ range $videos }}
+https://youtu.be/{{ .Params.providers.youtube.id }}{{ end }}
 </textarea>
   </div>
   <div class="field">
