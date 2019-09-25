@@ -1,16 +1,12 @@
 ---
-description: Mortician in Los Angeles. nYou got death questions, we got death answers.
-  Mortality + Culture.
+description: Mortician in Los Angeles. You got death questions, we got death answers.
+  Mortality + Culture. www.orderofthegooddeath.com www.facebook.com/OrderoftheGoodDeath
+  twitter.com/TheGoodDeath
 title: Ask A Mortician
 type: channel
 menu:
   main:
     parent: Channels
-videos:
-- EG0PtwYJU0M
-- F4zRwIWagKs
-- 71Z677IXUak
-- O5xMpsYdzgg
 tags:
 - breadtube
 - culture
@@ -39,12 +35,8 @@ providers:
     name: Ask A Mortician
     slug: UCi5iiEyLwSLvlqnMi02u5gQ
     url: https://www.youtube.com/channel/UCi5iiEyLwSLvlqnMi02u5gQ
-    description: |-
-      Mortician in Los Angeles.
-      You got death questions, we got death answers.
-      Mortality + Culture.
-      www.orderofthegooddeath.com
-      www.facebook.com/OrderoftheGoodDeath
+    description: Mortician in Los Angeles. You got death questions, we got death answers.
+      Mortality + Culture. www.orderofthegooddeath.com www.facebook.com/OrderoftheGoodDeath
       twitter.com/TheGoodDeath
-    subscribers: 774292
+    subscribers: 849000
 ---
