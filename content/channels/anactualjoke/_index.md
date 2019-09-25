@@ -1,13 +1,13 @@
 ---
-description: Anarchist Trans Girl. She/Her. Making Video Essays and hot takes
+description: Anarchist Trans Girl. She/Her. Making Video Essays and hot takes.
 title: AnActualJoke
 type: channel
 menu:
   main:
     parent: Channels
-videos: null
 tags:
 - breadtube
+- anarchism
 url: /anactualjoke/
 providers:
   patreon:
@@ -33,5 +33,5 @@ providers:
     slug: UC-CDQ-MPUdBWcjB7SrD1HZA
     url: https://www.youtube.com/channel/UC-CDQ-MPUdBWcjB7SrD1HZA
     description: Anarchist Trans Girl. She/Her. Making Video Essays and hot takes.
-    subscribers: 9752
+    subscribers: 10800
 ---
