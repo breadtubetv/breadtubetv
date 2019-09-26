@@ -1,5 +1,5 @@
 ls data/videos/ | while read channel; do
-  mkdir -p content/channel/$channel/videos/;
+  mkdir -p content/channels/$channel/videos/;
 
   ls data/videos/$channel/ | while read video; do
     id=$(echo "$video" | sed 's/\.yml//g');
