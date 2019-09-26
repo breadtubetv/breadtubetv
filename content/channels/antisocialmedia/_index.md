@@ -1,16 +1,13 @@
 ---
-description: I make stupid videos about stupid people.
+description: 'I make stupid podcasts about stupid people. Stream or download via SPREAKER:
+  https://www.spreaker.com/user/antisocialmedia iTUNES: https://itunes.apple.com/us/podcast/anti-social-media-podcast/id1076431995?mt=2
+  Latest episodes only via SOUNDCLOUD: https://soundcloud.com/antisocial_media Also
+  mixcloud, stitcher, podbean, and various other places.'
 title: Anti-Social Media
 type: channel
 menu:
   main:
     parent: Channels
-videos:
-- MCCyoo0LG40
-- d0aZy047vBQ
-- bj4AfQaTQCQ
-- w9zLGFx5Sqg
-- 5u_aBTYF9f0
 tags:
 - breadtube
 url: /antisocialmedia/
@@ -49,17 +46,9 @@ providers:
     name: Anti-Social Media
     slug: UC2KAZE9bOba6qDxxCMMgzvw
     url: https://www.youtube.com/channel/UC2KAZE9bOba6qDxxCMMgzvw
-    description: |-
-      I make stupid videos about stupid people.
-
-      ========================================
-
-      I also have a podcast;
-
-      Stream or download via SPREAKER: https://www.spreaker.com/user/antisocialmedia
-
-      iTUNES: https://itunes.apple.com/us/podcast/anti-social-media-podcast/id1076431995?mt=2
-
+    description: 'I make stupid podcasts about stupid people. Stream or download via
+      SPREAKER: https://www.spreaker.com/user/antisocialmedia iTUNES: https://itunes.apple.com/us/podcast/anti-social-media-podcast/id1076431995?mt=2
       Latest episodes only via SOUNDCLOUD: https://soundcloud.com/antisocial_media
-    subscribers: 3550
+      Also mixcloud, stitcher, podbean, and various other places.'
+    subscribers: 3540
 ---
