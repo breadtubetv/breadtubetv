@@ -1,6 +1,7 @@
 ---
 title: Jeff Epstein, Capitalism and The Apotheosis of Conspiracy Theories
-date: "2019-09-15T10:31:26+08:00"
+date: "2019-09-25T20:17:15+08:00"
+type: video
 description: 'We''ll be taking a philosophical analysis on Qanon to try to understand
   how conspiratorial thinking and right wing ideologies can lead to violence. Links:
   https://www.cato.org/blog/gao-weighs-countering-violent-extremism https://www.adl.org/media/12480/download
@@ -11,9 +12,9 @@ description: 'We''ll be taking a philosophical analysis on Qanon to try to under
   https://www.thedailybeast.com/armed-militias-pledge-to-fight-for-fugitive-oregon-gop-lawmakers-at-any-cost
   https://www.gao.gov/assets/690/683984.pdf Peter Coffin - Custom Reality and You
   Deradicalization resources: https://www.lifeafterhate.org/ http://moonshotcve.com/vision/'
+publishdate: "2019-08-03T18:18:50.000Z"
 url: /bigbreadbrainz/EonmLFFic5E/
 providers:
   youtube:
     id: EonmLFFic5E
-type: video
 ---
