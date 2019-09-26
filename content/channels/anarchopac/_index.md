@@ -1,17 +1,21 @@
 ---
-description: I'm a disabled pan-sexual trans woman who talks about anarchism, feminism
-  and marxism.
+description: I'm a disabled pan-sexual trans woman who talks about anarchism, feminism and marxism. For recommended reading see my blog. My profile picture was made for me by bad mouse based on a drawing by the anarchist artist Clifford Harper.
 title: anarchopac
 type: channel
 menu:
   main:
     parent: Channels
-videos: null
 tags:
 - breadtube
+- anarchism
+- anti-capitalism
 - feminism
+- marxism
 url: /anarchopac/
 providers:
+  blog:
+    name: anarchopac
+    url: https://anarchopac.wordpress.com/
   patreon:
     name: anarchopac
     slug: ""
@@ -22,8 +26,9 @@ providers:
     name: anarchopac
     slug: anarchopac
     url: https://www.youtube.com/user/anarchopac
-    description: |-
-      I'm a disabled pan-sexual trans woman who talks about anarchism, feminism and marxism.
-      For recommended reading on anarchism, feminism and marxism see my blog - https://anarchopac.wordpress.com/
-    subscribers: 20480
+    description: I'm a disabled pan-sexual trans woman who talks about anarchism,
+      feminism and marxism. For recommended reading see my blog - https://anarchopac.wordpress.com/
+      My profile picture was made for me by bad mouse based on a drawing by the anarchist
+      artist Clifford Harper.
+    subscribers: 24300
 ---
