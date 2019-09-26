@@ -1,0 +1,14 @@
+---
+title: 'Economic Update: We Can Do Better Than Capitalism (2016.12.29)'
+date: "2019-09-26T02:45:05+08:00"
+type: video
+description: Updates on mistreated homeless, keeping millions from voting, 'I, Daniel
+  Blake,' 3000 water systems like Flint, Trump's foreign employees, unequal retirement
+  USA, Sen Whitehouse on anti-science. Major discussions of (1) economics of broken
+  infrastructure, and (2) raising capital for worker coops.
+publishdate: "2016-12-29T20:17:05.000Z"
+url: /democracynow/ovn_N4MExBg/
+providers:
+  youtube:
+    id: ovn_N4MExBg
+---

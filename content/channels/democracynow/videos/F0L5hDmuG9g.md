@@ -1,0 +1,33 @@
+---
+title: 'WIN Short: Iowa Cartoonist Fired for Speaking the Truth'
+date: "2019-09-26T02:43:51+08:00"
+type: video
+description: 'This special feature is produced by Democracy at Work for Workers Independent
+  News (laborradio.org). This is Richard Wolff for Democracy at Work. I want to tell
+  a story that is about America today but it is not about workers and factories or
+  offices or stores. It’s about farmers and they are workers too and there news is
+  important for us and never more than at this moment. I want to tell a story about
+  Rick Friday. He is a cartoonist; he makes cartoons for the Farm News, a news services
+  that goes to many, many farmers in the state of Iowa, very famous there. He has
+  been a cartoonist for that services, for that news paper, for 21 years. He started
+  in 1995, he is very well liked very well admired, very much a fixture for Iowa farmers.
+  Well on the 29th of Aprils the paper published a cartoon that he had made. And I
+  am going to tell you what the cartoon said and then tell you what happened to Mr.
+  Friday. But, maybe to wet your appetite I’ll tell you what happened to Mr. Friday,
+  he got fired. Here was his cartoon, it showed two farmers in overalls wearing baseball
+  caps chatting at a fence. The first one said, “I wish there was more profit in farming”.
+  The second one replies, “There is in the year 2015 the CEOs of Monsanto, Dupont
+  Pioneer and John Deer Tractor combined to make more money than 2129 Iowa farmers.”
+  Somebody complained to the management and the next day Rick Friday was fired after
+  21 years. It seems that in Iowa as in so much of the United States, if you say the
+  truth, if you say what everybody who is paying attention knows is the truth, you
+  have violated some unspoken rule that we are supposed to pretend an economy and
+  society falling apart, because of the gap between the rich and poor, is actually
+  not doing anything of the sort. Learn more: www.democracyatwork.info --- Spanish
+  subtitles by: Jorge Diaz (Covina, CA).'
+publishdate: "2016-05-26T21:12:24.000Z"
+url: /democracynow/F0L5hDmuG9g/
+providers:
+  youtube:
+    id: F0L5hDmuG9g
+---

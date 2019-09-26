@@ -1,0 +1,23 @@
+---
+title: 'AskProfWolff: Trump''s Tariffs on China'
+date: "2019-09-26T02:44:19+08:00"
+type: video
+description: 'Help us reach 100,000 subscribers and gain access to more studio time!
+  Please hit the red SUBSCRIBE button above. ^^^ Submit your own question for Prof.
+  Wolff on Patreon: https://www.patreon.com/economicupdate We are committed to providing
+  these videos to you free of ads. Please consider supporting us on Patreon.com. Become
+  a part of the growing Patreon community and gain access to exclusive patron-only
+  content, along the ability to ask Prof. Wolff questions like this one! A patron
+  of Economic Update asks: "Thom Hartman said on his show that the tariffs against
+  China could be good for working people in the U.S. and this might help Trump get
+  re-elected, is this true?" Follow Wolff ONLINE: Web: http://www.rdwolff.com Patreon:
+  https://www.patreon.com/economicupdate Twitter: http://twitter.com/profwolff Facebook:
+  http://www.facebook.com/EconomicUpdate http://www.facebook.com/RichardDWolff http://www.facebook.com/DemocracyatWrk
+  Subscribe to the EU podcast: http://economicupdate.libsyn.com Shop for EU merchandise:
+  http://bit.ly/2JkxIfy Prof. Wolff''s latest book "Understanding Marxism" http://bit.ly/2BH0lkL'
+publishdate: "2019-06-07T13:52:23.000Z"
+url: /democracynow/SCjujOYaap8/
+providers:
+  youtube:
+    id: SCjujOYaap8
+---

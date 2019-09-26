@@ -1,0 +1,17 @@
+---
+title: 'Economic Update: Another Gilded Age [CLIP]'
+date: "2019-09-26T02:43:41+08:00"
+type: video
+description: 'MAY 2018 ONLY! Celebrate Marx200 by getting your Super Marx apparel
+  at the d@w store: http://democracyatwork.info/store Updates on Theranos bankruptcy
+  and workers'' risks, our second "gilded age," mortgage lenders turn to rich borrowers,
+  Trump on drug prices is just rhetoric, economic effects of breaking Iran treaty.
+  Interview with Prof Miguel Robles-Duran on gentrification and crisis of cities.
+  Watch the entire episode as a supporter on Patreon: https://www.patreon.com/economicupdate
+  or listen to the audio for free on our website: https://www.democracyatwork.info/eu_another_gilded_age'
+publishdate: "2018-05-23T11:45:01.000Z"
+url: /democracynow/AOqKXJx_tGA/
+providers:
+  youtube:
+    id: AOqKXJx_tGA
+---

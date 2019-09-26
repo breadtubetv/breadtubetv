@@ -1,0 +1,22 @@
+---
+title: 'Economic Update: Economic Failures and the Blame Game'
+date: "2019-09-26T02:44:53+08:00"
+type: video
+description: 'Support the show! Become an EU patron on Patreon: https://www.patreon.com/economicupdate
+  --- THIS WEEK''S TOPICS: xx:xx - Announcements; xx:xx - big banks fix rates xx:xx
+  - IRS checks on churches xx:xx - CEOs'' pay rises fastest to worsen US inequality
+  xx:xx - MAIN TOPIC: blaming the poor for poverty and over-crediting the super rich
+  xx:xx - how superrich oil countries and companies control modern economies xx:xx
+  - how Trump''s attacks on Germany are more "fake news" --- Learn more: http://www.democracyatwork.info/economicupdate
+  LIKE Economic Update on Facebook: http://www.facebook.com/EconomicUpdate LIKE Democracy
+  at Work on Facebook: http://www.facebook.com/democracyatwrk Follow Democracy at
+  Work on Twitter (@democracyatwrk): www.twitter.com/democracyatwrk Richard D. Wolff''s
+  website: http://www.rdwolff.com LIKE Richard D. Wolff on Facebook: http://www.facebook.com/RichardDWolff
+  Follow Prof. Wolff on Twitter (@@profwolff): www.twitter.com/profwolff Support d@w
+  by clicking this link before shopping on Amazon: http://amzn.to/2sXtHVa'
+publishdate: "2017-06-04T17:17:45.000Z"
+url: /democracynow/hrscNeTG1K4/
+providers:
+  youtube:
+    id: hrscNeTG1K4
+---

@@ -1,0 +1,23 @@
+---
+title: 'Economic Update: The Economy, 2017 — 2018'
+date: "2019-09-26T02:44:29+08:00"
+type: video
+description: 'This show is available at no cost to public access and non-profit community
+  stations! Contact your local channels and let them know you would like them to add
+  Economic Update to their programming. Let us know if you''ve reached out: info(a)democracyatwork.info
+  Support the show! Become an EU patron on Patreon: https://www.patreon.com/economicupdate
+  S7 E01: The Economy, 2017-2018 THIS WEEK''S TOPICS (w/timestamps): 01:36 - Updates
+  on net neutrality; 06:57 - workplace sexual harassment; 14:45 - bitcoin; 21:43 -
+  announcements; 22:35 - worsening global inequality; 24:31 - Europe''s recovery and
+  instability; 26:26 - using prison labor to fight fires; 29:29 - SPECIAL TOPIC: Major
+  discussions of consumerism, gathering revolt against capitalism, and the economics
+  of alternative populisms. Learn more: http://www.democracyatwork.info/economicupdate
+  LIKE Economic Update on Facebook: http://www.facebook.com/EconomicUpdate Richard
+  D. Wolff''s website: http://www.rdwolff.com LIKE Richard D. Wolff on Facebook: http://www.facebook.com/RichardDWolff
+  Follow Richard D. Wolff on Twitter: http://twitter.com/profwolff'
+publishdate: "2018-01-07T18:36:27.000Z"
+url: /democracynow/WKAPT7NTGlg/
+providers:
+  youtube:
+    id: WKAPT7NTGlg
+---

@@ -1,0 +1,35 @@
+---
+title: 'WIN Short: Budweiser - The Un-American Beer'
+date: "2019-09-26T02:43:24+08:00"
+type: video
+description: This is special feature is produced by Democracy at Work for Workers
+  Independent News. This is Richard Wolff for Democracy at Work. I want to talk today
+  about an example of jobs lost, business loss, economic changes made by a tiny number
+  of people that affect everybody else. It will be a story a little bit different
+  from what we usually do. This is all about Budweiser beer, but actually let me be
+  self-correcting here; it used to be called Budweiser beer. But, a few years ago
+  Budweiser Corporation, based in St. Louis, decided it was more profitable for the
+  few people who owned it and for the people who managed it, to sell out, and they
+  sold to a Belgium company. Inbev, is the name of the company, based in Brussels,
+  Belgium who now own the Budweiser brand. It is a Belgium beer not an American beer.
+  But, in order to, how should we say this politely, persuade the American people
+  to keep drinking this beer, which isn’t American anymore, were all the decisions
+  are made in Belgium. What to produce, how to produce, the recipe, everything about
+  it. In order to fool, excuse me, persuade Americans the name of the beer is going
+  to be changed from May 23rd 2016 through the November election the beer will no
+  longer say Budweiser on the can it will, “America”, I kid you not. Instead of the
+  slogan ‘king of beers’ on the can will be “E Pluribus Unum,” the same phrase that
+  appears on our currency. And instead of recipe for making the beer we are going
+  to have, are you ready, the star spangled banners lyrics printed on the can. Trying
+  to make it as American as possible so that American drinkers will continue to drink
+  an American beer, who’s only detail of interest is that it is not American anymore.
+  If this sounds like a hustle, you’ve got it right. The decisions are made by a tiny
+  number of people. They don’t have any loyalty to America, that’s why they sold it.
+  They are not busy with it anymore. Our job is keep paying for it and drinking it.
+  It’s something to think about.
+publishdate: "2016-05-14T19:15:45.000Z"
+url: /democracynow/-iN-1UiAMfo/
+providers:
+  youtube:
+    id: -iN-1UiAMfo
+---

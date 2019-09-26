@@ -1,0 +1,17 @@
+---
+title: 'EconoMinute: Price Gouging'
+date: "2019-09-26T02:44:34+08:00"
+type: video
+description: 'Help us reach 50,000 subscribers! SUBSCRIBE to our channel and suggest
+  our channel to friends. Prof. Richard Wolff talks about price gouging in Texas and
+  Louisiana in the wake of Hurricane Harvey. Learn more: http://www.democracyatwork.info
+  LIKE us on Facebook: http://www.facebook.com/democracyatwrk Follow us on Twitter:
+  www.twitter.com/democracyatwrk Richard D. Wolff''s website: http://www.rdwolff.com
+  LIKE Richard D. Wolff on Facebook: http://www.facebook.com/RichardDWolff Follow
+  Prof. Wolff on Twitter: http://www.twitter.com/profwolff'
+publishdate: "2017-08-29T18:43:30.000Z"
+url: /democracynow/ZtZNw360x6c/
+providers:
+  youtube:
+    id: ZtZNw360x6c
+---

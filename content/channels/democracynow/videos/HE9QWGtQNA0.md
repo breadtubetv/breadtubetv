@@ -1,0 +1,24 @@
+---
+title: 'PRF Review: A Joke That''s True'
+date: "2019-09-26T02:43:56+08:00"
+type: video
+description: 'President Trump jokes about the possibility of trading Puerto Rico for
+  Greenland. If this shocks you, host Andrew Mercado-Vázquez wants you to know that
+  the US Government has already looked at the option, or at least has acknowledged
+  the option, of ceding Puerto Rico to another nation state in a 2005 Presidential
+  Task Force Report. That''s part of the reality of Puerto Rico''s colonial condition.
+  "When President Trump apparently jokes about the possibility of trading Puerto Rico
+  for Greenland, it''s a real possibility. That really is a possibility and that is
+  the insanity that is fostered by a colonial condition... We really need to inform
+  the general population of the US about what the colonial condition allows, the injustices
+  that are fostered under such a a colonial condition. The ignorance of the US voting
+  population is one of the main contributors to sustaining Puerto Rico''s colonial
+  situation." - Andrew Mercado-Vázquez PRF Episode 5: The Closest There Is To Limitless
+  Power https://www.democracyatwork.info/prforward_limitlesspower Support PRF Reviews
+  on Patreon: https://patreon.com/puertoricoforward Email Andrew: puertoricoforward@gmail.com'
+publishdate: "2019-08-27T12:02:02.000Z"
+url: /democracynow/HE9QWGtQNA0/
+providers:
+  youtube:
+    id: HE9QWGtQNA0
+---

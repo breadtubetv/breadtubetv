@@ -1,0 +1,33 @@
+---
+title: 'WIN Short: VW And Mitsubishi – Profit Over Public Health'
+date: "2019-09-26T02:43:32+08:00"
+type: video
+description: 'This special feature is produced by Democracy at Work for Worker Independent
+  News (WIN). This is Richard Wolff for Democracy at Work. Well the last few days
+  have been full of reports about two global car companies, VW out of Germany and
+  Mitsubishi out of Japan. These are among the handful of companies dominating the
+  world automobile production process. And both of these companies have been in the
+  news for the same reason. They got caught, cheating on emission tests. Deliberately
+  installing on their machines devices that would fool testers into thinking they
+  weren’t emitting into the air the terrible disease causing particulates, they’re
+  called, that come out of the exhaust pipe of your car or your truck or your bus.
+  Let''s review quickly, VW it was caught months ago. And the headlines of the last
+  week were about the fact that it is looking to pay $5000 to each person who bought
+  such a defective car and maybe pay for the repairs if the owners want them and so
+  on. They are hoping to pay billions in this way to put this terrible publicity for
+  them, being caught as liars, cheaters, polluters, driven by profit, to really hurt
+  the whole world they live in. Mitsubishi, well they haven’t been in the news before
+  but now they are. They got caught. Doing what? Doing the same thing and they produces
+  a million cars last year. Yup, they put in software that fools the testing equipment
+  so it is not revealed they are pumping dangerous materials into the air we all breathe.
+  Common folks, join with me in recognizing that just as we saw in recent years that
+  the big banks violated the public trust, took us to the cleaners to make money,
+  that is what the car companies are doing. Leaving important industries in the hands
+  of private capitalist like this is damaging for our health. Profit trumps decent
+  behavior and what’s good for the public. DONATE: democracyatwork.info/donate'
+publishdate: "2016-04-23T22:55:09.000Z"
+url: /democracynow/4lXDjDsR-Pw/
+providers:
+  youtube:
+    id: 4lXDjDsR-Pw
+---

@@ -1,25 +1,28 @@
 ---
-description: Democracy Now! is an independent, global weekday news hour anchored by
-  award-winning journalists Amy Goodman and Juan González.
+description: 'We are a non-profit 501c3 that advocates for worker cooperatives and
+  democratic workplaces as a key path to a stronger, democratic economic system. Based
+  on the book "Democracy at Work: A Cure for Capitalism" by Richard D. Wolff, we envision
+  a future where workers at every level of their offices, stores, and factories have
+  equal voices in the direction of their enterprise and its impact within their community
+  and society at large. Learn more: http://www.democracyatwork.info'
 title: Democracy Now
 type: channel
 tags:
 - news
 url: /democracynow/
-videos:
-- qipuoA9QJeQ
-- qZTAq7R9kXg
 menu:
   main:
     parent: Channels
 providers:
   youtube:
-    name: Democracy Now!
-    slug: democracynow
-    url: https://www.youtube.com/democracynow
-    description: Democracy Now! is an independent, global weekday news hour anchored
-      by award-winning journalists Amy Goodman and Juan González. The show is broadcast
-      on nearly 1,400 TV, radio and Internet stations. Stream the show live Monday
-      through Friday at 8AM ET at http://www.democracynow.org.
-    subscribers: 544746
+    name: Democracy At Work
+    slug: democracyatwrk
+    url: https://www.youtube.com/democracyatwrk
+    description: 'We are a non-profit 501c3 that advocates for worker cooperatives
+      and democratic workplaces as a key path to a stronger, democratic economic system.
+      Based on the book "Democracy at Work: A Cure for Capitalism" by Richard D. Wolff,
+      we envision a future where workers at every level of their offices, stores,
+      and factories have equal voices in the direction of their enterprise and its
+      impact within their community and society at large. Learn more: http://www.democracyatwork.info'
+    subscribers: 132000
 ---

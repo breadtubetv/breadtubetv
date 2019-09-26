@@ -1,0 +1,25 @@
+---
+title: 'Economic Update: Capitalism Breeds Inequality'
+date: "2019-09-26T02:44:03+08:00"
+type: video
+description: 'This show is available at no cost to public access and non-profit community
+  stations! Contact your local channels and let them know you would like them to add
+  Economic Update to their programming. Let us know if you''ve reached out: info(a)democracyatwork.info
+  Support the show! Become an EU patron on Patreon: https://www.patreon.com/economicupdate
+  Economic Update: Capitalism Breeds Inequality [S7 E11] THIS WEEK''S TOPICS (w/timestamps):
+  00:59 - Updates on how globalization has worsened inequality from 1980-2016; 10:55
+  - the YMCA workers strike; 14:24 - Quebec doctors reject pay increases 11:21 - UK
+  universities and Oklahoma schools; 18:17 - the UK living standards crash from 2005
+  to 2015; 19:59 - announcements; 21:53 - the warning the U.S. gave Africa about China;
+  24:06 - and the huge Japanese coop movement. 28:40 - SPECIAL GUEST: Interview with
+  Tim Faust on medical care and the insurance industry in the U.S. today. To watch
+  the second half, please visit us at patreon.com/economicupdate. Learn more: http://www.democracyatwork.info/economicupdate
+  LIKE Economic Update on Facebook: http://www.facebook.com/EconomicUpdate Richard
+  D. Wolff''s website: http://www.rdwolff.com LIKE Richard D. Wolff on Facebook: http://www.facebook.com/RichardDWolff
+  Follow Richard D. Wolff on Twitter: http://twitter.com/profwolff'
+publishdate: "2018-03-18T17:41:28.000Z"
+url: /democracynow/KrPHl1s9MNw/
+providers:
+  youtube:
+    id: KrPHl1s9MNw
+---

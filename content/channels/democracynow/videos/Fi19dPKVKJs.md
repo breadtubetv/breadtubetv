@@ -1,0 +1,25 @@
+---
+title: 'Economic Update: Revolt Against Sexual Abuse'
+date: "2019-09-26T02:43:53+08:00"
+type: video
+description: 'This show is available at no cost to public access and non-profit community
+  stations! Contact your local channels and let them know you would like them to add
+  Economic Update to their programming. Let us know if you''ve reached out: info(a)democracyatwork.info
+  Support the show! Become an EU patron on Patreon: https://www.patreon.com/economicupdate
+  Revolt Against Sexual Abuse: S6 E50 THIS WEEK''S TOPICS (w/timestamps): 00:56 -
+  Judson announcement; 02:03 - the international response to Trump’s tax plan; 06:26
+  - the impact of the GOP tax plan on U.S. graduate students; 10:21 - foreclosure
+  stats and the recovery myth; 13:53 - announcements; 15:11 - the successful business
+  model of the Valve corporation; 19:14 - the snubbing of the 2017 Nobel Peace Prize;
+  23:53 - the worker-unfriendly-ness of Starbucks. 28:30 - SPECIAL GUEST: interview
+  with Dr. Harriet Fraad, as she and Prof. Wolff discuss the revolt against sexual
+  abuse in the U.S. Learn more: http://www.democracyatwork.info/economicupdate LIKE
+  Economic Update on Facebook: http://www.facebook.com/EconomicUpdate Richard D. Wolff''s
+  website: http://www.rdwolff.com LIKE Richard D. Wolff on Facebook: http://www.facebook.com/RichardDWolff
+  Follow Richard D. Wolff on Twitter: http://twitter.com/profwolff'
+publishdate: "2017-12-10T16:40:55.000Z"
+url: /democracynow/Fi19dPKVKJs/
+providers:
+  youtube:
+    id: Fi19dPKVKJs
+---
