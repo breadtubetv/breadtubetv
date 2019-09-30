@@ -38,9 +38,5 @@ ls data/videos/ | while read channel; do
 
     echo -e "---\n$(cat $page)" > $page;
     sed -i -e 's/--- null/---/g' $page;
-
-    rm -rf $data;
   done
-
-  rm -rf data/videos/$channel/;
 done

@@ -1,7 +1,6 @@
 ls data/channels/ | while read data; do
   yml="data/channels/${data}";
   slug=$(echo `yq r $yml slug`);
-  oldpage="content/channel/${slug}.md";
   folder="content/channels/${slug}/";
   page="content/channels/${slug}/_index.md";
 
@@ -34,7 +33,4 @@ ls data/channels/ | while read data; do
 
   echo -e "---\n$(cat $page)" > $page;
   sed -i -e 's/--- null/---/g' $page;
-
-  rm $yml;
-  rm $oldpage;
 done
