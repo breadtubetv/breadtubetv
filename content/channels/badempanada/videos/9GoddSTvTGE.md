@@ -1,6 +1,6 @@
 ---
 title: Australian Election & Politics Primer 2019
-date: "2019-09-29T12:43:00+08:00"
+date: "2019-10-01T21:55:00+08:00"
 type: video
 description: 'An introduction to what''s going on with the election in the land down
   under, where women are racist and men are also racist. Patreon: https://patreon.com/BadEmpanada

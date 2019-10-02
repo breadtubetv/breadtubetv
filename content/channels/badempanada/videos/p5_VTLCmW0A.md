@@ -1,6 +1,6 @@
 ---
 title: 'Venezuela: The True Face of the Opposition'
-date: "2019-09-29T12:43:03+08:00"
+date: "2019-10-01T21:55:04+08:00"
 type: video
 description: 'Do the Venezuelan opposition live up to the image that they and the
   media project? Let''s find out. Twitter: https://twitter.com/BadEmpanada Patreon:

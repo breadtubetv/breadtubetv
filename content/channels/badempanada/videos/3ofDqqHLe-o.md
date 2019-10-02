@@ -1,6 +1,6 @@
 ---
 title: Why Pinochet Apologists Are Wrong
-date: "2019-09-29T12:43:00+08:00"
+date: "2019-10-01T21:54:59+08:00"
 type: video
 description: 'Pinochet Did Nothing Right, And Here''s Why Twitter: https://twitter.com/BadEmpanada
   Patreon: https://patreon.com/BadEmpanada One-time donations: https://ko-fi.com/badempanada

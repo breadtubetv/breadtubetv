@@ -1,6 +1,6 @@
 ---
 title: Refugees, Asylum Seekers & Laws | BadEmpanada
-date: "2019-09-29T12:43:03+08:00"
+date: "2019-10-01T21:55:04+08:00"
 type: video
 description: 'Debunking common myths and misconceptions about the legal rights of
   refugees Patreon: http://patreon.com/BadEmpanada Twitter: http://twitter.com/BadEmpanada

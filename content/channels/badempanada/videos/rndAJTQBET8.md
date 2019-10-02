@@ -1,6 +1,6 @@
 ---
 title: What is Peronism? | BadEmpanada
-date: "2019-09-29T12:43:03+08:00"
+date: "2019-10-01T21:55:05+08:00"
 type: video
 description: 'I guess you could say that Argentina is a land of contrasts. Patreon:
   https://patreon.com/BadEmpanada Twitter: https://twitter.com/BadEmpanada Tip Jar:

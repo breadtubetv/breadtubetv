@@ -1,6 +1,6 @@
 ---
 title: Christchurch Attack - They Did This
-date: "2019-09-29T12:43:01+08:00"
+date: "2019-10-01T21:55:02+08:00"
 type: video
 description: 'I needed to say my piece on this. Twitter: https://twitter.com/BadEmpanada
   Patreon: https://patreon.com/BadEmpanada One-time donations: https://ko-fi.com/badempanada

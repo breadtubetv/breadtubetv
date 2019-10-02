@@ -1,6 +1,6 @@
 ---
 title: BadEmpanada Channel Intro
-date: "2019-09-29T12:43:01+08:00"
+date: "2019-10-01T21:55:01+08:00"
 type: video
 description: 'A short intro that gives you the jist of this channel - Subscribe! Support
   me on Patreon: http://patreon.com/BadEmpanada Follow me on Twitter: http://twitter.com/BadEmpanada
