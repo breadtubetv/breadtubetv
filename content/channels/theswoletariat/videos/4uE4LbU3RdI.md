@@ -1,0 +1,20 @@
+---
+title: 'Left" Blind-spots | Bad Takes #'
+date: "2019-10-02T20:35:40+08:00"
+type: video
+description: 'I''m as confused as you are as to why the aspect ratio/size is all wrong.
+  Premiere Elements wouldn''t let me change it. Become a Patron! https://www.patreon.com/the_swoletariat
+  Sources: https://socialistproject.ca/podcast/race-class-and-the-left-adolph-reed-jr/
+  https://www.youtube.com/watch?v=-BYREt2r_uQ&t=1810s Roxane Gay & Christina Hoff
+  Sommers Feminist | OFFICIAL FULL RELEASE | This Is 42 https://www.youtube.com/watch?v=afuFaLoAhGs&list=PLIuVy5356xnj5ViuM89lZ_YkSmjUE4axZ
+  Unheard Voices of West Asia and North Africa | BadMouseProductions https://www.youtube.com/watch?v=U9LvHaT46yg
+  Dissecting The ‘IDW’ w/Michael Brooks of TMBS & Majority Report | The Rational National
+  https://www.youtube.com/watch?v=fnttb84q2rE Identitarian Neoliberalism | Alienated
+  TV https://www.youtube.com/watch?v=rF_fKtZn4iA&t=471s "We live in exciting times!"
+  Nancy Fraser on The Left and Bernie Sanders | theory pleeb'
+publishdate: "2019-07-23T04:28:48.000Z"
+url: /theswoletariat/4uE4LbU3RdI/
+providers:
+  youtube:
+    id: 4uE4LbU3RdI
+---
