@@ -1,6 +1,6 @@
 ---
 title: BadEmpanada 1000 Subscriber Q&A!
-date: "2019-09-29T12:43:00+08:00"
+date: "2019-10-01T21:55:00+08:00"
 type: video
 description: 'we did it! thanks for your support, all https://patreon.com/BadEmpanada
   https://twitter.com/BadEmpanada https://curiouscat.me/BadEmpanada one-time donations:

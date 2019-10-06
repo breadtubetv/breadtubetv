@@ -1,6 +1,6 @@
 ---
 title: 'Venezuela: Race, Class, English, and the Opposition'
-date: "2019-09-29T12:43:00+08:00"
+date: "2019-10-01T21:55:00+08:00"
 type: video
 description: 'English language ability in Venezuela & its links to class, race, and
   support for the right-wing. Twitter: https://twitter.com/BadEmpanada Patreon: https://patreon.com/BadEmpanada

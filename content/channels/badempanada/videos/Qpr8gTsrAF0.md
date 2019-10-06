@@ -1,6 +1,6 @@
 ---
 title: Gentrification
-date: "2019-09-29T12:43:01+08:00"
+date: "2019-10-01T21:55:02+08:00"
 type: video
 description: 'no utilitarian urbanism here - only feels Patreon: https://patreon.com/BadEmpanada
   Twitter: https://twitter.com/BadEmpanada Tip Jar: https://ko-fi.com/BadEmpanada

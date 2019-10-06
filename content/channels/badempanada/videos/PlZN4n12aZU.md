@@ -1,6 +1,6 @@
 ---
 title: Bolsonaro and Latin American Fascism
-date: "2019-09-29T12:43:01+08:00"
+date: "2019-10-01T21:55:02+08:00"
 type: video
 description: 'Is Bolsonaro the Brazilian Trump? Let''s find out. Twitter: https://twitter.com/BadEmpanada
   Patreon: https://patreon.com/BadEmpanada One-time donations: https://ko-fi.com/badempanada

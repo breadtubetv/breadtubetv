@@ -1,6 +1,6 @@
 ---
 title: Who Did Che Guevara Murder? | BadEmpanada
-date: "2019-09-29T12:43:02+08:00"
+date: "2019-10-01T21:55:04+08:00"
 type: video
 description: 'Che Guevara stands accused of many crimes. Let''s see how the evidence
   holds up. Patreon: http://patreon.com/BadEmpanada Twitter: http://twitter.com/BadEmpanada

@@ -1,6 +1,6 @@
 ---
 title: Australian Unions Suck, and Here's Why
-date: "2019-09-29T12:43:00+08:00"
+date: "2019-10-01T21:54:59+08:00"
 type: video
 description: 'How neoliberalism hijacked organised labour Twitter: https://twitter.com/BadEmpanada
   Patreon: https://patreon.com/BadEmpanada Tip Jar: http://ko-fi.com/BadEmpanada Curious

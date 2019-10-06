@@ -1,6 +1,6 @@
 ---
 title: 'Nationalism: Good? Bad? It''s Complicated | BadEmpanada'
-date: "2019-09-29T12:42:59+08:00"
+date: "2019-10-01T21:54:58+08:00"
 type: video
 description: 'Nationalism may be more than what you think it is! Support me on Patreon:
   https://patreon.com/BadEmpanada Follow me on Twitter: https://twitter.com/BadEmpanada
