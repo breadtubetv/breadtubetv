@@ -1,6 +1,7 @@
 ---
 title: The Apocalypse | ContraPoints
-date: "2019-09-15T10:31:37+08:00"
+date: "2019-10-06T12:45:12+08:00"
+type: video
 description: 'Is it hot in here or is the world just like this now? ✿Patreon: https://www.patreon.com/contrapoints
   ✿Donate: https://paypal.me/contrapoints ✿Merch: https://www.teepublic.com/stores/contrapoints?ref_id=5379&ref_type=aff
   ✿Subscribe: https://www.youtube.com/c/ContraPoints ✿Live Stream Channel: https://www.youtube.com/c/ContraPointsLive
@@ -42,9 +43,9 @@ description: 'Is it hot in here or is the world just like this now? ✿Patreon: 
   America—Still Racist: https://youtu.be/GWwiUIVpmNY Autogynephilia: https://youtu.be/6czRFLs5JQo
   Violence: https://youtu.be/lmsoVFCUN3Q Degeneracy: https://youtu.be/9BlNGZunYM8
   The Left: https://youtu.be/QuN6GfUix7c Decrypting the Alt-Right: https://youtu.be/Sx4BVGPkdzk'
+publishdate: "2018-12-01T21:34:07.000Z"
 url: /contrapoints/S6GodWn4XMM/
 providers:
   youtube:
     id: S6GodWn4XMM
-type: video
 ---

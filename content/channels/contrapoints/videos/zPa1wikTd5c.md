@@ -1,6 +1,7 @@
 ---
 title: Debating the Alt-Right
-date: "2019-09-15T10:31:44+08:00"
+date: "2019-10-06T12:45:18+08:00"
+type: video
 description: 'DEAR YOUTUBE MODERATOR: My channel has recently been the target of a
   spurious flagging campaign. Please take an extra moment to review this video! ❤
   An open and honest discussion. ✿Patreon: https://www.patreon.com/contrapoints ✿Donate:
@@ -15,9 +16,9 @@ description: 'DEAR YOUTUBE MODERATOR: My channel has recently been the target of
   Fat Acceptance: https://youtu.be/ZsdaLqAZ9hA Pick-Up Artists: https://youtu.be/bTomsgnRZFk
   Alpha Males: https://youtu.be/k6jYB74UQmI Music: "Helios" by Romos "The Cemetary"
   by Sinqlogue "Ojos Negros" by Tres Tristes Tangos "Metaphysik" by Kevin MacLeod'
+publishdate: "2017-05-18T17:13:45.000Z"
 url: /contrapoints/zPa1wikTd5c/
 providers:
   youtube:
     id: zPa1wikTd5c
-type: video
 ---

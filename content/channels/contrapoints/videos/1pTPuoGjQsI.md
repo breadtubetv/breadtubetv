@@ -1,6 +1,7 @@
 ---
 title: Gender Critical | ContraPoints
-date: "2019-09-15T10:31:32+08:00"
+date: "2019-10-06T12:45:08+08:00"
+type: video
 description: 'Let''s go adult human females. ✿Patreon: https://www.patreon.com/contrapoints
   ✿Donate: https://paypal.me/contrapoints ✿Merch: https://www.teepublic.com/stores/contrapoints?ref_id=5379
   ✿Subscribe: https://www.youtube.com/c/ContraPoints ✿Live Stream Channel: https://www.youtube.com/c/ContraPointsLive
@@ -16,9 +17,9 @@ description: 'Let''s go adult human females. ✿Patreon: https://www.patreon.com
   The Aesthetic: https://youtu.be/z1afqR5QkDM Incels: https://youtu.be/fD2briZ6fB0
   The West: https://youtu.be/hyaftqCORT4 Tiffany Tumbles: https://youtu.be/j1dJ8whOM8E
   Jordan Peterson: https://youtu.be/4LqZdkkBDas'
+publishdate: "2019-03-30T23:29:43.000Z"
 url: /contrapoints/1pTPuoGjQsI/
 providers:
   youtube:
     id: 1pTPuoGjQsI
-type: video
 ---

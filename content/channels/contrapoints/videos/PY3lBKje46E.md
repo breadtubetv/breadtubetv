@@ -1,8 +1,9 @@
 ---
 title: What is Race?
-date: "2019-09-15T10:31:36+08:00"
+date: "2019-10-06T12:45:11+08:00"
+type: video
 description: 'Social construct or biological reality? A very objective, scientific,
-  rational inquiry. ✿Patreon: https://www.patreon.com/contrapoints ✿Donate: www.patreon.com/contrapoints
+  rational inquiry. ✿Patreon: https://www.patreon.com/contrapoints ✿Donate: https://www.patreon.com/contrapoints
   DONATE: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
   ✿Subscribe: https://www.youtube.com/c/ContraPoints ✿Live Stream Channel: https://www.youtube.com/c/ContraPointsLive
   ✿Twitter: https://twitter.com/ContraPoints ✿Facebook: https://www.facebook.com/ContraPoints/
@@ -18,9 +19,9 @@ description: 'Social construct or biological reality? A very objective, scientif
   C. Scott, "Stage Theory," "Catch Feelings," "Determinate" JBlanked, "Beat Cook Up
   1," "Send Me" J.S. Bach, "Badinerie" from Orchestral Suite No. 2 Minus, "Hasdeu"
   BadWabbitz, "When Memories Break"'
+publishdate: "2017-04-30T20:53:55.000Z"
 url: /contrapoints/PY3lBKje46E/
 providers:
   youtube:
     id: PY3lBKje46E
-type: video
 ---

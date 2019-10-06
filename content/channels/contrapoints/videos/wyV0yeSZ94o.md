@@ -1,6 +1,7 @@
 ---
 title: Why the Alt-Right Is Wrong | ContraPoints
-date: "2019-09-15T10:31:43+08:00"
+date: "2019-10-06T12:45:17+08:00"
+type: video
 description: 'DEAR YOUTUBE MODERATOR: My channel has recently been the target of a
   spurious flagging campaign. Please take an extra moment to review this video! ❤
   ✿Patreon: https://www.patreon.com/contrapoints ✿Donate: https://paypal.me/contrapoints
@@ -20,9 +21,9 @@ description: 'DEAR YOUTUBE MODERATOR: My channel has recently been the target of
   Gladiator" and "Stars and Strips Forever" by Sousa "D''Bronx Tanz" by Tres Tristes
   Tangos "Friday" and "Spanish Winter" by The Passion HiFi https://soundcloud.com/thepassionhifi
   "Dovahkiin Remix" by Kostya https://youtu.be/zcCvKbpSVR4'
+publishdate: "2017-12-14T22:17:39.000Z"
 url: /contrapoints/wyV0yeSZ94o/
 providers:
   youtube:
     id: wyV0yeSZ94o
-type: video
 ---

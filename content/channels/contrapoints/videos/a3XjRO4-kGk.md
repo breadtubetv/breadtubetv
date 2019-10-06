@@ -1,6 +1,7 @@
 ---
 title: What the Alt-Right Fears
-date: "2019-09-15T10:31:38+08:00"
+date: "2019-10-06T12:45:13+08:00"
+type: video
 description: 'DEAR YOUTUBE MODERATOR: My channel has recently been the target of a
   spurious flagging campaign. Please take an extra moment to review this video! ❤
   Maximum cuckoldry. BECOME MY PATRON: https://www.patreon.com/contrapoints DONATE:
@@ -23,9 +24,9 @@ description: 'DEAR YOUTUBE MODERATOR: My channel has recently been the target of
   http://www.zoeblade.com "Born Barnstormers" by Brian Boyko Bach Adagio for violin
   (I''m not actually sure which one) "Dub Trippin" by MK2 "Still Shining" by The Passion
   HiFi and my cover of "Old Time Rock N'' Roll"'
+publishdate: "2017-02-28T19:17:32.000Z"
 url: /contrapoints/a3XjRO4-kGk/
 providers:
   youtube:
     id: a3XjRO4-kGk
-type: video
 ---

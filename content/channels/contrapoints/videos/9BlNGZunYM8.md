@@ -1,6 +1,7 @@
 ---
 title: Degeneracy | ContraPoints
-date: "2019-09-15T10:31:34+08:00"
+date: "2019-10-06T12:45:09+08:00"
+type: video
 description: 'This is a historical-philosophical-pastoral-comical video I made about
   the history of the word "degeneracy" and the right of degenerates to exist. ✿Patreon:
   https://www.patreon.com/contrapoints ✿Donate: https://paypal.me/contrapoints ✿Merch:
@@ -21,9 +22,9 @@ description: 'This is a historical-philosophical-pastoral-comical video I made a
   by Kevin Macleod “The Gladiator” by Sousa “Cylinder Five” by Chris Zabriskie “1812
   Overture” by Tchaikovsky Credits: “Gold Dust Woman” by Stevie Nicks arranged by
   ContraPoints'
+publishdate: "2017-10-19T13:39:44.000Z"
 url: /contrapoints/9BlNGZunYM8/
 providers:
   youtube:
     id: 9BlNGZunYM8
-type: video
 ---

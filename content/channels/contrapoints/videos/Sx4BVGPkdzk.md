@@ -1,6 +1,7 @@
 ---
 title: 'Decrypting the Alt-Right: How to Recognize a F@scist | ContraPoints'
-date: "2019-09-15T10:31:37+08:00"
+date: "2019-10-06T12:45:12+08:00"
+type: video
 description: 'NOTE TO MODERATOR: my channel is often falsely flagged by people who
   want to use YouTube''s h@te speech restrictions against people who OPPOSE h@te speech.
   Please take an extra moment to review this video. ♥ This is a critical and educational
@@ -27,9 +28,9 @@ description: 'NOTE TO MODERATOR: my channel is often falsely flagged by people w
   Feelings" and "Afrikaans" by C. Scott "Roy" and "The Question" by JBlanked "The
   Day the Sky Cracked" by Gentlemen Thieves "Stars and Stripes Forever" by Sousa "Bad
   Trip" by Zoé Blade'
+publishdate: "2017-09-01T16:03:26.000Z"
 url: /contrapoints/Sx4BVGPkdzk/
 providers:
   youtube:
     id: Sx4BVGPkdzk
-type: video
 ---

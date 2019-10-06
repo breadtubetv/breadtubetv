@@ -1,6 +1,7 @@
 ---
 title: Tiffany Tumbles | ContraPoints
-date: "2019-09-15T10:31:40+08:00"
+date: "2019-10-06T12:45:15+08:00"
+type: video
 description: 'A YouTube story. ✿Patreon: https://www.patreon.com/contrapoints ✿Donate:
   https://paypal.me/contrapoints ✿Merch: https://www.teepublic.com/stores/contrapoints?ref_id=5379&ref_type=aff
   ✿Subscribe: https://www.youtube.com/c/ContraPoints ✿Live Stream Channel: https://www.youtube.com/c/ContraPointsLive
@@ -17,9 +18,9 @@ description: 'A YouTube story. ✿Patreon: https://www.patreon.com/contrapoints 
   Gender Dysphoria: https://youtu.be/Ayuqizp4fyY Free Speech (Part 1): https://youtu.be/GGTDhutW_us
   Free Speech (Part 2): https://youtu.be/IBUuBd5VRbY Debating the Alt-Right: https://youtu.be/zPa1wikTd5c
   What is Race?: https://youtu.be/PY3lBKje46E What is Gender?: https://youtu.be/b_uEXzqW43c'
+publishdate: "2018-06-02T15:21:32.000Z"
 url: /contrapoints/j1dJ8whOM8E/
 providers:
   youtube:
     id: j1dJ8whOM8E
-type: video
 ---

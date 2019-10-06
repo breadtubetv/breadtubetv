@@ -1,6 +1,7 @@
 ---
 title: Psychiatry
-date: "2019-09-15T10:31:36+08:00"
+date: "2019-10-06T12:45:11+08:00"
+type: video
 description: 'This is not an anti-psychiatry video. However, I think my experiences
   suggest that there are reasons to be cautious about, for instance, over-diagnosis,
   and profit-oriented clinical research. BECOME MY PATRON: https://www.patreon.com/contrapoints
@@ -15,9 +16,9 @@ description: 'This is not an anti-psychiatry video. However, I think my experien
   Pop Feminism: https://youtu.be/3glomsCM5mU Music: Schubert: Impromptu Op 90 no 4
   Monteverdi: Pur ti Miro "Harsh Alien Machine" by Audionautix "Slaughter" by The
   Passion HiFi Chopin: Waltz Op 60 no 2 "Rise" by Ampyx'
+publishdate: "2016-12-31T15:45:41.000Z"
 url: /contrapoints/GjSPUlFHYDU/
 providers:
   youtube:
     id: GjSPUlFHYDU
-type: video
 ---

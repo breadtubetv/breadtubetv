@@ -1,6 +1,7 @@
 ---
 title: What's Wrong with Capitalism (Part 1) | ContraPoints
-date: "2019-09-15T10:31:39+08:00"
+date: "2019-10-06T12:45:14+08:00"
+type: video
 description: 'A YouTube manifesto. ✿Patreon: https://www.patreon.com/contrapoints
   ✿Donate: https://paypal.me/contrapoints ✿Merch: https://www.teepublic.com/stores/contrapoints?ref_id=5379&ref_type=aff
   ✿Subscribe: https://www.youtube.com/c/ContraPoints ✿Live Stream Channel: https://www.youtube.com/c/ContraPointsLive
@@ -15,9 +16,9 @@ description: 'A YouTube manifesto. ✿Patreon: https://www.patreon.com/contrapoi
   Delicto “Hopper,” “The White Room,” and “Funeral March for a Marionette (Gounod)”
   by Zoë Blade "Two Lines Meeting on an Infinite Plane" by HOME “Beyond” and “Monroe”
   by Lakey Inspired Credits cover of “Bring It On Home to Me” by Sam Cooke'
+publishdate: "2017-12-30T21:00:26.000Z"
 url: /contrapoints/gJW4-cOZt8A/
 providers:
   youtube:
     id: gJW4-cOZt8A
-type: video
 ---

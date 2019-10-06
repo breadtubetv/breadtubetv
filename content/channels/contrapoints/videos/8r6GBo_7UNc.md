@@ -1,6 +1,7 @@
 ---
 title: 'Baltimore: Anatomy of an Uprising'
-date: "2019-09-15T10:31:33+08:00"
+date: "2019-10-06T12:45:09+08:00"
+type: video
 description: 'The story of the Baltimore uprising is not mine to tell. This is a video
   about how to witness and respond intelligently to events like this. BECOME MY PATRON:
   https://www.patreon.com/contrapoints DONATE: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
@@ -25,9 +26,9 @@ description: 'The story of the Baltimore uprising is not mine to tell. This is a
   The Planets by Gustav Holst “Sense and Technique” and “Still Shining by The Passion
   HiFi www.thepassionhifi.com “Can’t Think,” “The Day the Sky Cracked,” and “Rain”
   by Gentlemen Theives https://soundcloud.com/gentlementhieves'
+publishdate: "2016-12-17T21:16:31.000Z"
 url: /contrapoints/8r6GBo_7UNc/
 providers:
   youtube:
     id: 8r6GBo_7UNc
-type: video
 ---

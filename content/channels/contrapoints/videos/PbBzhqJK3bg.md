@@ -1,6 +1,7 @@
 ---
 title: Are Traps Gay?" | ContraPoint
-date: "2019-09-15T10:31:37+08:00"
+date: "2019-10-06T12:45:12+08:00"
+type: video
 description: 'A psychosexual journey to the heart of a bad meme. (This is an educational
   video I made for scientific and artistic purposes and is very advertiser friendly.)
   ✿Patreon: https://www.patreon.com/contrapoints ✿Donate: https://paypal.me/contrapoints
@@ -12,9 +13,9 @@ description: 'A psychosexual journey to the heart of a bad meme. (This is an edu
   Pronouns: https://youtu.be/9bbINLWtMKI The Aesthetic: https://youtu.be/z1afqR5QkDM
   Incels: https://youtu.be/fD2briZ6fB0 The West: https://youtu.be/hyaftqCORT4 Tiffany
   Tumbles: https://youtu.be/j1dJ8whOM8E Jordan Peterson: https://youtu.be/4LqZdkkBDas'
+publishdate: "2019-01-17T00:00:03.000Z"
 url: /contrapoints/PbBzhqJK3bg/
 providers:
   youtube:
     id: PbBzhqJK3bg
-type: video
 ---
