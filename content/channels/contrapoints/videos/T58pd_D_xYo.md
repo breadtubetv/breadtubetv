@@ -1,6 +1,7 @@
 ---
 title: Is BDSM Feminist?
-date: "2019-09-15T10:31:37+08:00"
+date: "2019-10-06T12:45:12+08:00"
+type: video
 description: 'A debate. (TW: sex and violence, KINK-SHAMING.) ✿Patreon: https://www.patreon.com/contrapoints
   ✿Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
   ✿Subscribe: https://www.youtube.com/c/ContraPoints ✿Live Stream Channel: https://www.youtube.com/channel/UCGh4KSR8TZZlyq3qQDBsBLA
@@ -12,9 +13,9 @@ description: 'A debate. (TW: sex and violence, KINK-SHAMING.) ✿Patreon: https:
   Alpha Males: https://youtu.be/k6jYB74UQmI Music: Corelli, "Concerto Grosso in G
   Minor" Brahms, "Symphony 1, Mvt 4" John Deley, "Busted" Chopin, "Prelude 15 in D-flat
   Major" Chris Zabriskie, "Cylinder Nine"'
+publishdate: "2017-03-21T16:50:26.000Z"
 url: /contrapoints/T58pd_D_xYo/
 providers:
   youtube:
     id: T58pd_D_xYo
-type: video
 ---

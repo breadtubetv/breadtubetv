@@ -1,6 +1,7 @@
 ---
 title: The Darkness | ContraPoints
-date: "2019-09-15T10:31:42+08:00"
+date: "2019-10-06T12:45:16+08:00"
+type: video
 description: 'Some like it dark. ✿Patreon: https://www.patreon.com/contrapoints ✿Donate:
   https://paypal.me/contrapoints ✿Merch: https://www.teepublic.com/stores/contrapoints?ref_id=5379
   ✿Subscribe: https://www.youtube.com/c/ContraPoints ✿Live Stream Channel: https://www.youtube.com/c/ContraPointsLive
@@ -11,9 +12,9 @@ description: 'Some like it dark. ✿Patreon: https://www.patreon.com/contrapoint
   The Aesthetic: https://youtu.be/z1afqR5QkDM Incels: https://youtu.be/fD2briZ6fB0
   The West: https://youtu.be/hyaftqCORT4 Tiffany Tumbles: https://youtu.be/j1dJ8whOM8E
   Jordan Peterson: https://youtu.be/4LqZdkkBDas'
+publishdate: "2019-03-03T00:48:26.000Z"
 url: /contrapoints/qtj7LDYaufM/
 providers:
   youtube:
     id: qtj7LDYaufM
-type: video
 ---

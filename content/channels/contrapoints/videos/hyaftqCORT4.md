@@ -1,6 +1,7 @@
 ---
 title: The West | ContraPoints
-date: "2019-09-15T10:31:40+08:00"
+date: "2019-10-06T12:45:14+08:00"
+type: video
 description: 'Lots of things have happened in Europe. ✿Patreon: https://www.patreon.com/contrapoints
   ✿Donate: https://paypal.me/contrapoints ✿Merch: https://www.teepublic.com/stores/contrapoints?ref_id=5379&ref_type=aff
   ✿Subscribe: https://www.youtube.com/c/ContraPoints ✿Live Stream Channel: https://www.youtube.com/c/ContraPointsLive
@@ -22,9 +23,9 @@ description: 'Lots of things have happened in Europe. ✿Patreon: https://www.pa
   Free Speech (Part 1): https://youtu.be/GGTDhutW_us Free Speech (Part 2): https://youtu.be/IBUuBd5VRbY
   Debating the Alt-Right: https://youtu.be/zPa1wikTd5c What is Race?: https://youtu.be/PY3lBKje46E
   What is Gender?: https://youtu.be/b_uEXzqW43c'
+publishdate: "2018-07-13T20:28:22.000Z"
 url: /contrapoints/hyaftqCORT4/
 providers:
   youtube:
     id: hyaftqCORT4
-type: video
 ---

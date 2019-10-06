@@ -1,6 +1,7 @@
 ---
 title: TERFs
-date: "2019-09-15T10:31:34+08:00"
+date: "2019-10-06T12:45:10+08:00"
+type: video
 description: '[brief strobe effect during "how to eat ribs" scene] This is a fictional
   dialogue I made about TERFs (trans-exclusionary radical feminists) for philosophical
   and artistic purposes. See pinned comment for more info. CW: fictionalized transphobia
@@ -18,9 +19,9 @@ description: '[brief strobe effect during "how to eat ribs" scene] This is a fic
   of Summer" by Ars Sonor "Life of Riley" by Kevin MacLeod "Pistol & Cutlass" by Wontolla
   "String Quartet No. 6, III. Adagio" by Mendelssohn "The Bells of St. Anne de Beaupre"
   by Russell, perf. Paul Pitman "Moonlight Sonata" by Beethoven'
+publishdate: "2017-08-18T17:30:04.000Z"
 url: /contrapoints/AQPWI7cEJGs/
 providers:
   youtube:
     id: AQPWI7cEJGs
-type: video
 ---

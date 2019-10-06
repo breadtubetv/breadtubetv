@@ -1,6 +1,7 @@
 ---
 title: President Trump
-date: "2019-09-15T10:31:42+08:00"
+date: "2019-10-06T12:45:17+08:00"
+type: video
 description: 'How did this happen? How bad is it? What do now? BECOME MY PATRON: https://www.patreon.com/contrapoints
   DONATE: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
   SUBSCRIBE: https://www.youtube.com/c/ContraPoints TWEET: https://twitter.com/ContraPoints
@@ -12,9 +13,9 @@ description: 'How did this happen? How bad is it? What do now? BECOME MY PATRON:
   by Chopin "Kölderen Polka" by Tres Tristes Tangos "Flow" by MK2 "Main Stem" by the
   U.S. Army Blues "Rural Stride" by Josh Kirsch "Still Shining," "Spanish Winter,"
   and "Slaughter" by The Passion HiFi Symphony 1 Mvt 4 by Brahms'
+publishdate: "2016-11-17T20:00:24.000Z"
 url: /contrapoints/wV8tFZZGhL8/
 providers:
   youtube:
     id: wV8tFZZGhL8
-type: video
 ---

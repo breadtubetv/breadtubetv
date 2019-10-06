@@ -1,6 +1,7 @@
 ---
 title: Is Casual Sex Bad for Your Soul?
-date: "2019-09-15T10:31:41+08:00"
+date: "2019-10-06T12:45:16+08:00"
+type: video
 description: 'Taking a break from arguing with Natsees to pick a fight with, well,
   God, I suppose. ~NEW~ LIVE STREAM CHANNEL: https://www.youtube.com/channel/UCGh4KSR8TZZlyq3qQDBsBLA
   BECOME MY PATRON: https://www.patreon.com/contrapoints DONATE: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
@@ -18,9 +19,9 @@ description: 'Taking a break from arguing with Natsees to pick a fight with, wel
   second movement (European Archive) "Slick" by Zoë Blade http://www.zoeblade.com
   "Aquarium" from Carnival of the Animals by Saint-Saëns and of course my original
   cover of "Earth Angel" by the Penguins'
+publishdate: "2017-02-18T16:48:28.000Z"
 url: /contrapoints/qKrbvLkbHu8/
 providers:
   youtube:
     id: qKrbvLkbHu8
-type: video
 ---

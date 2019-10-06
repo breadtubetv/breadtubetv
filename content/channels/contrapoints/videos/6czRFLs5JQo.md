@@ -1,6 +1,7 @@
 ---
 title: Autogynephilia | ContraPoints
-date: "2019-09-15T10:31:33+08:00"
+date: "2019-10-06T12:45:09+08:00"
+type: video
 description: 'A psychosexual journey to the heart of a bad theory about trans women.
   ✿Patreon: https://www.patreon.com/contrapoints ✿Donate: https://paypal.me/contrapoints
   ✿Merch: https://www.teepublic.com/stores/contrapoints?ref_id=5379&ref_type=aff ✿Subscribe:
@@ -19,9 +20,9 @@ description: 'A psychosexual journey to the heart of a bad theory about trans wo
   Free Speech (Part 1): https://youtu.be/GGTDhutW_us Free Speech (Part 2): https://youtu.be/IBUuBd5VRbY
   Debating the Alt-Right: https://youtu.be/zPa1wikTd5c What is Race?: https://youtu.be/PY3lBKje46E
   What is Gender?: https://youtu.be/b_uEXzqW43c'
+publishdate: "2018-02-01T21:21:53.000Z"
 url: /contrapoints/6czRFLs5JQo/
 providers:
   youtube:
     id: 6czRFLs5JQo
-type: video
 ---

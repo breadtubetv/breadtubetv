@@ -1,6 +1,7 @@
 ---
 title: Does the Left Hate Free Speech? (Part 1)
-date: "2019-09-15T10:31:35+08:00"
+date: "2019-10-06T12:45:10+08:00"
+type: video
 description: 'Examining right-wing ("liberal") talking point number 1. ✿Patreon: https://www.patreon.com/contrapoints
   ✿Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
   ✿Subscribe: https://www.youtube.com/c/ContraPoints ✿Live Stream Channel: https://www.youtube.com/c/ContraPointsLive
@@ -15,9 +16,9 @@ description: 'Examining right-wing ("liberal") talking point number 1. ✿Patreo
   Alpha Males: https://youtu.be/k6jYB74UQmI Music: "Tumult" by Kai Engle "Far Away"
   by HOME "Stage Theory" by C. Scott "Spanish Winter" and "Still Shining" by ThePassionHiFi
   "Born Barnstormers" by Brian Boyko "Metaphysik" by Kevin MacLeod'
+publishdate: "2017-05-31T19:34:27.000Z"
 url: /contrapoints/GGTDhutW_us/
 providers:
   youtube:
     id: GGTDhutW_us
-type: video
 ---

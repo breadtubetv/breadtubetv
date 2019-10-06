@@ -1,6 +1,7 @@
 ---
 title: What's Wrong with Capitalism (Part 2) | ContraPoints
-date: "2019-09-15T10:31:35+08:00"
+date: "2019-10-06T12:45:10+08:00"
+type: video
 description: 'I like stuff. ✿Patreon: https://www.patreon.com/contrapoints ✿Donate:
   https://paypal.me/contrapoints ✿Merch: https://www.teepublic.com/stores/contrapoints?ref_id=5379&ref_type=aff
   ✿Subscribe: https://www.youtube.com/c/ContraPoints ✿Live Stream Channel: https://www.youtube.com/c/ContraPointsLive
@@ -15,9 +16,9 @@ description: 'I like stuff. ✿Patreon: https://www.patreon.com/contrapoints ✿
   Free Speech (Part 1): https://youtu.be/GGTDhutW_us Free Speech (Part 2): https://youtu.be/IBUuBd5VRbY
   Debating the Alt-Right: https://youtu.be/zPa1wikTd5c What is Race?: https://youtu.be/PY3lBKje46E
   What is Gender?: https://youtu.be/b_uEXzqW43c'
+publishdate: "2018-04-01T00:00:13.000Z"
 url: /contrapoints/AR7ryg1w_IQ/
 providers:
   youtube:
     id: AR7ryg1w_IQ
-type: video
 ---

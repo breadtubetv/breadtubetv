@@ -1,6 +1,7 @@
 ---
 title: Everyone's a Little Bit Racist Sometimes (Response to ArmouredSkeptic)
-date: "2019-09-15T10:31:41+08:00"
+date: "2019-10-06T12:45:16+08:00"
+type: video
 description: 'Following Armoured Skeptic down "the deepest rabbit hole of bigotry"
   he''s ever experienced. NEW! BECOME MY PATRON: https://www.patreon.com/contrapoints
   SUBSCRIBE: https://www.youtube.com/c/ContraPoints TWEET: https://twitter.com/ContraPoints
@@ -12,9 +13,9 @@ description: 'Following Armoured Skeptic down "the deepest rabbit hole of bigotr
   https://www.youtube.com/user/EvaJinnProductions Music credits: The Passion HiFi
   www.thepassionhifi.com and Kevin MacLeod (incompetech.com) Licensed under Creative
   Commons: By Attribution 3.0 License http://creativecommons.org/licenses/by/3.0/'
+publishdate: "2016-06-28T17:44:42.000Z"
 url: /contrapoints/okLqi2t-oHc/
 providers:
   youtube:
     id: okLqi2t-oHc
-type: video
 ---

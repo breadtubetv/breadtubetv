@@ -1,6 +1,7 @@
 ---
 title: Feminism Did Not Destroy Atheism
-date: "2019-09-15T10:31:40+08:00"
+date: "2019-10-06T12:45:15+08:00"
+type: video
 description: 'A love/hate letter to the YouTube atheist community. BECOME MY PATRON:
   https://www.patreon.com/contrapoints DONATE: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
   SUBSCRIBE: http://www.youtube.com/c/ContraPoints TWEET: http://twitter.com/ContraPoints
@@ -15,9 +16,9 @@ description: 'A love/hate letter to the YouTube atheist community. BECOME MY PAT
   EVERYTHING” https://youtu.be/FWxAljFlb-c Music credits: The Passion HiFi www.thepassionhifi.com
   and Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution
   3.0 License http://creativecommons.org/licenses/by/3.0/'
+publishdate: "2016-04-23T14:48:41.000Z"
 url: /contrapoints/klfH9QaEcqY/
 providers:
   youtube:
     id: klfH9QaEcqY
-type: video
 ---

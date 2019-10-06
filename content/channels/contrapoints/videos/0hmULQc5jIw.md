@@ -1,6 +1,7 @@
 ---
 title: 'I Am Genderqueer (And What the #@%! That Means)'
-date: "2019-09-15T10:31:32+08:00"
+date: "2019-10-06T12:45:08+08:00"
+type: video
 description: '✿Patreon: https://www.patreon.com/contrapoints ✿Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
   ✿Subscribe: https://www.youtube.com/c/ContraPoints ✿Live Stream Channel: https://www.youtube.com/channel/UCGh4KSR8TZZlyq3qQDBsBLA
   ✿Twitter: https://twitter.com/ContraPoints ✿Facebook: https://www.facebook.com/ContraPoints/
@@ -16,9 +17,9 @@ description: '✿Patreon: https://www.patreon.com/contrapoints ✿Donate: https:
   Davis, "Country Road" Chopin, "Waltz in A-flat major, B.21 posthumous" Barrios,
   "Vals Op. 8, No. 3" Beethoven, "Great Fugue" Handel, "Sarabande" performed by Zoë
   Blade'
+publishdate: "2017-03-31T19:49:38.000Z"
 url: /contrapoints/0hmULQc5jIw/
 providers:
   youtube:
     id: 0hmULQc5jIw
-type: video
 ---

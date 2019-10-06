@@ -1,6 +1,7 @@
 ---
 title: Fat Acceptance
-date: "2019-09-15T10:31:38+08:00"
+date: "2019-10-06T12:45:13+08:00"
+type: video
 description: 'BECOME MY PATRON: https://www.patreon.com/contrapoints DONATE: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
   SUBSCRIBE: https://www.youtube.com/c/ContraPoints TWEET: https://twitter.com/ContraPoints
   FACEBOOK: https://www.facebook.com/ContraPoints/ Check out my videos about: President
@@ -15,9 +16,9 @@ description: 'BECOME MY PATRON: https://www.patreon.com/contrapoints DONATE: htt
   E minor" by Chopin "Suite in B-flat major" by W.F. Bach, performed by Michel Rondeau
   "Perspectives" and "Long Road Ahead" by Kevin MacLeod "Concerto Grosso in F Major"
   by Handel "Gymnopedie No 3" by Satie'
+publishdate: "2016-11-30T16:18:18.000Z"
 url: /contrapoints/ZsdaLqAZ9hA/
 providers:
   youtube:
     id: ZsdaLqAZ9hA
-type: video
 ---

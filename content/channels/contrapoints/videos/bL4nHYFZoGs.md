@@ -1,6 +1,7 @@
 ---
 title: Cultural Appropriation
-date: "2019-09-15T10:31:38+08:00"
+date: "2019-10-06T12:45:13+08:00"
+type: video
 description: 'My take on this classic 2016 Culture War topic. It''s dumb to talk about
   it, because someone will get offended no matter what, but I''m talking about it
   anyway because I''m dumb. BECOME MY PATRON: https://www.patreon.com/contrapoints
@@ -12,9 +13,9 @@ description: 'My take on this classic 2016 Culture War topic. It''s dumb to talk
   Donald Trump: https://youtu.be/h8Zam8cqth8 Music credits: "Kölderen Polka" and "Kolomeika"
   by Tres Tristes Tangos "Dub Cowboy" by MK2 "Kelli''s Number" by the U.S. Army Blues
   "Laws of Movement" by The Passion HiFi "New Toys" by Silent Partner'
+publishdate: "2016-11-05T19:01:39.000Z"
 url: /contrapoints/bL4nHYFZoGs/
 providers:
   youtube:
     id: bL4nHYFZoGs
-type: video
 ---

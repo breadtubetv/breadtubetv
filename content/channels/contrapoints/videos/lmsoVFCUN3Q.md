@@ -1,6 +1,7 @@
 ---
 title: Violence | ContraPoints
-date: "2019-09-15T10:31:41+08:00"
+date: "2019-10-06T12:45:15+08:00"
+type: video
 description: 'A fictional dialogue between some voices in my head on the philosophy
   of violence. No dolls or mannequins were harmed in the making of this film. ✿Patreon:
   https://www.patreon.com/contrapoints ✿Donate: https://paypal.me/contrapoints ✿Merch:
@@ -17,9 +18,9 @@ description: 'A fictional dialogue between some voices in my head on the philoso
   What is Race?: https://youtu.be/PY3lBKje46E What is Gender?: https://youtu.be/b_uEXzqW43c
   What the Alt-Right fears: https://youtu.be/a3XjRO4-kGk BDSM: https://youtu.be/T58pd_D_xYo
   Punching Natsees: https://youtu.be/iEyL1rDe60w'
+publishdate: "2017-11-24T18:08:30.000Z"
 url: /contrapoints/lmsoVFCUN3Q/
 providers:
   youtube:
     id: lmsoVFCUN3Q
-type: video
 ---

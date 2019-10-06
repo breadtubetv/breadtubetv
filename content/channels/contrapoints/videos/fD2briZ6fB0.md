@@ -1,6 +1,7 @@
 ---
 title: Incels | ContraPoints
-date: "2019-09-15T10:31:39+08:00"
+date: "2019-10-06T12:45:14+08:00"
+type: video
 description: 'Hello boys. Let''s talk about bone structure. ✿Patreon: https://www.patreon.com/contrapoints
   ✿Donate: https://paypal.me/contrapoints ✿Merch: https://www.teepublic.com/stores/contrapoints?ref_id=5379&ref_type=aff
   ✿Subscribe: https://www.youtube.com/c/ContraPoints ✿Live Stream Channel: https://www.youtube.com/c/ContraPointsLive
@@ -16,9 +17,9 @@ description: 'Hello boys. Let''s talk about bone structure. ✿Patreon: https://
   Autogynephilia: https://youtu.be/6czRFLs5JQo Violence: https://youtu.be/lmsoVFCUN3Q
   Degeneracy: https://youtu.be/9BlNGZunYM8 The Left: https://youtu.be/QuN6GfUix7c
   Decrypting the Alt-Right: https://youtu.be/Sx4BVGPkdzk'
+publishdate: "2018-08-17T16:37:43.000Z"
 url: /contrapoints/fD2briZ6fB0/
 providers:
   youtube:
     id: fD2briZ6fB0
-type: video
 ---

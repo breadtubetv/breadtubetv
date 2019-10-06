@@ -1,6 +1,7 @@
 ---
 title: What is Gender?
-date: "2019-09-15T10:31:39+08:00"
+date: "2019-10-06T12:45:13+08:00"
+type: video
 description: 'A scientific and ａｅｓｔｈｅｔｉｃ examination. ✿Patreon: https://www.patreon.com/contrapoints
   ✿Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
   ✿Subscribe: https://www.youtube.com/c/ContraPoints ✿Live Stream Channel: https://www.youtube.com/c/ContraPointsLive
@@ -19,9 +20,9 @@ description: 'A scientific and ａｅｓｔｈｅｔｉｃ examination. ✿Patre
   "Roy" and "Beat Cook Up 5" by JBlanked "Can''t Think" by Gentlemen Thieves "They
   Might Not" by Puddle of Infinity "Lamento della ninfa" by Claudio Monteverdi, performed
   by Anna Simboli (credits music)'
+publishdate: "2017-04-18T15:52:33.000Z"
 url: /contrapoints/b_uEXzqW43c/
 providers:
   youtube:
     id: b_uEXzqW43c
-type: video
 ---

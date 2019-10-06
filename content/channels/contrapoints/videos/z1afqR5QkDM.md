@@ -1,6 +1,7 @@
 ---
 title: The Aesthetic | ContraPoints
-date: "2019-09-15T10:31:43+08:00"
+date: "2019-10-06T12:45:18+08:00"
+type: video
 description: 'What matters more—the way things are or the way things look? ✿Patreon:
   https://www.patreon.com/contrapoints ✿Donate: https://paypal.me/contrapoints ✿Merch:
   https://www.teepublic.com/stores/contrapoints?ref_id=5379&ref_type=aff ✿Subscribe:
@@ -16,9 +17,9 @@ description: 'What matters more—the way things are or the way things look? ✿
   America—Still Racist: https://youtu.be/GWwiUIVpmNY Autogynephilia: https://youtu.be/6czRFLs5JQo
   Violence: https://youtu.be/lmsoVFCUN3Q Degeneracy: https://youtu.be/9BlNGZunYM8
   The Left: https://youtu.be/QuN6GfUix7c Decrypting the Alt-Right: https://youtu.be/Sx4BVGPkdzk'
+publishdate: "2018-09-19T19:38:28.000Z"
 url: /contrapoints/z1afqR5QkDM/
 providers:
   youtube:
     id: z1afqR5QkDM
-type: video
 ---

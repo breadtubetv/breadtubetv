@@ -1,6 +1,7 @@
 ---
 title: Does the Left Hate Free Speech?
-date: "2019-09-15T10:31:36+08:00"
+date: "2019-10-06T12:45:11+08:00"
+type: video
 description: 'DEAR YOUTUBE MODERATOR: My channel has recently been the target of a
   spurious flagging campaign. Please take an extra moment to review this video! ❤
   ✿Patreon: https://www.patreon.com/contrapoints ✿Donate: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QAXL4AUZAQY7C&lc=US&item_name=ContraPoints&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
@@ -17,9 +18,9 @@ description: 'DEAR YOUTUBE MODERATOR: My channel has recently been the target of
   Music: "Bluebird" by E''s Jammy Jams "Far Away" by HOME "Catch Feelings" by C. Scott
   "Pistyll Rhaeadr" by Zoë Blade (https://zoeblade.bandcamp.com/) "Gymnopedie No 3"
   by Erik Satie "Metaphysik" by Kevin MacLeod'
+publishdate: "2017-06-20T19:23:29.000Z"
 url: /contrapoints/IBUuBd5VRbY/
 providers:
   youtube:
     id: IBUuBd5VRbY
-type: video
 ---

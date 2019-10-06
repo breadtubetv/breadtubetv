@@ -1,6 +1,7 @@
 ---
 title: The Left | ContraPoints
-date: "2019-09-15T10:31:37+08:00"
+date: "2019-10-06T12:45:12+08:00"
+type: video
 description: 'This is a fictional dialogue between characters created for philosophical
   and artistic purposes. I do not necessarily endorse the viewpoints of any of the
   characters involved. ✿Patreon: https://www.patreon.com/contrapoints ✿Donate: https://paypal.me/contrapoints
@@ -16,9 +17,9 @@ description: 'This is a fictional dialogue between characters created for philos
   Richard Wagner “Berg: Four Pieces for clarinet and piano, Op. 5” by Alban Berg “Funeral
   March of a Marionette” by Charles Gounod, performed by Zoë Blade https://zoeblade.bandcamp.com/
   “Without A Sound” by HOME'
+publishdate: "2017-09-24T17:39:56.000Z"
 url: /contrapoints/QuN6GfUix7c/
 providers:
   youtube:
     id: QuN6GfUix7c
-type: video
 ---

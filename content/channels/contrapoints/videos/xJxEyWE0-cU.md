@@ -1,6 +1,7 @@
 ---
 title: Western Rape Cultures
-date: "2019-09-15T10:31:43+08:00"
+date: "2019-10-06T12:45:17+08:00"
+type: video
 description: 'I spent too long working on this and missed the moment when people cared
   about Brock Turner. Everyone has moved on to a mass murder, and the rapist is forgotten,
   along with that gorilla, and that lion, and that oil spill. Whatever happened with
@@ -23,9 +24,9 @@ description: 'I spent too long working on this and missed the moment when people
   3.0 License http://creativecommons.org/licenses/by/3.0/ and Czech National Symphony
   Orchestra (Musopen Kickstarter Project) Licensed under Creative Commons: By Attribution
   3.0 License http://creativecommons.org/licenses/by/3.0/'
+publishdate: "2016-06-13T12:21:40.000Z"
 url: /contrapoints/xJxEyWE0-cU/
 providers:
   youtube:
     id: xJxEyWE0-cU
-type: video
 ---
