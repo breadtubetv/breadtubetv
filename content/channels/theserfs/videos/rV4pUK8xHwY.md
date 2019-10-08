@@ -1,0 +1,20 @@
+---
+title: Kyle Kulinski of Secular Talk Gets breadpilled (by himself) | The Serfs
+date: "2019-10-09T02:58:41+08:00"
+type: video
+description: 'Kyle joins the Serfs to discuss the upcoming democratic primary and
+  is capitalism coming to an end? Click▼ Follow Secular Talk: https://www.youtube.com/user/SecularTalk
+  https://twitter.com/kylekulinski We broadcast live 4 days a week on TWITCH. Come
+  join us and if you have Amazon Prime you can subscribe for free and help support
+  the show. ►TWITCH - http://www.twitch.tv/theserfstv ►TWITTER - http://www.twitter.com/theserfstv
+  ►INSTAGRAM - https://www.instagram.com/theserfstv ►SOUNDCLOUD - https://soundcloud.com/theserfstv
+  ►DISCORD - https://discord.gg/BztHb9M ►REDDIT - https://www.reddit.com/r/theserfstv
+  ►OG WEBSITE - https://www.weareserfs.com Support the Serfs ►PATREON - http://www.patreon.com/theserfs
+  ►MERCH - https://teespring.com/stores/the-serfs-capitalist-shill or use The Serfs
+  affiliate link to buy anything: http://www.amazon.ca/?tag=marxcapital-20'
+publishdate: "2019-08-08T21:47:54.000Z"
+url: /theserfs/rV4pUK8xHwY/
+providers:
+  youtube:
+    id: rV4pUK8xHwY
+---

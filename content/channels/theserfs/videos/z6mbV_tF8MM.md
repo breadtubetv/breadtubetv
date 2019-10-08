@@ -1,0 +1,36 @@
+---
+title: The Great YouTube Troll-Odyssey | The Serfs
+date: "2019-10-09T02:58:43+08:00"
+type: video
+description: 'We got the worst April Fool''s prank of all time delivered to us in
+  the form of losing our entire channel. No warning no strikes no nothing. After the
+  false flagging that had occured with our Marc Randazza video we assumed it was an
+  alt right attack. What happened next blew us away... #SerfsUp Sound off on the new
+  Breadtube project: https://www.reddit.com/r/BreadTube/comments/b9w8i0/discussion_the_serfs_and_the_breadtube_channel_we/
+  English subtitles by: Comrade Da Thank you to all these awesome comrades: ThoughtSlime
+  (we''re so sorry we spaced on squishing you in there but check him out): https://youtu.be/2yLg1WytNqM
+  Ray Ramses: https://www.youtube.com/channel/UC6DbLEHgTj6VK7LvtzoGSIw Bad Empanada
+  https://www.youtube.com/channel/UCUzmizB92LJ9oxf5T_snZNA Jose Not Jose: https://www.youtube.com/channel/UCeDKIj0G5XbultKOQnacu_w
+  The Kavernacle: https://www.youtube.com/channel/UCoG5ya-sMXNMkqkIz1sZ_Lw Radical
+  Reviewer: https://www.youtube.com/channel/UC_V9wKk1Dd2rpZ4fxj7pKXA Maria The Witch:
+  https://www.youtube.com/channel/UCrd-uibzFaauNlPB8-OJ_qQ Chrisiousity: https://www.youtube.com/channel/UCn1bhOC69Z4TplynafVv7ng
+  Rationality Disconnected: https://www.youtube.com/channel/UCViO5gRp5Boa6QslAo-gPAQ
+  Badman Massive: https://www.youtube.com/watch?v=jge68UQjibQ&list=PLFad02vA5AOEwbJbHrcuXhG8J2Wfh0ASm
+  Kevin Logan: https://www.youtube.com/user/ploppy111 Non Compete: https://www.youtube.com/channel/UCkZFKKK-0YB0FvwoS8P7nHg
+  Peter Coffin: https://www.youtube.com/user/petercoffin HBomberguy: https://www.youtube.com/user/hbomberguy
+  Sam Seder: https://www.youtube.com/user/SamSeder Michael Brooks: https://www.youtube.com/channel/UCh2UY1hxlMr4_7Az_iQ82HQ
+  Hasan Piker: https://www.youtube.com/channel/UCtoaZpBnrd0lhycxYJ4MNOQ If you enjoy
+  what you see and hear don''t feel shy about subscribing, liking or sharing our channel.
+  Join the Serfs! http://www.patreon.com/theserfs Buy a T-Shirt and support the show:
+  https://teespring.com/stores/the-serfs-capitalist-shill Or find us on social media:
+  https://www.weareserfs.com https://twitter.com/theserfstv https://www.instagram.com/serfspodcast/
+  https://www.facebook.com/serfspodcast https://itunes.apple.com/ca/podcast/the-serfs/id1226102303?mt=2
+  https://www.soundcloud.com/theserfs https://www.steemit.com/@serfspodcast/ Be sure
+  to hit the bell icon beside subscribe to make sure you get all the latest updates
+  as we expel them.'
+publishdate: "2019-04-05T20:58:19.000Z"
+url: /theserfs/z6mbV_tF8MM/
+providers:
+  youtube:
+    id: z6mbV_tF8MM
+---
