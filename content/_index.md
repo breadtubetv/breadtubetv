@@ -3,6 +3,7 @@ title: BreadTube.tv
 type: index
 videoChannel: true
 videos:
+- x7hbotjxaws
 - H9MTMCo8JbQ
 - O8UzmLsXGRU
 - _EsCM25_tF0
