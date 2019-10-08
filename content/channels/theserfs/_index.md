@@ -1,24 +1,20 @@
 ---
-description: In a media landscape blemished with uncertainty two indentured plebs
-  bring you their comedic spin on the weekly news.
+description: |
+  In a media landscape blemished with uncertainty two indentured plebs bring you their comedic spin on the weekly news. The only escape from the black death is a few moments to swill ale in a disease ridden tavern.
 title: The Serfs
 type: channel
 menu:
   main:
     parent: Channels
-videos:
-- Huhc8edyIqU
-- -Gbm_gcZhcE
-- 2Orqtf6WgIs
-- HclaKb5LUYY
-- YDiyKg44BXI
-- O-MWgPgxzKs
-- R1lu8-PuMmk
 tags:
 - breadtube
 - canada
 url: /theserfs/
 providers:
+  website:
+    name: We Are Serfs
+    slug: www.weareserfs.com
+    url: https://www.weareserfs.com
   facebook:
     name: The Serfs
     slug: serfspodcast
@@ -53,9 +49,10 @@ providers:
     name: The Serfs
     slug: UCEWrkBTDSYqJzQmp8gxQiMw
     url: https://www.youtube.com/channel/UCEWrkBTDSYqJzQmp8gxQiMw
-    description: |-
-      In a media landscape blemished with uncertainty two indentured plebs bring you their comedic spin on the weekly news. The only escape from the black death is a few moments to swill ale in a disease ridden tavern.
-
-      If you like what you see and hear please subscribe, share, and like at will. Be sure to check out our podcast at www.weareserfs.com
-    subscribers: 27456
+    description: In a media landscape blemished with uncertainty two indentured plebs
+      bring you their comedic spin on the weekly news. The only escape from the black
+      death is a few moments to swill ale in a disease ridden tavern. If you like
+      what you see and hear please subscribe, share, and like at will. Be sure to
+      check out our podcast at www.weareserfs.com
+    subscribers: 39000
 ---

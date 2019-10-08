@@ -1,0 +1,26 @@
+---
+title: Is Donald Trump Anti-Semitic? (A closer look)
+date: "2019-10-09T02:58:30+08:00"
+type: video
+description: 'It seems like an odd topic to explore considering his strong partnerships
+  with Israel and his son in law. Yet with the recent spike in horrific attacks under
+  his tenure we had to explore the unfortunate question: is the President of the United
+  States promoting or enabling anti-Semitic attacks? If you enjoy what you see and
+  hear don''t feel shy about subscribing, liking or sharing our channel. #antisemitic
+  #stophate #endracism Join the Serfs! www.patreon.com/theserfs Or find us on social
+  media: https://www.weareserfs.com https://twitter.com/Theserfspodcast https://www.instagram.com/serfspodcast/
+  https://www.facebook.com/serfspodcast https://itunes.apple.com/ca/podcast/the-serfs/id1226102303?mt=2
+  https://www.soundcloud.com/theserfs https://www.steemit.com/@serfspodcast/ Be sure
+  to hit the bell icon beside subscribe to make sure you get all the latest updates
+  as we expel them. Sources: https://newrepublic.com/minutes/140079/donald-trump-strange-pro-israel-anti-semitic-dance
+  https://www.theguardian.com/us-news/2018/oct/29/donald-trumps-rhetoric-has-stoked-antisemitism-and-hatred-experts-warn
+  https://www.haaretz.com/jewish/trump-the-jews-and-anti-semitism-a-dangerous-double-game-1.6601063
+  https://www.thedailybeast.com/milo-yiannopoulos-classroom-appearance-at-nyu-canceled
+  https://forward.com/scribe/381844/6-trump-officials-with-ties-to-anti-semites/ https://commons.wikimedia.org/wiki/Category:Douglas_Domenech#/media/File:Domenech-HiRes.jpg
+  https://creativecommons.org/licenses/by-sa/4.0/'
+publishdate: "2018-10-31T20:52:01.000Z"
+url: /theserfs/GfobJzRai7k/
+providers:
+  youtube:
+    id: GfobJzRai7k
+---
