@@ -13,7 +13,7 @@ ls data/channels/ | while read data; do
     echo "${folder} exists";
   fi
 
-  mv static/img/channels/$slug.jpg content/channels/$slug/logo.jpg;
+  mv static/img/channels/$slug.jpg content/channels/$slug/logo.jpg 2> /dev/null;
 
   ytname=$(echo `yq r $yml providers.youtube.name`);
   ytslug=$(echo `yq r $yml providers.youtube.slug`);

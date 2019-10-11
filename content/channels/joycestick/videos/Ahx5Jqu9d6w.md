@@ -1,0 +1,24 @@
+---
+title: The Quartering vs Big Joel - YouTube Mirror
+date: "2019-10-11T15:03:48+08:00"
+type: video
+description: 'This is a YouTube mirror of a recording of a debate which Big Joel had
+  with reactionary YouTuber The Quartering, in which he bombed miserably but acquired
+  some meager notoriety, as evidenced here: https://twitter.com/biggestjoel/status/1169316155468726272
+  Big Joel enters around 22:20, before which Quartering mostly waffles about the Twitter
+  thread Joel made about him, and remarks upon how he doesn''t know who this guy is.
+  The Quartering has ignored and blown off multiple requests from Big Joel to make
+  the debate public on YouTube (https://twitter.com/biggestjoel/status/1173287295618899982)
+  so I decided to rip the debate from Twitch and do the world a service by revealing
+  it for all. Subscribe to Big Joel, here: https://www.youtube.com/channel/UCaN8DZdc8EHo5y1LsQWMiig
+  Why Debating Sucks by Sarah Z: https://www.youtube.com/watch?v=VcHPmVxtFw8 For my
+  regular subscribers, I''m currently working on my next actual video, which is about
+  movies that feature climate change and/or environmentalism in their plots, and I
+  anticipate that video to be out within 1-2 weeks. Support Big Joel on Patreon: https://www.patreon.com/bigjoel
+  Also support me too: https://www.patreon.com/joycestick'
+publishdate: "2019-09-15T18:46:12.000Z"
+url: /joycestick/Ahx5Jqu9d6w/
+providers:
+  youtube:
+    id: Ahx5Jqu9d6w
+---

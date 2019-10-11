@@ -1,0 +1,32 @@
+---
+title: Doki Doki Literature Club’s Lonely Heart | joyce-stick
+date: "2019-10-11T15:03:49+08:00"
+type: video
+description: "Lots of people talk about Doki Doki Literature Club for its “deconstruction”
+  of VNs or whatever… but it’s actually a modern Lovecraftian horror tale designed
+  to resonate not only with the internet age, but the internet generation. And it’s
+  not Just Monika. Transcript https://joycestick.wordpress.com/2019/04/13/lovecraft-empathy-and-doki-doki-literature-clubs-lonely-heart-transcript
+  Monika and Sayori voiced by kimmy https://twitter.com/foxflowering hbomberguy lovecraft
+  video https://www.youtube.com/watch?v=l8u8wZ0WvxI I have a Patreon! Show me a little
+  love: https://www.patreon.com/joycestick Or leave me a tip! https://www.buymeacoffee.com/joycestick
+  This l’il qweer gal twéts: https://twitter.com/joy_ce_stick Curiosity killed the
+  catgirl: https://curiouscat.me/joyce-stick ♪♫\U0001F3B6 credits @ https://imgur.com/PtOSMnj
+  … Oh, you’re still here. Hi! Sorry, this took a really, *really*! long time. I was
+  working on an entirely different project for a bit and then came back to this after
+  a while. I’ve been planning this since like… October. Went through about four, five?
+  Revisions. I tweeted about it a bunch. And now I can stop tweeting because it’s
+  done. Between that, and being… more sad, more confused, more tired, more dysphoric,
+  and more, generally… blah, it’s just been a real SICK two months. SICK. And, um,
+  getting the voiced lines from kimmy also took a really long time. She was wonderful
+  and working with her was fun, but I don’t think I’ll be having voices besides my
+  own again for anything else any time soon, and I think she’d agree with that decision.
+  Kind of just hit a cap on how much she was able to do. Which is why I had to get
+  a tad creative with Sayori's voice in that one scene, given the circumstances. I’ll
+  try to make sure that the next thing… whatever it is… takes a lot less time. Assuming
+  I stay okay. Thanks. xoxoxo, nyaaaaaa"
+publishdate: "2019-04-13T13:15:01.000Z"
+url: /joycestick/j0jA2Qc-niY/
+providers:
+  youtube:
+    id: j0jA2Qc-niY
+---
