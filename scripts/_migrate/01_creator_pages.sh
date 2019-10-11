@@ -10,7 +10,7 @@ ls data/channels/ | while read data; do
     mkdir $folder;
     hugo new --kind channel-bundle "channels/${slug}";
   else
-    echo "${folder} exists;"
+    echo "${folder} exists";
   fi
 
   mv static/img/channels/$slug.jpg content/channels/$slug/logo.jpg;

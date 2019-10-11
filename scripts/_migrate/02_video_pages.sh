@@ -7,9 +7,11 @@ ls data/videos/ | while read channel; do
     path="channels/$channel/videos/$id.md";
     page="content/$path";
 
-    rm -rf $page;
-
-    hugo new --kind video $path;
+    if [ ! -f "$page" ]; then
+      hugo new --kind video $path;
+    else
+      echo "${page} exists";
+    fi
 
     description=$(echo `yq r $data description`);
     title=$(echo `yq r $data title`);
