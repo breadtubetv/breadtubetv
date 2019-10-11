@@ -4,10 +4,10 @@ date: "2019-10-02T20:35:46+08:00"
 type: video
 description: 'Baby, Its Dumb Outside: How Everything Became Problematic - An Antidote
   to Jordan Peterson CONTRIBUTING.md LICENSE README.md archetypes config.toml content
-  data i18n layouts netlify.toml public resources scripts static For those of you
-  anxious to tell me how the word "dumb" is ableist, just don''t. You''re wrong. Literally
-  no one uses it that way. The dictionary has multiple definitions for the word -
-  guess which one comes dead last due to the fact no one uses it that way anymore?
+  data hugo_cache i18n layouts netlify.toml public resources scripts static For those
+  of you anxious to tell me how the word "dumb" is ableist, just don''t. You''re wrong.
+  Literally no one uses it that way. The dictionary has multiple definitions for the
+  word - guess which one comes dead last due to the fact no one uses it that way anymore?
   And now guess how far up the list the one I''m using is? I''m glad we had this talk.
   Become a patron! https://www.patreon.com/the_swoletariat Give Huntress X Thomspon
   a sub! https://www.youtube.com/channel/UCnAOIfdL832B16f9Gb4xeTA Sources (most of
