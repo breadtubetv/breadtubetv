@@ -1,0 +1,27 @@
+---
+title: 'Library Porn and Understanding Theory | Day in the Life of a PhD Student:
+  Friday | PhD Vlog'
+date: "2019-10-11T16:09:18+08:00"
+type: video
+description: 'The last in my week of daily phd student vlogs in which I go to what
+  must be one of the coolest libraries in the world and make a breakthrough in understanding
+  some tough theory. Full series: https://www.youtube.com/playlist?list=PLIVcDWpMT7Kep7qX59xYPyIooeY1S-_CB
+  Some even cooler libraries: https://www.buzzfeed.com/mattortile/49-breathtaking-libraries-from-all-over-the-world?utm_term=.ux9K6xRYz#.plYl48YvA
+  Follow a day in the life of a PhD Student as I begin my week of PhD vlogs. My aim
+  is to record one video from Monday to Friday this week, releasing them two days
+  later (Wednesday - Sunday) to give you a full insight into a week as a PhD student
+  and a broader look at postgrad PhD student life in general. There''ll be lots of
+  reading academic papers and academic journals as well as books, lots of note taking,
+  PhD thesis writing and (hopefully) some fun stuff too! This is something that people
+  have asked for a number of times in the comments of some of my other videos so I
+  hope you enjoy! If you''ve enjoyed this video then please do check out the rest
+  of my channel where I put out a whole range of videos discussing theatre and playwriting
+  from the perspective of an aspirant and (some might say) emerging playwright and
+  theatre maker as well as reflecting on my experience as a PhD Student. Twitter:
+  @Tom_Nicholas Website: www.tomnicholas.com Thanks for watching!'
+publishdate: "2017-08-27T15:00:03.000Z"
+url: /tomnicholas/fqis6Ah9GyY/
+providers:
+  youtube:
+    id: fqis6Ah9GyY
+---

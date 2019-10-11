@@ -1,0 +1,21 @@
+---
+title: Incel-ebration of Joker
+date: "2019-10-11T16:06:29+08:00"
+type: video
+description: 'Contains multiple spoilers. Examining the good and bad responses to
+  JOKER. And how the movie just misses out on being a masterpiece. === Throw your
+  spare change at me in the street, or via PAYPAL: https://www.paypal.me/AntiSocialMedia
+  Ko-Fi (Buy me a coffee) : https://ko-fi.com/anti_socialmedia Or donate $1 (or more)
+  per month via PATREON: https://www.patreon.com/AntiSocialMedia x ===== ANTI-SOCIAL
+  MEDIA on Twitter: https://twitter.com/ASM_AntiSocial Listen to the Anti-Social Media
+  Podcast via; iTUNES: https://itunes.apple.com/gb/podcast/anti-social-media-podcast/id1076431995?mt=2
+  SPREAKER: https://www.spreaker.com/user/antisocialmedia SOUNDCLOUD: https://soundcloud.com/antisocial_media
+  Stitcher Radio: https://www.stitcher.com/podcast/antisocial-media-podcast Podbean:
+  https://antisocialmediapodcast.podbean.com/ ASM on YouTube: https://www.youtube.com/c/AntiSocialMedia
+  Xx'
+publishdate: "2019-10-06T18:06:47.000Z"
+url: /antisocialmedia/CmsK0yNvywQ/
+providers:
+  youtube:
+    id: CmsK0yNvywQ
+---

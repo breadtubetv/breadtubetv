@@ -1,0 +1,21 @@
+---
+title: БЕСКОНТАКТНЫЙ БОЙ [Аард для бедных]
+date: "2019-10-11T16:10:03+08:00"
+type: video
+description: 'Если вы хотите помочь проекту: https://goo.gl/pdNC3E Канал: https://www.youtube.com/user/TrashRecord
+  Мой блог: https://www.youtube.com/c/SmashJournal Группа ВК: https://vk.com/trashsmash
+  Ссылки на материалы: http://humanism.al.ru/ru/articles.phtml?num=000094 (Член Комиссии
+  по борьбе с лженаукой РАН - Алесандров, о лженаучной терминологии) [249-251] Дэвид
+  Майерс, Социальная Психология – 7-е изд. – СПб.: Питер, 2016 – 800 с.: ил. https://youtu.be/_LYe58b-3HM
+  (Советский фильм «я и другие») http://houdiniprize.org/podat-zayavku/ (Премия Гудини
+  – подавать заявки сюда) http://psycnet.apa.org/record/1998-02892-007 (Одна из первых
+  работ посвященных взаимозависимости настроений) http://www.aikiweb.com/training/ledyard3.html
+  (Критики внутри айкидо) На канале Михаила Лидина можно найти разоблачение различных
+  "мастеров бесконтакта": https://www.youtube.com/user/TheMyinnergame #TrashSmash
+  #Бесконтакт #Конформизм'
+publishdate: "2018-10-21T11:15:00.000Z"
+url: /trashsmash/9AZcjpiRKHY/
+providers:
+  youtube:
+    id: 9AZcjpiRKHY
+---

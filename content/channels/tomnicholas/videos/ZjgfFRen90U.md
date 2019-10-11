@@ -1,0 +1,16 @@
+---
+title: Narvik by Lizzie Nunnery (Box of Tricks) at Manchester HOME | Performance Analysis
+date: "2019-10-11T16:09:12+08:00"
+type: video
+description: 'Around a month ago, I saw Box of Trick''s production of Narvik by Lizzie
+  Nunnery at HOME in Manchester. Here are some thoughts... Narvik is currently on
+  tour, for more information head to http://boxoftrickstheatre.co.uk/production/narvik-2017/
+  Narvik production photos by Alex Mead of Decoy Media Journey in the New World by
+  Twin Musicom is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)
+  Source: http://www.twinmusicom.org/song/258/journey-in-the-new-world Artist: http://www.twinmusicom.org'
+publishdate: "2017-03-03T10:32:03.000Z"
+url: /tomnicholas/ZjgfFRen90U/
+providers:
+  youtube:
+    id: ZjgfFRen90U
+---

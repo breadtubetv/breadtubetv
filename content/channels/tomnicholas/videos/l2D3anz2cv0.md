@@ -1,0 +1,20 @@
+---
+title: £¥€$ (Lies) by Ontroerend Goed (Summerhall, Edinburgh Fringe 2017) | Performance
+  Analysis
+date: "2019-10-11T16:09:28+08:00"
+type: video
+description: 'I caught Ontroerend Goed''s £¥€$ (or Lies) at the Drum Theatre this
+  week ahead of its transfer to Summerhall and the Edinburgh Festival Fringe. This
+  interactive piece by the Belgian provocateurs sees the theatre transformed into
+  a casino and audiences into freewheeling free market capitalists. Here''s my performance
+  analysis of the show. If you''ve enjoyed this video then please do check out the
+  rest of my channel. I generally put out new videos every Tuesday and Friday discussing
+  theatre and playwriting from the perspective of an aspirant and (some might say)
+  emerging playwright, theatre maker and academic. Twitter: @Tom_Nicholas Website:
+  www.tomnicholas.com Thanks for watching!'
+publishdate: "2017-06-14T16:49:04.000Z"
+url: /tomnicholas/l2D3anz2cv0/
+providers:
+  youtube:
+    id: l2D3anz2cv0
+---

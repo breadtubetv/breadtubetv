@@ -1,0 +1,23 @@
+---
+title: The Revolutionary Feminist Music of Actually Huizenga
+date: "2019-10-11T16:22:53+08:00"
+type: video
+description: 'Support Zero Books on Patreon: https://www.patreon.com/zerobooks Subscribe:
+  http://bit.ly/SubZeroBooks Joanna Demers, author of Drone Apocalypse and Anatomy
+  of Thought Fiction returns with another video essay on contemporary music. Demers
+  considers the music films of Actually Huizenga and advocates for Huizenga’s art
+  even during and perhaps slightly as a response to this #Metoo moment. Check out
+  Actually Huizenga’s Music Videos on her youtube channel: https://www.youtube.com/channel/UC3HsD_cwlFMXlOc76w2qIaA
+  Watch the most popular Zero Books episodes: http://bit.ly/2KbC2hF Facebook: https://www.facebook.com/ZeroBooks/
+  Twitter: https://twitter.com/zer0books Patreon: https://www.patreon.com/zerobooks
+  Zero Books Manifesto: The modern world is at an impasse. Disasters scroll across
+  our smartphone screens and we’re invited to like, follow or upvote, but critical
+  thinking is harder and harder to find. Rather than connecting us in common struggle
+  and debate, the internet has sped up and deepened a long-standing process of alienation
+  and atomization. Zer0 Books wants to work against this trend.'
+publishdate: "2018-06-14T08:13:37.000Z"
+url: /zerobooks/DIJD3Pvt_fU/
+providers:
+  youtube:
+    id: DIJD3Pvt_fU
+---

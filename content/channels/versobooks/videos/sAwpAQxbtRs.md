@@ -1,0 +1,21 @@
+---
+title: Franco "Bifo" Berardi on the global Silicon Valley
+date: "2019-10-11T16:14:46+08:00"
+type: video
+description: 'Renowned Italian theorist Franco “Bifo” Berardi discusses our current
+  political impotence and the tool of humiliation in demoralizing and manipulating
+  citizens, which helps to explain Trump’s victory and the power of figures like Nigel
+  Farage. But rather than despair, Bifo argues that we should see in this humiliation
+  the possibility of autonomy and eventually, communism. Berardi discusses the seemingly
+  omnipresent Silicon Valley, arguing that whenever there is a hippie, a punk, an
+  engineer, a rebel with a keyboard, the global Silicon Valley is there. Its ubiquitousness
+  is our power. To celebrate the publication of Bifo Berardi’s new book Futurability:
+  The Age of Impotence and the Horizon of Possibility, we’re offering 40% off all
+  books on our ''Horizon of Possibility'' reading list. Sale ends July 23 at 23:59
+  UTC: https://www.versobooks.com/blogs/3315-horizon-of-possibility-reading-list?discount_code=HorizonOfPossibility'
+publishdate: "2017-07-18T19:00:14.000Z"
+url: /versobooks/sAwpAQxbtRs/
+providers:
+  youtube:
+    id: sAwpAQxbtRs
+---

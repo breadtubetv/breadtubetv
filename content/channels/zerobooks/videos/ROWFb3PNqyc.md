@@ -1,0 +1,17 @@
+---
+title: 'Officious: Rise of the Busybody State'
+date: "2019-10-11T16:23:26+08:00"
+type: video
+description: 'In Anglo-Saxon countries there is a new and distinctive form of state:
+  the busybody state. This state is defined by an attachment to bureaucratic procedures
+  for their own sake: the rule for the sake of a rule; the form for the sake of a
+  form. Its insignias are the badge, the policy, the code and the procedure. The logic
+  of the regulation is neither to represent an elite class interest, nor to serve
+  the public, nor even to organise social relations with the greatest efficiency as
+  with classic bureaucracy, but rather to represent regulation itself. http://www.zero-books.net/books/officious'
+publishdate: "2016-10-19T22:33:08.000Z"
+url: /zerobooks/ROWFb3PNqyc/
+providers:
+  youtube:
+    id: ROWFb3PNqyc
+---

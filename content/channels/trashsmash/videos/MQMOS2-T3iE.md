@@ -1,0 +1,21 @@
+---
+title: 'Солнцееды: как стать овощем ?'
+date: "2019-10-11T16:10:08+08:00"
+type: video
+description: 'А как часто вы слышали о солнцеедах? Ссылки на материал: Случаи смерти:
+  http://www.webcitation.org/64qSFmFaz http://www.nydailynews.com/life-style/health/swiss-women-dies-giving-water-food-thought-live-sunlight-article-1.1067359
+  http://www.smh.com.au/world/yogi-beaten-by-bear-necessities-of-life-without-food-20100514-v3fd.html
+  http://www.heraldsun.com.au/archive/news/swiss-woman-starved-to-death-on-daylight-diet/story-e6frf7lf-1226339082591
+  http://www.webcitation.org/64qSFA5ho Фокусы выживания: http://www.1tv.ru/news/world/43763
+  Сведения о «гуру»: http://www.youtube.com/watch?v=G9On0X3nBaY http://www.rationalistinternational.net/article/2010/20100518/en_1.html
+  http://elvensou1.ru/krah-pranoedeniya-prahlad-dzhani/ http://www.dnaindia.com/india/1383648/report-rationalists-doubt-claims-made-for-mataji-prahalad-jani
+  http://www.dailymail.co.uk/news/article-1274779/The-man-says-eaten-drunk-70-years-Why-eminent-doctors-taking-seriously.html&sandbox=0&usg=ALkJrhj8BbzjxflIxF1vYMjnA3eBWL7GXw
+  http://rutube.ru/video/ff0e6b7734c951ad54f64a94258fa04f/ http://www.smh.com.au/world/yogi-beaten-by-bear-necessities-of-life-without-food-20100514-v3fd.html
+  «Экзотические» диеты: http://www.molomo.ru/inquiry/unusual_diets.html http://devahi.net/kim-kelli-pitalas-odnoj-tolko-spermoj-8-dnej-1346/
+  http://indrablog.ru/top-10-samyx-nelepyx-diet.html'
+publishdate: "2013-10-08T16:55:04.000Z"
+url: /trashsmash/MQMOS2-T3iE/
+providers:
+  youtube:
+    id: MQMOS2-T3iE
+---

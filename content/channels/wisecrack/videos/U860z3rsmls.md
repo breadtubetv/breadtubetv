@@ -1,0 +1,29 @@
+---
+title: 'Netflix''s Black Mirror: Bandersnatch – Do You REALLY Have Choice?'
+date: "2019-10-11T16:19:26+08:00"
+type: video
+description: 'Check Out Our Movie Podcast, Show Me The Meaning! ► https://wscrk.com/2DoYjXH
+  Subscribe to Wisecrack! ► http://wscrk.com/SbscrbWC Join Our Discord Chat or see
+  the research for this video on WisecrackPLUS ► http://wscrk.com/YtWcPls Netflix''s
+  first attempt at interactivity was certainly an ambitious one. Not only does it
+  introduce choice in storytelling for the first time ever on the platform, but it
+  also invites the audience to question HOW that choice affects the nature of story.
+  In this Wisecrack vlog, we''ll talk about a concept called "ludonarrativity" and
+  how "Bandersnatch" highlights the complexity of storytelling in gaming. == Subscribe
+  to Show Me the Meaning! Podcast == iTunes ............ http://wscrk.com/ituShMtMng
+  Google Play ... http://wscrk.com/gpmShMtMng Soundcloud .... http://wscrk.com/scdShMtMng
+  Spotify ............ http://wscrk.com/spfyShMtMng === Watch More Episodes! === NIC
+  CAGE Deep or Dumb? ► https://wscrk.com/2R1bsKd DONNIE DARKO: Deep or Dumb? ► https://wscrk.com/2CmlL6f
+  The Philosophy of J.R.R. Tolkein ►https://wscrk.com/2LQQsF2 IT''S ALWAYS SUNNY IN
+  PHILADELPHIA: How To NOT Suck After 13 Seasons ► https://wscrk.com/2SpGDk5 Why SOUTH
+  PARK Can''t Beat Amazon ► https://wscrk.com/2CEj2q4 What Went Wrong: JUSTICE LEAGUE
+  ► https://wscrk.com/2QHRM2A Store ........... http://wisecrackstore.com Twitter
+  ......... https://twitter.com/wisecrack Facebook .... https://facebook.com/wisecrackedu
+  Written and Hosted by: Jared Bauer Edited by: Kalani Newman Additional Gameplay
+  by: Sam Druckerman Produced by: Emily Dunbar © 2019 Wisecrack, Inc.'
+publishdate: "2019-01-24T18:00:02.000Z"
+url: /wisecrack/U860z3rsmls/
+providers:
+  youtube:
+    id: U860z3rsmls
+---

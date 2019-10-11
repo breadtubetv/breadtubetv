@@ -1,0 +1,27 @@
+---
+title: 'Flat Earth: What Makes REAL Science? – Wisecrack Edition'
+date: "2019-10-11T16:21:08+08:00"
+type: video
+description: 'Create Your Own Website For FREE! ► http://wix.com/wisecrack Subscribe
+  to Wisecrack! ► http://wscrk.com/SbscrbWC Join Our Discord Chat and get access to
+  EXCLUSIVE content on WisecrackPLUS ► http://wscrk.com/YtWcPls How do we know what
+  we know? Join us as we get nerdy about the philosophy of science and how it relates
+  to the rotundity of the Earth. === Watch More Episodes! === US and the American
+  Dream ► https://wscrk.com/2HWhOtC Big Mouth VLOG ► https://wscrk.com/2OnuYB7 Memification
+  of Actors ► https://wscrk.com/2ukigtr BANKSY Deep or Dumb? ► https://wscrk.com/2OdhA29
+  The Philosophy of BILLIONS ► https://wscrk.com/2TSd6mM PROMETHEUS and ALIEN COVENANT:
+  Deep or Dumb? ► https://wscrk.com/2Hie8ly Why Our Horror Movies Are Different Now
+  ► https://wscrk.com/2BRqRbq Store ........... http://wisecrackstore.com Twitter
+  ......... https://twitter.com/wisecrack Facebook .... https://facebook.com/wisecrackedu
+  #FlatEarth #RoundEarth Mercury Orbit Illustration Credit: Laura Guerin Source: CK-12
+  Foundation ► https://www.ck12.org/physics/Orbital-Motion/rwa/Mercurys-Orbit/ License:
+  CC BY-NC 3.0 ► https://creativecommons.org/licenses/by-nc/3.0/legalcode Written
+  by: Alec Opperman Directed by: Michael Luxemburg Hosted by: Jared Bauer Edited by:
+  Mark Potts Motion Graphics by: Drew Levin Produced by: Emily Dunbar © 2019 Wisecrack,
+  Inc.'
+publishdate: "2019-03-30T17:00:08.000Z"
+url: /wisecrack/umo6pMCkcXs/
+providers:
+  youtube:
+    id: umo6pMCkcXs
+---

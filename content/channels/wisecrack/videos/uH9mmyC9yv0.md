@@ -1,0 +1,23 @@
+---
+title: 'Netflix''s MANIAC: Is It Deep or Dumb? – Wisecrack Edition'
+date: "2019-10-11T16:21:06+08:00"
+type: video
+description: 'Thanks to Wix for Sponsoring this Video! Build Your Own Website at:
+  https://www.wix.com/go/wisecrack VOTE On What We Should Cover Next: https://wscrk.com/2Onx0iK
+  Join WisecrackPLUS for Exclusive Pilot Access: http://wscrk.com/YtWcPls Subscribe
+  to Wisecrack! ....................... http://wscrk.com/SbscrbWC Welcome to this
+  Half-Baked Wisecrack Edition on Netflix''s MANIAC, created by Cary Joji Fukunaga!
+  === More Episodes! === Kanye and the End of Reality ► https://wscrk.com/KyfbWE SOUTH
+  PARK on Giving Up ► https://wscrk.com/SthPrk22QT Satire of RED DEAD REDEMPTION ►
+  https://wscrk.com/SRdDdWE Disney''s STAR WARS Crisis ► https://wscrk.com/SWCrsWE
+  The Philosophy of VR ► https://wscrk.com/PhVRWE Store ........... http://wisecrackstore.com
+  Twitter ......... https://twitter.com/wisecrack Facebook .... https://facebook.com/wisecrackedu
+  Written by: Jared Bauer, Alec Opperman, Michael Luxemburg Directed by: Elizabeth
+  Yarwood Edited by: Mark Potts Produced by: Emily Dunbar Opening Wisecrack Animation
+  by: Michael Sinclair (https://diedfamo.us) © 2018 Wisecrack, Inc.'
+publishdate: "2018-11-03T17:00:04.000Z"
+url: /wisecrack/uH9mmyC9yv0/
+providers:
+  youtube:
+    id: uH9mmyC9yv0
+---

@@ -1,0 +1,20 @@
+---
+title: Фрик-Шоу [Стерлигов]
+date: "2019-10-11T16:10:10+08:00"
+type: video
+description: 'Если вы хотите помочь проекту: http://vk.cc/448Srh Канал: https://www.youtube.com/user/TrashRecord
+  Группа ВК: https://vk.com/trashsmash Ссылки на материалы: https://blogs.cfainstitute.org/investor/2013/04/16/gold-and-international-reserve-currencies/
+  (Золотой стандарт) http://www.rbc.ru/rbcfreenews/559a7ad39a79471d186d61b8 (Стерлигов
+  ретировался) https://drive.google.com/open?id=0B6OylzQoo56GX2pSRl9rZHlmX0k (Исследования
+  изнасилований) http://zona.media/news/titarenko-100/ (Штраф активисту за репост
+  ВК) http://zona.media/agenda/perepost/ (как и предыдущее) http://lenta.ru/news/2014/01/04/brewer/
+  (гробница древнеегипетского пивовара.) https://drive.google.com/file/d/0B6OylzQoo56GWmFJQnhmUWNWWnM/view?usp=sharing
+  ( О белках MHC стр. 251) http://www.fa.ru/chair/priklsoc/Documents/%D0%9A%D0%BE%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5%20%D0%BE%D1%86%D0%B5%D0%BD%D0%BA%D0%B8%20%D0%B2%20%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8.pdf
+  (Средняя продолжительность жизни) http://zona.media/online/snova-khasis/#6988 (Стерлигов
+  готов платить за нападение на представителей секс-меньшинств.)'
+publishdate: "2015-10-01T16:40:53.000Z"
+url: /trashsmash/TrJCRCKVL6w/
+providers:
+  youtube:
+    id: TrJCRCKVL6w
+---

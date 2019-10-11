@@ -1,0 +1,30 @@
+---
+title: 'BioShock 2: Is It Deep or Dumb? – Wisecrack Edition'
+date: "2019-10-11T16:19:59+08:00"
+type: video
+description: 'Get your personalized rate, TODAY! Go to https://upstart.com/wisecrack
+  Thanks to Upstart for sponsoring this episode! Subscribe to Wisecrack! ► http://wscrk.com/SbscrbWC
+  Join WisecrackPLUS for EXCLUSIVE content! ► http://wscrk.com/YtWcPls Bioshock is
+  one of the most revered video games in recent memory, but the middle child of the
+  franchise has been the cause of much debate. Some love Bioshock 2, while others
+  find it shallow and disappointing. In this Wisecrack Edition we’ll find out if the
+  game lives up the the intellectual ambitions of its predecessor; if it’s deep or
+  dumb? === Watch More Episodes! === How REMAKES go Wrong (THE LION KING, ALADDIN)
+  ► https://wscrk.com/2ZoL8Pf How ANIME Deals With History (MY HERO ACADEMIA, ATTACK
+  ON TITAN, GUNDAM WING) ► https://wscrk.com/2GyvYzm BLACK MIRROR: Is it Deep or Dumb?
+  ► https://wscrk.com/2JT9gUN Why Motherhood is so Terrifying in HORROR (THE BABADOOK,
+  HEREDITARY) ► https://wscrk.com/2ykwXPv ONE PUNCH MAN: What Went Wrong? ► https://wscrk.com/2YXEMpK
+  THE OFFICE: How Nonsense Conquered the Workplace ► https://wscrk.com/2NWzrOE Store
+  ........... http://wisecrackstore.com Twitter ......... https://twitter.com/wisecrack
+  Facebook .... https://facebook.com/wisecrackedu Interview Source: "Levine: Why I
+  passed on Bioshock 2", Wesley Yin-Poole - Eurogamer https://www.eurogamer.net/articles/2010-08-12-levine-why-i-passed-on-bioshock-2
+  Additional Footage by & Very Special Thanks to: MrBlockzGaming: https://www.youtube.com/channel/UC1OfyX39KAkaX-JKaWzIoKQ
+  Written by: Dan Neilan Directed by: Michael Luxemburg Hosted by: Jared Bauer Edited
+  by: Andrew Nishimura Motion Graphics by: Drew Levin Produced by: Evan Yee and Emily
+  Dunbar © 2019 Wisecrack'
+publishdate: "2019-08-03T17:00:02.000Z"
+url: /wisecrack/b81nGs7J3y0/
+providers:
+  youtube:
+    id: b81nGs7J3y0
+---

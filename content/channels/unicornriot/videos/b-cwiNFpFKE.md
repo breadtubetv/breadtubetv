@@ -1,0 +1,17 @@
+---
+title: Authorities Continue Violent Crackdown on Last Day of 2017 G20 Summit
+date: "2019-10-11T16:12:12+08:00"
+type: video
+description: '[CC] On the last day of the G-20 Summit, an estimated 200,000 people
+  took part in a ''Solidarity Without Borders'' demonstration and march. After the
+  march, many thousands of people mingled about in Hamburg''s St. Pauli neighborhood
+  and were met with riot police using water cannons, tear gas, and beatings to disperse
+  people off the streets, sidewalks, bars, and even open parks. For more information:
+  www.unicornriot.ninja/?p=17018 For our G-20 media: www.unicornriot.ninja/?p=16802
+  To help support our work: www.unicornriot.ninja/?page_id=211'
+publishdate: "2017-07-14T20:43:44.000Z"
+url: /unicornriot/b-cwiNFpFKE/
+providers:
+  youtube:
+    id: b-cwiNFpFKE
+---

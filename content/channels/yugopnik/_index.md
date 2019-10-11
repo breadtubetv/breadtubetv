@@ -1,15 +1,11 @@
 ---
-description: Politically conscious leftist Slav who sometimes makes YouTube videos.
-  Tovarishch. He/Him. Alcohol enthusiast.
+description: 'The Slav who takes your girlfriend and teaches her advanced political
+  theory at the same time. Twitta'' : https://twitter.com/yugopnik'
 title: YUGOPNIK
 type: channel
 menu:
   main:
     parent: Channels
-videos:
-- -WRP2F1Io94
-- XsFUiFdO_sY
-- _EkaM3K9nNc
 tags:
 - breadtube
 url: /yugopnik/
@@ -24,9 +20,7 @@ providers:
     name: YUGOPNIK
     slug: UCs8mbJ-M142ZskR5VR0gBig
     url: https://www.youtube.com/channel/UCs8mbJ-M142ZskR5VR0gBig
-    description: |-
-      Society obsessed Slavic edge lord
-
-      Twitta' : https://twitter.com/yugopnik
-    subscribers: 1751
+    description: 'The Slav who takes your girlfriend and teaches her advanced political
+      theory at the same time. Twitta'' : https://twitter.com/yugopnik'
+    subscribers: 1980
 ---

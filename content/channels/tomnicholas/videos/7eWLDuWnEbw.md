@@ -1,0 +1,24 @@
+---
+title: 'Social Class: WTF? Introduction to Bourdieu and Marx on class'
+date: "2019-10-11T16:08:58+08:00"
+type: video
+description: 'In today''s What the Theory?, I take a look social class looking at
+  both Karl Marx''s theory of class as well as Pierre Bourdieu, cultural capital and
+  more societally rooted approaches to class in the twenty-first century. This video
+  should hopefully be useful for anyone looking to have an understanding of class
+  in sociology, cultural studies and the humanities. Further Reading Chavs: The Demonisation
+  of the Working Class by Owen Jones US: https://amzn.to/2EGeCA6 UK: https://amzn.to/2VsxEiZ
+  Distinction: A Social Critique of the Judgement of Taste by Pierre Bourdieu US:
+  https://amzn.to/2H8YXLu UK: https://amzn.to/2SBJfKL [The above are affiliate links.
+  I receive a small kickback from anything you buy which, in turn, helps to support
+  the channel.] If you''ve enjoyed this video then please do check out the rest of
+  my channel where I put out a whole range of videos discussing theatre and playwriting
+  from the perspective of an aspirant and (some might say) emerging playwright and
+  theatre maker as well as reflecting on my experience as a PhD Student. Twitter:
+  @Tom_Nicholas Website: www.tomnicholas.com Thanks for watching!'
+publishdate: "2017-10-08T22:35:44.000Z"
+url: /tomnicholas/7eWLDuWnEbw/
+providers:
+  youtube:
+    id: 7eWLDuWnEbw
+---

@@ -1,0 +1,14 @@
+---
+title: Trump endorses accused pedophile Roy Moore, Moore on how he met his wife
+date: "2019-10-11T16:15:55+08:00"
+type: video
+description: 'President Trump on why he endorses accused child molester Roy Moore
+  for the Senate and Roy Moore talks about the first time he saw the child who would
+  eventually be his wife. If you like my videos and want to support my work, check
+  out my Patreon here: https://www.patreon.com/vicberger'
+publishdate: "2017-11-24T16:50:54.000Z"
+url: /vicberger/g9QOBT5wg-I/
+providers:
+  youtube:
+    id: g9QOBT5wg-I
+---

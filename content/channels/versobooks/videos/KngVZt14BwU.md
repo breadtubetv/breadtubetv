@@ -1,0 +1,54 @@
+---
+title: 'The Fall That Wasn’t: A Decade Since the Financial Crisis'
+date: "2019-10-11T16:14:19+08:00"
+type: video
+description: 'With Astra Taylor, Sarah Jaffe, Ajay Singh Chaudhary, Rebecca Ariel
+  Porte, and Raphaële Chappe. The 2008 financial crisis shook to the core not only
+  the global economy, but also prevailing myths about the efficiency of markets, the
+  possibility of endless profits and growth, and the inviolability of capitalism.
+  Documentarian Astra Taylor and journalist Sarah Jaffe join BISR faculty Ajay Singh
+  Chaudhary, Rebecca Ariel Porte, and Raphaële Chappe for a wide-ranging panel discussion
+  of the causes and contexts of the crash, as well as its lasting, overwhelming consequences
+  for policy, politics, and culture. Filmed at Verso Books in Brooklyn on September
+  27, 2018. Co-sponsored by the Brooklyn Institute for Social Research (BISR). (Some
+  portions of the event are unavailable due to technical problems.) ---- ABOUT THE
+  SPEAKERS: ASTRA TAYLOR is a writer, documentarian, and organizer. Her films include
+  “Zizek!” and “Examined Life,” a series of excursions with contemporary thinkers
+  including Slavoj Zizek, Judith Butler, Cornel West, Peter Singer, and others. Taylor’s
+  writing has appeared in The Nation, the London Review of Books, n+1, the New York
+  Times, The New Yorker, The New Republic, and elsewhere. She is the editor of “Examined
+  Life,” a companion volume to the film, and the coeditor of “Occupy!: Scenes from
+  Occupied America” (Verso 2011). Most recently she is the author of the book “The
+  People’s Platform: Taking Back Power and Culture in the Digital Age,” winner of
+  a 2015 American Book Award. She helped launch the Rolling Jubilee campaign and co-founded
+  the Debt Collective. SARAH JAFFE is a Nation Institute fellow and an independent
+  journalist covering labor, economic justice, social movements, politics, gender,
+  and pop culture. Her work has appeared in The Nation, Salon, the Week, the American
+  Prospect, the Washington Post, the Atlantic, and many other publications. She is
+  the co-host, with Michelle Chen, of Dissent magazine’s “Belabored” podcast, as well
+  as an editorial board member at Dissent and a columnist at New Labor Forum. “Necessary
+  Trouble: Americans in Revolt” is her first book. AJAY SINGH CHAUDHARY is the executive
+  director of the Brooklyn Institute for Social Research and a core faculty member
+  specializing in social and political theory. His research focuses on social and
+  political theory, Frankfurt School critical theory, political economy, media, religion,
+  and post-colonial studies. He has written for the The Guardian, Los Angeles Review
+  of Books, Quartz, Social Text, Dialectical Anthropology, The Jewish Daily Forward,
+  Filmmaker Magazine, and 3quarksdaily, among other venues. Ajay is currently working
+  on a book of political theory for the Anthropocene. REBECCA ARIEL PORTE holds a
+  Ph.D. in English Language and Literature from the University of Michigan, Ann Arbor.
+  Her research, which centers on nineteenth- and twentieth-century movements in British
+  and American poetry, concentrates on crossings between early analytic philosophy
+  and modern theories of poetics and aesthetics. Reviews and essays have appeared
+  in the Boston Review, the Los Angeles Review of Books, and io9, among other publications.
+  RAPHAËLE CHAPPE holds a PhD in Economics from The New School for Social Research,
+  an LL.M from New York University School of Law, a Master’s degree in Comparative
+  Business Law from the University of Pantheon-Sorbonne in Paris, France, and an LL.B
+  in Law and French Law from King’s College London. Her research interests include
+  the link between financial markets and wealth inequality; political economy and
+  the history of economic thought; and the philosophical foundations of microeconomics.'
+publishdate: "2018-10-22T19:38:29.000Z"
+url: /versobooks/KngVZt14BwU/
+providers:
+  youtube:
+    id: KngVZt14BwU
+---

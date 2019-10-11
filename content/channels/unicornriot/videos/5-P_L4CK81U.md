@@ -1,0 +1,16 @@
+---
+title: 'Beloved Community Village: Denver''s First Tiny Home Village'
+date: "2019-10-11T16:10:52+08:00"
+type: video
+description: 'Denver, CO - Saturday, May 20, 2017, was the first official build day
+  for Denver''s first tiny home village. Beloved Community Village will be home to
+  14 residents who are currently without housing. When construction is complete at
+  the beginning of June, it will have 11 tiny homes, a community building, a shower
+  building, bathrooms, community gardens, and more. To learn more, visit: https://belovedcommunityvillage.wordpress.com/
+  Visit Unicorn Riot''s website for more media: www.unicornriot.ninja'
+publishdate: "2017-05-22T18:08:48.000Z"
+url: /unicornriot/5-P_L4CK81U/
+providers:
+  youtube:
+    id: 5-P_L4CK81U
+---

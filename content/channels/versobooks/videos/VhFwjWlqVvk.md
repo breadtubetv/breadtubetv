@@ -1,0 +1,39 @@
+---
+title: The Queer Left
+date: "2019-10-11T16:14:27+08:00"
+type: video
+description: 'How has Marxism informed the struggles for queer liberation? And how
+  have movements for the rights of sexual minorities changed the terrain of American
+  society? Set 17 of the Verso Radical Thinkers series presents previously unpublished
+  and out-of-print works of some of the pioneering contributions of queer—in this
+  instance, gay and lesbian—leftists in the 1980s and 90s. The books in this set began
+  the process of rethinking issues of sexuality and gender that has continued up to
+  the present. While we have much fuller understanding of sexuality, gender and trans
+  issues today, we should not forget the significance of the earlier contributions.
+  Presentations by: Rebecca Ariel Porte, Jeffrey Escoffier, Amber Hollibaugh, Christopher
+  Mitchell, Robert Owen Hawk, Max Fox, and Hector Lionel. Verso Radical Thinkers series,
+  set 17—“American Homo,” “Come Together,” “Homosexuality: Power and Politics,” “Pink
+  Triangles”: https://www.versobooks.com/series_collections/5-radical-thinkers Co-sponsored
+  by Verso Books and Brooklyn Institute for Social Research. Recorded at the Verso
+  Loft in Brooklyn, October 17, 2018. ------ ABOUT THE SPEAKERS: Rebecca Ariel Porte
+  is a member of the Core Faculty at the Brooklyn Institute for Social Research, where
+  she teaches a spectrum of courses in literature, philosophy, and theory across centuries,
+  cultures, and canons. She is currently at work on a book about paradise, Arcadia,
+  and the Golden Age. Jeffrey Escoffier is the author of “American Homo: Community
+  and Perversity” and the former executive editor of Socialist Review and the founder
+  and publisher of OUT/LOOK. Amber Hollibaugh is a community organizer and the author
+  of “My Dangerous Desires: A Queer Girl Dreaming Her Way Home” (Duke University Press,
+  2000). She has a piece in “Homosexuality, Power and Politics,” edited by the Gay
+  Left Collective. She is the former Executive Director of Queers for Economic Justice
+  and this year’s Kessler Lecturer at CLAGS/CUNY. Christopher Mitchell, economic historian
+  and the Doctoral Lecturer in Gender/Sexuality Studies, at Hunter College at CUNY.
+  Robert Owen Hawk is a writer and the editor of SchoolofThot.com. Max Fox is a freelance
+  writer and New Inquiry editorial board member. Hector Lionel is an actor, singer
+  and writer. He recently performed his cabaret show “Boleros and All That Jazz” in
+  his native Puerto Rico. He will perform two songs including a leftwing anthem.'
+publishdate: "2018-10-23T19:48:00.000Z"
+url: /versobooks/VhFwjWlqVvk/
+providers:
+  youtube:
+    id: VhFwjWlqVvk
+---

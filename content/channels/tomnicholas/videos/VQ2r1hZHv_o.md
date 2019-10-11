@@ -1,0 +1,28 @@
+---
+title: Reading Classic Books for Beginners
+date: "2019-10-11T16:09:09+08:00"
+type: video
+description: 'Reading classic books can often seem daunting. Classic literature books
+  within the English Literature canon come with a fair amount of cultural baggage
+  and, because of this, many people are put off reading classics. Yet, since I''ve
+  started trying to read more classics, I''ve been really enjoying the works of George
+  Eliot, James Joyce, Charles Dickens and others. In this video, Reading Classic Books
+  for Beginners, I wanted to share some of the tips I''ve found helpful for how to
+  start reading classics. In particular, I wanted to make a video for anyone who perhaps
+  is less naturally drawn to this kind of work and is wondering how to read more classics.
+  I''m also really interested in making a new series, similar in style to What the
+  Theory? in which I provide some introductions to literary classics. As I mention
+  in the video, if that sounds interesting at all then do let me know down in the
+  comments (and equally if it doesn''t!). Of course, if you''ve yet to check out my
+  What the Theory series, then you can check it out here: https://www.youtube.com/watch?v=YpyobkolyVE&list=PLIVcDWpMT7Kd3O0eq8b6fMOwvK26vpiWE
+  If you''ve enjoyed this video and would like to see more including my What The Theory?
+  series in which I provide some snappy introductions to key theories in the humanities
+  as well as PhD vlogs in which I talk about some of the challenges of being a PhD
+  student then do consider subscribing. Thanks for watching! Twitter: @Tom_Nicholas
+  Website: www.tomnicholas.com'
+publishdate: "2019-02-20T11:30:00.000Z"
+url: /tomnicholas/VQ2r1hZHv_o/
+providers:
+  youtube:
+    id: VQ2r1hZHv_o
+---

@@ -1,0 +1,23 @@
+---
+title: The Wisecrack Guide to The Purge TV Series – Wisecrack Quick Take
+date: "2019-10-11T16:19:45+08:00"
+type: video
+description: 'This video was sponsored by The Purge on USA Network. Don’t forget to
+  catch The Purge, Tuesdays on USA Network! Check out the trailer here: http://po.st/ThePurgeTV
+  Join WisecrackPLUS for Exclusive Pilot Access: http://wscrk.com/YtWcPls Subscribe
+  to Wisecrack! ....................... http://wscrk.com/SbscrbWC Welcome to this
+  Quick Take on the Must-Know Philosophy of USA Network''s The Purge! === More Episodes!
+  === Why THE SHINING Creeps Us Out ► https://wscrk.com/ShngFT Economics of Fortnite
+  ► https://wscrk.com/FrtntWE Philosophy of SACHA BARON COHEN ► https://wscrk.com/SBCWE
+  Star Wars: The Phantom Menace - What Went Wrong? ► https://wscrk.com/SWtPMWE The
+  Internet Was A Mistake ► https://wscrk.com/IntWaM Store ........... http://wisecrackstore.com
+  Twitter ......... https://twitter.com/wisecrack Facebook .... https://facebook.com/wisecrackedu
+  Written by: Alec Opperman Directed by: Michael Luxemburg Narrated by: Jared Bauer
+  Edited by: Mark Potts Motion Graphics by: Drew Levin Produced by: Emily Dunbar ©
+  2018 Wisecrack, Inc.'
+publishdate: "2018-09-15T17:00:03.000Z"
+url: /wisecrack/YKcldVnVEP8/
+providers:
+  youtube:
+    id: YKcldVnVEP8
+---

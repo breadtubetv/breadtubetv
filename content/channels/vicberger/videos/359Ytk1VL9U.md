@@ -1,0 +1,13 @@
+---
+title: Dan Bongino Claims He Didn’t Try To Make Lemonade With A Blender BUT...
+date: "2019-10-11T16:14:57+08:00"
+type: video
+description: 'Dan Bongino claims he didn’t actually try to make lemonade with a blender
+  but then admits that he did. If you like my videos and want to support my work,
+  check out my Patreon here: https://www.patreon.com/vicberger'
+publishdate: "2018-12-18T02:13:52.000Z"
+url: /vicberger/359Ytk1VL9U/
+providers:
+  youtube:
+    id: 359Ytk1VL9U
+---

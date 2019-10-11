@@ -1,0 +1,16 @@
+---
+title: Code Geass, the Perfect Introduction to Anime
+date: "2019-10-11T16:22:17+08:00"
+type: video
+description: 'Exploring how Code Geass cemented within me a drive to watch anime,
+  as the start of my five-year long journey to where I''m at today. Support me on
+  Patreon: https://www.patreon.com/Zeria Transcript: floatingintobliss.wordpress.com/2018/12/14/day-1-code-geass-the-perfect-introduction-to-anime/
+  Follow me on Twitter: https://twitter.com/_Zeria_ Couples'' Side Channel: https://www.youtube.com/channel/UC9mvbU-HNjLzYqx8ZiHsdBw
+  Trans Culture Club: https://www.youtube.com/channel/UCfmDm5OvKcDrDKb3F8sxVrw Check
+  out my blog: https://floatingintobliss.wordpress.com/ And my AO3 page: https://archiveofourown.org/users/Zeria/works'
+publishdate: "2018-12-14T17:26:12.000Z"
+url: /zeria/nyzwYl4-NtU/
+providers:
+  youtube:
+    id: nyzwYl4-NtU
+---

@@ -1,0 +1,25 @@
+---
+title: 'Capital City: Gentrification and the Real Estate State'
+date: "2019-10-11T16:14:30+08:00"
+type: video
+description: '“Capital City: Gentrification and the Real Estate State” is available
+  from Verso Books: https://www.versobooks.com/books/2870-capital-city Our cities
+  are changing. Around the world, more and more money is being invested in buildings
+  and land. Real estate is now a $217 trillion dollar industry, worth thirty-six times
+  the value of all the gold ever mined. It forms sixty percent of global assets, and
+  one of the most powerful people in the world—the president of the United States—made
+  his name as a landlord and developer. Samuel Stein shows that this explosive transformation
+  of urban life and politics has been driven not only by the tastes of wealthy newcomers,
+  but by the state-driven process of urban planning. Planning agencies provide a unique
+  window into the ways the state uses and is used by capital, and the means by which
+  urban renovations are translated into rising real estate values and rising rents.
+  “Capital City” explains the role of planners in the real estate state, as well as
+  the remarkable power of planning to reclaim urban life. The full video of this talk,
+  with contributions from Raquel Namuche, Rob Robinson, Shellyne Rodriguez and Esteban
+  Girón, can be viewed at: https://youtu.be/jW6GGdAmMMY'
+publishdate: "2019-03-12T15:32:51.000Z"
+url: /versobooks/Y4OHJGkrl18/
+providers:
+  youtube:
+    id: Y4OHJGkrl18
+---

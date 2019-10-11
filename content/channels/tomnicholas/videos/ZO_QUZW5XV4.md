@@ -1,0 +1,29 @@
+---
+title: Top 5 Apps for PhD Students | PhD Vlog
+date: "2019-10-11T16:09:12+08:00"
+type: video
+description: 'With the new academic year just underway, I wanted to collate together
+  what I think are the top 5 apps for PhD students or, indeed, anyone undertaking
+  a postgraduate course of study. There is an endless amount of software out there
+  that can help to make your postgrad life less stressful and boost your productivity.
+  These are what I''ve found to be the 5 essential apps I use in my PhD. Links for
+  those who want to skip ahead: 01:00 Scrivener (Thesis Writing App) 03:40 Bear (Notes
+  App) 05:33 Endnote/Mendeley (Reference Manager) 08:06 Things 3 (Task Management
+  App) 09:59 Toggl (Glorified Stopwatch) You can download a free trial of Scrivener
+  here: https://literatureandlatte.com/scrivener/download To find EndNote with discounted
+  student pricing head here: https://endnote.com/buy Bear and Things 3 are both available
+  from the Mac and iOS App Stores (sorry Windows users!). And Toggl can be found at
+  https://toggl.com Useful Links [Amazon Affiliate] My Favourite Intro to Theory Book
+  Series US: https://amzn.to/2SpdLsz UK: https://amzn.to/2OThW1N My Camera US: https://amzn.to/2Q5nJhj
+  UK: https://amzn.to/2OTyneu My Favourite Camera Lens US: https://amzn.to/2Q1s3xZ
+  UK: https://amzn.to/2D8Rk6l If you''ve enjoyed this video and would like to see
+  more including my What The Theory? series in which I provide some snappy introductions
+  to key theories in the humanities as well as PhD vlogs in which I talk about some
+  of the challenges of being a PhD student then do consider subscribing. Thanks for
+  watching! Twitter: @Tom_Nicholas Website: www.tomnicholas.com'
+publishdate: "2018-10-10T10:30:00.000Z"
+url: /tomnicholas/ZO_QUZW5XV4/
+providers:
+  youtube:
+    id: ZO_QUZW5XV4
+---

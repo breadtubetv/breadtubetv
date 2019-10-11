@@ -1,0 +1,15 @@
+---
+title: Fracking Construction Escalates Next to Colorado School
+date: "2019-10-11T16:11:51+08:00"
+type: video
+description: 'Greeley, CO - On June 2, 2018, the drilling equipment and oil storage
+  containers were brought onto the construction site of the 24-well pad fracking project
+  being built 1,000 feet away from the Bella Romero Academy school building. Learn
+  more about this fracking project here: unicornriot.ninja/2018/oil-gas-corporation-sues-colorado-anti-fracking-activists/
+  Appreciate our alternative media? Support us: unicornriot.ninja/support-our-work/'
+publishdate: "2018-06-06T21:13:13.000Z"
+url: /unicornriot/Sarub5kY_UQ/
+providers:
+  youtube:
+    id: Sarub5kY_UQ
+---

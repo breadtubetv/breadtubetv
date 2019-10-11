@@ -1,0 +1,28 @@
+---
+title: The demonization of disabled people | Frances Ryan
+date: "2019-10-11T16:14:36+08:00"
+type: video
+description: 'In austerity Britain, disabled people have been recast as benefit cheats
+  through dangerous and untrue media reporting. From social care to the benefits system,
+  politicians and the media alike have made the case that Britain’s 12 million disabled
+  people are nothing but a drain on the public purse. In this video, Dr Frances Ryan
+  speaks to Sandra – a woman with a spinal condition, living in chronic pain. Stuck
+  in a cycle of being assessed, wrongfully rejected, and fighting tribunals, with
+  devastating consequences. The social security system should be there to protect
+  disabled people in times of need. Now, too often, it is the thing that pushes people
+  over the edge. Crippled: Austerity and the Demonization of Disabled People by Frances
+  Ryan is out now https://www.versobooks.com/books/2972-crippled Dr. Frances Ryan
+  is a journalist, broadcaster and campaigner. Named one of the UK’s most influential
+  disabled people by the Shaw Trust in 2018, her work has taken her to lecture halls,
+  the Women of the World Festival, BBC Radio 4’s Woman’s Hour and The World Tonight,
+  BBC Sunday Politics and more. Her weekly Guardian column, “Hardworking Britain,”
+  has been at the forefront of coverage of austerity. She has a doctorate in politics
+  from The University of Nottingham. Ryan was highly commended Specialist Journalist
+  of the Year at the 2019 National Press Awards for her work on disability. Crippled
+  is her first book.'
+publishdate: "2019-06-10T08:07:22.000Z"
+url: /versobooks/fG6vn2mdxSg/
+providers:
+  youtube:
+    id: fG6vn2mdxSg
+---

@@ -1,0 +1,19 @@
+---
+title: What Constitutes a Socialist Society?
+date: "2019-10-11T16:21:42+08:00"
+type: video
+description: 'Like/Dislike, Comment and Subscribe Video Transcript: https://www.patreon.com/posts/14174097
+  Videos for new comers to Socialism: Personal vs Private Property: https://www.youtube.com/watch?v=eknoQYrgq60
+  Economic Classes Explained: https://www.youtube.com/watch?v=lOJWP_e3EVA My own video
+  explaining different forms of Marxism: https://www.youtube.com/watch?v=mksxiY05VaM
+  Video on Labour Vouchers: https://www.youtube.com/watch?v=wMfExwigqNY Resources
+  used: Critique of the Gotha program: https://www.marxists.org/archive/marx/works/1875/gotha/
+  The Law of Value and Socialism: https://www.marxists.org/subject/japan/tsushima/labor-certificates.htm
+  Economic content of socialism in Lenin; is it the same as in Marx?: https://libcom.org/library/economic-content-socialism-lenin-it-same-marx
+  Follow My Hot Takes: https://twitter.com/xexizy11 Support My Videos: https://www.patreon.com/Xexizy'
+publishdate: "2017-09-01T22:06:18.000Z"
+url: /xexizy/vum0-y47cvw/
+providers:
+  youtube:
+    id: vum0-y47cvw
+---

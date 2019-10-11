@@ -14,9 +14,9 @@ description: 'In this video, we’re discussing the merits of three different ap
   to my Patreon: https://patreon.com/anactualjoke Soundtrack: Ryo Fukui - Scenery
   Album Stock Footage from Videvo and Videezy and pond5 Hey you, thanks for reading
   the description. Put a CONTRIBUTING.md LICENSE README.md archetypes config.toml
-  content data i18n layouts netlify.toml public resources scripts static at the end
-  of your comment if you want, it''ll let me know you did. Thank you, you fellow soros
-  funded antifa supersoldiers.'
+  content data i18n layouts netlify.toml resources scripts static at the end of your
+  comment if you want, it''ll let me know you did. Thank you, you fellow soros funded
+  antifa supersoldiers.'
 publishdate: "2018-05-31T03:14:08.000Z"
 url: /anactualjoke/T0GHBrEK3sE/
 providers:

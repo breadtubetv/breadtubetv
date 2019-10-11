@@ -1,0 +1,25 @@
+---
+title: 'Phenomenology: WTF? Time and Phenomenology explained!'
+date: "2019-10-11T16:09:21+08:00"
+type: video
+description: 'In this latest episode of What the Theory? I take a look at phenomenology,
+  time and dasein (Heidegger''s concept of consciousness) through the example of Christopher
+  Nolan''s Dunkirk, the narrative of which is incredibly playful with how human beings
+  experience time and consciousness. After the success of my video on semiotics, I
+  was keen to move beyond those Cartesian modes of interpreting the world to those
+  which engage in a more existentialist approach. Further Reading Continental Philosophy:
+  A Very Short Introduction by Simon Critchley US: https://amzn.to/2GR91tj UK: https://amzn.to/2Vx11Rq
+  Introducing Heidegger: A Graphic Guide by Jeff Collins & Howard Selina US: https://amzn.to/2GV3aCX
+  UK: https://amzn.to/2BXwaWU [The above are affiliate links. I receive a small kickback
+  from anything you buy which, in turn, helps to support the channel.] If you''ve
+  enjoyed this video then please do check out the rest of my channel where I put out
+  a whole range of videos discussing theatre and playwriting from the perspective
+  of an aspirant and (some might say) emerging playwright and theatre maker as well
+  as reflecting on my experience as a PhD Student. Twitter: @Tom_Nicholas Website:
+  www.tomnicholas.com Thanks for watching!'
+publishdate: "2018-02-02T00:59:52.000Z"
+url: /tomnicholas/h95vUgnFdbk/
+providers:
+  youtube:
+    id: h95vUgnFdbk
+---

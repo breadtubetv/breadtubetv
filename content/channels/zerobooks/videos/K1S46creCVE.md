@@ -1,0 +1,28 @@
+---
+title: 'Zero Squared #134: Sci-Fi Utopias and the Far Right'
+date: "2019-10-11T16:23:09+08:00"
+type: video
+description: "David Auerbach is an American writer with a background in software engineering.
+  He has written on a variety of subjects, including social issues and popular culture,
+  the environment, computer games and literature. In this episode we discuss an essay
+  he wrote for the Daily Beast in September of this year entitled “The Sci-Fi Roots
+  of the Far Right.”  I want to remind you that we’ve moved the Inside Zero Books
+  podcast from the Zero Books blog to Patreon. This will make it easier to get the
+  member’s only podcast on podcatchers. It also means that we’ll be repeating the
+  first year of Inside Zero Books daily on our Patreon account. If you missed Inside
+  Zero Books podcast the first time, or if you just want to hear the old episodes
+  again, they’ll be available.  I want to urge you to pick up Anselm Jappe’s The
+  Writing on the Wall, Philip Cunliffe’s Lenin Lives, and the first book in a new
+  line of books from Zero: Neglected or Misunderstood: Introducing Theodor Adorno.
+  The Neglected or MisUnderstood series presents philosophers of the left that are
+  either little known or widely misread. Stuart Walton starts the series with a look
+  at Adorno, who has been for everything from the Beatles to postmodernism  Included
+  in this episode are clips from Barry Malzberg’s Beyond Apollo and Issac Asimov’s
+  Foundation Trilogy. The music includes the theme from The Quiet Earth.  - video
+  upload powered by https://www.TunesToTube.com"
+publishdate: "2017-12-20T21:15:57.000Z"
+url: /zerobooks/K1S46creCVE/
+providers:
+  youtube:
+    id: K1S46creCVE
+---

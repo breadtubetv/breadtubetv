@@ -1,0 +1,26 @@
+---
+title: South Park on Giving Up – Wisecrack Quick Take
+date: "2019-10-11T16:20:49+08:00"
+type: video
+description: 'Visit https://vincerowatches.com/wisecrack and enter the discount code
+  WISECRACK to receive 15% off your order. Thanks to Vincero Watches for sponsoring
+  this video. Subscribe to Our South Park Podcast ►► http://wscrk.com/ROAapple ==
+  Subscribe to the Respect Our Authoritah! Podcast == iTunes ............ http://wscrk.com/ROAapple
+  Google Play ... https://wscrk.com/ROAgoogle SoundCloud .... http://wscrk.com/ROAcloud
+  Spotify ............ https://wscrk.com/ROAspotify Join WisecrackPLUS for Bonus Content
+  & Discord Access! ► http://wscrk.com/YtWcPls Subscribe to Wisecrack! ►► http://wscrk.com/SbscrbWC
+  Welcome to this Wisecrack Quick Take on South Park Season 22 Episodes 1-4! === More
+  Episodes! === Satire of RED DEAD REDEMPTION ► https://wscrk.com/SRdDdWE BOJACK HORSEMAN
+  on Loneliness ► https://wscrk.com/BjkHrs5WE Understanding Disney''s STAR WARS Crisis
+  ► https://wscrk.com/StWrsCWE The Philosophy of VR ► https://wscrk.com/PhVRWE How
+  To Beat the System (And Lose) ► https://wscrk.com/HBtSysWE The Philosophy of Cowboy
+  Bebop ► https://wscrk.com/CwBbpWE Store ........... http://wisecrackstore.com Twitter
+  ......... https://twitter.com/wisecrack Facebook .... https://facebook.com/wisecrackedu
+  Written & Directed by: Michael Luxemburg Narrated by: Jared Bauer Edited by: Andrew
+  Nishimura Produced by: Emily Dunbar #cancelsouthpark © 2018 Wisecrack, Inc.'
+publishdate: "2018-10-23T17:30:00.000Z"
+url: /wisecrack/pfKqVBzSOps/
+providers:
+  youtube:
+    id: pfKqVBzSOps
+---

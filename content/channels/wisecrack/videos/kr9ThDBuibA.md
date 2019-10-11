@@ -1,0 +1,28 @@
+---
+title: The SCIENCE of ONE PUNCH MAN – What Psychology Can Teach Us About Saitama –
+  Wisecrack Edition
+date: "2019-10-11T16:20:36+08:00"
+type: video
+description: 'Thanks to BRILLIANT for sponsoring our first science video! First 200
+  People to Sign-Up Get 20% Off A Premium Membership! ► https://wscrk.com/2JpM8dF
+  Access our Research on WisecrackPLUS!... http://wscrk.com/YtWcPls Subscribe to Wisecrack!
+  .............................. http://wscrk.com/SbscrbWC Welcome to this Wisecrack
+  Edition on the SCIENCE of One Punch Man — our first-ever science video, hosted by
+  our newest member of the team, Helen. Let us know what you think! Check out our
+  Movie Podcast - Show Me the Meaning! iTunes ................ http://wscrk.com/ituShMtMng
+  Google Play ....... http://wscrk.com/gpmShMtMng Spotify ................ http://wscrk.com/spfyShMtMng
+  Sound Cloud ...... http://wscrk.com/scdShMtMng === More Episodes! === Metal Gear
+  and Kojima: Art Imitates Life ► https://wscrk.com/MGKjmWE BEE MOVIE But It''s About
+  Capitalism! ► https://wscrk.com/BMovieWE Philosophy of Deus Ex ► https://wscrk.com/DsExWE
+  Philosophy of Assassin''s Creed Rogue ► https://wscrk.com/ACRgWE Philosophy of NieR:Automata
+  ► http://wscrk.com/NRAtmtWE Store ........... http://wisecrackstore.com Twitter
+  ......... https://twitter.com/wisecrack Facebook .... https://facebook.com/wisecrackedu
+  Written & Narrated by: Helen Floersh Directed by: Michael Luxemburg Edited by: Mark
+  Potts Motion Graphics by: Drew Levin Produced by: Emily Dunbar Citations: https://wscrk.com/SOPMCttn
+  © 2018 Wisecrack, Inc.'
+publishdate: "2018-04-14T17:00:07.000Z"
+url: /wisecrack/kr9ThDBuibA/
+providers:
+  youtube:
+    id: kr9ThDBuibA
+---

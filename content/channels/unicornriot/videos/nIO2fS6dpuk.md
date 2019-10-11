@@ -1,0 +1,18 @@
+---
+title: Cryptocurrency & Blockchain Gain Momentum at DEFCON
+date: "2019-10-11T16:12:41+08:00"
+type: video
+description: 'Las Vegas, NV – This year, for the first time, a space was dedicated
+  to blockchain and cryptocurrency at DEFCON 26. The Blockchain & Cryptocurrency Open
+  Security Village (BCOS Village) was created in an effort to grow the community and
+  make "blockchain technology & cryptocurrencies more secure, robust and trustable."
+  The Monero Project, along with the BCOS Village, organized dozens of speaking events
+  and parties for supporters of the crypto-technologies, which are gaining in popularity
+  around the world. Read more: https://www.unicornriot.ninja/2018/cryptocurrency-blockchain-gain-momentum-at-defcon/
+  Support our work: https://www.unicornriot.ninja/support-our-work/'
+publishdate: "2018-08-22T20:15:58.000Z"
+url: /unicornriot/nIO2fS6dpuk/
+providers:
+  youtube:
+    id: nIO2fS6dpuk
+---

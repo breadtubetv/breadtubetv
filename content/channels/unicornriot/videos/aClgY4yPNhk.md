@@ -1,0 +1,21 @@
+---
+title: '''Proud Boys'' Flee After Rally in Boulder'
+date: "2019-10-11T16:12:09+08:00"
+type: video
+description: The Proud Boys, an organization that has been referred to as “the alt-right’s
+  weirdest new phenomenon“, held a “Free Speech” rally in Boulder, Colorado on Saturday,
+  June 3. Members of the Proud Boys have been adamantly denying any racism, antisemitism,
+  or homophobia as inherent to their group, however, several neo-Nazis living in Colorado,
+  who frequently post on the Daily Stormer, “an American neo-Nazi and white supremacist
+  news and commentary website,” were welcomed into the barricaded rally. One group
+  of Proud Boys, who were later identified as being from Colorado Springs, started
+  moving quickly down the street and were followed by kids on skateboards who were
+  yelling "fuck you Nazis, get out of here," among other insults. The kids followed
+  the group of Proud Boys through the parking garage and were joined by others when
+  a confrontation ensued. Video by Pat Boyle Read Full Article here http://www.unicornriot.ninja/?p=15842
+publishdate: "2017-06-08T17:07:04.000Z"
+url: /unicornriot/aClgY4yPNhk/
+providers:
+  youtube:
+    id: aClgY4yPNhk
+---

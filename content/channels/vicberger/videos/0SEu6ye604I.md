@@ -1,0 +1,24 @@
+---
+title: My Reaction (in Song) To Ep. 402 of On Cinema - "I Don't Like What I'm Seeing"
+date: "2019-10-11T16:14:53+08:00"
+type: video
+description: 'My Reaction (In Song) To Episode 402 of On Cinema" Lyrics: I don''t
+  like what I''m seeing Critics shouldn''t criticize their allies They should be only
+  giving high-fives or a pat on the back for a good critique I don''t like what I''m
+  seeing Tension in the theater seats And the movie screen looks like it''s about
+  to scream because it hates to see two critics being mean Even if Tim''s foot is
+  in pain There''s no need to call Gregg a name and vise versa Tim doesn''t deserve
+  a slap in the face Look at his diabetes and bandages He''s not in a real good place
+  I don''t like what I''m seeing Tim, listen to your nephew Let that doctor stick
+  you Let that Chinese needle take the pain away Gregg, think about your record Your
+  Guinness World Record Don''t let Tim attempt to throw you off your game He''s going
+  through a rough one I mean, he thought that talking squirrel was real so Gregg,
+  well you got to be a loving buff Don''t lash out at Tim Let his diabetes heal up
+  and acupuncture take effect Don''t let his swollen foot wreck the show When Tim
+  and Gregg don''t get along Hollywood cries a tea'
+publishdate: "2014-01-16T06:58:42.000Z"
+url: /vicberger/0SEu6ye604I/
+providers:
+  youtube:
+    id: 0SEu6ye604I
+---

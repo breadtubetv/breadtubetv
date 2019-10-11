@@ -33,5 +33,5 @@ providers:
     slug: UC-CDQ-MPUdBWcjB7SrD1HZA
     url: https://www.youtube.com/channel/UC-CDQ-MPUdBWcjB7SrD1HZA
     description: Anarchist Trans Girl. She/Her. Making Video Essays and hot takes.
-    subscribers: 10800
+    subscribers: 10900
 ---

@@ -1,0 +1,26 @@
+---
+title: Writing a Research Proposal | Essay Tips
+date: "2019-10-11T16:08:57+08:00"
+type: video
+description: 'Using my own PhD Application and Research Proposal as an example, I
+  explore how to write a research proposal including structure, context, methodology
+  and compiling an indicative bibliography. If you''re working on a PhD Proposal or
+  are putting together a PhD funding application, this video is full of PhD application
+  tips that will hopefully help you to structure, develop and submit a stand-out application.
+  Further Reading Little Quick Fix: Research Proposal by Zina O''Leary US: https://amzn.to/2H8ZCws
+  UK: https://amzn.to/2NDkMDX How to do Your Research Project: A Guide for Students
+  by Gary Thomas US: https://amzn.to/2Tc5jAK UK: https://amzn.to/2SyXShT Authoring
+  a PhD: How to Plan, Draft, Write & Finish a Doctoral Thesis or Dissertation by Patrick
+  Dunleavy US: https://amzn.to/2EGssmg UK: https://amzn.to/2NzXfnB [The above are
+  affiliate links. I receive a small kickback from anything you buy which, in turn,
+  helps to support the channel.] If you''ve enjoyed this video then please do check
+  out the rest of my channel where I put out a whole range of videos discussing theatre
+  and playwriting from the perspective of an aspirant and (some might say) emerging
+  playwright and theatre maker as well as reflecting on my experience as a PhD Student.
+  Twitter: @Tom_Nicholas Website: www.tomnicholas.com Thanks for watching!'
+publishdate: "2017-08-21T21:40:46.000Z"
+url: /tomnicholas/3xwJtU-C96w/
+providers:
+  youtube:
+    id: 3xwJtU-C96w
+---

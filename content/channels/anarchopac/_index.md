@@ -1,5 +1,8 @@
 ---
-description: I'm a disabled pan-sexual trans woman who talks about anarchism, feminism and marxism. For recommended reading see my blog. My profile picture was made for me by bad mouse based on a drawing by the anarchist artist Clifford Harper.
+description: I'm a disabled pan-sexual trans woman who talks about anarchism, feminism
+  and marxism. For recommended reading see my blog - https://anarchopac.wordpress.com/
+  My profile picture was made for me by bad mouse based on a drawing by the anarchist
+  artist Clifford Harper.
 title: anarchopac
 type: channel
 menu:
@@ -30,5 +33,5 @@ providers:
       feminism and marxism. For recommended reading see my blog - https://anarchopac.wordpress.com/
       My profile picture was made for me by bad mouse based on a drawing by the anarchist
       artist Clifford Harper.
-    subscribers: 24300
+    subscribers: 24700
 ---

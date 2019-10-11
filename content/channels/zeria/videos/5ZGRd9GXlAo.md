@@ -1,0 +1,18 @@
+---
+title: Is This the BEST Season for Yuri Anime EVER?
+date: "2019-10-11T16:21:52+08:00"
+type: video
+description: 'With Bloom into You, Akanesasu Shoujo, SSSS.Gridman, and much more,
+  I look at the Fall of 2018 and try and decide if it''s truly the best season for
+  yuri that we''ve ever had. Support me on Patreon: https://www.patreon.com/Zeria
+  Or send a one-time donation through Ko-Fi: https://ko-fi.com/zeria_ Transcript:
+  floatingintobliss.wordpress.com/2018/12/20/is-this-the-best-season-for-yuri-anime-ever/
+  Follow me on Twitter: https://twitter.com/_Zeria_ Couples'' Side Channel: https://www.youtube.com/channel/UC9mvbU-HNjLzYqx8ZiHsdBw
+  Trans Culture Club: https://www.youtube.com/channel/UCfmDm5OvKcDrDKb3F8sxVrw Check
+  out my blog: https://floatingintobliss.wordpress.com/ And my AO3 page: https://archiveofourown.org/users/Zeria/works'
+publishdate: "2018-12-20T17:00:01.000Z"
+url: /zeria/5ZGRd9GXlAo/
+providers:
+  youtube:
+    id: 5ZGRd9GXlAo
+---

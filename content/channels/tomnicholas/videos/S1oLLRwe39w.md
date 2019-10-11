@@ -1,0 +1,26 @@
+---
+title: UK Lecturers Strike | UCU Strike 2018 | PhD Vlog
+date: "2019-10-11T16:09:07+08:00"
+type: video
+description: 'In February and March 2018, UK university students will face significant
+  disruption due to strike action taken by the University and College Union (UCU).
+  I wanted to do a quick PhD vlog which gives a little bit of an insight into why
+  I am striking as well as the potential damage that the current USS pensions dispute
+  could cause to university education in the UK. Would be really interesting to have
+  a decent debate about this in the comments, I''m sure there''s plenty of people
+  out there with far more info that me. If you''re affected by the current strike
+  action, then you can find more information about why lecturers are on strike on
+  the UCU website here: www.ucu.org.uk/why-we-are-taking-action-over-USS There is
+  also a tool to enable you to quickly and easily send an email to the Vice Chancellor
+  of your university here: www.ucu.org.uk/studentvoice #ussstrikes If you''ve enjoyed
+  this video then please do check out the rest of my channel where I put out a whole
+  range of videos discussing theatre and playwriting from the perspective of an aspirant
+  and (some might say) emerging playwright and theatre maker as well as reflecting
+  on my experience as a PhD Student. Twitter: @Tom_Nicholas Website: www.tomnicholas.com
+  Thanks for watching!'
+publishdate: "2018-02-23T16:03:20.000Z"
+url: /tomnicholas/S1oLLRwe39w/
+providers:
+  youtube:
+    id: S1oLLRwe39w
+---

@@ -1,0 +1,15 @@
+---
+title: Denver Meadows Mobile Home Residents Sue Owners
+date: "2019-10-11T16:12:43+08:00"
+type: video
+description: 'Aurora, CO - On February 23, 2018, residents of Denver Meadows Mobile
+  Home Park, members of 9to5 Colorado, and community members attended the first hearing
+  in a collective lawsuit filed against the park''s owners. To read more, check out
+  our article here: unicornriot.ninja/2018/first-lawsuit-hearing-mobile-home-park-residents-suing-park-owners/
+  If you appreciate our alternative media, consider a tax-deductible donation: unicornriot.ninja/support-our-work/'
+publishdate: "2018-03-03T01:59:27.000Z"
+url: /unicornriot/pUNttVfOsmg/
+providers:
+  youtube:
+    id: pUNttVfOsmg
+---

@@ -1,0 +1,17 @@
+---
+title: The 5 Summer 2018 Yuri Anime You NEED to Check Out that aren't NTR
+date: "2019-10-11T16:22:00+08:00"
+type: video
+description: 'Once again, I deliver more than 5 must-watch yuri anime, from Revue
+  Starlight to Planet With to Yama no Susume, recapping the ones you shouldn''t watch
+  as well, like Happy Sugar Life. Support me on Patreon: https://www.patreon.com/Zeria
+  Transcript: https://floatingintobliss.wordpress.com/2018/10/01/script-the-5-summer-2018-yuri-anime-you-need-to-check-out-that-arent-ntr/
+  Follow me on Twitter: https://twitter.com/_Zeria_ Couples'' Side Channel: https://www.youtube.com/channel/UC9mvbU-HNjLzYqx8ZiHsdBw
+  Trans Culture Club: https://www.youtube.com/channel/UCfmDm5OvKcDrDKb3F8sxVrw Check
+  out my blog: https://floatingintobliss.wordpress.com/ And my AO3 page: https://archiveofourown.org/users/Zeria/works'
+publishdate: "2018-10-01T17:40:04.000Z"
+url: /zeria/Mdi-rya_LdY/
+providers:
+  youtube:
+    id: Mdi-rya_LdY
+---

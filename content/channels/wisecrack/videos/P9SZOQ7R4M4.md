@@ -1,0 +1,24 @@
+---
+title: Bee Movie But It's About Capitalism (Seriously.) – Wisecrack Edition
+date: "2019-10-11T16:19:05+08:00"
+type: video
+description: 'First 200 People to Sign-Up Get 20% Off A Premium Membership! ► https://wscrk.com/2qXHGv0
+  Exclusive Content on WisecrackPLUS.. http://wscrk.com/YtWcPls Subscribe to Wisecrack!
+  ....................... http://wscrk.com/SbscrbWC Welcome to this Wisecrack Edition
+  on the Economics of Bee Movie! Check out our Movie Podcast - Show Me the Meaning!
+  iTunes ................ http://wscrk.com/ituShMtMng Google Play ....... http://wscrk.com/gpmShMtMng
+  Spotify ................ http://wscrk.com/spfyShMtMng Sound Cloud ...... http://wscrk.com/scdShMtMng
+  === More Episodes! === Philosophy of Deus Ex ► https://wscrk.com/DsExWE Philosophy
+  of Assassin''s Creed Rogue ► https://wscrk.com/ACRgWE Philosophy of NieR:Automata
+  ► http://wscrk.com/NRAtmtWE Too Many Cooks VS Don''t Hug Me I''m Scared ► http://wscrk.com/TMnyCksWE
+  Philosophy of Neon Genesis Evangelion ► http://wscrk.com/NGEvngWE Store ...........
+  http://wisecrackstore.com Twitter ......... https://twitter.com/wisecrack Facebook
+  .... https://facebook.com/wisecrackedu Written by: Myles McDonough Directed by:
+  Robert Tiemstra Narrated by: Jared Bauer Edited by: Mark Potts Motion Graphics by:
+  Drew Levin Produced by: Emily Dunbar © 2018 Wisecrack, Inc.'
+publishdate: "2018-03-28T17:00:04.000Z"
+url: /wisecrack/P9SZOQ7R4M4/
+providers:
+  youtube:
+    id: P9SZOQ7R4M4
+---

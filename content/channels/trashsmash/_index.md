@@ -1,14 +1,11 @@
 ---
-description: Surveys and defeats of various trash, myths, prejudices and delusions
-  are to some extent common in society. Art nauchpop.
+description: Обзоры и разгромы различного треша, мифов, предрассудков и заблуждений
+  в той или иной мере распространенных в обществе. Художественный научпоп.
 title: Trash Smash
 type: channel
 menu:
   main:
     parent: Channels
-videos:
-- lQmWsl2N0UE
-- DhnaJlFHJKE
 tags:
 - breadtube
 - belarusian
@@ -27,5 +24,5 @@ providers:
     url: https://www.youtube.com/channel/UC4q_Go2upApHnHbI657ZGBA
     description: Обзоры и разгромы различного треша, мифов, предрассудков и заблуждений
       в той или иной мере распространенных в обществе. Художественный научпоп.
-    subscribers: 452685
+    subscribers: 474000
 ---

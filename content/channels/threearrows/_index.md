@@ -1,13 +1,10 @@
 ---
-description: Doing stuff about the bad history on the far-right and more.
+description: HISTORY BALLER
 title: Three Arrows
 type: channel
 tags:
 - breadtube
 url: /threearrows/
-videos:
-- 69obN625Fjs
-- O8UzmLsXGRU
 menu:
   main:
     parent: Channels
@@ -17,5 +14,5 @@ providers:
     slug: UCCT8a7d6S6RJUivBgNRsiYg
     url: https://www.youtube.com/channel/UCCT8a7d6S6RJUivBgNRsiYg
     description: HISTORY BALLER
-    subscribers: 157030
+    subscribers: 184000
 ---

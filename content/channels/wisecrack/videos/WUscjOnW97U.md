@@ -1,0 +1,32 @@
+---
+title: 'How Humanity Ends (Akira, Videodrome, Tetsuo: The Iron Man) – Wisecrack Edition'
+date: "2019-10-11T16:19:36+08:00"
+type: video
+description: 'Consider online therapy by going to https://betterhelp.com/wisecrack
+  If you are in an emergency situation please contact the National Suicide Prevention
+  Hotline ► 1-800-273-TALK (8255) If you are outside of the United States here are
+  a list of resources ►https://www.betterhelp.com/gethelpnow/ Subscribe to Wisecrack!
+  ► http://wscrk.com/SbscrbWC Join Our Discord Chat and get access to EXCLUSIVE content
+  on WisecrackPLUS ► http://wscrk.com/YtWcPls Check out Jared''s Body Horror Reading
+  List ► https://wscrk.com/2XDIdRi It would be a massive understatement to say that
+  technology has profoundly affected humanity. But in the 1980s, a particular microgenre
+  of horror explored this in a particularly insightful, and downright AWESOME way:
+  Body Horror. Using images of technology invading the human body, these films reflected
+  a sentiment that rings true today: That technology hasn’t just changed us. It’s
+  ravaged us. === Watch More Episodes! === Why J.K. Rowling Should Leave HARRY POTTER
+  Alone ► https://wscrk.com/2VqPQxg IDIOCRACY: Deep or Dumb? ► https://wscrk.com/2Xn10QH
+  Who Will Win GAME OF THRONES ► https://wscrk.com/2Uwv7bK US (2019) and the American
+  Dream ► https://wscrk.com/2HWhOtC How Memes Change Hollywood ► https://wscrk.com/2ukigtr
+  Why Our Horror Movies Are Different Now ► https://wscrk.com/2BRqRbq Citations: Man
+  Streaks CFL Game, Best Sport Video, https://www.youtube.com/attribution?v=Bvr6o8fSSSI;
+  License: https://creativecommons.org/licenses/by/3.0/us/legalcode Store ...........
+  http://wisecrackstore.com Twitter ......... https://twitter.com/wisecrack Facebook
+  .... https://facebook.com/wisecrackedu Written and Hosted by: Jared Bauer Directed
+  by: Michael Luxemburg Edited by: Andrew Nishimura Motion Graphics by: Drew Levin
+  Produced by: Camille Lecoq and Emily Dunbar © 2019 Wisecrack, Inc.'
+publishdate: "2019-04-25T17:00:02.000Z"
+url: /wisecrack/WUscjOnW97U/
+providers:
+  youtube:
+    id: WUscjOnW97U
+---

@@ -1,0 +1,15 @@
+---
+title: Ex-FBI Agent Mike German Speaks About the Countering Violent Extremism Program
+date: "2019-10-11T16:11:34+08:00"
+type: video
+description: 'Mike German, an ex-FBI agent and fellow in the Brennan Center for Justice''s
+  Liberty and National Security program spoke to Unicorn Riot about the CVE program
+  after a CVE Panel on the campus of the University of Minnesota. For more information
+  on CVE and to watch the 2017 CVE Panel: unicornriot.ninja/?p=19553 To help support
+  our work: unicornriot.ninja/support-our-work/'
+publishdate: "2017-10-16T17:16:15.000Z"
+url: /unicornriot/M0O39N-ZjXY/
+providers:
+  youtube:
+    id: M0O39N-ZjXY
+---

@@ -1,0 +1,50 @@
+---
+title: Socialism HAS worked
+date: "2019-10-11T16:09:53+08:00"
+type: video
+description: 'For may day I bring you the benefits of the workers struggle and evidence
+  of its success. Socialism has worked. Socialism has worked well. And socialism will
+  work Sources: Allen Dulles CIA director on the threat of the Soviet Economy: https://www.nytimes.com/1958/04/29/archives/allen-dulles-sees-us-peril-in-soviets-economic-rise-cia-chief-tells.html
+  Towards a soviet america, Increasing production: https://www.marxists.org/archive/foster/1932/toward/03.htm
+  Do Publicly Owned, Planned Economies Work? By Stephan Gowans: https://gowans.wordpress.com/2012/12/21/do-publicly-owned-planned-economies-work/
+  The Soviet Union in Asia: Geoffy Jukes: https://books.google.com/books/about/The_Soviet_Union_in_Asia.html?id=zqXgTC4XgSEC
+  Revolution From Above: The Demise of the Soviet System: https://www.amazon.com/Revolution-Above-Demise-Soviet-System/dp/0415143179
+  Farm to Factory: Soviet growth and calorie consumption: http://gen.lib.rus.ec/book/index.php?md5=fa5b6de5135f49269cd2b35b727236f7
+  CIA report on the soviet diet: https://www.cia.gov/library/readingroom/docs/CIA-RDP84B00274R000300150009-5.pdf
+  Soviet Women Remember Socialism: Woman''s rights and litericy campgain: https://www.youtube.com/watch?v=933jsB5ChlA
+  Sheila Fitzpatrick interview: http://seansrussiablog.org/2017/08/07/retrospective-on-stalinism/
+  Robert Thurston Life and Terror in Stalin''s Russia: http://gen.lib.rus.ec/book/index.php?md5=bcb105833aa3f469f1131209e3875a9f
+  Full rights outlined by the soviet constitiution: https://www.departments.bucknell.edu/russian/const/36cons01.html
+  List of innovations in the soviet union: https://www.reddit.com/r/DebateCommunism/comments/5k5y51/what_innovations_or_inventions_have_communist/dbme886/
+  Brock and Keller Where do innovations come from?: http://www.itif.org/files/Where_do_innovations_come_from.pdf
+  Most innovations funded by the state sector: https://www.theguardian.com/commentisfree/2012/mar/20/budget-2012-osborne-failed-model-1979
+  Healthcare within the USSR: http://medicalency.com/bolnitsy-v-sssr.htm Paul Cockshott:
+  https://www.youtube.com/watch?v=EE-kCZnlGZU We lived better then: https://gowans.wordpress.com/2011/12/20/we-lived-better-then/
+  Referendum on the preservation of the ussr: http://en.ria.ru/infographics/20110313/162959645.html
+  Fall of the USSR and capitalist restoration: https://www.youtube.com/watch?v=5KpS2eAay_8
+  Detailed multi part essay on the fall of the soviet union: http://www.invent-the-future.org/2017/11/why-doesnt-the-soviet-union-exist-any-more-part-1-introduction/
+  Russian Federation statistics: https://data.worldbank.org/country/russian-federation
+  Russian control over oil and gas: https://web.archive.org/web/20121010154607/http://www.brookings.edu/views/papers/hillf/200205_demokratizatsiya.pdf
+  More on state control over oil: https://sputniknews.com/analysis/20080301100381963/
+  Most Russians regret USSR collapse, dream of its return, poll shows: https://www.rt.com/politics/340158-most-russians-regret-ussr-has/
+  Romanians long for ''good old days of communism'': https://www.telegraph.co.uk/news/worldnews/europe/romania/1376052/Romanians-long-for-good-old-days-of-communism.html
+  Oppressive and grey? No, growing up under communism was the happiest time of my
+  life: http://www.dailymail.co.uk/news/article-1221064/Oppressive-grey-No-growing-communism-happiest-time-life.html
+  Tajikistan pines for old Soviet Union strength: https://www.csmonitor.com/World/Global-News/2010/0527/Tajikistan-pines-for-old-Soviet-Union-strength
+  Former Soviet Countries See More Harm From Breakup: http://news.gallup.com/poll/166538/former-soviet-countries-harm-breakup.aspx
+  Russia Nw”, in The Washington Post, March 25, 2009. Information about east german
+  accounts: https://www.youtube.com/watch?v=QUr_HVsyIZQ Bulgarians feel swindled after
+  13 years of capitalism,” AFP, December 19, 2002. Globe and Mail (Canada), June 9,
+  2008. Support dwindling in Czech Republic, Hungary, Poland,” The Chicago Tribune,
+  May 27, 2001. Polish Left Gets Transfusion of Young Blood: https://www.nytimes.com/2010/03/13/world/europe/13iht-poland.html
+  In Post-U.S.S.R. Russia, Any Job Is a Good Job: https://www.nytimes.com/2004/01/11/world/in-post-ussr-russia-any-job-is-a-good-job.html
+  Central Asia in Nostalgia for the Soviet Period: http://web.archive.org/web/20130722044443/http://www.thewashingtonreview.org/articles/central-asia-in-nostalgia-for-the-soviet-period.html
+  Economic development, political-economic system, and the physical quality of life.:
+  https://www.ncbi.nlm.nih.gov/pubmed/3706593 Full Parenti lecture: https://www.youtube.com/watch?v=xP8CzlFhc14
+  Music: https://www.youtube.com/watch?v=E2Wl8Wqnxyk'
+publishdate: "2018-05-01T16:28:12.000Z"
+url: /tovarishchendymion/gEwojLs0PFw/
+providers:
+  youtube:
+    id: gEwojLs0PFw
+---

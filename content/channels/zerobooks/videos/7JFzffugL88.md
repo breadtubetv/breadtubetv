@@ -1,0 +1,17 @@
+---
+title: On the 25th Anniversary of the Rwandan Genocide
+date: "2019-10-11T16:22:42+08:00"
+type: video
+description: 'This video offers commentary on the occasion of the 25th anniversary
+  of the Rwandan genocide. Andrew Wallis is a freelance journalist, academic, and
+  author, and a leading expert in the African Great Lakes Region, especially Rwanda.
+  His previous book, "Silent Accomplice: The role of France in the Rwandan genocide''
+  was praised as a ''damning new book'' by the New York Review of Books, and his new
+  book “Stepp’d in Blood” is coming out Zero Books. Stepp’d in Blood by Andrew Wallis
+  https://www.amazon.com/Steppd-Blood-Architects-Rwandan-Genocide/dp/1789042860'
+publishdate: "2019-04-08T20:58:45.000Z"
+url: /zerobooks/7JFzffugL88/
+providers:
+  youtube:
+    id: 7JFzffugL88
+---

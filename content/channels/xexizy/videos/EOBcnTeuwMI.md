@@ -6,4 +6,7 @@ providers:
   youtube:
     id: EOBcnTeuwMI
 type: video
+description: 'Like/Dislike, Comment and Subscribe! Follow Me On Twitter: https://twitter.com/muke10101
+  Support My Videos: https://www.patreon.com/Xexizy'
+publishdate: "2018-04-06T23:34:30.000Z"
 ---

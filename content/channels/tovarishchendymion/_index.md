@@ -5,7 +5,6 @@ type: channel
 menu:
   main:
     parent: Channels
-videos: null
 tags:
 - breadtube
 url: /tovarishchendymion/
@@ -15,5 +14,5 @@ providers:
     slug: UCTG-iJm0HtjWVOAwN8sA4Xg
     url: https://www.youtube.com/channel/UCTG-iJm0HtjWVOAwN8sA4Xg
     description: Marxist youtuber making Marxist material
-    subscribers: 7519
+    subscribers: 8350
 ---

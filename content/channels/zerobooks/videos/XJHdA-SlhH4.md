@@ -1,0 +1,18 @@
+---
+title: 'Zero Books #200: Ressentiment, anti-Blackness, and White Terrorism'
+date: "2019-10-11T16:23:38+08:00"
+type: video
+description: Txgen Meyer is a writer and critical theorist living in California. She
+  participated in a panel discussion that was billed as a Struggle Session aimed at
+  me that took place during an anti-Jordan Peterson conference in Boise. The struggle
+  session was deemed to be a necessary response to a Zero Books video entitled Intersectionality,
+  Queer Eye and the Good Place that was released in October of 2018. Txgen was on
+  the panel representing a trans/black/queer perspective, and also as a voice of reason.
+  She is the guest this week as we discuss her essay Networked Ressentiment on anti-blackness
+  and white terrorism.
+publishdate: "2019-06-11T03:12:50.000Z"
+url: /zerobooks/XJHdA-SlhH4/
+providers:
+  youtube:
+    id: XJHdA-SlhH4
+---

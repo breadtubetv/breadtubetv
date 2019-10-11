@@ -1,0 +1,24 @@
+---
+title: '5 Books for Theatre Students and Theatre Nerds: Get Ahead in Theatre Class
+  | PhD Vlog'
+date: "2019-10-11T16:08:57+08:00"
+type: video
+description: 'This week, a combination of theatre vlog and PhD vlog as I pick out
+  my top 5 theatre books for theatre students, theatre nerds and anyone with an interest
+  in drama who wishes to develop a better understanding of theatre and get ahead in
+  their drama class at university, drama school or elsewhere. A list to all the titles
+  in the Theatre & series: https://he.palgrave.com/series/theatre-and/14409/ And,
+  if you''d like to buy these books, I''m a big fan of Better World Books who both
+  save the planet by selling second-hand books and help to raise money for libraries
+  and the promotion of literacy: https://www.betterworldbooks.co.uk If you''ve enjoyed
+  this video then please do check out the rest of my channel where I put out a whole
+  range of videos discussing theatre and playwriting from the perspective of an aspirant
+  and (some might say) emerging playwright and theatre maker as well as reflecting
+  on my experience as a PhD Student. Twitter: @Tom_Nicholas Website: www.tomnicholas.com
+  Thanks for watching!'
+publishdate: "2017-09-02T17:18:16.000Z"
+url: /tomnicholas/1PkizYfduEE/
+providers:
+  youtube:
+    id: 1PkizYfduEE
+---

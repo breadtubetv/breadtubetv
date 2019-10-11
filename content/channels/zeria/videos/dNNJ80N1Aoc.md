@@ -1,0 +1,17 @@
+---
+title: 'Kunihiko Ikuhara: A Revolutionary Director of Anime'
+date: "2019-10-11T16:22:10+08:00"
+type: video
+description: 'A complete look at Kunihiko Ikuhara, the director of much of Sailor
+  Moon, Utena, Penguindrum, and Yuri Kuma Arashi. I examine his entire career and
+  go into why he''s my favorite director in anime. Support me on Patreon: https://www.patreon.com/Zeria
+  Sources: https://docs.google.com/document/d/1pNqjM9u3_LTIHqkpdZYApgMqffuTKj9odcyVZa4m5tQ/edit?usp=sharing
+  Transcript: https://floatingintobliss.wordpress.com/2018/06/29/script-kunihiko-ikuhara-a-revolutionary-director-of-anime/
+  Follow me on Twitter: https://twitter.com/_Zeria_ And check out my blog: https://floatingintobliss.wordpress.com/
+  My AO3 Page: https://archiveofourown.org/users/Zeria/works'
+publishdate: "2018-06-29T16:46:57.000Z"
+url: /zeria/dNNJ80N1Aoc/
+providers:
+  youtube:
+    id: dNNJ80N1Aoc
+---

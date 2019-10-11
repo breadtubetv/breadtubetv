@@ -29,4 +29,5 @@ providers:
   youtube:
     id: O8UzmLsXGRU
 type: video
+publishdate: "2019-07-24T19:36:13.000Z"
 ---

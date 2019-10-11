@@ -1,0 +1,26 @@
+---
+title: What is FairCoin? An Explanation by Theodore from Athens Integral Cooperative
+date: "2019-10-11T16:12:37+08:00"
+type: video
+description: 'Faircoin is a crypto-currency that is transforming the "block-chain"
+  transactions to community currencies, said Theodore from the Athens Integral Cooperative.
+  We interviewed Theodore about what Athens Integral is, how it modeled itself after
+  the Integral Cooperatives of Spain, and how it plays a roll in creating an alternative
+  economy in Athens, Greece. This is an excerpt of a longer interview and further
+  examinations of alternatives to capitalism from our trip to Greece. Alternative
+  Economies & Community Currencies Pt 3 - FairCoop: https://www.unicornriot.ninja/2017/greece-alternative-economies-community-currencies-pt-3-faircoop/
+  Alternative Economies & Community Currencies Pt 2 - Kenya''s Sarafu-Credit: https://www.unicornriot.ninja/2017/greece-alternative-economies-community-currencies-pt-2-kenyas-sarafu-credit/
+  Alternative Economies & Community Currencies Pt 1 - Athens Integral Cooperative:
+  https://www.unicornriot.ninja/2017/greece-alternative-economies-community-currencies-part-one-athens-integral/
+  To read our article on Cooperativa Integral Catalonia, the blueprint that Athens
+  Integral Cooperative is following: https://www.unicornriot.ninja/2017/greece-networks-resistance-part-two-infrastructure-exarcheianet-cooperativa-integral/
+  WATCH - Alternative Economies in Greece: an Interview with Theodore from the Athens
+  Integral Cooperative: https://www.vimeo.com/231470767 For further stories on Greece:
+  https://www.unicornriot.ninja/?p=16437 To help us create more similar stories, consider
+  a tax-deductible donation: www.unicornriot.ninja/support-our-work/'
+publishdate: "2017-10-23T03:36:53.000Z"
+url: /unicornriot/m2qdB0Lin48/
+providers:
+  youtube:
+    id: m2qdB0Lin48
+---

@@ -8,4 +8,5 @@ providers:
   youtube:
     id: JlJkVPn2NRM
 type: video
+publishdate: "2019-01-22T23:05:01.000Z"
 ---

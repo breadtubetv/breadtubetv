@@ -1,17 +1,12 @@
 ---
 description: Verso Books is the largest independent, radical publishing house in the
-  English-speaking world, publishing one hundred books a year. The channel features
-  a lot of discussions of various publications.
+  English-speaking world, publishing one hundred books a year. Visit our website at
+  www.versobooks.com.
 title: Verso Books
 type: channel
 menu:
   main:
     parent: Channels
-videos:
-- FMuHG3VbNU0
-- nVrMXy7101k
-- XBZg2gqzp3U
-- jW6GGdAmMMY
 tags:
 - breadtube
 - organizing
@@ -42,5 +37,5 @@ providers:
     description: Verso Books is the largest independent, radical publishing house
       in the English-speaking world, publishing one hundred books a year. Visit our
       website at www.versobooks.com.
-    subscribers: 7465
+    subscribers: 8130
 ---

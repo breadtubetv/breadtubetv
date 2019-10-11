@@ -1,0 +1,25 @@
+---
+title: 'Most Philosophical Game Ever? – The Philosophy of NieR: Automata – Wisecrack
+  Edition'
+date: "2019-10-11T16:19:28+08:00"
+type: video
+description: 'Be Sure to Check Out Extra Credits! ► http://wscrk.com/ExtrCrdts Extra
+  Credits Video on Nier Automata! ► http://wscrk.com/NrAtExtrCrd Subscribe to Wisecrack!
+  ....................... http://wscrk.com/SbscrbWC Exclusive Content on Wisecrack+
+  ........ http://wscrk.com/YtWcPls Welcome to this Wisecrack Edition on the Philosophy
+  of NieR Automata! Check out our Movie Podcast - Show Me the Meaning! iTunes ................
+  http://wscrk.com/ituShMtMng Google Play ....... http://wscrk.com/gpmShMtMng Spotify
+  ................ http://wscrk.com/spfyShMtMng Sound Cloud ...... http://wscrk.com/scdShMtMng
+  === More Episodes! === Too Many Cooks VS Don''t Hug Me I''m Scared ► http://wscrk.com/TMnyCksWE
+  Philosophy of Neon Genesis Evangelion ► http://wscrk.com/NGEvngWE Philosophy of
+  JIGSAW ► http://wscrk.com/JgswWE Philosophy of CHRISTOPHER NOLAN Pt 3 ► http://wscrk.com/Nlnpt3WC
+  Store ........... https://wisecrackstore.com Twitter ......... https://twitter.com/wisecrack
+  Facebook .... https://facebook.com/wisecrackedu Written by: Rebekah Sinclair Directed
+  by: Michael Luxemburg Narrated by: Jared Bauer Edited by: Andrew Nishimura Motion
+  Graphics by: Dean Bottino Produced by: Emily Dunbar © 2018 Wisecrack, Inc.'
+publishdate: "2018-03-19T19:00:04.000Z"
+url: /wisecrack/UiOTSKBy6ME/
+providers:
+  youtube:
+    id: UiOTSKBy6ME
+---

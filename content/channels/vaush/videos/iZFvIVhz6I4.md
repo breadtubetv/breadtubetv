@@ -4,11 +4,13 @@ date: "2019-09-15T10:39:50+08:00"
 description: Remember, liking this video constitutes an infinitesimally small portion
   of the social and financial support I'll need to build a platform large enough that
   I can challenge Benjamin in a debate but then actually just walk over to him and
-  pee on his leg.
+  pee on his leg Twitter - https://twitter.com/VaushV Patreon - https://www.patreon.com/vaush
+  Donate - https://www.paypal.me/vaush
 series: Ben Shapiro
 url: /vaush/iZFvIVhz6I4/
 providers:
   youtube:
     id: iZFvIVhz6I4
 type: video
+publishdate: "2019-03-19T18:56:36.000Z"
 ---

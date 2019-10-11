@@ -1,0 +1,15 @@
+---
+title: 'The Nature of the Soviet Union: State Capitalism?'
+date: "2019-10-11T16:09:55+08:00"
+type: video
+description: 'Debunking the rightcom argument that the USSR was "not real socialism"
+  but state capitalism The USSR: Democratic or Totalitarian?: https://www.youtube.com/watch?v=Okz2YMW1AwY
+  Average state wages: https://www.marxists.org/history/etol/newspape/fi/vol06/no06/soviet.htm
+  Nature of Planning: http://gen.lib.rus.ec/book/index.php?md5=c22e40075143d321a449a15690f82720
+  Stalin''s belongings: http://englishrussia.com/2014/08/02/stalins-personal-belongings/'
+publishdate: "2017-11-18T20:33:17.000Z"
+url: /tovarishchendymion/kQoEqBx70ts/
+providers:
+  youtube:
+    id: kQoEqBx70ts
+---

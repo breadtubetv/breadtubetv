@@ -9,4 +9,5 @@ providers:
   youtube:
     id: -94STO1-D5Q
 type: video
+publishdate: "2019-01-14T06:35:49.000Z"
 ---

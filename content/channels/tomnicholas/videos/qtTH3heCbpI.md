@@ -1,0 +1,37 @@
+---
+title: 'Millennial Socialism and Centrist Dads: Political discourse after neoliberalism
+  | Tom Nicholas'
+date: "2019-10-11T16:09:32+08:00"
+type: video
+description: 'As my Society of the Spectacle videos have been so well received, I
+  thought I''d try out a slightly more overtly political video, putting ideas such
+  as episteme (explored in my What the Theory video on Michel Foucault), Spectacle
+  and Capitalist Realism (a concept developed by Mark Fisher and discussed in my second
+  video on Guy Debord). Here, then, I take a look at the idea of "Millennial Socialism",
+  a phrase which has been used to describe the politics of Alexandria Ocasio-Cortez
+  (AOC) as well as that of Bernie Sanders (presumably due to his support amongst millennials
+  rather than his own age...). I then contrast this with a meme which appeared on
+  left-wing Twitter in the UK a few years back: that of the "Centrist Dad" to consider
+  why we might be so interested in this idea of generational political differences
+  and whether such an analysis holds any water. I''m particularly interested in how
+  the aftermath of the 2008 financial crisis might have shifted popular perceptions
+  of capitalism and engendered what Jurgen Habermas refers to as a legitimation crisis
+  in neoliberal capitalism. Bringing Gen X into the "millennials vs baby boomers"
+  discourse which seems to dominate popular discussions of generation differences,
+  I consider how our present political discourse might be a result of that legitimation
+  crisis and where we go from here. Further Reading Capitalist Realism by Mark Fisher
+  US: https://amzn.to/2Ti4Nhu UK: https://amzn.to/2Yx3b9w Society of the Spectacle
+  by Guy Debord US: https://amzn.to/2GUKyle UK: https://amzn.to/2M8LSVP Archaeology
+  of Knowledge by Michel Foucault US: https://amzn.to/2YS1SkW UK: https://amzn.to/33mjyVg
+  [The above are affiliate links. I receive a small kickback from anything you buy
+  which, in turn, helps to support the channel.] If you''ve enjoyed this video and
+  would like to see more including my What The Theory? series in which I provide some
+  snappy introductions to key theories in the humanities as well as PhD vlogs in which
+  I talk about some of the challenges of being a PhD student then do consider subscribing.
+  Thanks for watching! Twitter: @Tom_Nicholas Website: www.tomnicholas.com'
+publishdate: "2019-08-09T13:00:10.000Z"
+url: /tomnicholas/qtTH3heCbpI/
+providers:
+  youtube:
+    id: qtTH3heCbpI
+---

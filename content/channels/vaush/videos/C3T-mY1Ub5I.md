@@ -1,0 +1,15 @@
+---
+title: Is Cyberpunk 2077 Transphobic? A Discussion w/ Chat
+date: "2019-10-11T16:13:13+08:00"
+type: video
+description: Just an open-ended discussion. Folks tend to get real sensitive about
+  these issues and I totally understanding coming away with a different take than
+  me, but it's important we all arrive at our conclusions with a healthy mindset.
+  Website - https://www.vaush.gg/ Twitter - https://twitter.com/VaushV Patreon - https://www.patreon.com/vaush
+  Donate - https://www.paypal.me/vaush
+publishdate: "2019-06-20T04:44:37.000Z"
+url: /vaush/C3T-mY1Ub5I/
+providers:
+  youtube:
+    id: C3T-mY1Ub5I
+---

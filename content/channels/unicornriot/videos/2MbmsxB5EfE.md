@@ -1,0 +1,18 @@
+---
+title: Radical Approach to Health at the Workers Healthcare Center of Vio.Me.
+date: "2019-10-11T16:10:42+08:00"
+type: video
+description: '[CC - Greek, English] A radical new approach to healthcare is reclaiming
+  equal relations between specialists and patients while building a community of health
+  from inside an occupied factory in an industrial Greek metro. The Workers'' Healthcare
+  Center of the self-managed occupied factory Vio.Me. has provided free holistic healthcare
+  services to the broader community for the last three years in Greece''s second largest
+  city, Thessaloniki. Unicorn Riot visited the healthcare center in late 2018 and
+  spoke with Dimitra Pouliopoulou, a psychologist who volunteers at the center, to
+  learn more. More info: https://unicornriot.ninja/2019/workers-healthcare-center-of-vio-me-created-by-the-workers-for-the-community/'
+publishdate: "2019-04-24T17:33:41.000Z"
+url: /unicornriot/2MbmsxB5EfE/
+providers:
+  youtube:
+    id: 2MbmsxB5EfE
+---

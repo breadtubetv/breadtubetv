@@ -23,5 +23,5 @@ providers:
     description: An anarchoboi who makes mostly serious videos analysing the world
       through an anarchocommunist lens with the occasional shitpost video for good
       measure.
-    subscribers: 72
+    subscribers: 93
 ---

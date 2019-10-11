@@ -1,0 +1,24 @@
+---
+title: 'Zero Squared #101: Musicology'
+date: "2019-10-11T16:24:29+08:00"
+type: video
+description: "Joanna Demers is the guest this week and next week she will lead a Zero
+  Books Club workshop on youtube. You are invited to join the Zero Books club and
+  to join Demers as she explains the interpretive strategies of contemporary musicology and
+  how these strategies informed her books for Zero Books: a href=\"http://www.zero-books.net/books/drone-apocalypse\"Drone
+  and Apocalypse/a and a href=\"http://www.zero-books.net/books/anatomy-thought-fiction\"Anatomy
+  of Thought Fiction/a.  emFocused on music, but with implications that extend
+  to just about everything, Anatomy of Thought-Fiction explores the role of false
+  ideas in our intellectual and emotional life. - iSimon Reynolds, Author of Retromania
+   /i/emThanks goes out to members of the a href=\"http://zero-books.net/blogs/zero/membership-options-page/\"Zero
+  Books Club/a. Zero Books Club members receive access to the Inside Zero Books which
+  sometimes consists of unedited or full length interviews from the Zero Squared podcast,
+  sometimes features conversations with Zero Books readers about the state of the
+  left, and sometimes features public lectures from Zero Books authors or staff.
+  -Video Upload powered by https://www.TunesToTube.com"
+publishdate: "2017-03-10T22:55:00.000Z"
+url: /zerobooks/zWHONwmEgFk/
+providers:
+  youtube:
+    id: zWHONwmEgFk
+---

@@ -1,0 +1,30 @@
+---
+title: 'Cultural Materialism: WTF? Raymond Williams, Culture and Structures of Feeling'
+date: "2019-10-11T16:09:24+08:00"
+type: video
+description: 'In this month''s episode of What the Theory?, we''re looking at Cultural
+  Materialism, an approach to understanding culture developed by Raymond Williams.
+  Foundational to cultural studies, cultural materialism (a close relation to new
+  historicism), draws influence from both Marxist Literary Criticism and Liberal Humanism
+  in order to develop a "sociology of culture". We''ll be taking a look at "structures
+  of feeling" including dominant, residual and emergent ideologies as well as an important
+  work in cultural materialism, Political Shakespeare: Essays in Cultural Materialism.
+  Finally, I put all of this into practice is undertaking a cultural materialist analysis
+  of 2014''s The Lego Movie with a particular consideration of how the film handles
+  discourses of creativity under neoliberal capitalism. Further Reading Culture and
+  Materialism by Raymond Williams US: https://amzn.to/2UdU7jz UK: https://amzn.to/2NCvR8z
+  Political Shakespeare by Jonathan Dollimore and Alan Sinfield US: https://amzn.to/2EJ3vXr
+  UK: https://amzn.to/2SxLQpf After Raymond Williams: Cultural Materialism and the
+  Break-up of Britain by Hywel Dix US: https://amzn.to/2HgH5hV UK: https://amzn.to/2T8BMbf
+  [The above are affiliate links. I receive a small kickback from anything you buy
+  which, in turn, helps to support the channel.] If you''ve enjoyed this video and
+  would like to see more including my What The Theory? series in which I provide some
+  snappy introductions to key theories in the humanities as well as PhD vlogs in which
+  I talk about some of the challenges of being a PhD student then do consider subscribing.
+  Thanks for watching! Twitter: @Tom_Nicholas Website: www.tomnicholas.com'
+publishdate: "2018-11-21T13:08:22.000Z"
+url: /tomnicholas/i7nED5SPYWI/
+providers:
+  youtube:
+    id: i7nED5SPYWI
+---

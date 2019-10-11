@@ -1,0 +1,17 @@
+---
+title: 'Zero Squared #125 Overcoming Capitalism'
+date: "2019-10-11T16:23:05+08:00"
+type: video
+description: "Terry Tapp is an artist and writer living in New York City. Originally
+  from Central Appalachia, Terry spent many years working trade jobs, wandering through
+  the American south, all the while creating art and writing. His book A Serf’s Journal
+  is a formidable first-hand account of American workers in Jeffersonville, Indiana,
+  as they fought a multinational company and their corrupt union to stage the longest
+  wildcat strike in US history. Tapp is the guest this week as we discuss overcoming
+  capitalism.  -Video Upload powered by https://www.TunesToTube.com"
+publishdate: "2017-09-15T02:54:37.000Z"
+url: /zerobooks/JVCM35jCymc/
+providers:
+  youtube:
+    id: JVCM35jCymc
+---

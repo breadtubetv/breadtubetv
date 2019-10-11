@@ -1,0 +1,20 @@
+---
+title: '[LIVE] Direct Action Shuts Down Coal Infrastructure in Germany [Part 2]'
+date: "2019-10-11T16:12:51+08:00"
+type: video
+description: 'Unicorn Riot is on scene of the Ende Gelände action camp. This is the
+  fifth year climate activists have gathered to block German coal infrastructure around
+  mines owned by energy giant RWE in the Rhineland region. Ende Gelände translates
+  to “Here, No Further”, referring to the need to stop using fossil fuels in order
+  to stop runaway climate change. Read more here: https://unicornriot.ninja/2019/direct-action-shuts-down-coal-infrastructure-in-germany/
+  Support non-profit independent media! https://unicornriot.ninja/support-our-work/
+  Unicorn Riot is a horizontally-organized non-profit (501c3) media organization.
+  We are viewer-supported and 100% independent. We do not accept corporate or government
+  money to fund our work. Our media is creative commons, available to the public free
+  of charge, without paywalls or advertisements.'
+publishdate: "2019-06-21T15:58:12.000Z"
+url: /unicornriot/tFCBA22XeDE/
+providers:
+  youtube:
+    id: tFCBA22XeDE
+---

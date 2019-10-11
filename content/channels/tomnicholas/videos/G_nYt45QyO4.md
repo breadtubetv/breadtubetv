@@ -1,0 +1,29 @@
+---
+title: The Ultimate Guide to Essay Argument Structure | Essay Tips
+date: "2019-10-11T16:09:02+08:00"
+type: video
+description: 'Learning how to construct an essay argument can be one of the essential
+  skills that sees your argumentative essay writing go from "kind of okay" to "incredible".
+  So, in response to a viewer request, I''ve put together this ultimate guide to essay
+  argument structure which is full of argumentative essay writing tips to help you
+  ensure your essays have strong and cohesive arguments. As I state within the video,
+  a strong argument should be the beating heart of your essay, it is, in short, its
+  very reason for existing. Ensuring you have a really clear understanding of what
+  your essay''s argument is will both save you time and also enable you to ensure
+  your essay has both focus and clarity. If you find this episode of Essay Tips helpful,
+  then I''d suggest also checking out the following episodes which I mention within
+  this video: Essay Tips: How to Start an Essay with a Hook https://www.youtube.com/watch?v=lVLOOtKFKOI
+  Essay Tips: 5 Tips for Writing a Paragraph https://www.youtube.com/watch?v=Ukw1ywqtAnU
+  Of course, if you have any suggestions or requests for Essay Tips videos then just
+  let me know in the comments and I''ll see what I can do! If you''ve enjoyed this
+  video then please do check out the rest of my channel where I put out a whole range
+  of videos discussing theatre and playwriting from the perspective of an aspirant
+  and (some might say) emerging playwright and theatre maker as well as reflecting
+  on my experience as a PhD Student. Twitter: @Tom_Nicholas Website: www.tomnicholas.com
+  Thanks for watching!'
+publishdate: "2018-02-12T22:58:08.000Z"
+url: /tomnicholas/G_nYt45QyO4/
+providers:
+  youtube:
+    id: G_nYt45QyO4
+---

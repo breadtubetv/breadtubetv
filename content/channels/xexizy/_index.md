@@ -6,8 +6,6 @@ type: channel
 menu:
   main:
     parent: Channels
-videos:
-- EOBcnTeuwMI
 tags:
 - breadtube
 url: /xexizy/
@@ -18,5 +16,5 @@ providers:
     url: https://www.youtube.com/channel/UCDULjo1v2Hivuu4h4LZSTUQ
     description: Marxist youtuber determined to bring about the social revolution
       through the internet, somehow.
-    subscribers: 21563
+    subscribers: 22000
 ---

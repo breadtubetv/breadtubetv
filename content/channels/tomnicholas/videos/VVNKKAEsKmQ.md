@@ -1,0 +1,23 @@
+---
+title: 'Playwriting Tips: Ideas | How to come up with playwriting ideas and find inspiration
+  for your play'
+date: "2019-10-11T16:09:09+08:00"
+type: video
+description: Finding playwriting ideas and inspiration for your play is the first
+  step in writing a play, whether it's something you've been thinking about for a
+  long time, or pops out at you from nowhere. In the second episode of my introduction
+  to playwriting course, I look at how to brainstorm ideas to come up with that gripping
+  plot which will captivate your audience. My name's Tom and I'm a playwright. As
+  part of writing my new play, Happiness Ltd, I'll be documenting my process through
+  a series of ten short videos. Follow along as I take you through my playwriting
+  process from initial ideas through to final draft! Hopefully this series will allow
+  you to pick up some playwriting tips (a kind of playwriting 101 if you will) and
+  teach you to make your plays or other writing for the stage into compelling drama.
+  Follow along as I take you through my playwriting process from initial ideas through
+  to final draft! Find out more at www.tomnicholas.com Supported by Arts Council England.
+publishdate: "2016-02-04T21:19:14.000Z"
+url: /tomnicholas/VVNKKAEsKmQ/
+providers:
+  youtube:
+    id: VVNKKAEsKmQ
+---

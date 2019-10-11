@@ -1,0 +1,25 @@
+---
+title: 'Some academic books are weird... | Day in the life of a PhD Student: Tuesday
+  | PhD Vlog'
+date: "2019-10-11T16:08:57+08:00"
+type: video
+description: 'In which I try to understand some weird academic books and struggle
+  with the isolation of working from home. Day Two! Follow a day in the life of a
+  PhD Student as I begin my week of PhD vlogs. My aim is to record one video from
+  Monday to Friday this week, releasing them two days later (Wednesday - Sunday) to
+  give you a full insight into a week as a PhD student and a broader look at postgrad
+  PhD student life in general. There''ll be lots of reading academic papers and academic
+  journals as well as books, lots of note taking, PhD thesis writing and (hopefully)
+  some fun stuff too! This is something that people have asked for a number of times
+  in the comments of some of my other videos so I hope you enjoy! If you''ve enjoyed
+  this video then please do check out the rest of my channel where I put out a whole
+  range of videos discussing theatre and playwriting from the perspective of an aspirant
+  and (some might say) emerging playwright and theatre maker as well as reflecting
+  on my experience as a PhD Student. Twitter: @Tom_Nicholas Website: www.tomnicholas.com
+  Thanks for watching!'
+publishdate: "2017-08-24T17:00:01.000Z"
+url: /tomnicholas/3xXr8g2qzts/
+providers:
+  youtube:
+    id: 3xXr8g2qzts
+---

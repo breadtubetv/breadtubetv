@@ -1,0 +1,25 @@
+---
+title: Is DEADPOOL 2 a Two-Hour "LOGAN" Joke? – Wisecrack Quick Take
+date: "2019-10-11T16:19:00+08:00"
+type: video
+description: 'This Quick Take is brought to you by Wix. Whatever you need a website
+  for, create yours today with Wix - https://www.wix.com/go/wisecrack Subscribe to
+  Wisecrack! ....................... http://wscrk.com/SbscrbWC Exclusive Content on
+  WisecrackPLUS.. http://wscrk.com/YtWcPls Welcome to this Wisecrack Quick Take on
+  Deadpool 2! Check out our Movie Podcast - Show Me the Meaning! iTunes ................
+  http://wscrk.com/ituShMtMng Google Play ....... http://wscrk.com/gpmShMtMng Spotify
+  ................ http://wscrk.com/spfyShMtMng Sound Cloud ...... http://wscrk.com/scdShMtMng
+  === MORE MARVEL EPISODES! === Avengers Infinity War ► https://wscrk.com/AvgrInfQT
+  Captain America: Civil War ► http://wscrk.com/CpCvWrWE Thor: Ragnarok ► https://wscrk.com/ThrRgnrkQT
+  Black Panther ► https://wscrk.com/BlckPnthrQT Deadpool 2 Advertising ► http://wscrk.com/DdplAdvWE
+  === FOLLOW US ON THE WEBS! === Twitter ......... https://twitter.com/wisecrack Facebook
+  .... https://facebook.com/wisecrackedu Written by: Alec Opperman Directed by: Robert
+  Tiemstra Narrated by: Jared Bauer Edited by: Andrew Nishimura Produced by: Emily
+  Dunbar Special Thanks to: Jonathan Ramirez, Helen Thompson, and Trine Daely © 2018
+  Wisecrack, Inc.'
+publishdate: "2018-05-22T17:00:02.000Z"
+url: /wisecrack/NZN9uq6d8qA/
+providers:
+  youtube:
+    id: NZN9uq6d8qA
+---

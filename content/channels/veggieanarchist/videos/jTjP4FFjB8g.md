@@ -9,4 +9,5 @@ providers:
   youtube:
     id: jTjP4FFjB8g
 type: video
+publishdate: "2019-01-05T09:10:03.000Z"
 ---

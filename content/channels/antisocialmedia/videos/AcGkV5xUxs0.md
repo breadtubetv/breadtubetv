@@ -1,0 +1,21 @@
+---
+title: 3 Benefits of Climate Change, with Pandering Panda
+date: "2019-10-11T16:06:28+08:00"
+type: video
+description: 'There are SOME advantages to climate change, as Pandering Panda points
+  out. [See pinned comment for more info] === Throw your spare change at me in the
+  street, or via PAYPAL: https://www.paypal.me/AntiSocialMedia Ko-Fi (Buy me a coffee)
+  : https://ko-fi.com/anti_socialmedia Or donate $1 (or more) per month via PATREON:
+  https://www.patreon.com/AntiSocialMedia x ===== ANTI-SOCIAL MEDIA on Twitter: https://twitter.com/ASM_AntiSocial
+  Listen to the Anti-Social Media Podcast via; iTUNES: https://itunes.apple.com/gb/podcast/anti-social-media-podcast/id1076431995?mt=2
+  SPREAKER: https://www.spreaker.com/user/antisocialmedia SOUNDCLOUD: https://soundcloud.com/antisocial_media
+  Stitcher Radio: https://www.stitcher.com/podcast/antisocial-media-podcast Podbean:
+  https://antisocialmediapodcast.podbean.com/ And loads of other places too? Can''t
+  find it on your podcast provider? LET ME KNOW, and i''ll add it. x ASM on YouTube:
+  https://www.youtube.com/c/AntiSocialMedia Xx'
+publishdate: "2019-09-29T18:22:53.000Z"
+url: /antisocialmedia/AcGkV5xUxs0/
+providers:
+  youtube:
+    id: AcGkV5xUxs0
+---

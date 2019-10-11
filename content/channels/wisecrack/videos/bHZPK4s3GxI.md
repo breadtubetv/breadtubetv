@@ -1,0 +1,25 @@
+---
+title: 'Red Dead Redemption 2: Rockstar''s Inside Joke for Philosophy Nerds – Wisecrack
+  Vlog'
+date: "2019-10-11T16:20:00+08:00"
+type: video
+description: 'Check Out Blackwood Podcast Now! ►► http://wondery.fm/wise Thanks to
+  Wondery for sponsoring this video! Subscribe to Wisecrack! ► http://wscrk.com/SbscrbWC
+  Join Our Discord Chat and More at WisecrackPLUS ► http://wscrk.com/YtWcPls Red Dead
+  Redemption 2 might be known for its satire, but in this first ever Wisecrack Vlog,
+  we read one of Jared''s favorite missions through the lens of philosophy. === Watch
+  More Episodes! === The Satire of RED DEAD REDEMPTION ► https://wscrk.com/2AMJyM7
+  The Philosophy of INCREDIBLES 2 ► https://wscrk.com/2ScMUPw The Philosophy of NATHAN
+  FOR YOU ► https://wscrk.com/2RliASK Why Villains Change ► https://wscrk.com/2R3Ac5B
+  Why SOUTH PARK Apologized ► https://wscrk.com/2KgDM9G Kanye and The End of Reality
+  ► https://wscrk.com/KyfbWE Store ........... http://wisecrackstore.com Twitter .........
+  https://twitter.com/wisecrack Instagram .... https://www.instagram.com/wisecrack_official
+  Facebook .... https://facebook.com/wisecrackedu Written, Directed, and Hosted by:
+  Jared Bauer Edited by: Andrew Nishimura Produced by: Emily Dunbar Gameplay Courtesy
+  of: Tikar (https://goo.gl/xfwgqM) © 2018 Wisecrack, Inc.'
+publishdate: "2018-12-05T18:00:04.000Z"
+url: /wisecrack/bHZPK4s3GxI/
+providers:
+  youtube:
+    id: bHZPK4s3GxI
+---

@@ -1,0 +1,44 @@
+---
+title: 'Blockadia and Beyond: Left Climate Politics for the 21st Century'
+date: "2019-10-11T16:14:07+08:00"
+type: video
+description: 'With Thea N. Riofrancos, Ashley Dawson, Audrea Lim, and Daniel Aldana
+  Cohen. Moderated by Daniel Denvir. Recorded at Verso Books in Brooklyn, August 17,
+  2018. Co-sponsored by Jacobin and Science for the People. NOTE: The first 15 minutes
+  of this event are unavailable. --- Climate change is already exacerbating social
+  and economic inequalities from the local to global scale. Big Energy and green capitalism
+  are turning environmental destruction into an opportunity for profit—but their development
+  of clean energy and transportation technologies also provides opportunities. What
+  political strategies can prevent runaway climate change and eco-apartheid, and instead
+  build an alternative future? Today, the most vibrant form of climate justice organizing
+  centers on the frontline communities who are directly impacted by climate chaos
+  and fossil capital. But this resistance must be paired with projects to develop
+  alternative energy and resource economies. How can frontline communities ally in
+  coalitions to meet this challenge? Which movements can consolidate a broader constituency
+  of the poor and working class majorities that would be necessary for a just transition?
+  In this panel discussion, Daniel Aldana Cohen, Ashley Dawson, Audrea Lim, and Thea
+  N. Riofrancos will reflect on the current state of ecological crisis, and the challenges—and
+  opportunities—it poses for building left climate politics for the 21st century.
+  --- ABOUT THE SPEAKERS: Thea N. Riofrancos is an Assistant Professor of Political
+  Science at Providence College. Her research focuses on resource extraction, radical
+  democracy, social movements, and the left in Latin America. Her writing has appeared
+  in N+1, Jacobin, NACLA and Dissent magazines. She also serves as co-chair of Providence
+  Democratic Socialists of America. Ashley Dawson is Professor of English at the Graduate
+  Center/CUNY and the College of Staten Island. He is the author of two recent books
+  on topics relating to the environmental humanities, “Extreme Cities: The Peril and
+  Promise of Urban Life in the Age of Climate Change” (Verso, 2017), and “Extinction:
+  A Radical History” (O/R, 2016), as well as six previous books on global social justice
+  movements and anti-imperialism. He is a long-time member of the Social Text Collective
+  and founder of the CUNY Climate Action Lab. Audrea Lim is a Brooklyn-based journalist
+  who has written for New Yorker, Rolling Stone, The New Republic and The Nation,
+  and also edits for Verso Books. She is originally from Calgary, Alberta. Daniel
+  Aldana Cohen is an assistant professor of sociology at the University of Pennsylvania,
+  where he directs the Socio-Spatial Carbon Collaborative, or (SC)2. Daniel Denvir
+  is the author of “All-American Nativism” (forthcoming from Verso), a writer in residence
+  at The Appeal, and the host of “The Dig” on Jacobin Radio.'
+publishdate: "2018-08-21T21:22:10.000Z"
+url: /versobooks/3I0jtOh0GzA/
+providers:
+  youtube:
+    id: 3I0jtOh0GzA
+---

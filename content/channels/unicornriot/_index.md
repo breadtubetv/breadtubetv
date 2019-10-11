@@ -1,14 +1,14 @@
 ---
-description: Unicorn Riot is a channel for alternative media, art and culture. All
+description: 'Unicorn Riot is a channel for alternative media, art and culture. All
   Unicorn Riot Media is Redistributable Under Creative Commons License Non-Commercial
   Share-Alike. We are a 501(c)(3) non-profit media collective - all donations are
-  tax deductible
+  tax deductible. For more info visit our website: http://www.unicornriot.ninja or
+  contact us through email: info@unicornriot.ninja'
 title: Unicorn Riot
 type: channel
 menu:
   main:
     parent: Channels
-videos: null
 tags:
 - breadtube
 - culture
@@ -31,5 +31,5 @@ providers:
       Share-Alike. We are a 501(c)(3) non-profit media collective - all donations
       are tax deductible. For more info visit our website: http://www.unicornriot.ninja
       or contact us through email: info@unicornriot.ninja'
-    subscribers: 5196
+    subscribers: 6560
 ---

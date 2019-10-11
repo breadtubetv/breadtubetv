@@ -1,0 +1,16 @@
+---
+title: Vusumuzi Zulu at 27th Annual Black Master Storytelling Festival "Signifyin'
+  and Testifyin'"
+date: "2019-10-11T16:12:17+08:00"
+type: video
+description: 'We spoke with director Vusumuzi Zulu Bridges as the Black Storytellers
+  Alliance (BSA) finished its 27th year of showcasing Black master storytellers from
+  around the United States with a weekend of free events for the ‘Signifyin & Testifyin’
+  festival in Minneapolis, MN in late 2018. Watch the event and other interviews with
+  storytellers, here: https://unicornriot.ninja/2019/sharing-black-history-one-story-at-a-time-festival-reaches-27-years/'
+publishdate: "2019-01-15T14:22:51.000Z"
+url: /unicornriot/cFKd8OygKBo/
+providers:
+  youtube:
+    id: cFKd8OygKBo
+---

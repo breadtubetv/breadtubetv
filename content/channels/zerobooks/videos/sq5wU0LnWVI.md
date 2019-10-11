@@ -1,0 +1,15 @@
+---
+title: 'Zero Squared #138: Robot Love'
+date: "2019-10-11T16:24:17+08:00"
+type: video
+description: "This episode of the Zero Books podcast is a conversation with the Alfie
+  Bown. Alfie is the author of the Zero Books title Enjoying It: Candy Crush and Capitalism
+  and he recently penned an essay for the Paris Review entitled The Screen of Enamoration:
+  Love in the Age of Google. In this episode, we discuss Tinder, AI, augmented reality,
+  and robot love.  - video upload powered by https://www.TunesToTube.com"
+publishdate: "2018-01-22T06:48:19.000Z"
+url: /zerobooks/sq5wU0LnWVI/
+providers:
+  youtube:
+    id: sq5wU0LnWVI
+---

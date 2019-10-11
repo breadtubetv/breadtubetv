@@ -1,12 +1,28 @@
 ---
 title: 'K-Punk: The Collected and Unpublished Writings of Mark Fisher'
 date: "2019-09-15T10:39:52+08:00"
-description: Join Repeater Books for a discussion of Mark Fisher’s work with the novelist
-  Hari Kunzru, Chapo Trap House co-host Amber A’Lee Frost, writer Sukhdev Sandhu,
-  and musician Meredith Graves.
+description: 'Join Repeater Books for a discussion of Mark Fisher’s work with the
+  novelist Hari Kunzru, Chapo Trap House co-host Amber A’Lee Frost, writer Sukhdev
+  Sandhu, and musician Meredith Graves. Book launch for “K-Punk: The Collected and
+  Unpublished Writings of Mark Fisher,” published by Repeater Books. Filmed at Verso
+  Books in Brooklyn on November 28, 2018. When Mark Fisher committed suicide in 2017
+  at the age of 48, we lost one of the twenty-first century’s greatest cultural theorists.
+  An icon for today’s insurgent “alt-left,” from 2003 to 2016 Fisher wrote dazzling
+  analyses of our strange and terrifying world—neoliberalism, the loneliness and distracted
+  boredom of digital life, and how these realities are reflected in music, film, TV,
+  and literature. He also developed a vision of a different future—based on community,
+  democratic control of the economy, creative freedom for all, and harnessing technology
+  for the good of humanity. “K-Punk” collects Fisher’s most incendiary and influential
+  posts from his seminal blog “k-punk”, as well as a selection of his brilliantly
+  insightful film, television and music reviews, together with his extraordinary writings
+  on politics, activism, mental health, and popular modernism for numerous websites
+  and magazines. Also included are two previously unpublished essays, the unfinished
+  introduction to his planned book on “Acid Communism”, and an analysis of the 2016
+  US Presidential election, written shortly after Trump’s victory.'
 url: /versobooks/FMuHG3VbNU0/
 providers:
   youtube:
     id: FMuHG3VbNU0
 type: video
+publishdate: "2018-12-03T20:53:00.000Z"
 ---

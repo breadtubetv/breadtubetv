@@ -1,13 +1,32 @@
 ---
-title: 'Postmodernism: WTF? An introduction to Postmodernist Theory'
+title: 'Postmodernism: WTF? An introduction to Postmodernist Theory | Tom Nicholas'
 date: "2019-09-15T10:39:47+08:00"
-description: In this introduction to Gramsci and his neomarxist theory of hegemony,
-  in particular cultural hegemony, I explore this concept which has been hugely influential
-  in contemporary social theory, political theory and cultural theory.
+description: 'What is postmodernism? This is certainly my most requested What the
+  Theory? video yet. In it, I hope to provide an introduction to postmodernist theory
+  and postmodernist philosophy. Along the way, we''ll look at simulacra and Baudrillard''s
+  concepts of a simulacrum and hyperreality as well as Wittengenstein''s concept of
+  language-games. There are few places online where you can find postmodernism explained
+  simply and clearly. It''s a complex theory (as perhaps is made obvious by the length
+  of this video) but, ss always with What the Theory? I hope its the start of such
+  a resource, particularly with so many misconceptions of postmodernism running about
+  online of late. Further Reading Postmodernism, or, the Cultural Logic of Late-Capitalism
+  by Fredric Jameson US: https://amzn.to/2UaEA46 UK: https://amzn.to/2TdVwul Postmodernism:
+  A Very Short Introduction by Christopher Butler US: https://amzn.to/2Hb4q4w UK:
+  https://amzn.to/2SzzPj6 [The above are affiliate links. I receive a small kickback
+  from anything you buy which, in turn, helps to support the channel.] Furthermore,
+  while I find the Stanford Encylopedia of Philosophy entry for postmodernism to be
+  far less helpfull than other (usually its pretty ace), here''s the link to that
+  if you want to check it out: https://plato.stanford.edu/entries/postmodernism/ If
+  you''ve enjoyed this video and would like to see more including my What The Theory?
+  series in which I provide some snappy introductions to key theories in the humanities
+  as well as PhD vlogs in which I talk about some of the challenges of being a PhD
+  student then do consider subscribing. Thanks for watching! Twitter: @Tom_Nicholas
+  Website: www.tomnicholas.com'
 series: Postmodernism
 url: /tomnicholas/o6s_sW6FZ2g/
 providers:
   youtube:
     id: o6s_sW6FZ2g
 type: video
+publishdate: "2018-04-16T15:27:09.000Z"
 ---

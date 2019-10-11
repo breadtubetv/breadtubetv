@@ -1,0 +1,23 @@
+---
+title: Обзор фильма «Секрет».
+date: "2019-10-11T16:10:15+08:00"
+type: video
+description: 'Если бы эти книги, XIX века или нынешнего, действительно рассказывали
+  нам секрет успеха и счастья, вся индустрия их написания уже обанкротилась бы". Ссылки
+  на материалы: Испытание Джеймса Ренди: http://www.skeptik.net/possib/million.htm
+  http://www.randi.org/site/index.php/1m-challenge/challenge-faq.html (как подать
+  заявку на прохождение) Мед. Исследования: http://www.mediswiss.ru/state0054.html
+  О том как тестируют лекарства: http://youtu.be/tmJuroSE1ds http://www.kuban.su/medicine/shtm/baza/lek/klfhtm/part4/4-12.htm
+  Квант. мех: http://elementy.ru/trefil/heisenberg_uncertainty_principle Всплывшие
+  последствия действий «духовных учителей»: http://vimeo.com/4325210 http://lenta.ru/news/2009/10/19/three/
+  http://abcnews.go.com/blogs/headlines/2010/02/strapped-james-arthur-ray-cant-make-bond/
+  5% Мозга: http://elementy.ru/email/5021742 Просто статьи: http://youtu.be/YSDgYhkz7GI
+  (видео-репортаж о суициде впечатлительного человека.) http://www.peoples.ru/art/literature/prose/metaphysical/robert_collier/
+  (о Роберте Кольере) http://webcache.googleusercontent.com/search?q=cache:feIzIT2IspkJ:humanistov.net/superpuper/film-sekret-the-secret-v-chem-obman/+&cd=1&hl=ru&ct=clnk&gl=by&client=firefox-a
+  http://www.skepdic.com/lawofattraction.htm http://lib.rus.ec/b/192365/read (рекомендую'
+publishdate: "2013-08-14T15:07:43.000Z"
+url: /trashsmash/eQLQES_vux8/
+providers:
+  youtube:
+    id: eQLQES_vux8
+---

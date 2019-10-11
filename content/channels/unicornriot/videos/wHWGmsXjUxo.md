@@ -1,0 +1,19 @@
+---
+title: CO Activists Resist Frack Well Construction Near School
+date: "2019-10-11T16:12:56+08:00"
+type: video
+description: 'Greeley, CO - On March 8, 2018, local environmentalists and human rights
+  activists went to the Extraction Oil & Gas construction site about 1,000 feet from
+  Bella Romero Academy. Cullen Lobe took part in the non-violent direct action by
+  attaching himself to a construction vehicle. According to the activists, if this
+  site is completed, Bella Romero will become the most fracked school in the country
+  because it is already surrounded by multiple fracking sites. Two weeks after the
+  action, Lobe and other involved received word that they were getting sued by Extraction
+  Oil & Gas. For more information: https://www.unicornriot.ninja/2018/oil-gas-corporation-sues-colorado-anti-fracking-activists/
+  Do you appreciate our alternative media? Support our work: https://www.unicornriot.ninja/support-our-work/'
+publishdate: "2018-04-17T19:27:18.000Z"
+url: /unicornriot/wHWGmsXjUxo/
+providers:
+  youtube:
+    id: wHWGmsXjUxo
+---

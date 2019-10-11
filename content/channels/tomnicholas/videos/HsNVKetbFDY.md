@@ -1,0 +1,35 @@
+---
+title: Should We Abolish Copyright? From Intellectual Property to a Creative Commons
+  | Tom Nicholas
+date: "2019-10-11T16:09:03+08:00"
+type: video
+description: 'Copyright and Intellectual Property are issues that have prompted a
+  number of controversies recently. The Dark Horse vs Joyful Noise court case in which
+  Katy Perry was found to have infringed on the intellectual property rights of Christian
+  rap artists Flame, for instance, recently provoked a great deal of astonishment
+  online (and inspired a fantastic video by musicologist Adam Neely on the flaw in
+  copyright law as it currently applies to music). Beyond this, the "fair use" or
+  "fair dealing" doctrines which essentially allow for legal copyright infringement
+  for the purposes of parody, commentary and critique regularly draw the frustrations
+  of YouTube creators hit with a copyright claim (see, for instance, Nintendo''s copyright
+  policy which, until it was recently changed, was seen as somewhat draconian). In
+  today''s video, then, I wanted to ask whether we should abolish copyright and intellectual
+  property altogether? I begin by giving a bit of a copyright and intellectual property
+  crash course before continuing to look more broadly at forms of property ownership
+  such as the distinction between personal property vs private property, all to inform
+  a slightly more in-depth discussion of the inconsistencies in the law surrounding
+  forms of intellectual property. If you like what I do here then please do consider
+  checking subscribing and/or checking out my Patreon page at http://patreon.com/tomnicholas
+  Further Reading Intellectual Property: A Very Short Introduction by Siva Vaidhyanathan
+  US: https://amzn.to/2mWYp3G UK: https://amzn.to/2nAOEsi Theft! A History of Music
+  by James Boyle and Jennifer Jenkins US: https://amzn.to/2mNBAiC UK: https://amzn.to/2nJsWSQ
+  Capital: Volume One: A Critique of Political Economy by Karl Marx US: https://amzn.to/2phGlSB
+  UK: https://amzn.to/2piL06V [The above are affiliate links. I receive a small kickback
+  from anything you buy which, in turn, helps to support the channel.] Thanks for
+  watching! Twitter: @Tom_Nicholas Website: www.tomnicholas.com'
+publishdate: "2019-10-02T13:26:15.000Z"
+url: /tomnicholas/HsNVKetbFDY/
+providers:
+  youtube:
+    id: HsNVKetbFDY
+---

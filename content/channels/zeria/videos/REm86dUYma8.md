@@ -1,0 +1,17 @@
+---
+title: How Aria Made Me a Better Person
+date: "2019-10-11T16:22:03+08:00"
+type: video
+description: 'I look at how, in spite of the show''s problems, Aria''s optimistic
+  worldview helped allow me to imagine that the world could be alright. Support me
+  on Patreon: https://www.patreon.com/Zeria Or send a one-time donation through Ko-Fi:
+  https://ko-fi.com/zeria_ Transcript: https://floatingintobliss.wordpress.com/2018/12/21/day-8-how-aria-made-me-a-better-person/
+  Follow me on Twitter: https://twitter.com/_Zeria_ Couples'' Side Channel: https://www.youtube.com/channel/UC9mvbU-HNjLzYqx8ZiHsdBw
+  Trans Culture Club: https://www.youtube.com/channel/UCfmDm5OvKcDrDKb3F8sxVrw Check
+  out my blog: https://floatingintobliss.wordpress.com/ And my AO3 page: https://archiveofourown.org/users/Zeria/works'
+publishdate: "2018-12-21T20:00:01.000Z"
+url: /zeria/REm86dUYma8/
+providers:
+  youtube:
+    id: REm86dUYma8
+---

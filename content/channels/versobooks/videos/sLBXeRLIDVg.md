@@ -1,0 +1,45 @@
+---
+title: 'China Miéville on “October: The Story of the Russian Revolution”'
+date: "2019-10-11T16:14:47+08:00"
+type: video
+description: 'China Miéville, author of “October: The Story of the Russian Revolution,”
+  in discussion with Barbara C. Allen and Bhaskar Sunkara. At Verso Books in Brooklyn,
+  May 19, 2017. Award-winning writer China Miéville has long been inspired by the
+  ideals of the Russian Revolution and here, on the centenary of the revolution, he
+  provides his own distinctive take on its history. In February 1917, in the midst
+  of bloody war, Russia was still an autocratic monarchy: nine months later, it became
+  the first socialist state in world history. How did this unimaginable transformation
+  take place? How was a ravaged and backward country, swept up in a desperately unpopular
+  war, rocked by not one but two revolutions? This is the story of the extraordinary
+  months between those upheavals, in February and October, of the forces and individuals
+  who made 1917 so epochal a year, of their intrigues, negotiations, conflicts and
+  catastrophes. From familiar names like Lenin and Trotsky to their opponents Kornilov
+  and Kerensky; from the byzantine squabbles of urban activists to the remotest villages
+  of a sprawling empire; from the revolutionary railroad Sublime to the ciphers and
+  static of coup by telegram; from grand sweep to forgotten detail. Historians have
+  debated the revolution for a hundred years, its portents and possibilities: the
+  mass of literature can be daunting. But here is a book for those new to the events,
+  told not only in their historical import but in all their passion and drama and
+  strangeness. Because as well as a political event of profound and ongoing consequence,
+  Miéville reveals the Russian Revolution as a breathtaking story. Purchase "October:
+  The Story of the Russian Revolution" from Verso Books: https://www.versobooks.com/books/2443-october
+  About the speakers: China Miéville is the multi-award-winning author of many works
+  of fiction and non-fiction. His fiction includes The City and the City, Embassytown
+  and This Census-Taker, and has won the Hugo, World Fantasy and Arthur C. Clarke
+  awards; his non-fiction includes the photo-illustrated essay London’s Overthrow
+  and Between Equal Rights: A Marxist Theory of International Law. He has written
+  for various publications, including the New York Times, Guardian, Conjunctions and
+  Granta and he is a founding editor of the quarterly Salvage. Barbara C. Allen is
+  Associate Professor of History at La Salle University in Philadelphia, USA. She
+  has published articles in Cahiers du Monde Russe, Jahrbücher für Geschichte Osteuropas,
+  and Revolutionary Russia. She is the author of Alexander Shlyapnikov, 1885–1937:
+  Life of an Old Bolshevik (Haymarket Books). Bhaskar Sunkara is an American political
+  writer, editor and publisher of Jacobin magazine. He is the editor of several books
+  including the ABCs of Socialism (Verso) and Europe in Revolt: Mapping the New European
+  Left (Haymarket).'
+publishdate: "2017-05-23T15:07:15.000Z"
+url: /versobooks/sLBXeRLIDVg/
+providers:
+  youtube:
+    id: sLBXeRLIDVg
+---

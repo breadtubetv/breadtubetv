@@ -1,0 +1,25 @@
+---
+title: ZEN CITY
+date: "2019-10-11T16:24:12+08:00"
+type: video
+description: 'Of Fintushel''s new novel, Publishers Weekly says: Eliot Fintushel.
+  Zero, $11.95 trade paper (136p) ISBN 978-1-78535-350-5 Author and performance artist
+  Fintushel (Breakfast with the Ones You Love) blends Asian philosophy with science
+  fiction in a mind-melting exploration of love, loss, and cultural appropriation.
+  Like every other “hick” on the outside of the City, Big Man dreams of gaining access
+  to it: a place of pure Buddha-nature, where every inhabitant has abandoned desire
+  and reached a state of absolute oneness. Unable to enter by official channels, Big
+  Man enlists the help of his would-be lover, Angela, to sneak in through a back way.
+  In the process, he attracts the attention of the supposed bodhisattva No Mind and
+  the less-than-holy Buddhist teacher Bobo Shin, who pursue him into the City for
+  their own ends. Each character is fascinatingly developed in a somewhat Dadaist
+  fashion, all while moving the plot along. Fintushel’s goal is never to mock or deride
+  Buddhism itself, but rather to expose the ways in which the Eightfold Path is corrupted
+  by human nature; in that regard, this book succeeds brilliantly, deftly weaving
+  a tragic romance that’s about all of us, and none at all. (June)'
+publishdate: "2016-05-31T03:53:34.000Z"
+url: /zerobooks/qpgermp5M00/
+providers:
+  youtube:
+    id: qpgermp5M00
+---

@@ -7,12 +7,6 @@ type: channel
 menu:
   main:
     parent: Channels
-videos:
-- en4bcnxpNO0
-- 2TfTwZD7HGU
-- RB3JQhghbrs
-- iGYnmZ9uN7g
-- PaMJGf8UXJM
 tags:
 - breadtube
 url: /zeria/
@@ -42,7 +36,7 @@ providers:
     description: AKA Floating into Bliss. I focus on analyzing the media I enjoy as
       well as exploring its creators and fandoms. Come for the topical content, stay
       for the yuri and Ikuhara.
-    subscribers: 16764
+    subscribers: 18100
 tags:
 - breadtube
 - anime

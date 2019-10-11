@@ -1,0 +1,25 @@
+---
+title: Presenting a paper at an academic conference | PhD Vlog
+date: "2019-10-11T16:09:00+08:00"
+type: video
+description: 'This week I gave my third academic conference presentation! Presenting
+  a paper at an academic conference can be an important part of PhD study. It is an
+  important opportunity for sharing research with other scholars in your field as
+  well as giving you the chance to listen to academic papers from other grad students
+  and professors. As such, in this week''s PhD vlog, I thought I''d share some of
+  my thought processes as I prepared which might, in turn, provide some tips for conference
+  paper presentation. Particularly, I met a few hurdles along the way as I attempted
+  to turn some work I had formulated as a journal article into a conference paper.
+  Equally, ensuring I made an engaging yet suitably academic powerpoint presentation
+  was something of a challenge! If you''ve enjoyed this video and would like to see
+  more including my What The Theory? series in which I provide some snappy introductions
+  to key theories in the humanities as well as PhD vlogs in which I talk about some
+  of the challenges of being a PhD student then do consider subscribing. Thanks for
+  watching! Twitter: @Tom_Nicholas Website: www.tomnicholas.com Music from Bensound:
+  https://www.bensound.com/royalty-free-music'
+publishdate: "2018-09-12T10:30:01.000Z"
+url: /tomnicholas/DPZKEcta7_s/
+providers:
+  youtube:
+    id: DPZKEcta7_s
+---

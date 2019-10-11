@@ -13,4 +13,5 @@ providers:
   youtube:
     id: en4bcnxpNO0
 type: video
+publishdate: "2019-01-29T16:55:10.000Z"
 ---

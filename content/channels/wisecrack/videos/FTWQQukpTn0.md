@@ -1,0 +1,32 @@
+---
+title: How Anime Deals With History (My Hero Academia, Attack on Titan, Gundam Wing)
+  – Wisecrack Edition
+date: "2019-10-11T16:18:34+08:00"
+type: video
+description: 'Create your own website for FREE ► https://wix.com/wisecrack Use promo
+  code ""WISECRACK15"" to get 15% off all yearly plans! Thanks to Wix for sponsoring
+  this episode! Subscribe to Wisecrack! ► http://wscrk.com/SbscrbWC Join WisecrackPLUS
+  for EXCLUSIVE content! ► http://wscrk.com/YtWcPls Have you ever wondered why so
+  many animes focus on children being trained to fight wars? Just to name a few: My
+  Hero Academia, Attack on Titan, Black Clover, Gundam Wing, Sailor Moon, Naruto,
+  Beelzebub, Cromartie, Angel Densetsu, Girls Und Panzer, Mahouka Koukou no Rettouse,
+  Kill La Kill... the list goes on. In this Wisecrack Edition, we''ll dive in to Japanese
+  History to discover how the country''s imperial past still influences anime. ===
+  Watch More Episodes! === BLACK MIRROR: Is it Deep or Dumb? ►https://wscrk.com/2JT9gUN
+  Why Motherhood is so Terrifying in HORROR (THE BABADOOK, HEREDITARY) ► https://wscrk.com/2ykwXPv
+  ONE PUNCH MAN: What Went Wrong? ► https://wscrk.com/2YXEMpK THE OFFICE: How Nonsense
+  Conquered the Workplace ► https://wscrk.com/2NWzrOE How Brands Got Depressed ► https://wscrk.com/2xHAAP4
+  Zac Efron As TED BUNDY: What Went Wrong? ► https://wscrk.com/2L8Zdgg Citations:
+  Japanese Students at Morning Assembly: https://www.voanews.com/east-asia-pacific/kindergarten-students-learn-pre-war-ideals-japan-school
+  License: https://creativecommons.org/licenses/by/3.0/us/legalcode Store ...........
+  http://wisecrackstore.com Twitter ......... https://twitter.com/wisecrack Facebook
+  .... https://facebook.com/wisecrackedu Research by: Chris Rinthalukay Written by:
+  Thomas Ambrosini Directed by: Michael Luxemburg Hosted by: Jared Bauer Edited by:
+  Andrew Nishimura Motion Graphics by: Drew Levin Produced by: Evan Yee and Emily
+  Dunbar © 2019 Wisecrack'
+publishdate: "2019-07-27T17:00:04.000Z"
+url: /wisecrack/FTWQQukpTn0/
+providers:
+  youtube:
+    id: FTWQQukpTn0
+---

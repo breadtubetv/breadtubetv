@@ -1,0 +1,17 @@
+---
+title: The Other Future and The West Virginia Teachers' Strike
+date: "2019-10-11T16:22:45+08:00"
+type: video
+description: 'An interview with Kim Jones, preschool teaching assistant, in West Virginia
+  during the successful wildcat strike of March 2018. On Tuesday, after the strike
+  ended, Kim wrote: "We won, in the big picture, the day we walked out. Because we
+  started a rowdy conversation about economic justice that stretched around the world.
+  And we did it, by putting our small differences aside and acting as one for the
+  common good. In America, in March 2018, that''s the most countercultural thing a
+  group of people can do. It''s almost a miracle."'
+publishdate: "2018-03-09T22:52:42.000Z"
+url: /zerobooks/8a91oS_nMoE/
+providers:
+  youtube:
+    id: 8a91oS_nMoE
+---

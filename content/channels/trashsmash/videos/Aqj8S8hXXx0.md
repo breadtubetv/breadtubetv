@@ -1,0 +1,19 @@
+---
+title: Об астрологии.
+date: "2019-10-11T16:10:04+08:00"
+type: video
+description: 'В чем же заключаются причины распространения и бешеной популярности
+  такого заблуждения как астрология? Ссылки на материалы: http://www.skepticfiles.org/skeptic/validast.htm
+  (англ. список "проверок" астрологии) http://skeptik.net/astrolog/astats.htm http://scepsis.net/library/id_418.html
+  http://scinquisitor.livejournal.com/8174.html http://scepsis.net/library/id_2191.html
+  http://skeptico.blogs.com/skeptico/2005/02/what_do_you_mea.Html. (англ.) http://nkj.ru/texts/8978/
+  Влияние луны: http://www.mk.ru/science/article/2013/05/13/853024-oprovergnuto-drevnee-povere-chto-polnolunie-vliyaet-na-psihiku-cheloveka.html
+  http://zablpedia.ru/290/ Эффект марса: http://discord.org/~lippard/mars-effect-chron.rtf
+  http://www.skepsis.nl/mars.html http://scinquisitor.livejournal.com/10224.html (рекомендую
+  к прочтению) http://www.scientificexploration.org/journal/jse_11_1_kurtz.pdf http://sueverie.net/vidi-sueveriy/astrologiya/delo-astrologii-astrologi-razoblachaiut-astrologiiu.html'
+publishdate: "2013-07-22T19:16:35.000Z"
+url: /trashsmash/Aqj8S8hXXx0/
+providers:
+  youtube:
+    id: Aqj8S8hXXx0
+---

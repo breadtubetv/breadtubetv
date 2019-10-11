@@ -1,0 +1,27 @@
+---
+title: 'Full Surrogacy Now: Feminism Against Family | Sophie Lewis in conversation
+  with Verso Books'
+date: "2019-10-11T16:14:04+08:00"
+type: video
+description: 'In this interview, Sophie Lewis explains the ideas and theories behind
+  her work Full Surrogacy Now: Feminism Against Family. The surrogacy industry is
+  worth over 1 billion dollars a year, and many of its surrogates work in terrible
+  conditions, while many gestate babies for no pay at all. Should it be illegal to
+  pay someone to gestate a baby for you? Full Surrogacy Now brings a fresh and unique
+  perspective to the debate. Rather than making surrogacy illegal or allowing it to
+  continue as is, Sophie Lewis argues we should be looking to radically transform
+  it. Surrogates should be put front and centre, and their rights towards the babies
+  they gestate should be expanded to acknowledge that surrogates are more than mere
+  vessels. In doing so, we break down our assumptions that children necessarily belong
+  to those whose genetics they share. This might sound like a radical proposal, but
+  expanding our idea of who children belong to would be a good thing. Taking collective
+  responsibility for children, rather than only caring for the ones we share DNA with,
+  would radically transform notions of kinship. Adopting this expanded concept of
+  surrogacy helps us see that it always, as the saying goes, takes a village to raise
+  a child. Full Surrogacy Now is out now: https://www.versobooks.com/books/2951-full-surrogacy-now'
+publishdate: "2019-06-04T10:40:17.000Z"
+url: /versobooks/-yqoZjRIfCY/
+providers:
+  youtube:
+    id: -yqoZjRIfCY
+---

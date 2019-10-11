@@ -1,0 +1,23 @@
+---
+title: VIC BERGER IS MENTALLY ILL (My response to Gavin McInnes)
+date: "2019-10-11T16:15:16+08:00"
+type: video
+description: 'Gavin McInnes, the "founder" of Proud Boys, has hit rock bottom and
+  has resorted to attacking ME in a series of videos. As usual, he is using intimidation
+  tactics and libelous smears in an attempt to discredit me, rather than taking responsibility
+  for his actions. Gavin has done this to many others in the past, and by publicizing
+  my experience, I hope I can help prevent it from happening to someone else. An extremely
+  thorough piece on Gavin that I hope you take the time to read: https://notvice.com/gavin-white-supremacy-article-agreement-page-160a4b5c9037
+  More Proud Boys videos including PB organizers and fundraisers Mike Cernovich and
+  Jack Posobiec: https://www.youtube.com/playlist?list=PLwV95EIdLbL9XpOUXvFq1E3iyLFMoyyjJ
+  A Member Of The Far-Right Proud Boys Menaced A Twitter User On His Doorstep: https://www.huffingtonpost.com/entry/far-right-proud-boys-menaced-twitter-user-on-his-doorstep_us_5b06de68e4b07c4ea1060e92
+  Read my police report here: https://twitter.com/VicBergerIV/status/1001476736821944320
+  Sandi Bachom risks her life to capture footage in the muck. Subscribe to her channel:
+  https://www.youtube.com/user/Schlockumentaries If you like my videos and want to
+  support my work, check out my Patreon here: https://www.patreon.com/vicberger'
+publishdate: "2019-01-07T04:32:54.000Z"
+url: /vicberger/Imvz520-7JA/
+providers:
+  youtube:
+    id: Imvz520-7JA
+---

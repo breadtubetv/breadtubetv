@@ -1,0 +1,18 @@
+---
+title: 'Inside Zero Books #68: Oz on Syria and Assad'
+date: "2019-10-11T16:23:51+08:00"
+type: video
+description: Oz Katerji is a writer, filmmaker and journalist with a focus on the
+  Middle East. He is a foe of Bashar al-Assad and the guest on this week’s Inside
+  Zero Books podcast. Before the interview begins I want to make it clear that releasing
+  this interview is not meant to be taken as support for US or UK military intervention
+  or for US led regime change in Syria. It is, instead, an attempt to allow a vocal
+  and passionate critic of Assad to be heard. Whatever the Anglophone left decides
+  to do, whatever position or action we take, we should not hide from the character
+  of the Assad regime.
+publishdate: "2018-04-23T05:50:21.000Z"
+url: /zerobooks/fDCS9spUo4Y/
+providers:
+  youtube:
+    id: fDCS9spUo4Y
+---

@@ -1,0 +1,15 @@
+---
+title: 'Pizzagate: Mike Cernovich on 60 Minutes (Fake News)'
+date: "2019-10-11T16:15:53+08:00"
+type: video
+description: 'Weird Mike" Cernovich''s appearance on 60 Minutes. Cernovich is a men''s
+  rights advocate, conspiracy theorist, rapist and fake news pusher. He is one of
+  the main people behind #Pizzagate. Please SIGN this petition to remove Cernovich
+  from Twitter: https://www.ipetitions.com/petition/remove-dangerous-far-right-agitator-mike-cernovich
+  If you like my videos and want to support my work, check out my Patreon here: https://www.patreon.com/vicberge'
+publishdate: "2017-03-28T03:54:10.000Z"
+url: /vicberger/eu7Nigp7gHA/
+providers:
+  youtube:
+    id: eu7Nigp7gHA
+---

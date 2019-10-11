@@ -1,0 +1,24 @@
+---
+title: 'Labor Now: Union Reform'
+date: "2019-10-11T16:14:09+08:00"
+type: video
+description: 'The second installment of Labor Now, a three-part monthly winter panel
+  series, where moderator Amber A’Lee Frost brings together trade unionists, labor
+  journalists and labor historians to talk about worker power. This installment is
+  centered on union reform. Filmed at Verso Books in Brooklyn, January 18, 2017. The
+  operations and internal structures of many of the larger, modern unions would be
+  unrecognizable to the radical trade unionists responsible for the major progressive
+  advances in this country. Far from their beginnings as democratic organizations
+  of the working class, many unions have undergone a process of NGO-ification, where
+  leadership has been subsumed by unaccountable bureaucracy and/or the Democratic
+  Party, and the rank and file are often reduced to a funding source with little to
+  no power. Recently though, there has been some marked success in internal reforms.
+  So how do workers take back the unions? SPEAKERS: Pamela Galpern: CWA Local 1101
+  Beth Breslaw: Teamsters for a Democratic Union Alexandra Bradbury: Editor and Co-Director
+  of Labor Notes'
+publishdate: "2018-01-24T21:19:20.000Z"
+url: /versobooks/5EF0sghugGk/
+providers:
+  youtube:
+    id: 5EF0sghugGk
+---

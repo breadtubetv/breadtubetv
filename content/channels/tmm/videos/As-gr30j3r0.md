@@ -1,0 +1,21 @@
+---
+title: 'Get to Know a Grifter: Jacob Wohl'
+date: "2019-10-11T16:08:07+08:00"
+type: video
+description: 'Wohl cheats his clients: https://www.thedailybeast.com/jacob-wohl-teen-hedge-funder-turned-pro-trump-media-star-was-accused-of-cheating-clients
+  14 alleged cases of securities fraud: https://finance.yahoo.com/news/jacob-wohl-teenage-hedge-fund-202540921.html
+  Framing Robert Mueller: https://www.nbcnews.com/politics/justice-department/mueller-refers-sex-assault-scheme-targeting-him-fbi-investigation-n926301
+  Wohl accuses Mueller of calling reporters: http://archive.is/zH7st Mueller press
+  conference: https://www.youtube.com/watch?v=DSg826QJWDE Wohl''s accuser was fake:
+  https://www.usatoday.com/story/news/2019/02/26/jacob-wohl-spread-twitter-lies-mueller-rbg-2020-election/2917226002/
+  Hoax about Buttigieg: https://www.thedailybeast.com/far-right-smear-merchants-jacob-wohl-and-jack-burkman-try-to-slime-pete-buttigieg-with-bogus-sex-assault-claim
+  Driveway press conference: https://www.youtube.com/watch?v=RK_g0me2CKE USA Today
+  interview with Wohl: https://www.usatoday.com/story/news/2019/02/26/jacob-wohl-spread-twitter-lies-mueller-rbg-2020-election/2917226002/
+  Video of Wohl and Loomer: https://www.youtube.com/watch?v=M2cmTFLSfuU Wohl''s fake
+  threats: https://www.thedailybeast.com/jacob-wohl-faked-death-threats-against-himself'
+publishdate: "2019-07-23T18:31:07.000Z"
+url: /tmm/As-gr30j3r0/
+providers:
+  youtube:
+    id: As-gr30j3r0
+---

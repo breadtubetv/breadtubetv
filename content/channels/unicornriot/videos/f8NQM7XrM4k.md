@@ -1,0 +1,16 @@
+---
+title: Nazi Effigy Burned & AntiFa Flag Raised in Minneapolis for Heather Heyer
+date: "2019-10-11T16:12:21+08:00"
+type: video
+description: 'Hundreds of anti-racists and anti-fascists in Minneapoliis, marched
+  in solidarity with Charlottesville and Heather Heyer, who was murdered in a terror
+  attack by white supremacist James Fields on August 12, 2017. They burnt a effigy
+  made in the likes of James Fields and took down the Hennepin County flag outside
+  Hennepin County Jail and raised an Anti-Fascist flag. For more info: www.unicornriot.ninja/?p=18125
+  To help support our work: www.unicornriot.ninja/?page_id=211'
+publishdate: "2017-08-19T06:09:55.000Z"
+url: /unicornriot/f8NQM7XrM4k/
+providers:
+  youtube:
+    id: f8NQM7XrM4k
+---

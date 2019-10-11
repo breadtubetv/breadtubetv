@@ -1,0 +1,36 @@
+---
+title: 'Politix: The Cultural Politics of Netflix'
+date: "2019-10-11T16:09:35+08:00"
+type: video
+description: 'Something I''ve been planning for a long time, this new series looks
+  at Netflix, Politics and the point at which the two meet. We''re going to be taking
+  a deep dive into a number of Netflix Original series in order to explore how they
+  reflect our social, political and cultural context (namely contemporary neoliberalism)
+  back at us through storytelling. This won''t just involve looking at the various
+  Netflix political dramas such as House of Cards and Designated Survivor but also
+  programmes such as Stranger Things, Orange is the New Black and the various Netflix
+  Marvel series''. This video is mainly an introduction and also provides some context.
+  I hope you''ll join me for the rest of this Netflix video essay series: Politix,
+  or, Neoliberalism and Chill. If you''ve enjoyed this video and would like to see
+  more including my What The Theory? series in which I provide some snappy introductions
+  to key theories in the humanities as well as PhD vlogs in which I talk about some
+  of the challenges of being a PhD student then do consider subscribing. Thanks for
+  watching! Twitter: @Tom_Nicholas Website: www.tomnicholas.com References form this
+  video: 1. http://bgr.com/2017/04/11/netflix-vs-youtube-traffic-comscore/ 2. McDonald,
+  K. and Smith-Rowsey, D. [eds] (2016) /The Netflix Effect: Technology and Entertainment
+  in the 21st Century/. London: Bloomsbury. Page 1. 3. https://www.comscore.com/Insights/Blog/OTT-Breaks-Out-of-Its-Netflix-Shell
+  4. https://www.theguardian.com/media/2018/may/03/amazon-prime-video-outpaces-netflix-in-uk-on-demand-market
+  5. McDonald, K. and Smith-Rowsey, D. [eds] (2016) /The Netflix Effect: Technology
+  and Entertainment in the 21st Century/. London: Bloomsbury. Page 2. 6. Gray, J.
+  and Lotz, A. D. (2012) /Short Introductions: Television Studies/. Cambridge: Polity.
+  7. https://books.google.co.uk/books?id=iuIDAAAAMBAJ&pg=PA177&dq=Popular+Science+1930+plane+%22Popular+Mechanics%22&hl=en&ei=F1pgTsXYNInUgQfhoo2PAQ&sa=X&oi=book_result&ct=result&sqi=2&redir_esc=y#v=onepage&q&f=true
+  8. James, L. (2006) /The Victorian Novel/. Oxford: Blackwell Publishing. Page 6.
+  9. https://ia802705.us.archive.org/26/items/LiteraryTheoryAnIntroduction/literary-theory_an-introduction_terry-eagleton.pdf
+  10. Williams, R. (1990) /Television: Technology and Cultural Form/. Edited by Ederyn
+  Williams. Second Edition. London: Routledge. 11. https://zeitgeistfilms.com/film/pervertsguidetoideology'
+publishdate: "2018-05-06T14:09:17.000Z"
+url: /tomnicholas/uSgnyKRBe-g/
+providers:
+  youtube:
+    id: uSgnyKRBe-g
+---

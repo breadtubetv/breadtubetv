@@ -1,0 +1,23 @@
+---
+title: What BoJack Horseman Teaches Us About Loneliness – Wisecrack Quick Take
+date: "2019-10-11T16:19:15+08:00"
+type: video
+description: 'Thanks to Wix for Sponsoring this Video! Build Your Own Website at:
+  https://www.wix.com/go/wisecrack Join WisecrackPLUS for Exclusive Pilot Access:
+  http://wscrk.com/YtWcPls Subscribe to Wisecrack! ....................... http://wscrk.com/SbscrbWC
+  Welcome to this Wisecrack Quick Take on BoJack Horseman Season 5! === More Episodes!
+  === Understanding Disney''s STAR WARS Crisis ► https://wscrk.com/StWrsCWE The Philosophy
+  of VR ► https://wscrk.com/PhVRWE How To Beat the System (And Lose) ► https://wscrk.com/HBtSysWE
+  The Philosophy of Cowboy Bebop ► https://wscrk.com/CwBbpWE The Philosophy of The
+  Good Place ► https://wscrk.com/GdPlcWE The Philosopgy of Pokémon GO ► https://wscrk.com/PkmnGWE
+  Store ........... http://wisecrackstore.com Twitter ......... https://twitter.com/wisecrack
+  Facebook .... https://facebook.com/wisecrackedu Written by: Amanda Scherker Directed
+  by: Michael Luxemburg Narrated by: Jared Bauer Edited by: Mark Potts Produced by:
+  Emily Dunbar Opening Wisecrack Animation by: Michael Sinclair (https://diedfamo.us)
+  © 2018 Wisecrack, Inc.'
+publishdate: "2018-10-16T18:45:01.000Z"
+url: /wisecrack/RTYVxCFJ5QU/
+providers:
+  youtube:
+    id: RTYVxCFJ5QU
+---

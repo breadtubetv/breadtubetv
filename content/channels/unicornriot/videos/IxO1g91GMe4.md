@@ -1,0 +1,16 @@
+---
+title: Icebreaker Pt 5 - ICE/HSI Undercover Operations & Otherwise Illegal Activities
+date: "2019-10-11T16:11:21+08:00"
+type: video
+description: 'ICE’s rules for informants, infiltration of organizations, and guidelines
+  for breaking the law with protection from federal authorities are all spelled out
+  in an “Undercover Operations Handbook” obtained by Unicorn Riot. The 227 page handbook,
+  which is broken into 14 chapters and 10 appendices, shines light on the secret architecture
+  of America’s informant management operations. Read more here: https://www.unicornriot.ninja/?p=22519
+  Support our work: https://www.unicornriot.ninja/support-our-work/'
+publishdate: "2018-06-22T16:28:01.000Z"
+url: /unicornriot/IxO1g91GMe4/
+providers:
+  youtube:
+    id: IxO1g91GMe4
+---

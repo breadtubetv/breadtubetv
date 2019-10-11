@@ -1,6 +1,6 @@
 ---
 title: But when is it (International MEN'S) Polling Day? CONTRIBUTING.md LICENSE README.md
-  archetypes config.toml content data i18n layouts netlify.toml public resources scripts
+  archetypes config.toml content data i18n layouts netlify.toml resources scripts
   static
 date: "2019-09-25T20:45:31+08:00"
 type: video

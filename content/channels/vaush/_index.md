@@ -1,27 +1,14 @@
 ---
 description: Hey, comrades! This channel exists so I can channel my creative energy,
   artistic talent, and rhetorical skill into something productive and useful to others.
-  In time, it will be a weapon against fascism. Until that point, I'll be learning
-  how to make YouTube videos.
+  For now, that seems to be yelling at reactionaries and fascists. Who knows what
+  the future might hold? Twitter - https://twitter.com/VaushV Patreon - https://www.patreon.com/vaush
+  Donate - https://www.paypal.me/vaush
 title: Vaush
 type: channel
 menu:
   main:
     parent: Channels
-videos:
-- oUVLCCKwkdw
-- 2DACBsU_Eeo
-- KC147vQFfaw
-- daOAduw9h9g
-- Be7bNogjCvQ
-- nqfSOLad61k
-- iZFvIVhz6I4
-- y7_aeFyMwD0
-- qpsX9IZ9H8o
-- 4CZUNd-N1ko
-- JlJkVPn2NRM
-- -94STO1-D5Q
-- BHQapW0HzEw
 tags:
 - antifascism
 url: /vaush/
@@ -54,13 +41,12 @@ providers:
     name: Vaush
     slug: UC1E-JS8L0j1Ei70D9VEFrPQ
     url: https://www.youtube.com/channel/UC1E-JS8L0j1Ei70D9VEFrPQ
-    description: |-
-      Hey, comrades! This channel exists so I can channel my creative energy, artistic talent, and rhetorical skill into something productive and useful to others. For now, that seems to be yelling at reactionaries and fascists. Who knows what the future might hold?
-
-      Twitter - https://twitter.com/VaushV
-      Patreon - https://www.patreon.com/vaush
-      Donate - https://www.paypal.me/vaush
-    subscribers: 27434
+    description: Hey, comrades! This channel exists so I can channel my creative energy,
+      artistic talent, and rhetorical skill into something productive and useful to
+      others. For now, that seems to be yelling at reactionaries and fascists. Who
+      knows what the future might hold? Twitter - https://twitter.com/VaushV Patreon
+      - https://www.patreon.com/vaush Donate - https://www.paypal.me/vaush
+    subscribers: 38200
 tags:
 - breadtube
 ---

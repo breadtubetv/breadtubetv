@@ -1,0 +1,17 @@
+---
+title: Миф о телегонии.
+date: "2019-10-11T16:10:06+08:00"
+type: video
+description: 'О явлении телегонии, и последствиях её воздействия, посредством масс
+  медиа, на неокрепшие умы. Ссылки на материалы: http://www.skeptik.net/ism/opponent/telegon2.htm
+  http://www.miloserdie.ru/print/20/36/10706 (для религиозных) http://www.skeptik.net/pseudo/telegon.htm
+  http://www.pravpiter.ru/pspb/n179/ta012.htm http://charles-darwin.narod.ru/chapter5.html
+  (предположения Дарвина о полосатости квагги, ближе к концу) http://theologian.msk.ru/analitika/212-telegoniya-bred-polosatoj-kobyly.html
+  Просьба ко всем жертвам телегонии: Не разводить необоснованный срач в коментах,
+  почитайте перед этим хотя бы учебник биологии за 9 класс, и досмотрите видео. T.R'
+publishdate: "2012-12-05T17:29:49.000Z"
+url: /trashsmash/EIm5c4PkMak/
+providers:
+  youtube:
+    id: EIm5c4PkMak
+---

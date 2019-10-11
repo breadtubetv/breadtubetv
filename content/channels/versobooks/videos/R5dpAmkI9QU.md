@@ -1,0 +1,24 @@
+---
+title: 'World to Win: The Life and Works of Karl Marx'
+date: "2019-10-11T16:14:25+08:00"
+type: video
+description: 'Sven-Eric Liedman—author of a major new Marx biography, “A World to
+  Win:The Life and Works of Karl Marx”—in conversation with Adam Tooze and Clara Mattei.
+  Filmed at Verso Books in Brooklyn, on the 200th anniversary of the birth of Marx,
+  May 5, 2018. Sven-Eric Liedman, Professor Emeritus of the History of Ideas at the
+  University of Gothenburg, has been reading and writing about Karl Marx for over
+  fifty years. He is the author of “A World to Win: The Life and Works of Karl Marx”:
+  https://www.versobooks.com/books/2711-a-world-to-win Adam Tooze holds the Shelby
+  Cullom Davis chair of History at Columbia University and serves as Director of the
+  European Institute. He is currently at work on a history of the global financial
+  crisis 2008-2018, which will appear in time for the anniversary in September 2018.
+  He has written and reviewed for the Financial Times, the Guardian, the London Review
+  of Books, the Wall Street Journal, the New York Times, the New York Review of Books,
+  the Nation, and others. Clara Mattei is Assistant Professor of Economics at The
+  New School for Social Research.'
+publishdate: "2018-05-14T22:03:48.000Z"
+url: /versobooks/R5dpAmkI9QU/
+providers:
+  youtube:
+    id: R5dpAmkI9QU
+---

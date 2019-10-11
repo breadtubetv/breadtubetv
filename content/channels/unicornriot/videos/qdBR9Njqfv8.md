@@ -1,0 +1,22 @@
+---
+title: 'Icebreaker Pt 1: Secret Homeland Security Manual for Stripping US Citizenship'
+date: "2019-10-11T16:12:46+08:00"
+type: video
+description: 'A confidential manual, which Unicorn Riot has obtained in full, guides
+  the US Department of Homeland Security’s little-known investigative arm, Homeland
+  Security Investigations, in targeting and stripping citizenship from naturalized
+  foreign-born Americans. This is the first story in Unicorn Riot’s “Icebreaker” series,
+  which aims to promptly release this information in complete form, with your support.
+  An anonymous source provided Unicorn Riot with Homeland Security Investigations
+  Special Agent handbooks covering 22 years of confidential internal federal law enforcement
+  policies. The Denaturalization Investigations Handbook is dated January 15th, 2008
+  and designated OFFICIAL USE ONLY. It includes information an agent would consult
+  on whether to attempt stripping citizenship, and the intricacies of building up
+  the case against a naturalized citizen. Support our work here: https://unicornriot.ninja/support-our-work/
+  Read more: https://unicornriot.ninja/?p=22214'
+publishdate: "2018-02-20T21:54:19.000Z"
+url: /unicornriot/qdBR9Njqfv8/
+providers:
+  youtube:
+    id: qdBR9Njqfv8
+---

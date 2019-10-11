@@ -1,0 +1,17 @@
+---
+title: Beautiful But Boring - Anime's Original High Fantasy
+date: "2019-10-11T16:21:51+08:00"
+type: video
+description: 'A review of the Record of Lodoss War OVA, which is oftentimes stunning
+  to look at but just as frequently boring to watch. Support me on Patreon: https://www.patreon.com/Zeria
+  Or send a one-time donation through Ko-Fi: https://ko-fi.com/zeria_ Transcript:
+  floatingintobliss.wordpress.com/2019/01/06/script-beautiful-but-boring-animes-original-high-fantasy/
+  Follow me on Twitter: https://twitter.com/_Zeria_ Couples'' Side Channel: https://www.youtube.com/channel/UC9mvbU-HNjLzYqx8ZiHsdBw
+  Trans Culture Club: https://www.youtube.com/channel/UCfmDm5OvKcDrDKb3F8sxVrw Check
+  out my blog: https://floatingintobliss.wordpress.com/ And my AO3 page: https://archiveofourown.org/users/Zeria/works'
+publishdate: "2019-01-06T17:14:29.000Z"
+url: /zeria/3fciaCGXzmk/
+providers:
+  youtube:
+    id: 3fciaCGXzmk
+---

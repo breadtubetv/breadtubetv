@@ -1,0 +1,17 @@
+---
+title: Refuting "Top 10 Reasons why Communism will Always Fail" with Comrades
+date: "2019-10-11T16:09:52+08:00"
+type: video
+description: 'Why did Communism fail? Find out in "Top 10 Reasons why Communism Always
+  Fails" Original: https://www.youtube.com/watch?v=AZIeaI4CYXQ Innovations under the
+  Soviet Union: https://www.reddit.com/r/DebateCommunism/comments/5k5y51/what_innovations_or_inventions_have_communist/dbme886/
+  https://www.calvertjournal.com/articles/show/7605/soviet-internet-cybernetics-viktor-glushkov
+  Antibiotics and capitalism: https://motherboard.vice.com/en_us/article/wnjzbm/the-antibiotic-arms-race-has-another-problem
+  Housing in the USSR: https://stalinsocietygb.wordpress.com/2017/01/13/housing-in-the-ussr/
+  Twitter: https://twitter.com/MarxismEndymion'
+publishdate: "2017-08-04T01:49:43.000Z"
+url: /tovarishchendymion/eXP5A9O_Lwo/
+providers:
+  youtube:
+    id: eXP5A9O_Lwo
+---

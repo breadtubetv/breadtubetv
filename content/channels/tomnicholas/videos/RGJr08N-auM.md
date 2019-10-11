@@ -1,0 +1,41 @@
+---
+title: 'Society of the Spectacle: WTF? Guy Debord, Situationism and the Spectacle
+  Explained | Tom Nicholas'
+date: "2019-10-11T16:09:06+08:00"
+type: video
+description: 'Need The Society of the Spectacle explained? Well, in this episode of
+  What the Theory?, we’re doing just that. The Society of the Spectacle by Guy Debord
+  (a key member of the Situationist International) argues that contemporary capitalist
+  society has become obsessed with images and appearances over all else. Debord argues
+  that “the spectacle” has invaded our everyday lives not just in the form of image-based
+  advertising but also in the way that we interact with one another. In this Society
+  of the Spectacle summary video, I provide a brief introduction to Debord’s concept
+  of the spectacle, taking a brief look at the context in which the book was written
+  (including both situationism and the May ’68 Paris uprisings) and unpacking the
+  key arguments included within. Further Reading Society of the Spectacle by Guy Debord
+  US: https://amzn.to/2BWg9jO UK: https://amzn.to/2SBnzOP Comments on the Society
+  of the Spectacle by Guy Debord US: https://amzn.to/2IJvt9i UK: https://amzn.to/2NJJvqx
+  The Gulf War Did Note Take Placeby Jean Baudrillard US: https://amzn.to/2HaOGyi
+  UK: https://amzn.to/2NAGjNA [The above are affiliate links. I receive a small kickback
+  from anything you buy which, in turn, helps to support the channel.] Bibliography
+  Debord, Guy (2004 [1967]) The Society of the Spectacle. Translated by Ken Knabb.
+  London: Rebel Press. Available online: http://rebels-library.org/files/society_of_the_spectacle.pdf
+  Debord, Guy (1988) Comments on the Society of the Spectacle. Translated by Malcom
+  Imrie. [Online] https://libcom.org/files/Comments%20on%20the%20Society%20of%20the%20Spectacle.pdf
+  [5 February 2019]. Marx, Karl (1867) ‘Chapter One: Commodities’. in Capital: Volume
+  One. [Online] https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm [5 February
+  2019] The Editors of Encyclopedia Britainnica (2019) ‘Situationist International’.
+  Encyclopedia Britannica. [Online] https://www.britannica.com/topic/Situationist-International
+  [2 February 2019]. Wark, McKenzie (2011) The Beach Beneath the Street: The Everyday
+  Life and Glorious Times of the Situationist International. London: Verso. If you''ve
+  enjoyed this video and would like to see more including my What The Theory? series
+  in which I provide some snappy introductions to key theories in the humanities as
+  well as PhD vlogs in which I talk about some of the challenges of being a PhD student
+  then do consider subscribing. Thanks for watching! Twitter: @Tom_Nicholas Website:
+  www.tomnicholas.com'
+publishdate: "2019-02-07T11:30:00.000Z"
+url: /tomnicholas/RGJr08N-auM/
+providers:
+  youtube:
+    id: RGJr08N-auM
+---

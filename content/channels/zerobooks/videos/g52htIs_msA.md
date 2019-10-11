@@ -1,0 +1,21 @@
+---
+title: 'Podcast: Zero Squared #211: Burgis on State Capitalism (pt. 2)'
+date: "2019-10-11T16:23:52+08:00"
+type: video
+description: "Ben Burgis is a philosophy professor, a logic nerd, a columnist for
+  Jacobin, and the author of Give Them an Argument: Logic for the Left. This conversation
+  on the podcast came out of a twitter battle Burgis and I engaged in on the topic
+  of the State Capitalist theory and the question of whether the Soviet Union was
+  State Capitalist. This is the second half of a two-part conversation.   This
+  week’s podcast is available for everyone. Our patrons get access to two podcasts
+  every week: Symptomatic Redness and Zero Squared, but if you’re listening on our
+  free feed you’ll always be able to access one or the other podcasts each week. Patrons
+  also receive access to our new video series called The History of Communism and
+  get access to the Capital Reading group. Book Club members receive electronic copies
+  of new Zero Book titles every month and are invited to an online discussion group."
+publishdate: "2019-08-19T05:01:00.000Z"
+url: /zerobooks/g52htIs_msA/
+providers:
+  youtube:
+    id: g52htIs_msA
+---

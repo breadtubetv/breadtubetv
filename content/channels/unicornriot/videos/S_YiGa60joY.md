@@ -1,0 +1,18 @@
+---
+title: Direct Action Stops Pipeline Construction in Wisconsin
+date: "2019-10-11T16:11:51+08:00"
+type: video
+description: 'Superior, WI – Resistance against Enbridge’s Line 3 Pipeline expansion
+  is ramping up. Near the Fon du Lac Reservation, at the frontline camp, Makwa, water
+  protectors, land defenders, warriors, and others have participated in a wave of
+  civil disobedience that has resulted in 16 arrests in multiple actions that have
+  delayed construction work on the pipeline in the last month. On the morning of September
+  18, Unicorn Riot covered another direct action to stop construction on the Wisconsin
+  side of the Minnesota-Wisconsin border. Read More: https://www.unicornriot.ninja/2017/direct-action-ramps-resistance-line-3/
+  Donate to support our work: https://www.unicornriot.ninja/support-our-work/'
+publishdate: "2017-09-20T19:47:59.000Z"
+url: /unicornriot/S_YiGa60joY/
+providers:
+  youtube:
+    id: S_YiGa60joY
+---

@@ -1,0 +1,54 @@
+---
+title: 'Free (Speech) Palestine: Writers Talk about BDS and Beyond'
+date: "2019-10-11T16:14:45+08:00"
+type: video
+description: 'Sarah Schulman, Susan Abulhawa, Aja Monet and Radhika Sainath at Verso
+  Books in Brooklyn, September 18, 2017. Join writers Susan Abulhawa and Sarah Schulman,
+  poet Aja Monet, and legal expert Radhika Sainath as they discuss the repression
+  of Palestinian cultural production as well as the increasingly harsh attempts here
+  in the United States to silence criticism of Israeli government policies. “Free
+  (Speech) Palestine” continues the conversation about solidarity and the role of
+  the artist that was sparked by the campaign calling on PEN America to reject Israeli
+  government sponsorship for its World Voices Festival. The evening’s conversation
+  will address the conditions under which Palestinian artists labor, the Palestinian
+  call for the cultural boycott of Israel, and efforts to criminalize BDS (boycott,
+  divestment, and sanctions) in the United States. Organized by Adalah-NY: Campaign
+  for the Boycott of Israel and Jewish Voice for Peace: Arts & Culture. Cosponsored
+  by Haymarket Books, Just World Books, OR Books, Palestine Festival of Literature,
+  and Verso Books. About the participants: SUSAN ABULHAWA is a novelist, political
+  commentator, and social justice activist. She was born to refugees of the 1967 War,
+  in which Israel captured what remained of Palestine. Her debut novel “Mornings in
+  Jenin” (Bloomsbury, 2010) was an international bestseller, translated into 26 languages.
+  “The Blue Between Sky and Water” (Bloomsbury, 2015) is her second novel, already
+  sold to more than 19 international publishers around the world. Susan is also the
+  founder of Playgrounds for Palestine, an organization that builds and maintains
+  playgrounds for children in Palestine. AJA MONET is an internationally established
+  poet, performer, and educator. The youngest individual to win the legendary Nuyorican
+  Poet’s Café Grand Slam title, she has collaborated with poet/musician Saul Williams
+  on Chorus: A Literary Mixtape and was featured in Carrie Mae Weems’ show “Grace
+  Notes: Reflections for Now.” Her first book, “My Mother Was a Freedom Fighter,”
+  was recently published by Haymarket Books. In 2015, she traveled to Palestine on
+  a solidarity trip with the Dream Defenders where US activists from across the nation
+  met with Palestinian activists and artists to share, create, and learn. Co-founder
+  of Smoke Signals Studio, Aja Monet currently lives in Little Haiti, Miami and dedicates
+  her time merging arts & culture in community organizing with the Dream Defenders
+  and Community Justice Project. RADHIKA SAINATH is a staff attorney at Palestine
+  Legal, where she defends the civil and constitutional rights of students, professors,
+  artists and grassroots activists advocating for Palestinian freedom. Together with
+  the Center for Constitutional Rights, she brought a landmark lawsuit against Fordham
+  University after it refused to grant club status to Students for Justice in Palestine.
+  She is a co-editor of “Peace Under Fire: Israel/Palestine and the International
+  Solidarity Movement,” and is the author of a soon-to-be published novel set in the
+  West Bank during the Second Intifada. SARAH SCHULMAN is a novelist, playwright,
+  screenwriter, nonfiction writer and AIDS historian. Her 18 books include “Israel/Palestine
+  and The Queer International” (Duke), “Conflict Is Not Abuse” (Arsenal), and the
+  novel “The Cosmopolitans” (Feminist Press). Sarah is on the advisory board of Jewish
+  Voice for Peace and is faculty advisor to Students for Justice in Palestine at The
+  City University of New York, College of Staten Island, where she is a Distinguished
+  Professor.'
+publishdate: "2017-09-19T18:55:43.000Z"
+url: /versobooks/psR6CHaxzOM/
+providers:
+  youtube:
+    id: psR6CHaxzOM
+---
