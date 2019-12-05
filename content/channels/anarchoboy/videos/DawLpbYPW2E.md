@@ -18,7 +18,7 @@ description: 'My take on the recent Hong Kong protests from a leftist perspectiv
   https://edition.cnn.com/2019/05/01/asia/china-students-peking-university-intl/index.html?fbclid=IwAR2jvX-zdwzsvbQqUy-MHnLDb1nR_hLZc5JlpBZCh8SxUDYVg4IbZhk6Um0
   https://www.theguardian.com/world/2019/aug/13/hong-kong-airport-reopens-as-trudeau-urges-china-to-address-serious-concerns'
 publishdate: "2019-08-16T05:25:00.000Z"
-url: /anarchoboi/DawLpbYPW2E/
+url: /anarchoboy/DawLpbYPW2E/
 providers:
   youtube:
     id: DawLpbYPW2E
