@@ -19,7 +19,7 @@ description: 'Are Asians just inherently more successful than other minority gro
   https://www.apa.org/pi/oema/resources/ethnicity-health/asian-american/article-mental-health
   https://www.pewresearch.org/st_18-07-12_inequality_featrued-image_ft_blog/ https://www.newstatesman.com/politics/staggers/2017/10/non-muslims-experiencing-islamophobic-attacks'
 publishdate: "2019-08-08T14:46:33.000Z"
-url: /anarchoboi/FUTDALj_MuQ/
+url: /anarchoboy/FUTDALj_MuQ/
 providers:
   youtube:
     id: FUTDALj_MuQ
