@@ -8,6 +8,9 @@ menu:
     parent: Channels
 tags:
 - breadtube
+- anarchism
+- anti-capitalist
+- communism
 url: /anarchoboy/
 redirects:
 - /anarchoboy/
