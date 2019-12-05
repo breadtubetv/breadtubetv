@@ -13,7 +13,7 @@ tags:
 - communism
 url: /anarchoboy/
 redirects:
-- /anarchoboy/
+- /anarchoboi/
 providers:
   twitter:
     name: anarchoboy
