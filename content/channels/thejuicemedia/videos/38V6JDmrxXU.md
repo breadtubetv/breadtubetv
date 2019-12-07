@@ -1,0 +1,31 @@
+---
+title: 'Larissa Behrendt - Environmental Sustainability: what we can learn from Aboriginal
+  Culture'
+date: "2019-12-07T13:46:56+08:00"
+type: video
+description: "The concept of sustainability has always been central to Indigenous
+  cultures' - Larissa Behrendt (of the Eualeyai/Kamillaroi people) talks about the
+  lessons derived from her Indigenous culture relating to climate-change, environment/sustainability,
+  Aboriginal totems and customs, wisdom and the principles of connectedness. 'I'd
+  like to see the Indigenous cultures of Australia become the central cultures of
+  this country, that all Australian feel that Indigenous cultures are part of our
+  heritage.' In order to achieve this, Larissa advocates the need to protect Indigenous
+  culture within a culture of human-rights.  Peter Doherty - Nobel Prize Laureate
+  - mentions the importance of hunter-gatherer societies.  About Larissa: Professor
+  of Law and Indigenous Studies at the Jumbunna Indigenous House of Learning, University
+  of Technology, Sydney, Larissa is also a practising Barrister who has previously
+  worked with the United Nations. She is currently Chair of National Indigenous Television,
+  Director of Bangarra Dance Company and is on the board of the Museum of Contemporary
+  Art. Larissa is also a judicial member of the Administrative Decisions Tribunal
+  and the Serious Offenders Review Council and an Acting Commissioner on the Land
+  and Environment Court, Fellow for the Australian Social Sciences Academy, a Foundation
+  Fellow for the Australian Academy of Law and a member of the ARC College of Experts.
+  She is published on property law, Indigenous rights, dispute resolution and Aboriginal
+  women's issues and is a regular columnist for the National Indigenous Times. Larissa
+  is also an author; 'Home' is her first novel, and 'Legacy' is her latest work (2009)"
+publishdate: "2009-12-09T22:32:29.000Z"
+url: /thejuicemedia/38V6JDmrxXU/
+providers:
+  youtube:
+    id: 38V6JDmrxXU
+---
