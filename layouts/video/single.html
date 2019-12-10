@@ -30,12 +30,20 @@
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h1>
 
-    <div class="iframe-container">
-      <iframe src="https://www.youtube.com/embed/{{ $videoId }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
 
-    <p class="text-content">
+    <!--div class="iframe-container">
+      <iframe src="https://www.youtube.com/embed/{{ $videoId }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div-->
+
+    <h2 style="background: black; padding: 4px">
+      <a href="https://twitter.com/search?q=%23youtubewalkout&src=typd">
+        #YouTubeWalkOut
+      </a>
+      Video Embeds Disabled Until December 14th
+    </h2>
+
+    <!--p class="text-content">
       {{ .Description | markdownify }}
-    </p>
+    </p-->
   </div>
 {{ end }}
