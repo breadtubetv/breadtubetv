@@ -15,4 +15,5 @@ providers:
   youtube:
     id: JQB4XWB-Fj4
 type: video
+publishdate: "2019-05-28T14:57:48.000Z"
 ---

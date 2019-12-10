@@ -18,4 +18,5 @@ providers:
   youtube:
     id: GM1w8_dOcR8
 type: video
+publishdate: "2018-07-30T16:30:01.000Z"
 ---

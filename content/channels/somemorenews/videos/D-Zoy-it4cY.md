@@ -14,4 +14,5 @@ providers:
   youtube:
     id: D-Zoy-it4cY
 type: video
+publishdate: "2018-06-04T19:15:00.000Z"
 ---

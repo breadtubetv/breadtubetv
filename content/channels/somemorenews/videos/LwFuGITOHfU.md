@@ -15,4 +15,5 @@ providers:
   youtube:
     id: LwFuGITOHfU
 type: video
+publishdate: "2018-05-11T22:21:31.000Z"
 ---

@@ -19,4 +19,5 @@ providers:
   youtube:
     id: ypVKBvGumew
 type: video
+publishdate: "2018-05-27T16:45:00.000Z"
 ---

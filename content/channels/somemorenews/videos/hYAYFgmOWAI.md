@@ -17,4 +17,5 @@ providers:
   youtube:
     id: hYAYFgmOWAI
 type: video
+publishdate: "2018-05-07T17:00:03.000Z"
 ---

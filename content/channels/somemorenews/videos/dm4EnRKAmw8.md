@@ -16,4 +16,5 @@ providers:
   youtube:
     id: dm4EnRKAmw8
 type: video
+publishdate: "2018-04-22T18:15:00.000Z"
 ---

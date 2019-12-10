@@ -19,4 +19,5 @@ providers:
   youtube:
     id: BSCSeXnirAo
 type: video
+publishdate: "2018-04-18T21:05:50.000Z"
 ---

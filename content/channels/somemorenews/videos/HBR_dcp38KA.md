@@ -13,4 +13,5 @@ providers:
   youtube:
     id: HBR_dcp38KA
 type: video
+publishdate: "2018-03-12T18:41:56.000Z"
 ---

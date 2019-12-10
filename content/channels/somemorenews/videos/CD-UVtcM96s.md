@@ -15,4 +15,5 @@ providers:
   youtube:
     id: CD-UVtcM96s
 type: video
+publishdate: "2019-04-23T15:00:00.000Z"
 ---
