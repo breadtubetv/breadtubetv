@@ -51,4 +51,5 @@ providers:
   youtube:
     id: zngm2KqLhbk
 type: video
+publishdate: "2018-11-25T21:40:10.000Z"
 ---
