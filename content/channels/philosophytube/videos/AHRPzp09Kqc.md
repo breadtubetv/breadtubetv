@@ -1,0 +1,34 @@
+---
+title: 'Foucault 2: Government Surveillance & Prison | Philosophy Tube'
+date: "2020-01-03T21:56:19+08:00"
+type: video
+description: 'Part 2/2 - More Foucault! A look at Jeremy Bentham''s prison, the Panopticon,
+  and what it says about Edward Snowden, cyber-security, government surveillance.
+  Also discussing Stop & Search by the police in the UK, and what it says about power
+  and spying. Subscribe! http://tinyurl.com/pr99a46 Patreon: http://www.patreon.com/PhilosophyTube
+  Paypal.me/PhilosophyTube Audible: http://tinyurl.com/jn6tpup FAQ: http://tinyurl.com/j8bo4gb
+  Facebook: http://tinyurl.com/jgjek5w Twitter: @PhilosophyTube Email: ollysphilosophychannel@gmail.com
+  Google+: google.com/+thephilosophytube realphilosophytube.tumblr.com Recommended
+  Reading: Transcript for this Episode: http://tinyurl.com/jrlxpye Michel Foucault,
+  Discipline and Punish Jeremy Bentham, Panopticon http://www.fcsh.unl.pt/docentes/rmonteiro/pdf/panopticon_%20jeremy%20bentham.pdf
+  London Campaign Against Police & State Violence: https://londonagainstpoliceviolence.wordpress.com/
+  Stop Watch: another guide to Stop & Search http://www.stop-watch.org/ Stats on Race
+  and Criminal Justice: http://www.irr.org.uk/research/statistics/criminal-justice/
+  PBS Idea Channel: What is Violence? https://www.youtube.com/watch?v=DyitF-6tBu4
+  Johan Galtung, "Violence, Peace, and their Impact" https://them.polylog.org/5/fgj-en.htm
+  Image of Foucualt: by Exeter Centre for Advanced International Studies Research
+  Priorities, Fair use, https://en.wikipedia.org/w/index.php?curid=23182200 Image
+  of Edward Snowden: by Laura Poitras / Praxis Films, CC BY 3.0, https://commons.wikimedia.org//index.php?curid=27176492
+  Music by Epidemic Sound (Epidemicsound.com) If you or your organisation would like
+  to financially support Philosophy Tube in distributing philosophical knowledge to
+  those who might not otherwise have access to it in exchange for credits on the show,
+  please get in touch! Any copyrighted material should fall under fair use for educational
+  purposes or commentary, but if you are a copyright holder and believe your material
+  has been used unfairly please get in touch with us and we will be happy to discuss
+  it.'
+publishdate: "2017-05-26T18:00:00.000Z"
+url: /philosophytube/AHRPzp09Kqc/
+providers:
+  youtube:
+    id: AHRPzp09Kqc
+---

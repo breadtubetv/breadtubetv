@@ -21,4 +21,5 @@ providers:
   youtube:
     id: Lw5G3UAR2v8
 type: video
+publishdate: "2018-08-28T20:17:44.000Z"
 ---

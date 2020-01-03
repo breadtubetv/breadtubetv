@@ -37,4 +37,5 @@ providers:
   youtube:
     id: yCxqdhZkxCo
 type: video
+publishdate: "2018-10-12T13:00:17.000Z"
 ---

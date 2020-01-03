@@ -1,0 +1,26 @@
+---
+title: 'Don’t Look at Leaked Nudes! Ethics of Porn #3 – Philosophy Tube'
+date: "2020-01-03T21:56:51+08:00"
+type: video
+description: 'Should you look at leaked nudes or revenge porn? Should you peek at
+  those naked snaps of Jennifer Lawrence? Ethics Playlist: https://www.youtube.com/playlist?list=PLvoAL-KSZ32ecfEjoNjMJyKTFUS5-hNr9
+  Ethics of Porn Part 1: http://www.youtube.com/watch?v=tytukM4rUuI Ethics of Porn
+  Part 2 – Hentai, Clopping and Furries: http://www.youtube.com/watch?v=-7cs4RcORcs
+  Kant and the Friendzone: http://www.youtube.com/watch?v=8JH7vJgDozc Subscribe! http://www.youtube.com/subscription_center?add_user=thephilosophytube
+  Facebook: https://www.facebook.com/PhilosophyTube?ref=hl Twitter: @PhilosophyTube
+  Email: ollysphilosophychannel@gmail.com Google+: google.com/+thephilosophytube Suggested
+  Reading: The first two ethics of porn videos mainly, since we’ve largely built on
+  that here Kant – Groundwork for the Metaphysics of Morals Thomas Pogge – World Poverty
+  and Human Rights If you or your organisation would like to financially support Philosophy
+  Tube in distributing philosophical knowledge to those who might not otherwise have
+  access to it in exchange for credits on the show, please get in touch! Music: ''Show
+  your Moves'' and ''Pamgea'' by Kevin MacLeod (incompetech.com) Any copyrighted material
+  should fall under fair use for educational purposes or commentary, but if you are
+  a copyright holder and believe your material has been used unfairly please get in
+  touch with us and we will be happy to discuss it.'
+publishdate: "2014-09-19T08:26:53.000Z"
+url: /philosophytube/lzUrVeIdIBM/
+providers:
+  youtube:
+    id: lzUrVeIdIBM
+---

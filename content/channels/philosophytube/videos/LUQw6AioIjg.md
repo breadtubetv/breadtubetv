@@ -1,0 +1,17 @@
+---
+title: Why should we save the planet? Morality & the Future - Philosophy Tube
+date: "2020-01-03T21:56:28+08:00"
+type: video
+description: 'Should save the planet for ''future generations'' if future generations
+  don''t yet exist? Ethics Playlist: https://www.youtube.com/playlist?list=PLvoAL-KSZ32ecfEjoNjMJyKTFUS5-hNr9
+  Don''t forget you can tweet us @PhilosophyTube! Leave lots of comments and questions,
+  we love reading them; even if you can''t think of anything to say about the philosophy
+  it''s always lovely to read your feedback! If you missed our last episode on truth
+  and beauty you can see it here: http://www.youtube.com/watch?v=GEFWPK-dnCc There
+  were some really interesting comments; thank you to everyone who left their ideas.'
+publishdate: "2013-06-28T09:24:41.000Z"
+url: /philosophytube/LUQw6AioIjg/
+providers:
+  youtube:
+    id: LUQw6AioIjg
+---

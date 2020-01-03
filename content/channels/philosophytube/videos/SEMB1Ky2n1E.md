@@ -53,4 +53,5 @@ providers:
   youtube:
     id: SEMB1Ky2n1E
 type: video
+publishdate: "2019-04-12T18:58:17.000Z"
 ---

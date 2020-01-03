@@ -1,0 +1,29 @@
+---
+title: Islamophobia, Racism, & Feminism (Race Part 2) | Philosophy Tube
+date: "2020-01-03T21:56:10+08:00"
+type: video
+description: 'Following on from our analysis of race and racism in politics and law,
+  here’s a discussion of the racialization of Muslims in Western societies. Part One:
+  http://tinyurl.com/zrvcuvx Subscribe! http://tinyurl.com/pr99a46 Patreon: http://www.patreon.com/PhilosophyTube
+  Audible: http://www.audibletrial.com/PhilosophyTube FAQ: https://www.facebook.com/PhilosophyTube/posts/460163027465168
+  Facebook: https://www.facebook.com/PhilosophyTube?ref=hl Twitter: @PhilosophyTube
+  Email: ollysphilosophychannel@gmail.com Google+: google.com/+thephilosophytube realphilosophytube.tumblr.com
+  Recommended Reading/Viewing: Falguni Sheth, “Toward a Political Philosophy of Race”
+  Sherene Razack, “Casting Out: The Eviction of Muslims from Western Politics and
+  Law” OMFG: What is Islamophobia https://www.youtube.com/watch?v=UpmJ8giVY1I&feature=youtu.be
+  If you or your organisation would like to financially support Philosophy Tube in
+  distributing philosophical knowledge to those who might not otherwise have access
+  to it in exchange for credits on the show, please get in touch! Music: ‘Epic Chiptune
+  Thunderdome,’ ‘Chiptune Anthem One,’ ‘Digital Leap Frog,’ ‘The Day I Die – Remastered’
+  by TechnoAxe - http://tinyurl.com/kkrsfgg Title Animation by Amitai Angor AA VFX
+  - https://www.youtube.com/dvdangor2011 Assets: Photo of the Auschwitz Concentration
+  Camp by PerSona77. Changes were not made. License: http://tinyurl.com/jkq3jzc Any
+  copyrighted material should fall under fair use for educational purposes or commentary,
+  but if you are a copyright holder and believe your material has been used unfairly
+  please get in touch with us and we will be happy to discuss it.'
+publishdate: "2016-01-29T12:53:36.000Z"
+url: /philosophytube/2n-GugSGHhE/
+providers:
+  youtube:
+    id: 2n-GugSGHhE
+---

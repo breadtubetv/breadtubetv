@@ -1,0 +1,17 @@
+---
+title: Does the physical world exist? - Philosophy Tube
+date: "2020-01-03T21:56:24+08:00"
+type: video
+description: 'An explanation of Berkeley''s Idealism in this video, and why he thought
+  the physical world didn''t exist. Metaphysics Playlist: https://www.youtube.com/playlist?list=PLvoAL-KSZ32cX32PRBl1D4b4wr8DwhRQ4
+  Twitter: https://twitter.com/PhilosophyTube Also, it didn''t make it into the video
+  but TheBerkeleyBear recommended the work of a philosopher called Nick Bostrom in
+  the comment section of the previous episode on morality and the future. If you want
+  to read some of what Bostrom thinks then here''s a link to it: it''s a little dry
+  but section 3 is particularly interesting. Bostrom: http://www.existential-risk.org/concept.html'
+publishdate: "2013-07-12T08:24:14.000Z"
+url: /philosophytube/G0azrs_yPvg/
+providers:
+  youtube:
+    id: G0azrs_yPvg
+---
