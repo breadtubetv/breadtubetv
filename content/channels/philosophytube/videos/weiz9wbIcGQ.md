@@ -34,4 +34,5 @@ providers:
   youtube:
     id: weiz9wbIcGQ
 type: video
+publishdate: "2018-11-09T14:00:26.000Z"
 ---

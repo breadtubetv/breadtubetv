@@ -1,0 +1,41 @@
+---
+title: 'Your Comments: Anarchy, Technology, & Politics'
+date: "2020-01-03T21:57:03+08:00"
+type: video
+description: 'Here’s me answering your comments about anarchy, the Internet Creators’
+  Guild, and the overlap between technology and politics! Subscribe! http://tinyurl.com/pr99a46
+  Patreon: http://www.patreon.com/PhilosophyTube Paypal.me/PhilosophyTube Audible:
+  http://tinyurl.com/jn6tpup FAQ: http://tinyurl.com/j8bo4gb Facebook: http://tinyurl.com/jgjek5w
+  Twitter: @PhilosophyTube Email: ollysphilosophychannel@gmail.com Google+: google.com/+thephilosophytube
+  realphilosophytube.tumblr.com Sponsors! Disciple of Kierkegaard Lydia & Nate Thorn
+  Nick Turner Peter Wells Nick Turner Noah Carlsen Michael A. Hill Tink Hedon d’Ennui
+  Thomas Zei Philip Wielgus Noe Cantu Alex Goldhill David, the Benevolent Malenvolence
+  Jody Dawkins Christopher Meyer Adbullah Altuwaijri John Bell Michael Zafiropoulos
+  Eriol Alex Booer Scot Emiliano Heyns Jeffrey Peckham Beth Carretta Patrick Bruno
+  Rona Bolliger Wesley Hardin Kit Fagg Caleb Wiese Maxime Ryser Siri Agnethe Eliassen
+  Tayler Huse Brian Daly Sophia Sun Nick Travaglini Jason Mack Luke Fox Max Hillebrand
+  Nicole Thompson Panot Jim Norman Tom Saleeba Ian George Walker Joe Benavides Kevin
+  Thomsen Francesco De Francesco Michael O Flynn Brendan McAuliffe Alton Burkholder
+  Peter Lyko Adil Abdullah Istvan Hegyes Erik Amundson Edward Wijaya Adeeb Shalabi
+  Michael Tilton Eugene G Ayton Rasmus Björk Jonah Dunch Tin Can Audio Collin Horn
+  Kaja Bojer Eli Berg-Maas Elliott Daniel Reyes José Maria Ruiz Michal Parusinski
+  Max Walker Natasha Krahn Kohdi Mahboub Corey Mohler Rodrigo Flores Mdz Michael Xavier
+  Bryan Gillis Edwin Maldonado Mikael Hall Alfred Yun Matt Giallourakis Sarah Collins
+  Mohammed Bin Sumait Jimmy Zhang Bird Keeper Toby Eran Mekhmandarov Joseph Haydu
+  Kasey Charles Doyle Dominik August Denys Alan Browning Reto Buchmann Stéphanie Gosselin
+  Veronica Tello Jixstun Alex Thompson Dylan Shaw Rine the Mime Jason Dougenis Andreas
+  Lüchinger Emil Jakobsen Sedge and Dan Keith Chang Andrew Carlos Conferencereport
+  Josh Mcquiston Lloyd Fletcher Bruno Deschatelets Realansgar Tirso Tavarez Frederik
+  Gebert Music by Epidemic Sound (Epidemicsound.com) If you or your organisation would
+  like to financially support Philosophy Tube in distributing philosophical knowledge
+  to those who might not otherwise have access to it in exchange for credits on the
+  show, please get in touch! Any copyrighted material should fall under fair use for
+  educational purposes or commentary, but if you are a copyright holder and believe
+  your material has been used unfairly please get in touch with us and we will be
+  happy to discuss it.'
+publishdate: "2017-02-10T19:00:07.000Z"
+url: /philosophytube/zEaLKWw03J0/
+providers:
+  youtube:
+    id: zEaLKWw03J0
+---

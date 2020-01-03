@@ -30,4 +30,5 @@ providers:
   youtube:
     id: qguysO_Slqw
 type: video
+publishdate: "2019-03-15T22:34:19.000Z"
 ---

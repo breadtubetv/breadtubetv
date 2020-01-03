@@ -1,0 +1,30 @@
+---
+title: Trump & the Problem with Politics | Philosophy Tube
+date: "2020-01-03T21:56:08+08:00"
+type: video
+description: 'The Presidential race between Hillary Clinton and Donald Trump has revealed
+  something interesting about politics. The ideas of philosopher (and Nazi) Carl Schmitt,
+  and the black activist Kwame Ture, can help us understand how the right-wing and
+  left-wing criticise liberalism… Subscribe! http://tinyurl.com/pr99a46 Patreon: http://www.patreon.com/PhilosophyTube
+  Paypal.me/PhilosophyTube Audible: http://tinyurl.com/jn6tpup FAQ: http://tinyurl.com/j8bo4gb
+  Facebook: http://tinyurl.com/jgjek5w Twitter: @PhilosophyTube Email: ollysphilosophychannel@gmail.com
+  Google+: google.com/+thephilosophytube realphilosophytube.tumblr.com Recommended
+  Reading: Transcript for this Episode: http://tinyurl.com/juuvyeu Carl Schmitt, Political
+  Theology (http://tinyurl.com/zuyc6ow) and The Concept of the Political (http://tinyurl.com/hzgs2mk)
+  Kwame Ture, Stokely Speaks (http://tinyurl.com/jkql8ys) Lenin, Imperialism: The
+  Highest Stage of Capitalism (http://tinyurl.com/jhn2jxb) Falguni Sheth, Toward A
+  Political Philosophy of Race (http://tinyurl.com/jkost9q) Sherene Razack, Casting
+  Out: The Eviction of Muslims from Western Law & Politics (http://tinyurl.com/zxf8x4e)
+  Music by Epidemic Sound (Epidemicsound.com) If you or your organisation would like
+  to financially support Philosophy Tube in distributing philosophical knowledge to
+  those who might not otherwise have access to it in exchange for credits on the show,
+  please get in touch! Any copyrighted material should fall under fair use for educational
+  purposes or commentary, but if you are a copyright holder and believe your material
+  has been used unfairly please get in touch with us and we will be happy to discuss
+  it.'
+publishdate: "2016-11-04T19:02:33.000Z"
+url: /philosophytube/0BcsKdvERZA/
+providers:
+  youtube:
+    id: 0BcsKdvERZA
+---

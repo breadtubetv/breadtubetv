@@ -24,4 +24,5 @@ providers:
   youtube:
     id: VEZzs-jGnuY
 type: video
+publishdate: "2018-11-02T22:46:02.000Z"
 ---

@@ -1,0 +1,31 @@
+---
+title: The Six Philosophers You'll Read in College (College Humor Parody) - Philosophy
+  Tube
+date: "2020-01-03T21:56:44+08:00"
+type: video
+description: '7 Questions About Studying Philosophy: http://tinyurl.com/ocvaqns Top
+  10 Philosophy Fails: http://tinyurl.com/p9fn558 More Philosophy Fails: http://tinyurl.com/orhpans
+  Subscribe! http://www.youtube.com/subscription_center?add_user=thephilosophytube
+  This has been a parody of College Humor; check them out here! https://www.youtube.com/user/collegehumor
+  Patreon: http://www.patreon.com/PhilosophyTube Facebook: https://www.facebook.com/PhilosophyTube?ref=hl
+  Twitter: @PhilosophyTube Email: ollysphilosophychannel@gmail.com Google+: google.com/+thephilosophytube
+  Special Thanks to Hannah Raymond-Cox for the loan of her awesome voice! The books
+  I used (this isn''t necessarily what I think of them): The Ancient - Plato''s Republic
+  The Incomprehensible - Kant''s Groundwork of the Metaphysics of Morals The Modern
+  - David Lewis'' On the Plurality of Worlds The Depressive - Albert Camus'' The Myth
+  of Sisyphus The Activist - Thomas Pogge''s World Poverty and Human Rights You -
+  An essay I was writing on the definition of creativity If you or your organisation
+  would like to financially support Philosophy Tube in distributing philosophical
+  knowledge to those who might not otherwise have access to it in exchange for credits
+  on the show, please get in touch! Music: ‘Monkeys Spinning Monkeys,’ ‘Bach’s Sinfonia
+  Number 5,’ ‘Latin Industries,’ ‘Harlequin’ and ‘Take a Chance’ by Kevin MacLeod
+  (incompetech.com) Any copyrighted material should fall under fair use for educational
+  purposes or commentary, but if you are a copyright holder and believe your material
+  has been used unfairly please get in touch with us and we will be happy to discuss
+  it.'
+publishdate: "2014-12-05T11:04:49.000Z"
+url: /philosophytube/dft4NOmJOOM/
+providers:
+  youtube:
+    id: dft4NOmJOOM
+---

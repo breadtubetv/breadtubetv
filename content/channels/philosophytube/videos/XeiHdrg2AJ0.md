@@ -1,0 +1,25 @@
+---
+title: Is Rick and Morty an Argument Against Scientism? - Philosophy Tube
+date: "2020-01-03T21:56:39+08:00"
+type: video
+description: 'Rick and Morty" is a hilarious and bleak send-up of popular science
+  fiction, but what could it tell us about Western attitudes towards science, or science
+  at the exclusion of other pursuits? Watch and learn! Subscribe! http://www.youtube.com/subscription_center?add_user=thephilosophytube
+  Facebook: https://www.facebook.com/PhilosophyTube?ref=hl Twitter: @PhilosopyTube
+  Email: ollysphilosophychannel@gmail.com Google+: google.com/+thephilosophytube Suggested
+  Reading: "Rick and Morty" Anthony Nowicke article I mentioned: http://www.popmythology.com/rick-and-morty-review/
+  Film Crit Hulk review: http://badassdigest.com/2014/04/11/rick-and-morty-is-the-best-show-on-television/
+  ComicCon panel featuring the creators and cast: https://www.youtube.com/watch?v=74dgHFEJksI
+  If you or your organisation would like to financially support Philosophy Tube in
+  distributing philosophical knowledge to those who might not otherwise have access
+  to it in exchange for credits on the show, please get in touch! Music: ''Show your
+  Moves'' by Kevin MacLeod (incompetech.com) and the Rick and Morty theme by Ryan
+  Elder Any copyrighted material should fall under fair use for educational purposes
+  or commentary, but if you are a copyright holder and believe your material has been
+  used unfairly please get in touch with us and we will be happy to discuss it'
+publishdate: "2014-07-18T08:39:16.000Z"
+url: /philosophytube/XeiHdrg2AJ0/
+providers:
+  youtube:
+    id: XeiHdrg2AJ0
+---

@@ -1,0 +1,26 @@
+---
+title: '#DearMe An Open Letter to My Teenage Self - BTSWO'
+date: "2020-01-03T21:56:45+08:00"
+type: video
+description: 'There are loads of teenagers on YouTube, so in this episode of Behind
+  the Scenes with Olly I was inspired by Maddie Moate to spread a format that could
+  help them out a bit. It got a bit emotional towards the end! If you''re a content
+  creator then make your own! Here are the contents so you can jump to what you''re
+  looking for: Acne: 1:03 Siblings: 2:00 Careers and University: 3:24 Being Healthy:
+  4:15 Relationships: 4:58 Failure: 5:41 High School: 6:26 Really Awful Stuff: 7:20
+  Subscribe! http://www.youtube.com/subscription_center?add_user=thephilosophytube
+  Facebook: https://www.facebook.com/PhilosophyTube?ref=hl Twitter: @PhilosopyTube
+  Email: ollysphilosophychannel@gmail.com Google+: google.com/+thephilosophytube Maddie
+  Moate''s Original: https://www.youtube.com/watch?v=F1adRcbl8Ow If you or your organisation
+  would like to financially support Philosophy Tube in distributing philosophical
+  knowledge to those who might not otherwise have access to it in exchange for credits
+  on the show, please get in touch! Music: ''Perspectives'' by Kevin MacLeod (incompetech.com)
+  Any copyrighted material should fall under fair use for educational purposes, but
+  if you are a copyright holder and believe your material has been used unfairly please
+  get in touch with us and we will be happy to discuss it.'
+publishdate: "2014-07-18T08:28:05.000Z"
+url: /philosophytube/fdFJxt0gapo/
+providers:
+  youtube:
+    id: fdFJxt0gapo
+---

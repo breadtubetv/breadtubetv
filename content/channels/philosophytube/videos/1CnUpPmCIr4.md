@@ -7,4 +7,5 @@ providers:
   youtube:
     id: 1CnUpPmCIr4
 type: video
+publishdate: "2019-05-06T13:25:35.000Z"
 ---

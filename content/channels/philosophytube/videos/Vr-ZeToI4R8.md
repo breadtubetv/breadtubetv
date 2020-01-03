@@ -53,4 +53,5 @@ providers:
   youtube:
     id: Vr-ZeToI4R8
 type: video
+publishdate: "2019-03-08T07:45:46.000Z"
 ---

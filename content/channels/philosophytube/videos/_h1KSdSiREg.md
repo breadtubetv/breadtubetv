@@ -28,4 +28,5 @@ providers:
   youtube:
     id: _h1KSdSiREg
 type: video
+publishdate: "2018-12-18T22:27:38.000Z"
 ---

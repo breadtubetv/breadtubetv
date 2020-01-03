@@ -36,4 +36,5 @@ providers:
   youtube:
     id: 5gnlhmaM-dM
 type: video
+publishdate: "2018-08-31T13:00:00.000Z"
 ---
