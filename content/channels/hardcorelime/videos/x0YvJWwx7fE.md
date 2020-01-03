@@ -8,4 +8,5 @@ providers:
   youtube:
     id: x0YvJWwx7fE
 type: video
+publishdate: "2018-10-22T10:03:11.000Z"
 ---
