@@ -1,6 +1,7 @@
 ---
-description: >
-  Prolekult is a Marxist film, writing and culture platform based in Birmingham, England. The project is presently run by James Bell (writing and narration) and Alex Bushell (editing and filming). The purpose of the project is to provide high-quality film content looking at world politics, culture and economics from a Marxist perspective.
+description: Prolekult is a Marxist film, writing and culture platform based in Birmingham,
+  England. The purpose of the project is to provide high-quality film content looking
+  at world politics, culture and economics from a Marxist perspective.
 title: Prolekult
 type: channel
 menu:
@@ -30,7 +31,8 @@ providers:
     name: Prolekult
     slug: UCEBbylt9Rax3nOP_hyPnMPA
     url: https://www.youtube.com/channel/UCEBbylt9Rax3nOP_hyPnMPA
-    description: >
-      Prolekult is a Marxist film, writing and culture platform based in Birmingham, England. The project is presently run by James Bell (writing and narration) and Alex Bushell (editing and filming). The purpose of the project is to provide high-quality  film content looking at world politics, culture and economics from a Marxist perspective.
-    subscribers: 2050
+    description: Prolekult is a Marxist film, writing and culture platform based in
+      Birmingham, England. The purpose of the project is to provide high-quality film
+      content looking at world politics, culture and economics from a Marxist perspective.
+    subscribers: 3280
 ---
