@@ -1,0 +1,41 @@
+---
+title: Erica Crooks Puppeteer Demo Reel Puppet Audition Tape April 2016
+date: "2020-02-11T18:35:56+08:00"
+type: video
+description: 'Erica Crooks Puppeteer Demo Reel Puppet Audition Tape ( April 2016 )
+  Most puppeteers in the entertainment industry , especially puppeteers who are members
+  of SAG have some sort of puppeteer puppet reel demo audition tape. I’m not a member
+  of SAG . I think I’m totally blacklisted by now as a satirist and anarchist. lol
+  Just for the heck of it , I sent this very puppet audition tape to The Jim Henson
+  Company seeing if they see something within my puppeteer talent perhaps something
+  on the lines of Henson Alternative / The Happytime Murders . I never heard anything
+  back. And this was before the trailer and stuff , and how things went , I’m kind
+  of glad I didn’t get the call. In my personal opinion , they shouldn’t have sold
+  The Muppets to Disney . Anyway , usually a Puppet audition tape is suppose to be
+  6 minutes long or less expressing puppeteering , voice acting , singing , etc .
+  But the Puppet Audition Reel took on a life of it’s own , 20 minutes in fact. So
+  whatever , I thought it ended up being a funny spontaneous puppet comedy video but
+  at the same time it does showcase my puppeteering , voice acting , comedy writing
+  all in one. Like a typical episode of The Erica Crooks Show I suppose. Not bad for
+  a Transwoman lesbian huh folks. ;P So … ENJOY The Official Erica Crooks Puppeteer
+  Demo Reel Puppet Audition Tape ( April 2016 ) ! For more hilarious puppet and cartoon
+  animation parodies , Dark Comedy humor , satires and funny stupid videos for adults
+  ( and other cool stuff )visit The Official Erica Crooks Websites : ericacrooks.com
+  and officialericcrooks.com today ! http://facebook.com/officialericcrooks http://youtube.com/user/officialericcrooks
+  http://Instagram.com/officialericcrooks/ https://officialericcrooks.tumblr.com/
+  http://officialericcrooks.blogspot.com/ http://officialericcrooks.newgrounds.com/follow
+  http://www.dailymotion.com/user/officialericcrooks/1 https://vimeo.com/officialericcrooks
+  http://www.tumblr.com/follow/officialericcrooks http://officialericcrooks.newgrounds.com
+  https://vine.co/u/1257143407999610880 http://twitter.com/crooks_erica #puppeteer
+  #puppeteering #puppetry #puppetreel #puppeteerreel #ericacrooks #puppetryarts #puppet
+  #puppets #voiceacting #voiceactress #performancearts #actress #puppetaudition #puppetauditiontape
+  #puppetryreel #voiceactingreel #puppeteering #puppetryreel #puppetdemo #puppetrydemo
+  #transgenderpuppeteer #lgbtpuppeteers #lgbtqpuppeteers #ericacrookspuppeteer #ericacrookspuppets
+  #ericacrookspuppet #theericacrooksshow #ericacrooksshow #officialericcrooks #drlebrick
+  #adultpuppetry'
+publishdate: "2018-09-17T20:06:33.000Z"
+url: /ericacrooks/4TW5bgSd5OI/
+providers:
+  youtube:
+    id: 4TW5bgSd5OI
+---

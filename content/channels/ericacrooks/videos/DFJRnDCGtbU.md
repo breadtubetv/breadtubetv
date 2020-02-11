@@ -1,0 +1,17 @@
+---
+title: Love vs Fear / Love Is The Answer
+date: "2020-02-11T18:36:22+08:00"
+type: video
+description: 'Love vs Fear / Love is The Answer With all the political problems in
+  the world , what if the answer , solution and analysis is more simple than we think.
+  #anarchy #anarchist #anarchism #thenewworldorder #newworldorder #illuminati #anarchist
+  #twinflame #twinflames #newage #newthought #spirituality #lawofattraction #manifest
+  #manifestation #newagespirituality #newagebeleifs #satire #humortheory #socialrevolution
+  #1960s #sixties #60s #revolution #cultureofresistance #society #brainwashing #spiritualanarchist
+  #unitetheleft #leftwingpolitics #spiritualanarchism'
+publishdate: "2018-12-02T19:30:38.000Z"
+url: /ericacrooks/DFJRnDCGtbU/
+providers:
+  youtube:
+    id: DFJRnDCGtbU
+---

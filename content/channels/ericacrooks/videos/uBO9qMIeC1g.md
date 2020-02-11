@@ -1,0 +1,34 @@
+---
+title: Transgender Day of Visibility / Screw Transphobic Bullies
+date: "2020-02-11T18:38:44+08:00"
+type: video
+description: 'Transgender Day of Visibility / Screw Transphobic Bullies Facebook Video
+  https://www.facebook.com/officialericcrooks/videos/vl.299157967619810/1237867926337705/
+  Dailymotion : https://www.dailymotion.com/video/x752bfb #wontbeerased #translivesmatter
+  #transgender #transgenderdayofvisability #TransDayOfVisibility #trans #lgbt #bornthisway
+  #lgbtq #left #leftwing #unitetheleft #antifa #antifascist #antifascism #anarchist
+  #anarchy #anarchism #ancom #anarchocommunist #anarchocommunism #libertariansocialist
+  #libertariansocialism #anticyberbullying #endtransphobianow #antitransphobia #antiauthoritarian
+  #rightwingsuck #narcissist #narcissism I want to wish my fellow Trans people and
+  all LGBTQ+ people a happy day of visibility. We shall not allow fear and hate to
+  control us. That being said , allow me to pull the certain to reveal the Wizard
+  of Oz ! That''s right , WHY Transphobic Bullies exist AT ALL ! For more of my Transgender
+  videos , check this out . https://www.youtube.com/watch?v=nDTy8lmNO-E&list=PLJLbzpbdP5rnHI0NXlihDTCijW9epabxJ
+  To learn more about Transgender people and other Educational Recommended Resources
+  , check out these links https://transwhat.org https://transequality.org https://www.glaad.org/transgender
+  LGBTQ+ Pinterest resource page https://www.pinterest.com/officialec1/lgbtq%2B-resources-mostly-butch-femme-lesbians-trans/
+  Anti Fascism / Anti-Narcissistic Abuse http://darkpsychology.co http://ipredator.co
+  https://www.pinterest.com/officialec1/anti-fascist-anti-bullying-anti-cyberbullying-stay/
+  https://www.youtube.com/watch?v=ExTl-Je6FDA&list=PLJLbzpbdP5rnW68BVb_n3w-RUtk74utQr
+  Why does homphobia / transphobia / racism / sexism , etc exist https://anarchism.pageabode.com/afaq/secB1.html#secb14
+  Authoritarian Parenting is the root cause of bullying https://anarchism.pageabode.com/afaq/secB1.html#secb15
+  Anarchism http://anarchism.pageabode.com/afaq/index.html https://www.pinterest.com/officialec1/anarchism-anarchy-anarchist-anarcho/
+  https://www.youtube.com/watch?v=Xhl3ZMoZhF0&list=PLJLbzpbdP5rlEapdVmYDzavjzFMN0W_OA
+  https://www.youtube.com/playlist?list=PLTQuxw8TiSNB3SfoTGCp7FniqCbmynZeq Anarchist
+  FAQ Audiobook ( Sections A - C )'
+publishdate: "2019-03-31T20:03:49.000Z"
+url: /ericacrooks/uBO9qMIeC1g/
+providers:
+  youtube:
+    id: uBO9qMIeC1g
+---

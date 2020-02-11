@@ -1,0 +1,29 @@
+---
+title: Are You Going To Be Talking About... ( 2016 )
+date: "2020-02-11T18:38:05+08:00"
+type: video
+description: '#toilethumor #youtubepoop Toilet Humor at it''s NASTIEST ! If you thought
+  the 2011 toilet humor animated short " Raw & Sore " was Foul https://www.youtube.com/watch?v=KNnfG1ocVR8
+  , This puppet toilet humor short film is either going to make your immature inner
+  child at heart laugh out loud or your going to be just as sick as one of the characters
+  on here who was originally making a serious video on how there''s people who can
+  not afford funeral expenses . #darkhumor #darkcomedy #sickhumor #sickcomedy #ericacrooks
+  #pottyhumor #poopyhumor #immaturehumor #juvenilehumor #grossouthumor #puppet #puppets
+  #puppetry #puppetsonyoutube #youtubepuppets #puppetshortfilm #puppetcomedy #ericacrookspuppets
+  #ericacrookspuppeteer #ericacrookspuppet #officialericcrooks #wtf #lol #funny #omg
+  #fail #epicfail #lolz For more hilarious puppet and cartoon animation parodies ,
+  Dark Comedy humor , satires and funny stupid videos for adults ( and other cool
+  stuff )visit The Official Erica Crooks Websites : ericacrooks.com and officialericcrooks.com
+  today ! http://facebook.com/officialericcrooks http://youtube.com/user/officialericcrooks
+  http://Instagram.com/officialericcrooks/ https://officialericcrooks.tumblr.com/
+  http://officialericcrooks.blogspot.com/ https://officialericcrooks.wordpress.com
+  https://www.deviantart.com/officialericcrooks http://officialericcrooks.newgrounds.com/follow
+  http://www.dailymotion.com/user/officialericcrooks/1 https://vimeo.com/officialericcrooks
+  http://officialericcrooks.newgrounds.com https://vine.co/u/1257143407999610880 https://www.pinterest.com/officialec1/
+  http://twitter.com/crooks_erica'
+publishdate: "2018-10-23T07:33:18.000Z"
+url: /ericacrooks/i-C-LPy5B8w/
+providers:
+  youtube:
+    id: i-C-LPy5B8w
+---

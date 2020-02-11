@@ -1,0 +1,50 @@
+---
+title: Lightworkers , Satirists and Anarchists are against Hierarchical Authoritarian
+  Bullies
+date: "2020-02-11T18:35:42+08:00"
+type: video
+description: 'Lightworkers , Satirists and Anarchists are against Hierarchical Authoritarian
+  Bullies Check out the previous videos Bullies are Sad & Miserable People https://www.youtube.com/watch?v=92HGW80aTQY
+  Bullies Live In Hate and Fear - Love conquers and heals all and is the only truth
+  https://www.youtube.com/watch?v=bcgxpBxCU60 Authoritarian Hierarchy lies to you
+  and is EVIL https://www.youtube.com/watch?v=oy8m22kfxKA Transphobia needs to be
+  taken seriously https://www.youtube.com/watch?v=szjybtrqVC0 Satirist and Hate Mail
+  : https://www.youtube.com/watch?v=xdE4vvIF7TU The Truth about Cyberbullies : https://www.youtube.com/watch?v=qT5eDrg8PaI
+  Anti-Cyberbullying related articles https://officialericcrooks.blogspot.com/search/label/anti-cyberbullying
+  Educational Resources related to this subject https://www.pinterest.com/officialec1/anti-fascist-anti-bullying-anti-cyberbullying-stay/
+  Check out more from Erica Crooks ( me ) - Hilarious puppet and cartoon dark comedy
+  , parodies , satire , slapstick humor for adults - Personality Type Science , mostly
+  INFP CONTRIBUTING.md LICENSE README.md archetypes config.toml content content_old
+  data i18n layouts layouts_old netlify.toml public resources scripts static LGBTQ+
+  activism ( Especially Transgender Lesbians ) CONTRIBUTING.md LICENSE README.md archetypes
+  config.toml content content_old data i18n layouts layouts_old netlify.toml public
+  resources scripts static Empath : Twin Flames , Lightworker , Heyoka , Old Soul
+  , Indigo / Crystal , Starseeds CONTRIBUTING.md LICENSE README.md archetypes config.toml
+  content content_old data i18n layouts layouts_old netlify.toml public resources
+  scripts static New Age / New Thought Spirituality From Law of Attraction to 5D Earth
+  CONTRIBUTING.md LICENSE README.md archetypes config.toml content content_old data
+  i18n layouts layouts_old netlify.toml public resources scripts static Libertarian
+  Socialist Anarchism ( Cultural / Pacifism ) CONTRIBUTING.md LICENSE README.md archetypes
+  config.toml content content_old data i18n layouts layouts_old netlify.toml public
+  resources scripts static Pop Culture Reviews / Comic Con / Puppets and Cartoon Animation
+  CONTRIBUTING.md LICENSE README.md archetypes config.toml content content_old data
+  i18n layouts layouts_old netlify.toml public resources scripts static AND MORE FOR
+  MORE visit The Official Erica Crooks Websites : Personal Website : ericacrooks.weebly.com
+  Official Website for The Erica Crooks Show : officialericcrooks.weebly.com Also
+  Like , Subscribe , Notification Bell thingy , etc Facebook: http://facebook.com/officialericcrooks
+  YouTube : http://youtube.com/user/officialericcrooks Instagram : http://Instagram.com/officialericcrooks/
+  Tumblr : https://officialericcrooks.tumblr.com/ Blogger : http://officialericcrooks.blogspot.com/
+  WordPress: https://officialericcrooks.wordpress.com Deviant Art : https://www.deviantart.com/officialericcrooks
+  Dailymotion : http://www.dailymotion.com/user/officialericcrooks/1 Vimeo: https://vimeo.com/officialericcrooks
+  Newgrounds: http://officialericcrooks.newgrounds.com Pinterest: https://www.pinterest.com/officialec1/
+  Twitter: http://twitter.com/crooks_erica #loveistheanswer #loveheals #lovehealsfearkills
+  #antiauthoritarian #anarchy #anarchist #anarchism #antifa #antifascist #antifascism
+  #translivesmatter #peace #love #psychology #darkpsychology #narcissist #narcissism
+  #goodvsevil #egovssoul #exitthematrix #allrightwingisfascism #philosophy #narcissisticsupply
+  #narcissisticabuse #metoo #ptsd #lawofattraction #newage #newthought #bodymindsoul'
+publishdate: "2019-08-24T15:34:44.000Z"
+url: /ericacrooks/-fOC3cYBFWI/
+providers:
+  youtube:
+    id: -fOC3cYBFWI
+---

@@ -1,0 +1,25 @@
+---
+title: Cartoon Drawing Animation Style Tutorial ( Basics of Construction )
+date: "2020-02-11T18:37:32+08:00"
+type: video
+description: 'Erica Crooks Animation Cartoon Drawing Style Basic Tips Tutorial Cartoonist
+  of 20 years as well as a multi-talented independent filmmaker Erica Crooks talks
+  about the importance of construction when it comes to cartooning animation style
+  drawing in this basic tips tutorial , as well as to how to develop your own cartooning
+  style . Keep on Drawing and Cartooning ! Practice Makes Perfect ! For more hilarious
+  puppet and cartoon animation parodies , Dark Comedy humor , satires and funny stupid
+  videos for adults ( and other cool stuff )visit The Official Erica Crooks Websites
+  : ericacrooks.com and officialericcrooks.com today ! http://facebook.com/officialericcrooks
+  http://youtube.com/user/officialericcrooks http://Instagram.com/officialericcrooks/
+  https://officialericcrooks.tumblr.com/ http://officialericcrooks.blogspot.com/ http://officialericcrooks.newgrounds.com/follow
+  http://www.dailymotion.com/user/officialericcrooks/1 https://vimeo.com/officialericcrooks
+  http://www.tumblr.com/follow/officialericcrooks http://officialericcrooks.newgrounds.com
+  https://vine.co/u/1257143407999610880 http://twitter.com/crooks_erica #cartoon #cartoons
+  #cartooning #cartoondrawing #draw #drawing #transgendercartoonist #lgbtqcartoonist
+  #ericacrooks #infpcartoonist'
+publishdate: "2018-09-17T16:31:14.000Z"
+url: /ericacrooks/YYxut1G46Q0/
+providers:
+  youtube:
+    id: YYxut1G46Q0
+---

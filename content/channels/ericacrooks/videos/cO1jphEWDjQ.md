@@ -1,0 +1,21 @@
+---
+title: Importance of Fandom / Fanbase and Believe in yourself and art
+date: "2020-02-11T18:37:47+08:00"
+type: video
+description: 'Erica Crooks talks about The Importance in fanbase and Believing in
+  Yourself and your art. A blog video about the Rhode Island Comic Con 2015 Panel
+  : Bringing Back The Good Stuff ! https://www.youtube.com/watch?v=hxOQrWq-68A For
+  hilarious puppet and cartoon animation parodies , Dark Comedy humor , satires and
+  stupid videos visit The Official Erica Crooks Website : officialericcrooks.com today
+  ! http://facebook.com/officialericcrooks http://twitter.com/crooks_erica http://youtube.com/user/officialericcrooks
+  http://Instagram.com/officialericcrooks/ http://www.dailymotion.com/user/officialericcrooks/1
+  https://vimeo.com/officialericcrooks http://www.tumblr.com/follow/officialericcrooks
+  http://officialericcrooks.newgrounds.com https://vine.co/u/1257143407999610880 T-shirts
+  and stuff : http://www.zazzle.com/officialericcrooks Official Erica Crooks Website
+  : http://www.officialericcrooks.com'
+publishdate: "2016-03-27T04:57:12.000Z"
+url: /ericacrooks/cO1jphEWDjQ/
+providers:
+  youtube:
+    id: cO1jphEWDjQ
+---

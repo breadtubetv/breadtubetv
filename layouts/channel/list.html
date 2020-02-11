@@ -13,7 +13,7 @@
   <div class="heading-meta">
     <ul class="plain-list">
       <li>
-        <a href="https://www.reddit.com/r/BreadTube/search?q=title:{{ .Title | lower }} OR flair:{{ .Title | lower }}&restrict_sr=1" target="_blank"><strong>r/BreadTube</strong></a>
+        <a href='https://www.reddit.com/r/BreadTube/search?q=title:"{{ .Title | lower }}" OR flair:"{{ .Title | lower }}"&restrict_sr=1' target="_blank"><strong>r/BreadTube</strong></a>
       </li>
       <li>
         <a href="https://github.com/breadtubetv/breadtubetv/edit/master/content/channels/{{ $channelSlug }}/_index.md" target="_blank"><strong>edit</strong></a>

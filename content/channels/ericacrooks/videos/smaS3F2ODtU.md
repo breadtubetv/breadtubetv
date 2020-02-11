@@ -1,0 +1,35 @@
+---
+title: 'The Making of The Erica Crooks Show Behind The Scenes : Puppet Building and
+  Production ( 2015 )'
+date: "2020-02-11T18:38:39+08:00"
+type: video
+description: 'The Making of The Erica Crooks Show Behind The Scenes : Puppet Building
+  and Production ( 2015 ) The following features foam caricature puppets of famous
+  people and is a work of parody / satirical fiction , any similarity beyond parody
+  and satirical caricature is coincidental and unintentional. Sort of inspired by
+  Mad Magazine and Spitting Image . Originally seen on officialericcrooks.com in 2015
+  , Erica Crooks herself takes you behind The Scenes of The Erica Crooks Show ( aka
+  The Eric Crooks Show until 2016 ) and the making of a celebrity parody satirical
+  caricature puppet comedy sketch in terms of building new celebrity parody caricature
+  puppets , puppeteering the new puppets and what the final satirical sketch looks
+  life ( after editing and so forth ) For more hilarious puppet and cartoon animation
+  parodies , Dark Comedy humor , satires and funny stupid videos for adults ( and
+  other cool stuff )visit The Official Erica Crooks Websites : ericacrooks.com and
+  officialericcrooks.com today ! http://facebook.com/officialericcrooks http://youtube.com/user/officialericcrooks
+  http://Instagram.com/officialericcrooks/ https://officialericcrooks.tumblr.com/
+  http://officialericcrooks.blogspot.com/ https://officialericcrooks.wordpress.com
+  https://www.deviantart.com/officialericcrooks http://officialericcrooks.newgrounds.com/follow
+  http://www.dailymotion.com/user/officialericcrooks/1 https://vimeo.com/officialericcrooks
+  http://officialericcrooks.newgrounds.com https://vine.co/u/1257143407999610880 https://www.pinterest.com/officialec1/
+  http://twitter.com/crooks_erica #Caricature #Caricatures #puppet #puppets #puppetry
+  #puppeteer #puppeteering #puppetfilmmaking #puppetbuilding #foampuppet #foampuppets
+  #caracturepuppets #celebrityparody #spoof #parody #satire #comedysketch #behindthescenes
+  #themakingof #comedywebseries #indiependentfilm #indiefilm #indiefilmmaking #indiefilmmaker
+  #independentfilmmaking #independentfilmmaker #ericacrooks #theericacrooksshow #theericcrooksshow
+  #officialericcrooks'
+publishdate: "2018-10-24T10:44:27.000Z"
+url: /ericacrooks/smaS3F2ODtU/
+providers:
+  youtube:
+    id: smaS3F2ODtU
+---

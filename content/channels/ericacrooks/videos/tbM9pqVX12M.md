@@ -1,0 +1,27 @@
+---
+title: Adult Puppetry and Adult Cartoon Animation by Erica Crooks of The Erica Crooks
+  Show
+date: "2020-02-11T18:38:42+08:00"
+type: video
+description: 'Adult Puppetry and Adult Cartoon Animation ( by Erica Crooks of The
+  Erica Crooks Show ) Transgender adult puppeteer / independent adult puppet filmmaker
+  , satirist / humorist , adult cartoonist and adult cartoon animation filmmaker behind
+  the hilarious satirical puppet and cartoon animated sketch comedy series for adults
+  “ The Erica Crooks Show “ , ( deep breath ) talks about the subject of Adult Puppetry
+  and Adult Cartoon Animation _ What makes it so interesting _ Thoughts about a certain
+  adult puppet movie that’s coming out _ The mindset behind an adult puppet and cartoon
+  filmmaker and A difference between how Society sees Puppets and Cartoons vs the
+  history behind adult puppetry and adult cartoons . And for more hilarious puppet
+  and cartoon animation parodies, Dark Comedy humor , satires and funny stupid videos
+  for adults ( even comics and other cool stuff )visit The Official Erica Crooks Websites
+  : ericacrooks.com and officialericcrooks.com today ! http://facebook.com/officialericcrookshttp://twitter.com/crooks_ericahttp://youtube.com/user/officialericcrookshttp://Instagram.com/officialericcrooks/http://www.dailymotion.com/user/officialericcrooks/1https://vimeo.com/officialericcrookshttp://www.tumblr.com/follow/officialericcrookshttp://officialericcrooks.newgrounds.comhttps://vine.co/u/1257143407999610880
+  #ericacrooks #adultpuppetshow #adultpuppetry #adultcartooning #adultpuppeteering
+  #adultcartoonanimation #art #puppeteer #cartoonist #animator #satirist #indiependentfilmmaker
+  #filmmaker #transgender #ericacrookspuppeteer #ericacrookscartoonist #ericacrookspuppets
+  #puppetry #animation #animator #artist #artblog #entertainer #comedian'
+publishdate: "2018-08-14T20:00:59.000Z"
+url: /ericacrooks/tbM9pqVX12M/
+providers:
+  youtube:
+    id: tbM9pqVX12M
+---

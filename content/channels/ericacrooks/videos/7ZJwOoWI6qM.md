@@ -1,0 +1,24 @@
+---
+title: 'The Erica Crooks Show Season 11 2018 Episode 4 : When Stupid Puppets Get Bored
+  and Play With The W'
+date: "2020-02-11T18:36:03+08:00"
+type: video
+description: 'In this special edition of The Erica Crooks Show , the format is quite
+  simple . What happens when stupid puppets get bored and go on webcams for most of
+  the episode ( and a few other sketches involving a sociopath and toilet humor )
+  . A pretty stupid funny episode indeed. And something with Trump in it , who cares
+  ! visit the Official Erica Crooks Show website on officialericcrooks.com The Official
+  Erica Crooks website on ericacrooks.com Subscribe , like , visit , etc FACEBOOK
+  : http://facebook.com/officialericcrooks TWITTER: http://twitter.com/crooks_erica
+  YOUTUBE : http://youtube.com/user/officialericcrooks INSTAGRAM: http://Instagram.com/officialericcrooks/
+  DAILYMOTION: http://www.dailymotion.com/user/officialericcrooks/1 VIMEO: https://vimeo.com/officialericcrooks
+  TUMBLR: http://www.tumblr.com/follow/officialericcrooks NEWGROUNDS: http://officialericcrooks.newgrounds.com
+  GOOGLE PLUS : https://plus.google.com/+Officialericcrooks https://plus.google.com/u/1/107071511190239259796
+  #officialericcrooks #ericacrooks #ericacrooksshow #theericacrooksshow #puppetry
+  #comedy #funny #humor #lol #comedywebseries #satire'
+publishdate: "2018-08-01T05:58:28.000Z"
+url: /ericacrooks/7ZJwOoWI6qM/
+providers:
+  youtube:
+    id: 7ZJwOoWI6qM
+---

@@ -1,0 +1,30 @@
+---
+title: Erica Crooks Holiday Classics vol 1 ( + The Ask Dr LeBrick Holiday Special
+  )
+date: "2020-02-11T18:36:24+08:00"
+type: video
+description: 'Tis the season for the best and worst holiday themed and related slapstick
+  comedy sketches and dark comedy satires / parodies from The Erica Crooks Show and
+  Erica Crooks animated comedy. DOUBLE FEATURE : Including the bonus Holiday Treat
+  - The Ask Dr LeBrick Holiday Special ! Happy Holidays Everyone ! :) For more hilarious
+  puppet and cartoon animation parodies , Dark Comedy humor , satires and funny stupid
+  videos for adults ( and other cool stuff ) visit The Official Erica Crooks Websites
+  : Personal Website : ericacrooks.com Official Website for The Erica Crooks Show
+  : officialericcrooks.com Also Like , Subscribe , Notification Bell thingy , etc
+  Facebook: http://facebook.com/officialericcrooks YouTube : http://youtube.com/user/officialericcrooks
+  Instagram : http://Instagram.com/officialericcrooks/ Tumblr : https://officialericcrooks.tumblr.com/
+  Blogger : http://officialericcrooks.blogspot.com/ WordPress: https://officialericcrooks.wordpress.com
+  Deviant Art : https://www.deviantart.com/officialericcrooks Newgrounds: http://officialericcrooks.newgrounds.com/follow
+  Dailymotion : http://www.dailymotion.com/user/officialericcrooks/1 Vimeo: https://vimeo.com/officialericcrooks
+  Newgrounds: http://officialericcrooks.newgrounds.com Vine: https://vine.co/u/1257143407999610880
+  Pinterest: https://www.pinterest.com/officialec1/ Twitter: http://twitter.com/crooks_erica
+  #christmas #holidays #cartoon #cartoons #animation #animated #darkcomedy #darkhumor
+  #puppet #puppets #puppetry #satire #politicalsatire #theericacrooksshow #ericacrooks
+  #ericacrooksshow #darkhumour #comedy #humor #slapstick #lol #funny #hilarious #humour
+  #puppetshow #christmascomedy #holidaycomedy #comedychristmas #comedyholidays #officialericcrooks'
+publishdate: "2018-12-20T06:16:46.000Z"
+url: /ericacrooks/DTvgZGTYnbI/
+providers:
+  youtube:
+    id: DTvgZGTYnbI
+---

@@ -1,0 +1,18 @@
+---
+title: 'Transphobia NEEDS TO STOP NOW ! #WontBeErased'
+date: "2020-02-11T18:38:48+08:00"
+type: video
+description: 'Recently an upset Transgender Lesbian woman in a Game Stop store went
+  viral but for the wrong reasons. People are laughing at Transgender People , this
+  shows that we still have a long way to go when it comes to transgender equality
+  which is very sad and unfortunate. People need to be more educated ! https://transequality.org/
+  Support Transgender Equality Today #WontBeErased #TransLivesMatter #Transgender
+  #antitransphobia And learn how to be an ally ! https://transwhat.org/allyship/ https://www.glaad.org/transgender
+  #MTF #FTM #transwoman #transgenderwoman #transmen #nonbinary #genderqueer #androgyne
+  #gender #transphobia #endtransphobia #endtransphobianow'
+publishdate: "2019-01-01T22:12:57.000Z"
+url: /ericacrooks/v5FN6Nea_1A/
+providers:
+  youtube:
+    id: v5FN6Nea_1A
+---

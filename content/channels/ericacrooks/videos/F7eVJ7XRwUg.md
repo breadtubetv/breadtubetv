@@ -1,0 +1,31 @@
+---
+title: The Erica Crooks Show Puppets totally riff , parody and lampoon on The Happytime
+  Murders trailer
+date: "2020-02-11T18:36:31+08:00"
+type: video
+description: 'Puppets React To The Happytime Murders Trailer : Erica Crooks Edition
+  Puppets react to The Happytime Murders Trailer is becoming a trend now on the internet.
+  Which is funny because perhaps this is something that the rude satirical R rated
+  puppets on The Erica Crooks Show should do. Not only are we also Muppet(r)(tm)(c)
+  ( of Disney (tm) / Henson (tm) ) geeks and nerds but also we are a satirical puppet
+  comedy web series that parodies stuff we care about. And since we’re kind of bummed
+  out and confused that this Happytime Murders film is in fact a Brian Henson film
+  , instead of allowing our 1990s childhood go down the toilet as well as copying
+  the cliche Puppets react to The Happytime Murders trailer trends and fads , here’s
+  a couple of highlights where we Puppets totally and satirically riff on The Happytimes
+  Murders trailer. ( We are an independent puppet tribe that is influenced by the
+  greats and channeled through the satirical , twisted , and creative imagination
+  of Erica Crooks . And to all those capitalists out there , in no means is this copyright
+  infringement / right to publicity because we don’t use any copyright material other
+  than our own in this video. It is fair use under LAW ( bow up and down to hierarchy
+  UGH blah blah blah ) because of freedom to comment and parody / satirize . Besides
+  we didn’t have our freedom of speech and expression taken away….YET by The New World
+  Order , anyway enjoy the video. And we’ll wait and see to find out of The Happytimes
+  Murders is any good. Place your bets friends. We think this film is going to be
+  a STINKER ! ( The puppet parody also includes strong and sexual language )'
+publishdate: "2018-08-16T23:53:58.000Z"
+url: /ericacrooks/F7eVJ7XRwUg/
+providers:
+  youtube:
+    id: F7eVJ7XRwUg
+---
