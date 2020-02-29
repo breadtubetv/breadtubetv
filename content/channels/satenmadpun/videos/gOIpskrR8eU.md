@@ -1,0 +1,13 @@
+---
+title: How Apex Legends proves your body is filled with fascism
+date: "2020-02-28T23:41:38+08:00"
+type: video
+description: 'hop is gud lyk n subscrib Btw, my Twitch channel is banned right now
+  but here it is in case I get it back: https://www.twitch.tv/satenmadpun Also here''s
+  a link to my Discord if you want to talk to me or others/maybe debate me: https://discord.gg/JQaEDaA'
+publishdate: "2019-04-12T14:01:45.000Z"
+url: /satenmadpun/gOIpskrR8eU/
+providers:
+  youtube:
+    id: gOIpskrR8eU
+---
