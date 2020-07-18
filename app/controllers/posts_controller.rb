@@ -4,7 +4,7 @@ class PostsController < ApplicationController
   # GET /posts
   # GET /posts.json
   def index
-    @posts = Post.all.order(published_at: :desc).includes(:channel)
+    @pagy, @posts = pagy(Post.all.order(published_at: :desc).includes(:channel))
   end
 
   # GET /posts/1
