@@ -1,0 +1,39 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @post.name %>
+</p>
+
+<p>
+  <strong>Slug:</strong>
+  <%= @post.slug %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @post.description %>
+</p>
+
+<p>
+  <strong>Published at:</strong>
+  <%= @post.published_at %>
+</p>
+
+<p>
+  <strong>Kind:</strong>
+  <%= @post.kind %>
+</p>
+
+<p>
+  <strong>Source url:</strong>
+  <%= @post.source_url %>
+</p>
+
+<p>
+  <strong>Channel:</strong>
+  <%= @post.channel_id %>
+</p>
+
+<%= link_to 'Edit', edit_post_path(@post) %> |
+<%= link_to 'Back', posts_path %>

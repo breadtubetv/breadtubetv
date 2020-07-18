@@ -1,0 +1,47 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Image:</strong>
+  <%= image_tag @channel.image %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @channel.name %>
+</p>
+
+<p>
+  <strong>Slug:</strong>
+  <%= @channel.slug %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @channel.description %>
+</p>
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Thumbnail</th>
+      <th>Name</th>
+      <th>Channel</th>
+      <th>Description</th>
+      <th>Published at</th>
+      <th>Kind</th>
+      <th>Source url</th>
+      <th>Channel</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @channel.posts.each do |post| %>
+      <%= render post %>
+    <% end %>
+  </tbody>
+</table>
+
+<%= link_to 'Edit', edit_channel_path(@channel) %> |
+<%= link_to 'Back', channels_path %>
