@@ -1,0 +1,27 @@
+<%= form_with(model: feature, local: true) do |form| %>
+  <% if feature.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(feature.errors.count, "error") %> prohibited this feature from being saved:</h2>
+
+      <ul>
+        <% feature.errors.full_messages.each do |message| %>
+          <li><%= message %></li>
+        <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :channel_id %>
+    <%= form.collection_select :channel_id, Channel.all, :id, :name %>
+  </div>
+
+  <div class="field">
+    <%= form.label :expired_at %>
+    <%= form.datetime_select :expired_at, default: Time.now + 7.days %>
+  </div>
+  
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>

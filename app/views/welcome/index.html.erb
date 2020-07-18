@@ -1,0 +1,4 @@
+<h2>Featured Channels</h2>
+<% @features.each do |feature| %>
+  <%= link_to image_tag(feature.channel.image), feature.channel, alt: feature.channel.name %>
+<% end %>
