@@ -2,7 +2,11 @@
 
 <h1>Channels</h1>
 
-<%== pagy_nav(@pagy) %>
+<div style="display: block; width: 100%; overflow: hidden">
+  <div class="float-right">
+    <%== pagy_bootstrap_combo_nav_js(@pagy) %>
+  </div>
+</div>
 
 <table>
   <thead>

@@ -1,31 +1,20 @@
 <p id="notice"><%= notice %></p>
 
-<h1>Posts</h1>
+<div class="row mb-4">
+  <div class="col">
+    <h1>Posts</h1>
 
-<%== pagy_nav(@pagy) %>
+    <div class="float-right">
+      <%== pagy_bootstrap_combo_nav_js(@pagy) %>
+    </div>
+  </div>
+</div>
 
-<table>
-  <thead>
-    <tr>
-      <th>Thumbnail</th>
-      <th>Name</th>
-      <th>Channel</th>
-      <th>Slug</th>
-      <th>Description</th>
-      <th>Published at</th>
-      <th>Kind</th>
-      <th>Source url</th>
-      <th>Channel</th>
-      <th colspan="3"></th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <% @posts.each do |post| %>
-      <%= render post %>
-    <% end %>
-  </tbody>
-</table>
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
+  <% @posts.each do |post| %>
+    <%= render post %>
+  <% end %>
+</div>
 
 <br>
 

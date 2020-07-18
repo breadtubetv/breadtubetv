@@ -1,4 +1,19 @@
-<tr>
+<div class="col mb-4">
+  <div class="card card-block">
+    <%= image_tag "https://img.youtube.com/vi/#{ post.source_id }/default.jpg", class: "card-img-top" %>
+    <div class="card-body">
+      <h5 class="card-title"><%= link_to post.name, post %></h5>
+      <p class="card-text"><%= truncate post.description %></p>
+      <%= link_to "Watch", post.source_url, class: "btn btn-primary", target: :blank %>
+      <div class="btn-group">
+        <%= link_to "Edit", edit_post_path(post), class: "btn btn-info" %>
+        <%= link_to 'Destroy', post, method: :delete, class: "btn btn-danger", data: { confirm: 'Are you sure?' } %>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--tr>
   <td><%= image_tag "https://img.youtube.com/vi/#{ post.source_id }/default.jpg" %></td>
   <td><%= link_to post.name, post.source_url, target: :blank %></td>
   <td><%= link_to post.channel.name, post.channel %></td>
@@ -9,5 +24,5 @@
   <td><%= post.source_url %></td>
   <td><%= link_to 'Show', post %></td>
   <td><%= link_to 'Edit', edit_post_path(post) %></td>
-  <td><%= link_to 'Destroy', post, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-</tr>
+  <td></td>
+</tr-->
