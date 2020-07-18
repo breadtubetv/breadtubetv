@@ -12,8 +12,11 @@
 
 ActiveRecord::Schema.define(version: 2020_07_18_035352) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "channel_sources", force: :cascade do |t|
-    t.integer "channel_id", null: false
+    t.bigint "channel_id", null: false
     t.string "url"
     t.string "kind"
     t.datetime "created_at", precision: 6, null: false
@@ -37,7 +40,7 @@ ActiveRecord::Schema.define(version: 2020_07_18_035352) do
     t.datetime "published_at"
     t.string "kind"
     t.string "source_url"
-    t.integer "channel_id", null: false
+    t.bigint "channel_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["channel_id"], name: "index_posts_on_channel_id"
