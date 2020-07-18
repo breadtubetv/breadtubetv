@@ -1,0 +1,69 @@
+version: '3.7'
+services:
+  web:
+    # This is shorthand meaning: use working dir, Dockerfile, default target
+    build:
+      context: .
+    volumes: 
+      - type: bind
+        source: .
+        target: /app
+        consistency: cached 
+      - /app/node_modules
+      - /app/tmp
+      - bundler_gems:/usr/local/bundle/
+    env_file: .env
+    environment: 
+      RAILS_ENV: development
+      WEBPACKER_DEV_SERVER_HOST: webpacker
+      RUBYOPT: -W:no-deprecated -W:no-experimental
+      DB_HOST: postgres
+      DB_USERNAME: postgres
+      WEB_CONCURRENCY: 0
+    # DEFAULT RUN: no debugging available
+    command: bundle exec puma -C config/puma.rb WEB=true
+    # DEBUG:
+    # command: bundle exec rdebug-ide --debug --host 0.0.0.0 --port 1234 -- bin/rails s -p 3000 -b 0.0.0.0
+    # TAIL: keep container alive so you can bash into it
+    # command: tail -f /dev/null
+    ports:
+      - "1234:1234"
+      - "3000:3000"
+      
+  webpacker:
+    build:
+      context: .
+    volumes: 
+      - type: bind
+        source: .
+        target: /app
+        consistency: cached 
+      - /app/node_modules
+      - /app/tmp
+      - bundler_gems:/usr/local/bundle/
+    environment: 
+      RAILS_ENV: development
+      NODE_ENV: development
+      WEBPACKER_DEV_SERVER_HOST: 0.0.0.0
+      RUBYOPT: -W:no-deprecated -W:no-experimental
+      DB_HOST: postgres
+      DB_USERNAME: postgres
+    ports:
+      - "3035:3035"
+    command: /app/bin/webpack-dev-server
+
+  postgres:
+    image: postgres:12.3-alpine
+    environment: 
+      POSTGRES_HOST_AUTH_METHOD: trust
+    volumes: 
+      - type: bind
+        source: ./vendor/postgres/db
+        target: /var/lib/postgresql
+        consistency: delegated
+    ports:
+      - "5432:5432"
+
+volumes:
+  bundler_gems:
+  node_modules:

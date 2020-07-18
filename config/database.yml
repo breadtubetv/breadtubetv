@@ -1,16 +1,18 @@
-development:
+shared:
   adapter: postgresql
-  database: breadtubetv_development
-  pool: 5
-  timeout: 5000
-test:
-  adapter: postgresql
-  database: breadtubetv_test
+  encoding: unicode
+  url: <%= ENV.fetch("DB_URL", "") %>
+  host: <%= ENV.fetch("DB_HOST", "postgres") %>
+  port: <%= ENV.fetch("DB_PORT", 5432) %>
+  username: <%= ENV.fetch("DB_USERNAME", "postgres") %>
   pool: 5
   timeout: 5000
 
-production:
-  adapter: postgresql
+development: &shared
+  database: breadtubetv_development
+  
+test: &shared
+  database: breadtubetv_test
+
+production: &shared
   database: breadtubetv_production
-  pool: 5
-  timeout: 5000

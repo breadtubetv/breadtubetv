@@ -12,15 +12,45 @@ This second iteration of the project aims to solve these two key problems of the
 Daniel Torres has provided the wireframes and logos for the site
 https://xd.adobe.com/view/f7e45c84-fe46-4754-48a9-28cf24dc3a5b-81d5/
 
-## System
+## Application
 
-We are currently investigating the best systems to operate the site on
+This application is written in [Ruby on Rails](https://rubyonrails.org/) and runs on Docker.
 
-- ~~Hugo~~ Current system, too difficult to update
-- ~~Strapi~~ investigated, lack of database migrations make development difficult
-- http://tv.kommun.ist/
-- WordPress Website
-- Custom Rails Application
+### Developing
+
+To start required services in the current console and have everything reload when files are changed, use:
+
+```
+docker-compose up
+```
+
+After some time (various bundles and templates will need to be built/cached), you can access your instance of app at [http://localhost:3000](http://localhost:3000).
+
+To start the services in detached mode (will stay alive if terminal closes), use `docker-compose up -d`. If you do this and want to access the logs of the containers, you can use `docker-compose logs -f`.
+
+To bring the services down (**will wipe database**), use:
+
+```
+docker-compose down
+```
+
+### Database Setup
+
+Once the services are up, you can use the following to initialise the database:
+
+```
+docker-compose exec web rails db:create db:setup
+```
+
+### Accessing Containers
+
+Generally speaking, any command can be executed on the appropriate Docker container using `docker-compose exec <container> <command>`. Note that the container must be up to use `exec`.
+
+The available containers are:
+- web
+- webpacker
+- postgres
+
 
 ## Plan
 
