@@ -1,0 +1,14 @@
+<div class="col mb-4">
+  <div class="card card-block">
+    <%= link_to(image_tag(channel.image, class: "card-img-top"), channel) %>
+    <div class="card-body">
+      <h5 class="card-title"><%= link_to channel.name, channel %></h5>
+      <p class="card-text"><%= truncate channel.description %></p>
+      <%= link_to "Watch", channel.sources.first.url, class: "btn btn-primary", target: :blank %>
+      <div class="btn-group">
+        <%= link_to "Edit", edit_post_path(channel), class: "btn btn-info" %>
+        <%= link_to 'Destroy', channel, method: :delete, class: "btn btn-danger", data: { confirm: 'Are you sure?' } %>
+      </div>
+    </div>
+  </div>
+</div>

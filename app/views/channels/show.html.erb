@@ -29,28 +29,11 @@
   </ul>
 </p>
 
-
-<table>
-  <thead>
-    <tr>
-      <th>Thumbnail</th>
-      <th>Name</th>
-      <th>Channel</th>
-      <th>Description</th>
-      <th>Published at</th>
-      <th>Kind</th>
-      <th>Source url</th>
-      <th>Channel</th>
-      <th colspan="3"></th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <% @channel.posts.each do |post| %>
-      <%= render post %>
-    <% end %>
-  </tbody>
-</table>
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
+  <% @channel.posts.each do |post| %>
+    <%= render post %>
+  <% end %>
+</div>
 
 <%= link_to 'Edit', edit_channel_path(@channel) %> |
 <%= link_to 'Back', channels_path %>

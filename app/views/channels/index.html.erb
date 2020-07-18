@@ -1,38 +1,20 @@
 <p id="notice"><%= notice %></p>
 
-<h1>Channels</h1>
+<div class="row mb-4">
+  <div class="col">
+    <h1>Channels</h1>
 
-<div style="display: block; width: 100%; overflow: hidden">
-  <div class="float-right">
-    <%== pagy_bootstrap_combo_nav_js(@pagy) %>
+    <div class="float-right">
+      <%== pagy_bootstrap_combo_nav_js(@pagy) %>
+    </div>
   </div>
 </div>
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Slug</th>
-      <th>Description</th>
-      <th>Image</th>
-      <th colspan="3"></th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <% @channels.each do |channel| %>
-      <tr>
-        <td><%= image_tag channel.image %></td>
-        <td><%= channel.name %></td>
-        <td><%= channel.slug %></td>
-        <td><%= channel.description %></td>        
-        <td><%= link_to 'Show', channel %></td>
-        <td><%= link_to 'Edit', edit_channel_path(channel) %></td>
-        <td><%= link_to 'Destroy', channel, method: :delete, data: { confirm: 'Are you sure?' } %></td>
-      </tr>
-    <% end %>
-  </tbody>
-</table>
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
+  <% @channels.each do |channel| %>
+    <%= render channel %>
+  <% end %>
+</div>
 
 <br>
 

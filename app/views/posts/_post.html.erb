@@ -1,6 +1,6 @@
 <div class="col mb-4">
   <div class="card card-block">
-    <%= image_tag "https://img.youtube.com/vi/#{ post.source_id }/default.jpg", class: "card-img-top" %>
+    <%= link_to(image_tag(post.image, class: "card-img-top"), post) %>
     <div class="card-body">
       <h5 class="card-title"><%= link_to post.name, post %></h5>
       <p class="card-text"><%= truncate post.description %></p>
@@ -12,17 +12,3 @@
     </div>
   </div>
 </div>
-
-<!--tr>
-  <td><%= image_tag "https://img.youtube.com/vi/#{ post.source_id }/default.jpg" %></td>
-  <td><%= link_to post.name, post.source_url, target: :blank %></td>
-  <td><%= link_to post.channel.name, post.channel %></td>
-  <td><%= post.slug %></td>
-  <td><%= post.description %></td>
-  <td><%= post.published_at %></td>
-  <td><%= post.kind %></td>
-  <td><%= post.source_url %></td>
-  <td><%= link_to 'Show', post %></td>
-  <td><%= link_to 'Edit', edit_post_path(post) %></td>
-  <td></td>
-</tr-->
