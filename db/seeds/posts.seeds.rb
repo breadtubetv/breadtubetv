@@ -1,16 +1,19 @@
 file = File.read("./data/posts.json")
 posts = JSON.parse(file)
 
-posts.each do |post_channel|
-  channel = Channel.find_by(slug: post_channel['slug'])
-  post_channel["contents"].each do |post|
-    puts Post.create(
-      name: post["name"],
-      description: post["description"],
-      slug: post["slug"],
-      published_at: post["published_at"],
-      source_url: post["sources"][0]["url"],
+posts.each do |post_channel_data|
+  channel = Channel.find_by(slug: post_channel_data['slug'])
+  
+  post_channel_data["contents"].each do |post_data|
+    post = Post.create(
+      name: post_data["name"],
+      description: post_data["description"],
+      slug: post_data["slug"],
+      published_at: post_data["published_at"],
+      source_url: post_data["sources"][0]["url"],
       channel: channel
-    ).inspect
+    )
+
+    puts "Created: #{ post.name } Post"
   end
 end

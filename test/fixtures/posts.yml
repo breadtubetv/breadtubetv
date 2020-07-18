@@ -4,7 +4,7 @@ one:
   name: MyString
   slug: MyString
   description: MyText
-  published_at: 2020-07-18 10:47:23
+  published_at: 2020-07-18 11:53:20
   kind: MyString
   source_url: MyString
   channel: one
@@ -13,7 +13,7 @@ two:
   name: MyString
   slug: MyString
   description: MyText
-  published_at: 2020-07-18 10:47:23
+  published_at: 2020-07-18 11:53:20
   kind: MyString
   source_url: MyString
   channel: two

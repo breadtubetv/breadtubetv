@@ -10,7 +10,16 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_07_18_024723) do
+ActiveRecord::Schema.define(version: 2020_07_18_035352) do
+
+  create_table "channel_sources", force: :cascade do |t|
+    t.integer "channel_id", null: false
+    t.string "url"
+    t.string "kind"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["channel_id"], name: "index_channel_sources_on_channel_id"
+  end
 
   create_table "channels", force: :cascade do |t|
     t.string "name"
@@ -34,5 +43,6 @@ ActiveRecord::Schema.define(version: 2020_07_18_024723) do
     t.index ["channel_id"], name: "index_posts_on_channel_id"
   end
 
+  add_foreign_key "channel_sources", "channels"
   add_foreign_key "posts", "channels"
 end

@@ -20,6 +20,15 @@
   <%= @channel.description %>
 </p>
 
+<p>
+  <strong>Sources:</strong>
+  <ul>
+    <% @channel.sources.each do |source| %>
+      <li><%= link_to source.kind, source.url %></li>
+    <% end %>
+  </ul>
+</p>
+
 
 <table>
   <thead>
