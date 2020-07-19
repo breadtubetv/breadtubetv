@@ -1,0 +1,2 @@
+class VideoSource < ApplicationRecord
+end

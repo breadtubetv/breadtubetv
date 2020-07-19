@@ -2,7 +2,7 @@
 
 <div class="row mb-4">
   <div class="col">
-    <h1>Posts</h1>
+    <h1>videos</h1>
 
     <div class="float-right">
       <%== pagy_bootstrap_combo_nav_js(@pagy) %>
@@ -11,11 +11,11 @@
 </div>
 
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
-  <% @posts.each do |post| %>
-    <%= render post %>
+  <% @videos.each do |video| %>
+    <%= render video %>
   <% end %>
 </div>
 
 <br>
 
-<%= link_to 'New Post', new_post_path %>
+<%= link_to 'New video', new_video_path %>

@@ -1,10 +1,10 @@
-<%= form_with(model: post, local: true) do |form| %>
-  <% if post.errors.any? %>
+<%= form_with(model: video, local: true) do |form| %>
+  <% if video.errors.any? %>
     <div id="error_explanation">
-      <h2><%= pluralize(post.errors.count, "error") %> prohibited this post from being saved:</h2>
+      <h2><%= pluralize(video.errors.count, "error") %> prohibited this video from being saved:</h2>
 
       <ul>
-        <% post.errors.full_messages.each do |message| %>
+        <% video.errors.full_messages.each do |message| %>
           <li><%= message %></li>
         <% end %>
       </ul>
@@ -32,18 +32,8 @@
   </div>
 
   <div class="field">
-    <%= form.label :kind %>
-    <%= form.text_field :kind %>
-  </div>
-
-  <div class="field">
-    <%= form.label :source_url %>
-    <%= form.text_field :source_url %>
-  </div>
-
-  <div class="field">
-    <%= form.label :channel_id %>
-    <%= form.text_field :channel_id %>
+    <%= form.label :channel %>
+    <%= form.text_field :channel %>
   </div>
 
   <div class="actions">
