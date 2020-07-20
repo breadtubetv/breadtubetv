@@ -1,5 +1,3 @@
-<p id="notice"><%= notice %></p>
-
 <p>
   <strong>Channel:</strong>
   <%= @feature.channel_id %>
@@ -7,7 +5,7 @@
 
 <p>
   <strong>Expired at:</strong>
-  <%= @feature.expired_at %>
+  <%= @feature.expire_at %>
 </p>
 
 <%= link_to 'Edit', edit_feature_path(@feature) %> |

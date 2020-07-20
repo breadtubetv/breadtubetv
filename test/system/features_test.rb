@@ -15,7 +15,7 @@ class FeaturesTest < ApplicationSystemTestCase
     click_on "New Feature"
 
     fill_in "Channel", with: @feature.channel_id
-    fill_in "Expired at", with: @feature.expired_at
+    fill_in "Expired at", with: @feature.expire_at
     click_on "Create Feature"
 
     assert_text "Feature was successfully created"
@@ -27,7 +27,7 @@ class FeaturesTest < ApplicationSystemTestCase
     click_on "Edit", match: :first
 
     fill_in "Channel", with: @feature.channel_id
-    fill_in "Expired at", with: @feature.expired_at
+    fill_in "Expired at", with: @feature.expire_at
     click_on "Update Feature"
 
     assert_text "Feature was successfully updated"

@@ -17,8 +17,9 @@ ActiveRecord::Schema.define(version: 2020_07_19_013243) do
 
   create_table "channel_sources", force: :cascade do |t|
     t.bigint "channel_id", null: false
-    t.string "url"
-    t.string "kind"
+    t.string "ident", null: false
+    t.string "url", null: false
+    t.string "type", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["channel_id"], name: "index_channel_sources_on_channel_id"
@@ -35,29 +36,17 @@ ActiveRecord::Schema.define(version: 2020_07_19_013243) do
 
   create_table "features", force: :cascade do |t|
     t.bigint "channel_id", null: false
-    t.datetime "expired_at"
+    t.datetime "expire_at"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["channel_id"], name: "index_features_on_channel_id"
   end
 
-  create_table "posts", force: :cascade do |t|
-    t.string "name"
-    t.string "slug"
-    t.text "description"
-    t.datetime "published_at"
-    t.string "kind"
-    t.string "source_url"
-    t.bigint "channel_id", null: false
-    t.datetime "created_at", precision: 6, null: false
-    t.datetime "updated_at", precision: 6, null: false
-    t.index ["channel_id"], name: "index_posts_on_channel_id"
-  end
-
   create_table "video_sources", force: :cascade do |t|
     t.bigint "video_id", null: false
-    t.string "url"
-    t.string "kind"
+    t.string "ident", null: false
+    t.string "url", null: false
+    t.string "type", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["video_id"], name: "index_video_sources_on_video_id"
@@ -69,6 +58,7 @@ ActiveRecord::Schema.define(version: 2020_07_19_013243) do
     t.text "description"
     t.datetime "published_at"
     t.bigint "channel_id", null: false
+    t.text "tags", default: [], array: true
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["channel_id"], name: "index_videos_on_channel_id"
@@ -76,7 +66,6 @@ ActiveRecord::Schema.define(version: 2020_07_19_013243) do
 
   add_foreign_key "channel_sources", "channels"
   add_foreign_key "features", "channels"
-  add_foreign_key "posts", "channels"
   add_foreign_key "video_sources", "videos"
   add_foreign_key "videos", "channels"
 end

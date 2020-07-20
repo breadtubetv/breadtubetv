@@ -1,4 +1,8 @@
-<p id="notice"><%= notice %></p>
+
+
+<%= link_to 'Edit', edit_channel_path(@channel) %> |
+<%= link_to 'Back', channels_path %> |
+<%= link_to 'Sync', sync_channel_path(@channel) %>
 
 <p>
   <strong>Image:</strong>
@@ -24,16 +28,13 @@
   <strong>Sources:</strong>
   <ul>
     <% @channel.sources.each do |source| %>
-      <li><%= link_to source.kind, source.url %></li>
+      <li><%= link_to source.type.to_s.gsub("ChannelSource::",""), source.url %></li>
     <% end %>
   </ul>
 </p>
 
 <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
-  <% @channel.videos.each do |video| %>
+  <% @channel.videos.published.latest.each do |video| %>
     <%= render video %>
   <% end %>
 </div>
-
-<%= link_to 'Edit', edit_channel_path(@channel) %> |
-<%= link_to 'Back', channels_path %>

@@ -13,7 +13,7 @@
           <%= link_to video.channel.name, video.channel, title: video.channel.name %>
         </small>
       </p>
-      <%= link_to "Watch", video.sources.first.url, class: "btn btn-primary", target: :blank %>
+      <%= link_to "Watch", video.youtube.url, class: "btn btn-primary", target: :blank %>
       <div class="btn-group">
         <%= link_to "Edit", edit_video_path(video), class: "btn btn-info" %>
         <%= link_to 'Destroy', video, method: :delete, class: "btn btn-danger", data: { confirm: 'Are you sure?' } %>

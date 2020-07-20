@@ -2,12 +2,16 @@ class Video < ApplicationRecord
   belongs_to :channel
 
   has_many :sources, class_name: "VideoSource", dependent: :destroy
+  has_one :youtube, class_name: "VideoSource::Youtube"
 
-  def image
-    "https://img.youtube.com/vi/#{ source_id }/hqdefault.jpg"
+  scope :published, -> { where.not(published_at: nil) }
+  scope :latest, -> { order(published_at: :desc) }
+
+  def name
+    self[:name].gsub("#{channel.name} ", "")
   end
 
-  def source_id
-    sources.first.url.gsub("https://www.youtube.com/watch?v=", "")
+  def image
+    youtube.image
   end
 end

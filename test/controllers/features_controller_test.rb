@@ -17,7 +17,7 @@ class FeaturesControllerTest < ActionDispatch::IntegrationTest
 
   test "should create feature" do
     assert_difference('Feature.count') do
-      post features_url, params: { feature: { channel_id: @feature.channel_id, expired_at: @feature.expired_at } }
+      post features_url, params: { feature: { channel_id: @feature.channel_id, expire_at: @feature.expire_at } }
     end
 
     assert_redirected_to feature_url(Feature.last)
@@ -34,7 +34,7 @@ class FeaturesControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should update feature" do
-    patch feature_url(@feature), params: { feature: { channel_id: @feature.channel_id, expired_at: @feature.expired_at } }
+    patch feature_url(@feature), params: { feature: { channel_id: @feature.channel_id, expire_at: @feature.expire_at } }
     assert_redirected_to feature_url(@feature)
   end
 

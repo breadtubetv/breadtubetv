@@ -10,7 +10,7 @@
   </head>
 
   <body>
-    <div style="text-align: center">
+    <div class="alert alert-warning mb-0 text-center" role="alert">
       This is a work-in-progress, content will be reset every hour.
       Contact <a href="https://twitter.com/dirkkellycom" target="_blank">@dirkkellycom</a>
       if you'd like to be involved with developing this site.
@@ -23,15 +23,25 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item <%= 'active' if current_page?({controller: :videos}) %>">
+          <li class="nav-item <%= 'active' if current_class?(videos_path) %>">
             <%= link_to "Videos", videos_path, class: "nav-link" %>
           </li>
-          <li class="nav-item <%= 'active' if current_page?({controller: :channels}) %>">
+          <li class="nav-item <%= 'active' if current_class?(channels_path) %>">
             <%= link_to "Channels", channels_path, class: "nav-link" %>
           </li>
         </ul>
       </div>
     </nav>
+
+    <% if notice %>
+      <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong><%= notice %></strong>
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+    <% end %>
+
     <div class="container-fluid">
       <%= yield %>
     </div>

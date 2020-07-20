@@ -42,3 +42,5 @@ yarn-debug.log*
 
 # Vendor Folder used by Docker
 vendor/*
+
+.env

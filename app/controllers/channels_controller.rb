@@ -1,10 +1,10 @@
 class ChannelsController < ApplicationController
-  before_action :set_channel, only: [:show, :edit, :update, :destroy]
+  before_action :set_channel, only: [:show, :edit, :sync, :update, :destroy]
 
   # GET /channels
   # GET /channels.json
   def index
-    @pagy, @channels = pagy(Channel.all)
+    @pagy, @channels = pagy(Channel.order(slug: :asc))
   end
 
   # GET /channels/1
@@ -19,6 +19,13 @@ class ChannelsController < ApplicationController
 
   # GET /channels/1/edit
   def edit
+  end
+
+  # GET /channels/1/sync
+  def sync
+    @channel.sync
+
+    redirect_to channel_path(@channel)
   end
 
   # POST /channels

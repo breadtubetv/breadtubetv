@@ -69,6 +69,6 @@ class FeaturesController < ApplicationController
 
     # Only allow a list of trusted parameters through.
     def feature_params
-      params.require(:feature).permit(:channel_id, :expired_at)
+      params.require(:feature).permit(:channel_id, :expire_at)
     end
 end

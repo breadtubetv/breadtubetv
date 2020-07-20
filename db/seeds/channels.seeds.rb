@@ -9,7 +9,13 @@ channels.each do |channel_data|
     image: channel_data["image"]
   )
 
-  channel.sources.create!(url: channel_data["sources"][0]["url"], kind: "youtube")
+  puts "Created: #{ channel.name } Channel"
+  
+  (channel_data["sources"] + channel_data["socials"]).each do |source|
+    type = source["type"].capitalize
 
-  puts "Created: #{ channel.slug } Channel"
+    channel.sources.create!(url: source["url"], type: "ChannelSource::#{ type }")
+    
+    puts "Created: #{ channel.name } #{ type } Source"
+  end
 end

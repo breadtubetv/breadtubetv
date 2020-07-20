@@ -3,11 +3,15 @@
 Rails.application.routes.draw do
   root 'welcome#index'
   
-  resources :channels, param: :slug
+  resources :channels, param: :slug do
+    member do
+      get :sync
+    end
+  end
   resources :channel_sources
 
   resources :features
 
-  resources :videos
+  resources :videos 
   resources :video_sources
 end

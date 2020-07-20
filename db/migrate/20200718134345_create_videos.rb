@@ -6,6 +6,7 @@ class CreateVideos < ActiveRecord::Migration[6.0]
       t.text :description
       t.datetime :published_at
       t.references :channel, null: false, foreign_key: true
+      t.text :tags, array: true, default: []
 
       t.timestamps
     end

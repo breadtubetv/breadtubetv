@@ -2,8 +2,8 @@
 
 one:
   channel: one
-  expired_at: 2020-07-18 13:55:55
+  expire_at: 2020-07-18 13:55:55
 
 two:
   channel: two
-  expired_at: 2020-07-18 13:55:55
+  expire_at: 2020-07-18 13:55:55

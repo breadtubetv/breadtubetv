@@ -11,12 +11,19 @@ after :channels do
         description: video_data["description"],
         slug: video_data["slug"],
         published_at: video_data["published_at"],
+        tags: video_channel_data["tags"],
         channel: channel
       )
 
-      video.sources.create!(url: video_data["sources"][0]["url"], kind: "youtube")
+      puts "Created: #{ video.name } Video"
 
-      puts "Created: #{ video.name } video"
+      video_data["sources"].each do |source|
+        type = source["type"].capitalize
+        
+        video.sources.create!(url: source["url"], type: "VideoSource::#{ type }")
+
+        puts "Created: #{ video.name } #{ type } Source"
+      end
     end
   end
 end
