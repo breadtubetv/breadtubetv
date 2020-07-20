@@ -3,9 +3,9 @@
     <%= link_to(image_tag(channel.image, class: "card-img-top"), channel) %>
     <div class="card-body">
       <h5 class="card-title text-truncate"><%= link_to channel.name, channel, title: channel.name %></h5>
-      <p class="card-text text-truncate">
+      <p class="card-text">
         <abbr title="<%= channel.description %>">
-          <%= channel.description %>
+          <%= truncate(channel.description, length: 90) %>
         </abbr>
       </p>
       <%= link_to "Watch", channel.youtube.url, class: "btn btn-block btn-primary", target: :blank %>
