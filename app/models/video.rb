@@ -6,6 +6,7 @@ class Video < ApplicationRecord
 
   scope :published, -> { where.not(published_at: nil) }
   scope :latest, -> { order(published_at: :desc) }
+  scope :random, -> { order("RANDOM()") }
 
   def name
     self[:name].gsub("#{channel.name} ", "")
