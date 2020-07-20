@@ -1,13 +1,13 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
-  slug: MyString
+  name: Channel One
+  slug: channelone
   description: MyText
-  image: MyString
+  image: /channels/008e9be4d5304ae88cbb77dc9a8e1cce.jpg
 
 two:
-  name: MyString
-  slug: MyString
+  name: Channel Two
+  slug: channeltwo
   description: MyText
-  image: MyString
+  image: /channels/008e9be4d5304ae88cbb77dc9a8e1cce.jpg

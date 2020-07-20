@@ -1,6 +1,9 @@
 class Channel < ApplicationRecord
-  has_many :sources, class_name: "ChannelSource"
-  has_many :posts
+  has_many :features, dependent: :destroy
+
+  has_many :videos, dependent: :destroy
+
+  has_many :sources, class_name: "ChannelSource", dependent: :destroy
 
   def to_param
     slug

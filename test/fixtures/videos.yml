@@ -1,15 +1,15 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
-  slug: MyString
+  name: Video One
+  slug: videoone
   description: MyText
   published_at: 2020-07-18 13:43:45
-  channel: 
+  channel: one
 
 two:
-  name: MyString
-  slug: MyString
+  name: Video Two
+  slug: videotwo
   description: MyText
   published_at: 2020-07-18 13:43:45
-  channel: 
+  channel: two

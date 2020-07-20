@@ -64,7 +64,7 @@ class ChannelsController < ApplicationController
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_channel
-      @channel = Channel.includes(:posts).find_by(slug: params[:slug])
+      @channel = Channel.includes(:videos).find_by(slug: params[:slug])
     end
 
     # Only allow a list of trusted parameters through.

@@ -2,10 +2,10 @@
 
 one:
   channel: one
-  url: MyString
-  kind: MyString
+  url: https://youtube.com/c/12345
+  kind: youtube
 
 two:
   channel: two
-  url: MyString
-  kind: MyString
+  url: https://youtube.com/c/67890
+  kind: youtube

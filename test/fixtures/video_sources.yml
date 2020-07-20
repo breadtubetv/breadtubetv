@@ -1,11 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  video: 
+  video: one
   url: MyString
   kind: MyString
 
 two:
-  video: 
+  video: two
   url: MyString
   kind: MyString

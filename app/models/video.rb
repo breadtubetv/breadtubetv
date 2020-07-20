@@ -1,6 +1,7 @@
 class Video < ApplicationRecord
   belongs_to :channel
-  has_many :sources, class_name: "VideoSource"
+
+  has_many :sources, class_name: "VideoSource", dependent: :destroy
 
   def image
     "https://img.youtube.com/vi/#{ source_id }/hqdefault.jpg"

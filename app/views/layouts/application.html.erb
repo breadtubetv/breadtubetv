@@ -23,10 +23,10 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item <%= 'active' if current_page?(controller: :videos) %>">
+          <li class="nav-item <%= 'active' if current_page?({controller: :videos}) %>">
             <%= link_to "Videos", videos_path, class: "nav-link" %>
           </li>
-          <li class="nav-item <%= 'active' if current_page?(controller: :channels) %>">
+          <li class="nav-item <%= 'active' if current_page?({controller: :channels}) %>">
             <%= link_to "Channels", channels_path, class: "nav-link" %>
           </li>
         </ul>

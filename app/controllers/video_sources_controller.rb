@@ -1,0 +1,2 @@
+class VideoSourcesController < ApplicationController
+end
