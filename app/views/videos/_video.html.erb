@@ -16,10 +16,10 @@
           <%= video.published_at.to_s(:formatted) %>
         </small>
       </div>
-      <%= link_to "Watch", video.youtube.url, class: "btn btn-primary", target: :blank %>
-      <div class="btn-group float-right">
-        <%= link_to "Edit", edit_video_path(video), class: "btn btn-info" %>
-        <%= link_to 'Destroy', video, method: :delete, class: "btn btn-danger", data: { confirm: 'Are you sure?' } %>
+      <%= link_to "Watch", video.youtube.url, class: "btn btn-block btn-primary", target: :blank %>
+      <div class="btn-group btn-block mt-2">
+        <%= link_to "Edit", edit_video_path(video), class: "btn btn-light btn-outline-dark" %>
+        <%= link_to 'Destroy', video, method: :delete, class: "btn btn-outline-danger", data: { confirm: 'Are you sure?' } %>
       </div>
     </div>
   </div>
