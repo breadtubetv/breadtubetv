@@ -5,8 +5,8 @@
     "slug": "anactualjoke",
     "description": "Anarchist Trans Girl. She/Her. Making Video Essays and hot takes.",
     "image": "/channels/85dce8d0d2a149819a96965b871e7a42.jpg",
-    "created_at": "2020-07-20T10:22:55.187Z",
-    "updated_at": "2020-07-20T11:45:57.477Z",
+    "created_at": "2020-07-20T11:55:57.704Z",
+    "updated_at": "2020-07-20T11:55:57.704Z",
     "tags": [
       "anarchism"
     ],
@@ -28,7 +28,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/anactualjoke.json"
+    "url": "http://localhost:3000/anactualjoke.json"
   },
   {
     "id": 2,
@@ -36,8 +36,8 @@
     "slug": "anarchoboy",
     "description": "An anarchoboy who makes mostly serious videos analysing the world through an anarchocommunist lens with the occasional shitpost video for good measure.",
     "image": "/channels/51a00e7dbcb044b982f0e6155d2f52cd.jpg",
-    "created_at": "2020-07-20T10:22:55.259Z",
-    "updated_at": "2020-07-20T11:45:56.331Z",
+    "created_at": "2020-07-20T11:55:57.765Z",
+    "updated_at": "2020-07-20T11:55:57.765Z",
     "tags": [
       "anarchism",
       "anti-capitalist",
@@ -53,7 +53,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/anarchoboy.json"
+    "url": "http://localhost:3000/anarchoboy.json"
   },
   {
     "id": 3,
@@ -61,8 +61,8 @@
     "slug": "anarchopac",
     "description": "I'm a disabled pan-sexual trans woman who talks about anarchism, feminism and marxism. For recommended reading see my blog. My profile picture was made for me by bad mouse based on a drawing by the anarchist artist Clifford Harper.",
     "image": "/channels/60b6200f7b2d43c882a2a76db610523e.jpg",
-    "created_at": "2020-07-20T10:22:55.272Z",
-    "updated_at": "2020-07-20T11:45:56.159Z",
+    "created_at": "2020-07-20T11:55:57.777Z",
+    "updated_at": "2020-07-20T11:55:57.777Z",
     "tags": [
       "anarchism",
       "anti-capitalism",
@@ -79,7 +79,7 @@
         "kind": "patreon"
       }
     ],
-    "url": "http://localhost:3000/channels/anarchopac.json"
+    "url": "http://localhost:3000/anarchopac.json"
   },
   {
     "id": 4,
@@ -87,8 +87,8 @@
     "slug": "angiespeaks",
     "description": "Anarchist Leftist channel with a creative and mystical flair! If you like what I do and want to support me so I can make more, please consider becoming a Patron! You can also come hang with me on twitter @speaksangie!",
     "image": "/channels/d044a50856e74b89b22f1c51972b13c0.jpg",
-    "created_at": "2020-07-20T10:22:55.293Z",
-    "updated_at": "2020-07-20T11:45:56.495Z",
+    "created_at": "2020-07-20T11:55:57.794Z",
+    "updated_at": "2020-07-20T11:55:57.794Z",
     "tags": [
       "anti-capitalism",
       "communism",
@@ -112,7 +112,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/angiespeaks.json"
+    "url": "http://localhost:3000/angiespeaks.json"
   },
   {
     "id": 5,
@@ -120,8 +120,8 @@
     "slug": "antisocialmedia",
     "description": "I make stupid podcasts about stupid people. Stream or download via SPREAKER: https://www.spreaker.com/user/antisocialmedia iTUNES: https://itunes.apple.com/us/podcast/anti-social-media-podcast/id1076431995?mt=2 Latest episodes only via SOUNDCLOUD: https://soundcloud.com/antisocial_media Also mixcloud, stitcher, podbean, and various other places.",
     "image": "/channels/7d3376c3bbe8494fb9281e82e7b7d54e.jpg",
-    "created_at": "2020-07-20T10:22:55.329Z",
-    "updated_at": "2020-07-20T10:22:55.329Z",
+    "created_at": "2020-07-20T11:55:57.812Z",
+    "updated_at": "2020-07-20T11:55:57.812Z",
     "tags": [],
     "sources": [
       {
@@ -149,7 +149,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/antisocialmedia.json"
+    "url": "http://localhost:3000/antisocialmedia.json"
   },
   {
     "id": 6,
@@ -157,8 +157,8 @@
     "slug": "aphreditto",
     "description": "Fiat iustitia, pereat cultura",
     "image": "/channels/dbde84ab63db4c1b80b7ee16f7c8dfdd.jpg",
-    "created_at": "2020-07-20T10:22:55.395Z",
-    "updated_at": "2020-07-20T10:22:55.395Z",
+    "created_at": "2020-07-20T11:55:57.863Z",
+    "updated_at": "2020-07-20T11:55:57.863Z",
     "tags": [],
     "sources": [
       {
@@ -166,7 +166,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/aphreditto.json"
+    "url": "http://localhost:3000/aphreditto.json"
   },
   {
     "id": 7,
@@ -174,8 +174,8 @@
     "slug": "aprivilegedvegan",
     "description": "Welcome! I created this channel to talk about pro-intersectional justice, always making sure that humans and other animals are a part of that conversation. I also like to find cool activists and interview them about their work/ views/projects. Follow me on Facebook and say hi! https://www.facebook.com/aprivilegedvegan. xxx",
     "image": "/channels/247a3d3f9dc44023bf170b8d5e9e350f.jpg",
-    "created_at": "2020-07-20T10:22:55.403Z",
-    "updated_at": "2020-07-20T10:22:55.403Z",
+    "created_at": "2020-07-20T11:55:57.874Z",
+    "updated_at": "2020-07-20T11:55:57.874Z",
     "tags": [],
     "sources": [
       {
@@ -183,7 +183,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/aprivilegedvegan.json"
+    "url": "http://localhost:3000/aprivilegedvegan.json"
   },
   {
     "id": 8,
@@ -191,8 +191,8 @@
     "slug": "arthousepolitics",
     "description": "Our politics are high-brow, nuanced, subtle, inspired, enlightened even. To us, politics is an art form. Our politics belong hanging in museums. Our politics are beautiful, misunderstood in their time",
     "image": "/channels/a3ce496665ca4f18aac64c5d3d2168ec.jpg",
-    "created_at": "2020-07-20T10:22:55.410Z",
-    "updated_at": "2020-07-20T10:22:55.410Z",
+    "created_at": "2020-07-20T11:55:57.883Z",
+    "updated_at": "2020-07-20T11:55:57.883Z",
     "tags": [],
     "sources": [
       {
@@ -212,7 +212,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/arthousepolitics.json"
+    "url": "http://localhost:3000/arthousepolitics.json"
   },
   {
     "id": 9,
@@ -220,8 +220,8 @@
     "slug": "askamortician",
     "description": "Mortician in Los Angeles. You got death questions, we got death answers. Mortality + Culture. www.orderofthegooddeath.com www.facebook.com/OrderoftheGoodDeath twitter.com/TheGoodDeath",
     "image": "/channels/f92fead6ef51408299fdb12edfed7c83.jpg",
-    "created_at": "2020-07-20T10:22:55.437Z",
-    "updated_at": "2020-07-20T11:45:56.062Z",
+    "created_at": "2020-07-20T11:55:57.909Z",
+    "updated_at": "2020-07-20T11:55:57.909Z",
     "tags": [
       "culture",
       "mortality"
@@ -244,7 +244,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/askamortician.json"
+    "url": "http://localhost:3000/askamortician.json"
   },
   {
     "id": 10,
@@ -252,8 +252,8 @@
     "slug": "audibleanarchist",
     "description": "Audible Anarchist is a project started and operated by a group of volunteers that seek to bring important anarchist texts to the audio format.",
     "image": "/channels/f6fce47eae074dd29e5b2a3aa6a1b542.jpg",
-    "created_at": "2020-07-20T10:22:55.463Z",
-    "updated_at": "2020-07-20T10:22:55.463Z",
+    "created_at": "2020-07-20T11:55:57.940Z",
+    "updated_at": "2020-07-20T11:55:57.940Z",
     "tags": [],
     "sources": [
       {
@@ -261,7 +261,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/audibleanarchist.json"
+    "url": "http://localhost:3000/audibleanarchist.json"
   },
   {
     "id": 11,
@@ -269,8 +269,8 @@
     "slug": "azurescapegoat",
     "description": "Channel combining politics & gaming. What could go wrong?",
     "image": "/channels/7d3c59961fea4064bd2846e8467c4312.jpg",
-    "created_at": "2020-07-20T10:22:55.471Z",
-    "updated_at": "2020-07-20T10:22:55.471Z",
+    "created_at": "2020-07-20T11:55:57.950Z",
+    "updated_at": "2020-07-20T11:55:57.950Z",
     "tags": [],
     "sources": [
       {
@@ -278,7 +278,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/azurescapegoat.json"
+    "url": "http://localhost:3000/azurescapegoat.json"
   },
   {
     "id": 12,
@@ -286,8 +286,8 @@
     "slug": "badempanada",
     "description": "Hi! I make videos about history, politics, society, culture, etc.",
     "image": "/channels/42b6d27f7d6341748057e986eefccce5.jpg",
-    "created_at": "2020-07-20T10:22:55.479Z",
-    "updated_at": "2020-07-20T11:45:56.034Z",
+    "created_at": "2020-07-20T11:55:57.958Z",
+    "updated_at": "2020-07-20T11:55:57.958Z",
     "tags": [
       "america",
       "australia",
@@ -314,7 +314,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/badempanada.json"
+    "url": "http://localhost:3000/badempanada.json"
   },
   {
     "id": 13,
@@ -322,8 +322,8 @@
     "slug": "badmouseproductions",
     "description": "Leftist with left wing views. I'm not a furry, I just like cute things.",
     "image": "/channels/10f909140e98493aad88868d008115e2.jpg",
-    "created_at": "2020-07-20T10:22:55.501Z",
-    "updated_at": "2020-07-20T10:22:55.501Z",
+    "created_at": "2020-07-20T11:55:57.995Z",
+    "updated_at": "2020-07-20T11:55:57.995Z",
     "tags": [],
     "sources": [
       {
@@ -331,7 +331,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/badmouseproductions.json"
+    "url": "http://localhost:3000/badmouseproductions.json"
   },
   {
     "id": 14,
@@ -339,8 +339,8 @@
     "slug": "batko",
     "description": "Anarchist shitposter",
     "image": "/channels/2fec92431e054ce2b1d721094212e728.jpg",
-    "created_at": "2020-07-20T10:22:55.509Z",
-    "updated_at": "2020-07-20T10:22:55.509Z",
+    "created_at": "2020-07-20T11:55:58.015Z",
+    "updated_at": "2020-07-20T11:55:58.015Z",
     "tags": [],
     "sources": [
       {
@@ -348,7 +348,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/batko.json"
+    "url": "http://localhost:3000/batko.json"
   },
   {
     "id": 15,
@@ -356,8 +356,8 @@
     "slug": "beauofthefifthcolumn",
     "description": "The discussions of a southern journalist who is tired of a lack of common sense.",
     "image": "/channels/7a56f631040049d3ab60c59c1016c2c2.jpg",
-    "created_at": "2020-07-20T10:22:55.517Z",
-    "updated_at": "2020-07-20T11:45:56.212Z",
+    "created_at": "2020-07-20T11:55:58.034Z",
+    "updated_at": "2020-07-20T11:55:58.034Z",
     "tags": [],
     "sources": [
       {
@@ -365,7 +365,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/beauofthefifthcolumn.json"
+    "url": "http://localhost:3000/beauofthefifthcolumn.json"
   },
   {
     "id": 16,
@@ -373,8 +373,8 @@
     "slug": "bemundolack",
     "description": "Started this channel to talk about art. I'm still gonna do that, but now I'm gonna talk about other stuff, too. It's gonna be scripted from now on, too, even though I didn't script my videos at first.",
     "image": "/channels/ced475ccad7c4d0c84cca90fc680c94d.jpg",
-    "created_at": "2020-07-20T10:22:55.526Z",
-    "updated_at": "2020-07-20T10:22:55.526Z",
+    "created_at": "2020-07-20T11:55:58.058Z",
+    "updated_at": "2020-07-20T11:55:58.058Z",
     "tags": [],
     "sources": [
       {
@@ -394,7 +394,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/bemundolack.json"
+    "url": "http://localhost:3000/bemundolack.json"
   },
   {
     "id": 17,
@@ -402,8 +402,8 @@
     "slug": "benjiadamwhiskettes",
     "description": "(communist video essays)",
     "image": "/channels/a98b41a32954428b8852bb9099111a8c.jpg",
-    "created_at": "2020-07-20T10:22:55.561Z",
-    "updated_at": "2020-07-20T10:22:55.561Z",
+    "created_at": "2020-07-20T11:55:58.090Z",
+    "updated_at": "2020-07-20T11:55:58.090Z",
     "tags": [],
     "sources": [
       {
@@ -411,7 +411,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/benjiadamwhiskettes.json"
+    "url": "http://localhost:3000/benjiadamwhiskettes.json"
   },
   {
     "id": 18,
@@ -419,8 +419,8 @@
     "slug": "bigbreadbrainz",
     "description": "Video essays and investigative political journalism about capitalism, culture, philosophical literature, and film.",
     "image": "/channels/15e6376c31c04a278494858ba50dd06f.jpg",
-    "created_at": "2020-07-20T10:22:55.570Z",
-    "updated_at": "2020-07-20T10:22:55.570Z",
+    "created_at": "2020-07-20T11:55:58.101Z",
+    "updated_at": "2020-07-20T11:55:58.101Z",
     "tags": [],
     "sources": [
       {
@@ -428,7 +428,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/bigbreadbrainz.json"
+    "url": "http://localhost:3000/bigbreadbrainz.json"
   },
   {
     "id": 19,
@@ -436,8 +436,8 @@
     "slug": "bigjoel",
     "description": "I make video essays and deep dives about movies and other things.",
     "image": "/channels/62b439656e8b42519fbd70327495f71a.jpg",
-    "created_at": "2020-07-20T10:22:55.580Z",
-    "updated_at": "2020-07-20T10:22:55.580Z",
+    "created_at": "2020-07-20T11:55:58.111Z",
+    "updated_at": "2020-07-20T11:55:58.111Z",
     "tags": [],
     "sources": [
       {
@@ -445,7 +445,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/bigjoel.json"
+    "url": "http://localhost:3000/bigjoel.json"
   },
   {
     "id": 20,
@@ -453,8 +453,8 @@
     "slug": "blackgoat666",
     "description": "Take down video essays of Right Wing content.",
     "image": "/channels/f822065b206e427cb9658e2dfcb85d2e.jpg",
-    "created_at": "2020-07-20T10:22:55.589Z",
-    "updated_at": "2020-07-20T10:22:55.589Z",
+    "created_at": "2020-07-20T11:55:58.121Z",
+    "updated_at": "2020-07-20T11:55:58.121Z",
     "tags": [],
     "sources": [
       {
@@ -462,7 +462,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/blackgoat666.json"
+    "url": "http://localhost:3000/blackgoat666.json"
   },
   {
     "id": 21,
@@ -470,8 +470,8 @@
     "slug": "blackredguard",
     "description": "Ruminations, rants, lectures, screeds from a New Afrikan Maoist in Saint Louis, Missouri. @BRG on medium",
     "image": "/channels/e8a9c5a8e74f40b994109b2f056889db.jpg",
-    "created_at": "2020-07-20T10:22:55.599Z",
-    "updated_at": "2020-07-20T10:22:55.599Z",
+    "created_at": "2020-07-20T11:55:58.134Z",
+    "updated_at": "2020-07-20T11:55:58.134Z",
     "tags": [],
     "sources": [
       {
@@ -483,7 +483,7 @@
         "kind": "patreon"
       }
     ],
-    "url": "http://localhost:3000/channels/blackredguard.json"
+    "url": "http://localhost:3000/blackredguard.json"
   },
   {
     "id": 22,
@@ -491,8 +491,8 @@
     "slug": "brendanmakesvideos",
     "description": "Learn something every day!",
     "image": "/channels/da955feaf51d4421816d8e6349e707f3.jpg",
-    "created_at": "2020-07-20T10:22:55.614Z",
-    "updated_at": "2020-07-20T10:22:55.614Z",
+    "created_at": "2020-07-20T11:55:58.150Z",
+    "updated_at": "2020-07-20T11:55:58.150Z",
     "tags": [],
     "sources": [
       {
@@ -500,7 +500,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/brendanmakesvideos.json"
+    "url": "http://localhost:3000/brendanmakesvideos.json"
   },
   {
     "id": 23,
@@ -508,8 +508,8 @@
     "slug": "brendanmcooney",
     "description": "We are entering a period of profound economic, political and cultural crisis. In such periods it is essential for society to have the right theoretical tools for understanding our condition and how to change it.",
     "image": "/channels/5a26944d825e4a00902a04447262d9a8.jpg",
-    "created_at": "2020-07-20T10:22:55.623Z",
-    "updated_at": "2020-07-20T10:22:55.623Z",
+    "created_at": "2020-07-20T11:55:58.159Z",
+    "updated_at": "2020-07-20T11:55:58.159Z",
     "tags": [],
     "sources": [
       {
@@ -517,7 +517,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/brendanmcooney.json"
+    "url": "http://localhost:3000/brendanmcooney.json"
   },
   {
     "id": 24,
@@ -525,8 +525,8 @@
     "slug": "brianneandmatt",
     "description": "We make videos and try to be funny.",
     "image": "/channels/5b32f84dbf5043baaf15b4af43380624.jpg",
-    "created_at": "2020-07-20T10:22:55.633Z",
-    "updated_at": "2020-07-20T11:45:55.953Z",
+    "created_at": "2020-07-20T11:55:58.169Z",
+    "updated_at": "2020-07-20T11:55:58.169Z",
     "tags": [
       "economics",
       "history",
@@ -538,7 +538,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/brianneandmatt.json"
+    "url": "http://localhost:3000/brianneandmatt.json"
   },
   {
     "id": 25,
@@ -546,8 +546,8 @@
     "slug": "brotherneuro",
     "description": "My name is Dick Coughlan. I'm a stand up comedian, Youtuber & that is all I can be.",
     "image": "/channels/76854354a2fd4b8b9c5bc0355707b67b.jpg",
-    "created_at": "2020-07-20T10:22:55.643Z",
-    "updated_at": "2020-07-20T10:22:55.643Z",
+    "created_at": "2020-07-20T11:55:58.178Z",
+    "updated_at": "2020-07-20T11:55:58.178Z",
     "tags": [],
     "sources": [
       {
@@ -563,7 +563,7 @@
         "kind": "paypal"
       }
     ],
-    "url": "http://localhost:3000/channels/brotherneuro.json"
+    "url": "http://localhost:3000/brotherneuro.json"
   },
   {
     "id": 26,
@@ -571,8 +571,8 @@
     "slug": "byronclark",
     "description": "",
     "image": "/channels/1563b5cb44d64e99912653af3565d0a3.jpg",
-    "created_at": "2020-07-20T10:22:55.665Z",
-    "updated_at": "2020-07-20T10:22:55.665Z",
+    "created_at": "2020-07-20T11:55:58.196Z",
+    "updated_at": "2020-07-20T11:55:58.196Z",
     "tags": [],
     "sources": [
       {
@@ -588,7 +588,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/byronclark.json"
+    "url": "http://localhost:3000/byronclark.json"
   },
   {
     "id": 27,
@@ -596,8 +596,8 @@
     "slug": "c0nc0rdance",
     "description": "It's my goal to show through the use of solid evidence and rational argument what is junk science, and what is real.",
     "image": "/channels/4e7a47584fd54712b915edbc9376ce2b.jpg",
-    "created_at": "2020-07-20T10:22:55.690Z",
-    "updated_at": "2020-07-20T10:22:55.690Z",
+    "created_at": "2020-07-20T11:55:58.216Z",
+    "updated_at": "2020-07-20T11:55:58.216Z",
     "tags": [],
     "sources": [
       {
@@ -605,7 +605,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/c0nc0rdance.json"
+    "url": "http://localhost:3000/c0nc0rdance.json"
   },
   {
     "id": 28,
@@ -613,8 +613,8 @@
     "slug": "chapotraphouse",
     "description": "SPEED BOAT DOPE COCAINE GENESIS",
     "image": "/channels/dfa9ba17db4b46b79858b68b9db60095.jpg",
-    "created_at": "2020-07-20T10:22:55.704Z",
-    "updated_at": "2020-07-20T10:22:55.704Z",
+    "created_at": "2020-07-20T11:55:58.224Z",
+    "updated_at": "2020-07-20T11:55:58.224Z",
     "tags": [],
     "sources": [
       {
@@ -630,7 +630,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/chapotraphouse.json"
+    "url": "http://localhost:3000/chapotraphouse.json"
   },
   {
     "id": 29,
@@ -638,8 +638,8 @@
     "slug": "chomskysphilosophy",
     "description": "A collection of Noam Chomsky's ideas and analyses.",
     "image": "/channels/4b395ca91763493eb356f4332b750fc1.jpg",
-    "created_at": "2020-07-20T10:22:55.734Z",
-    "updated_at": "2020-07-20T11:45:55.862Z",
+    "created_at": "2020-07-20T11:55:58.241Z",
+    "updated_at": "2020-07-20T11:55:58.241Z",
     "tags": [
       "anarchism",
       "anti-capitalism",
@@ -654,7 +654,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/chomskysphilosophy.json"
+    "url": "http://localhost:3000/chomskysphilosophy.json"
   },
   {
     "id": 30,
@@ -662,8 +662,8 @@
     "slug": "chrisiousity",
     "description": "I have a lot of curiosity about various topics. I will discuss topics like art, science, parenting, politics, religion, and whatever else i'm curious about. Feel free to subscribe and comment as i intend on producing more content for my fellow you tubers.",
     "image": "/channels/241c017f537b42f0bf2b4d4a397c56bc.jpg",
-    "created_at": "2020-07-20T10:22:55.749Z",
-    "updated_at": "2020-07-20T10:22:55.749Z",
+    "created_at": "2020-07-20T11:55:58.250Z",
+    "updated_at": "2020-07-20T11:55:58.250Z",
     "tags": [],
     "sources": [
       {
@@ -671,7 +671,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/chrisiousity.json"
+    "url": "http://localhost:3000/chrisiousity.json"
   },
   {
     "id": 31,
@@ -679,8 +679,8 @@
     "slug": "christoaivalis",
     "description": "Commentator, historian, and writer Christo Aivalis discussing all matters that interest him in regards to left politics, history, and culture.",
     "image": "/channels/c641fea7f0a84c6c8cc324dd5da9376d.jpg",
-    "created_at": "2020-07-20T10:22:55.764Z",
-    "updated_at": "2020-07-20T10:22:55.764Z",
+    "created_at": "2020-07-20T11:55:58.258Z",
+    "updated_at": "2020-07-20T11:55:58.258Z",
     "tags": [],
     "sources": [
       {
@@ -688,7 +688,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/christoaivalis.json"
+    "url": "http://localhost:3000/christoaivalis.json"
   },
   {
     "id": 32,
@@ -696,8 +696,8 @@
     "slug": "christopherszabo",
     "description": "The Christopher Szabo Show is an ongoing web series updated monthly that ganders at the obscure oddities of different mediums from films, videos, television shows, and video games. It is highly advised that you watch these episodes while under the influence and wearing headphones.",
     "image": "/channels/85c2fa55e05843feb741151f94117001.jpg",
-    "created_at": "2020-07-20T10:22:55.776Z",
-    "updated_at": "2020-07-20T10:22:55.776Z",
+    "created_at": "2020-07-20T11:55:58.268Z",
+    "updated_at": "2020-07-20T11:55:58.268Z",
     "tags": [],
     "sources": [
       {
@@ -705,7 +705,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/christopherszabo.json"
+    "url": "http://localhost:3000/christopherszabo.json"
   },
   {
     "id": 33,
@@ -713,8 +713,8 @@
     "slug": "citizenfoffiehassel",
     "description": "Here i script animate play this is a remix of The Other CitizenFoffie Channel i got hacked so uh yeah trying to reach 100 subs by the end of the year",
     "image": "/channels/1b8929fe49444fb49fa9508c8a1a429e.jpg",
-    "created_at": "2020-07-20T10:22:55.790Z",
-    "updated_at": "2020-07-20T10:22:55.790Z",
+    "created_at": "2020-07-20T11:55:58.282Z",
+    "updated_at": "2020-07-20T11:55:58.282Z",
     "tags": [],
     "sources": [
       {
@@ -722,7 +722,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/citizenfoffiehassel.json"
+    "url": "http://localhost:3000/citizenfoffiehassel.json"
   },
   {
     "id": 34,
@@ -730,8 +730,8 @@
     "slug": "claudiabrown",
     "description": "Hello everyone! I make youtube videos talking about feminism.",
     "image": "/channels/ddc0d32eba854b8791342e2a2329fb4f.jpg",
-    "created_at": "2020-07-20T10:22:55.806Z",
-    "updated_at": "2020-07-20T10:22:55.806Z",
+    "created_at": "2020-07-20T11:55:58.291Z",
+    "updated_at": "2020-07-20T11:55:58.291Z",
     "tags": [],
     "sources": [
       {
@@ -739,7 +739,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/claudiabrown.json"
+    "url": "http://localhost:3000/claudiabrown.json"
   },
   {
     "id": 35,
@@ -747,8 +747,8 @@
     "slug": "conquestofdread",
     "description": "Pakeha/Maori content creator from New Zealand",
     "image": "/channels/42102aeca93e4b9b98fd9fe34fa6593a.jpg",
-    "created_at": "2020-07-20T10:22:55.820Z",
-    "updated_at": "2020-07-20T11:45:55.886Z",
+    "created_at": "2020-07-20T11:55:58.305Z",
+    "updated_at": "2020-07-20T11:55:58.305Z",
     "tags": [
       "antifascism",
       "new zealand"
@@ -763,7 +763,7 @@
         "kind": "patreon"
       }
     ],
-    "url": "http://localhost:3000/channels/conquestofdread.json"
+    "url": "http://localhost:3000/conquestofdread.json"
   },
   {
     "id": 36,
@@ -771,8 +771,8 @@
     "slug": "contrapoints",
     "description": "YouTuber, ex-philosopher. Sex, drugs, and social justice. 🌸",
     "image": "/channels/b821816df3144d2a83d10eb6d222bc6f.jpg",
-    "created_at": "2020-07-20T10:22:55.842Z",
-    "updated_at": "2020-07-20T11:45:55.836Z",
+    "created_at": "2020-07-20T11:55:58.324Z",
+    "updated_at": "2020-07-20T11:55:58.324Z",
     "tags": [
       "aesthetic",
       "alt-right",
@@ -806,7 +806,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/contrapoints.json"
+    "url": "http://localhost:3000/contrapoints.json"
   },
   {
     "id": 37,
@@ -814,8 +814,8 @@
     "slug": "creationistcat",
     "description": "was a freakin' housecat dat was zapped by god true dee innernet. Now I'm an agent of da lord, Atheists Beware! (satirical take on alt-right/skeptic videos)",
     "image": "/channels/322c010ec2c14250a9f845f4f4f1d2f4.jpg",
-    "created_at": "2020-07-20T10:22:55.894Z",
-    "updated_at": "2020-07-20T11:45:55.628Z",
+    "created_at": "2020-07-20T11:55:58.362Z",
+    "updated_at": "2020-07-20T11:55:58.362Z",
     "tags": [
       "antifascist",
       "comedy"
@@ -826,7 +826,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/creationistcat.json"
+    "url": "http://localhost:3000/creationistcat.json"
   },
   {
     "id": 38,
@@ -834,8 +834,8 @@
     "slug": "cuckphilosophy",
     "description": "",
     "image": "/channels/32c6c0a77bac407a800dee04861f9f77.jpg",
-    "created_at": "2020-07-20T10:22:55.914Z",
-    "updated_at": "2020-07-20T10:22:55.914Z",
+    "created_at": "2020-07-20T11:55:58.378Z",
+    "updated_at": "2020-07-20T11:55:58.378Z",
     "tags": [],
     "sources": [
       {
@@ -843,7 +843,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/cuckphilosophy.json"
+    "url": "http://localhost:3000/cuckphilosophy.json"
   },
   {
     "id": 39,
@@ -851,8 +851,8 @@
     "slug": "cultofdusty",
     "description": "Making a mockery out of Religion. One vid at a time.",
     "image": "/channels/362043592948445398ef683bf95970ca.jpg",
-    "created_at": "2020-07-20T10:22:55.934Z",
-    "updated_at": "2020-07-20T10:22:55.934Z",
+    "created_at": "2020-07-20T11:55:58.395Z",
+    "updated_at": "2020-07-20T11:55:58.395Z",
     "tags": [],
     "sources": [
       {
@@ -860,7 +860,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/cultofdusty.json"
+    "url": "http://localhost:3000/cultofdusty.json"
   },
   {
     "id": 40,
@@ -868,8 +868,8 @@
     "slug": "cunadodeizquierdas",
     "description": "Politics channel made from a place of honesty and ignorance... and the Left! I'm poor, send me some dough",
     "image": "/channels/87cf84f3e9fc41f7930c0aa31228e486.jpg",
-    "created_at": "2020-07-20T10:22:55.951Z",
-    "updated_at": "2020-07-20T10:22:55.951Z",
+    "created_at": "2020-07-20T11:55:58.416Z",
+    "updated_at": "2020-07-20T11:55:58.416Z",
     "tags": [],
     "sources": [
       {
@@ -885,7 +885,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/cunadodeizquierdas.json"
+    "url": "http://localhost:3000/cunadodeizquierdas.json"
   },
   {
     "id": 41,
@@ -893,8 +893,8 @@
     "slug": "curio",
     "description": "Spreading cultural-marxism-gamerism to destroy the west and socialise anime",
     "image": "/channels/e1d66751fee6421fb28f5bc97e09ff82.jpg",
-    "created_at": "2020-07-20T10:22:55.986Z",
-    "updated_at": "2020-07-20T10:22:55.986Z",
+    "created_at": "2020-07-20T11:55:58.470Z",
+    "updated_at": "2020-07-20T11:55:58.470Z",
     "tags": [],
     "sources": [
       {
@@ -902,7 +902,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/curio.json"
+    "url": "http://localhost:3000/curio.json"
   },
   {
     "id": 42,
@@ -910,8 +910,8 @@
     "slug": "currentaffairs",
     "description": "Official video content from Current Affairs",
     "image": "/channels/956e38f279d242ee87baf4249ecad6af.jpg",
-    "created_at": "2020-07-20T10:22:56.006Z",
-    "updated_at": "2020-07-20T10:22:56.006Z",
+    "created_at": "2020-07-20T11:55:58.502Z",
+    "updated_at": "2020-07-20T11:55:58.502Z",
     "tags": [],
     "sources": [
       {
@@ -919,7 +919,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/currentaffairs.json"
+    "url": "http://localhost:3000/currentaffairs.json"
   },
   {
     "id": 43,
@@ -927,8 +927,8 @@
     "slug": "democracyatwork",
     "description": "We are a non-profit 501c3 that advocates for worker cooperatives and democratic workplaces as a key path to a stronger, democratic economic system.",
     "image": "/channels/82964eef7a3d4c8098a21fc47446d507.jpg",
-    "created_at": "2020-07-20T10:22:56.025Z",
-    "updated_at": "2020-07-20T10:22:56.025Z",
+    "created_at": "2020-07-20T11:55:58.530Z",
+    "updated_at": "2020-07-20T11:55:58.530Z",
     "tags": [],
     "sources": [
       {
@@ -936,7 +936,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/democracyatwork.json"
+    "url": "http://localhost:3000/democracyatwork.json"
   },
   {
     "id": 44,
@@ -944,8 +944,8 @@
     "slug": "democracynow",
     "description": "Democracy Now! is an independent, global weekday news hour anchored by award-winning journalists Amy Goodman and Juan González.",
     "image": "/channels/ccdc93ca697f42ceb062f5aea0ed3b71.jpg",
-    "created_at": "2020-07-20T10:22:56.046Z",
-    "updated_at": "2020-07-20T11:45:55.582Z",
+    "created_at": "2020-07-20T11:55:58.569Z",
+    "updated_at": "2020-07-20T11:55:58.569Z",
     "tags": [
       "news"
     ],
@@ -955,7 +955,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/democracynow.json"
+    "url": "http://localhost:3000/democracynow.json"
   },
   {
     "id": 45,
@@ -963,8 +963,8 @@
     "slug": "democraticsocialist01",
     "description": "(socialist video essays)",
     "image": "/channels/05dd629f98984d268ba0ceae2b383094.jpg",
-    "created_at": "2020-07-20T10:22:56.068Z",
-    "updated_at": "2020-07-20T10:22:56.068Z",
+    "created_at": "2020-07-20T11:55:58.590Z",
+    "updated_at": "2020-07-20T11:55:58.590Z",
     "tags": [],
     "sources": [
       {
@@ -972,7 +972,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/democraticsocialist01.json"
+    "url": "http://localhost:3000/democraticsocialist01.json"
   },
   {
     "id": 46,
@@ -980,8 +980,8 @@
     "slug": "dirkkelly",
     "description": "Austramerican thinking about politics, economics, and technology during the people's struggle to survive the collapse of capitalism.",
     "image": "/channels/a2f247d60953472a9cbb469df40dc55a.jpg",
-    "created_at": "2020-07-20T10:22:56.096Z",
-    "updated_at": "2020-07-20T11:45:57.471Z",
+    "created_at": "2020-07-20T11:55:58.607Z",
+    "updated_at": "2020-07-20T11:55:58.607Z",
     "tags": [
       "activism",
       "america",
@@ -1004,7 +1004,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/dirkkelly.json"
+    "url": "http://localhost:3000/dirkkelly.json"
   },
   {
     "id": 47,
@@ -1012,8 +1012,8 @@
     "slug": "dirksocialist",
     "description": "Greetings! I am Comrade Dirk and you are welcome to my channel 'Dirk Socialist' It may be no surprise that the channel Dirk Socialist is ran by a socialist.",
     "image": "/channels/00ab9f932f3547b59a96b244b9e6933d.jpg",
-    "created_at": "2020-07-20T10:22:56.138Z",
-    "updated_at": "2020-07-20T10:22:56.138Z",
+    "created_at": "2020-07-20T11:55:58.641Z",
+    "updated_at": "2020-07-20T11:55:58.641Z",
     "tags": [],
     "sources": [
       {
@@ -1029,7 +1029,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/dirksocialist.json"
+    "url": "http://localhost:3000/dirksocialist.json"
   },
   {
     "id": 48,
@@ -1037,8 +1037,8 @@
     "slug": "donoteat01",
     "description": "Explanations about social policies using Cities Skylines as a visual aide",
     "image": "/channels/21f1d5f9db934816a00b41309efcd53e.jpg",
-    "created_at": "2020-07-20T10:22:56.182Z",
-    "updated_at": "2020-07-20T10:22:56.182Z",
+    "created_at": "2020-07-20T11:55:58.680Z",
+    "updated_at": "2020-07-20T11:55:58.680Z",
     "tags": [],
     "sources": [
       {
@@ -1046,7 +1046,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/donoteat01.json"
+    "url": "http://localhost:3000/donoteat01.json"
   },
   {
     "id": 49,
@@ -1054,8 +1054,8 @@
     "slug": "drlayman",
     "description": "Question everything.",
     "image": "/channels/669c320ee8e9457bbe19e0566d222fc6.jpg",
-    "created_at": "2020-07-20T10:22:56.201Z",
-    "updated_at": "2020-07-20T11:45:55.539Z",
+    "created_at": "2020-07-20T11:55:58.701Z",
+    "updated_at": "2020-07-20T11:55:58.701Z",
     "tags": [
       "psychology"
     ],
@@ -1073,7 +1073,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/drlayman.json"
+    "url": "http://localhost:3000/drlayman.json"
   },
   {
     "id": 50,
@@ -1081,8 +1081,8 @@
     "slug": "dumpsterflower",
     "description": "Video essays exploring Philosophy, Politics, Media and the world from a radical left perspective.",
     "image": "/channels/4dc56a976bb24b9685247956d15c9cdb.jpg",
-    "created_at": "2020-07-20T10:22:56.244Z",
-    "updated_at": "2020-07-20T11:45:55.571Z",
+    "created_at": "2020-07-20T11:55:58.740Z",
+    "updated_at": "2020-07-20T11:55:58.740Z",
     "tags": [
       "anti-capitalism",
       "liberalism",
@@ -1094,7 +1094,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/dumpsterflower.json"
+    "url": "http://localhost:3000/dumpsterflower.json"
   },
   {
     "id": 51,
@@ -1102,8 +1102,8 @@
     "slug": "earthstrike",
     "description": "The Earth Strike movement has formed a plan of action spanning 2019 with four primary international events.<br/> **Jan 15** Earth Strike Kickoff Protest<br/> **Apr 27** Halfway Earth Day Protest<br/> **Aug 1** Final Pre-Strike Protest<br/> **Sep 27** Earth Strike!",
     "image": "/channels/803ea109001f47dd86ca8d52312c2983.jpg",
-    "created_at": "2020-07-20T10:22:56.265Z",
-    "updated_at": "2020-07-20T10:22:56.265Z",
+    "created_at": "2020-07-20T11:55:58.759Z",
+    "updated_at": "2020-07-20T11:55:58.759Z",
     "tags": [],
     "sources": [
       {
@@ -1111,7 +1111,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/earthstrike.json"
+    "url": "http://localhost:3000/earthstrike.json"
   },
   {
     "id": 52,
@@ -1119,8 +1119,8 @@
     "slug": "eccentricrants",
     "description": "null",
     "image": "/channels/63279bdd657f4323a36822b079a3c54b.jpg",
-    "created_at": "2020-07-20T10:22:56.285Z",
-    "updated_at": "2020-07-20T11:45:55.519Z",
+    "created_at": "2020-07-20T11:55:58.777Z",
+    "updated_at": "2020-07-20T11:55:58.777Z",
     "tags": [
       "america",
       "anarchism",
@@ -1132,7 +1132,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/eccentricrants.json"
+    "url": "http://localhost:3000/eccentricrants.json"
   },
   {
     "id": 53,
@@ -1140,8 +1140,8 @@
     "slug": "empirefiles",
     "description": "A documentary & interview series hosted by Abby Martin - reporting on war & inequality from the heart of Empire",
     "image": "/channels/4aec20a57f9640078e07ac859fac36c0.jpg",
-    "created_at": "2020-07-20T10:22:56.306Z",
-    "updated_at": "2020-07-20T10:22:56.306Z",
+    "created_at": "2020-07-20T11:55:58.796Z",
+    "updated_at": "2020-07-20T11:55:58.796Z",
     "tags": [],
     "sources": [
       {
@@ -1149,7 +1149,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/empirefiles.json"
+    "url": "http://localhost:3000/empirefiles.json"
   },
   {
     "id": 54,
@@ -1157,8 +1157,8 @@
     "slug": "ericacrooks",
     "description": "The Official Erica Crooks YouTube Channel and The Official YouTube Channel for The Erica Crooks Show (aka The Eric Crooks Show From 1999 until 2016 , The Erica Crooks Show 2016 - Present).",
     "image": "/channels/cf182ba16fa74253b83f29cb8595b06a.jpg",
-    "created_at": "2020-07-20T10:22:56.325Z",
-    "updated_at": "2020-07-20T11:45:55.545Z",
+    "created_at": "2020-07-20T11:55:58.814Z",
+    "updated_at": "2020-07-20T11:55:58.814Z",
     "tags": [
       "anarchism",
       "spirituality"
@@ -1177,7 +1177,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/ericacrooks.json"
+    "url": "http://localhost:3000/ericacrooks.json"
   },
   {
     "id": 55,
@@ -1185,8 +1185,8 @@
     "slug": "erincollective",
     "description": "I'm a philosopher, author, videographer, coder, gamer, and activist, I'm trying to move my labour away from production for exchange and towards production for use. Queer, autistic, post-christian, egocom, genre-woman living in South Africa.",
     "image": "/channels/120666193613449887ab6987e6fd6e34.jpg",
-    "created_at": "2020-07-20T10:22:56.365Z",
-    "updated_at": "2020-07-20T10:22:56.365Z",
+    "created_at": "2020-07-20T11:55:58.855Z",
+    "updated_at": "2020-07-20T11:55:58.855Z",
     "tags": [],
     "sources": [
       {
@@ -1206,7 +1206,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/erincollective.json"
+    "url": "http://localhost:3000/erincollective.json"
   },
   {
     "id": 56,
@@ -1214,8 +1214,8 @@
     "slug": "essenceofthought",
     "description": "Online media outlet which produces fully referenced video reviews of other online content touching upon secularism, feminism, LGBT+, and ethnic equality.",
     "image": "/channels/e9c6515de0334e61a5e853bab44702f7.jpg",
-    "created_at": "2020-07-20T10:22:56.414Z",
-    "updated_at": "2020-07-20T10:22:56.414Z",
+    "created_at": "2020-07-20T11:55:58.902Z",
+    "updated_at": "2020-07-20T11:55:58.902Z",
     "tags": [],
     "sources": [
       {
@@ -1223,7 +1223,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/essenceofthought.json"
+    "url": "http://localhost:3000/essenceofthought.json"
   },
   {
     "id": 57,
@@ -1231,8 +1231,8 @@
     "slug": "faradayspeaks",
     "description": "I’m a young gamer who fell down the alt-right rabbit hole, who now wants equality and justice for everyone. No exclusion!",
     "image": "/channels/4381090078884cb6b03cd5bc35780d0f.jpg",
-    "created_at": "2020-07-20T10:22:56.433Z",
-    "updated_at": "2020-07-20T10:22:56.433Z",
+    "created_at": "2020-07-20T11:55:58.921Z",
+    "updated_at": "2020-07-20T11:55:58.921Z",
     "tags": [],
     "sources": [
       {
@@ -1252,7 +1252,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/faradayspeaks.json"
+    "url": "http://localhost:3000/faradayspeaks.json"
   },
   {
     "id": 58,
@@ -1260,8 +1260,8 @@
     "slug": "feministfrequency",
     "description": "Feminist Frequency is an ongoing series of video commentaries exploring gender representations, myths and messages in popular culture media. Created and hosted by Anita Sarkeesian.",
     "image": "/channels/e98d6efd7a3747359dd2a778ead42f6c.jpg",
-    "created_at": "2020-07-20T10:22:56.487Z",
-    "updated_at": "2020-07-20T10:22:56.487Z",
+    "created_at": "2020-07-20T11:55:58.965Z",
+    "updated_at": "2020-07-20T11:55:58.965Z",
     "tags": [],
     "sources": [
       {
@@ -1269,7 +1269,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/feministfrequency.json"
+    "url": "http://localhost:3000/feministfrequency.json"
   },
   {
     "id": 59,
@@ -1277,8 +1277,8 @@
     "slug": "fleamarketsocialist",
     "description": "Communism is a direction; not a goal.",
     "image": "/channels/5d56c21704a14d4e8a2e57b84f56d86a.jpg",
-    "created_at": "2020-07-20T10:22:56.509Z",
-    "updated_at": "2020-07-20T10:22:56.509Z",
+    "created_at": "2020-07-20T11:55:58.982Z",
+    "updated_at": "2020-07-20T11:55:58.982Z",
     "tags": [],
     "sources": [
       {
@@ -1290,7 +1290,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/fleamarketsocialist.json"
+    "url": "http://localhost:3000/fleamarketsocialist.json"
   },
   {
     "id": 60,
@@ -1298,8 +1298,8 @@
     "slug": "foldingideas",
     "description": "I talk about narrative theory: the mechanisms of storytelling. This encompasses the wider communications theories about the way that we process information.",
     "image": "/channels/2ee864c6d30b4a8ebd2014004558a50f.jpg",
-    "created_at": "2020-07-20T10:22:56.542Z",
-    "updated_at": "2020-07-20T10:22:56.542Z",
+    "created_at": "2020-07-20T11:55:59.006Z",
+    "updated_at": "2020-07-20T11:55:59.006Z",
     "tags": [],
     "sources": [
       {
@@ -1307,7 +1307,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/foldingideas.json"
+    "url": "http://localhost:3000/foldingideas.json"
   },
   {
     "id": 61,
@@ -1315,8 +1315,8 @@
     "slug": "forharriet",
     "description": "For Harriet is an online community for women of African ancestry. We encourage women, through storytelling an journalism, to engage in candid, revelatory dialogue about the beauty and complexity of Black womanhood. We aspire to educate, inspire, and entertain.",
     "image": "/channels/80a5708340ee4e918caeb1525ae587c7.jpg",
-    "created_at": "2020-07-20T10:22:56.562Z",
-    "updated_at": "2020-07-20T10:22:56.562Z",
+    "created_at": "2020-07-20T11:55:59.023Z",
+    "updated_at": "2020-07-20T11:55:59.023Z",
     "tags": [],
     "sources": [
       {
@@ -1324,7 +1324,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/forharriet.json"
+    "url": "http://localhost:3000/forharriet.json"
   },
   {
     "id": 62,
@@ -1332,8 +1332,8 @@
     "slug": "friendlyjordies",
     "description": "......eh can't be bothered to write anything hahahaha nah actually I'll just sum up what the last person's description I read was 'omggg I loooooove coco channel more than my PARENTS!!! What losers!! They didn't create a global fashion icon - worst human beings. I'm ashamed I spent so much time with them in my formative years",
     "image": "/channels/72ec5faf0e1742d2a851dd1d8fcc67f2.jpg",
-    "created_at": "2020-07-20T10:22:56.582Z",
-    "updated_at": "2020-07-20T10:22:56.582Z",
+    "created_at": "2020-07-20T11:55:59.041Z",
+    "updated_at": "2020-07-20T11:55:59.041Z",
     "tags": [],
     "sources": [
       {
@@ -1341,7 +1341,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/friendlyjordies.json"
+    "url": "http://localhost:3000/friendlyjordies.json"
   },
   {
     "id": 63,
@@ -1349,8 +1349,8 @@
     "slug": "germinal",
     "description": "Anarchist Theory",
     "image": "/channels/b802d378b684418bbf20e7d0b67d354b.jpg",
-    "created_at": "2020-07-20T10:22:56.595Z",
-    "updated_at": "2020-07-20T11:45:55.530Z",
+    "created_at": "2020-07-20T11:55:59.058Z",
+    "updated_at": "2020-07-20T11:55:59.058Z",
     "tags": [
       "anti-capitalism"
     ],
@@ -1360,7 +1360,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/germinal.json"
+    "url": "http://localhost:3000/germinal.json"
   },
   {
     "id": 64,
@@ -1368,8 +1368,8 @@
     "slug": "grahamelwood",
     "description": "Official YouTube channel of Comedian/Filmmaker Graham Elwood (Director of Earbuds)",
     "image": "/channels/8010af2052d44273bb775f24f49fe526.jpg",
-    "created_at": "2020-07-20T10:22:56.606Z",
-    "updated_at": "2020-07-20T10:22:56.606Z",
+    "created_at": "2020-07-20T11:55:59.076Z",
+    "updated_at": "2020-07-20T11:55:59.076Z",
     "tags": [],
     "sources": [
       {
@@ -1377,7 +1377,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/grahamelwood.json"
+    "url": "http://localhost:3000/grahamelwood.json"
   },
   {
     "id": 65,
@@ -1385,8 +1385,8 @@
     "slug": "gutian",
     "description": "I sold my soul, and all I got was a webcam and a mic. Might as well make videos.",
     "image": "/channels/923c78411153432cb9285eca8c09884b.jpg",
-    "created_at": "2020-07-20T10:22:56.619Z",
-    "updated_at": "2020-07-20T10:22:56.619Z",
+    "created_at": "2020-07-20T11:55:59.095Z",
+    "updated_at": "2020-07-20T11:55:59.095Z",
     "tags": [],
     "sources": [
       {
@@ -1394,7 +1394,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/gutian.json"
+    "url": "http://localhost:3000/gutian.json"
   },
   {
     "id": 66,
@@ -1402,8 +1402,8 @@
     "slug": "gwennofear",
     "description": "Hey there! I'm Guinevere, and I plan on doing some political, critical analysis and current events stuff on YouTube as well as some hangouts with friends. I've only recently started bringing content onto this channel, but hopefully I'll being doing a lot in the coming months. If anyone wants to know a little bit about me, I might do some videos on that as well.",
     "image": "/channels/094a134c4c7940f6b51559a039b1bb5a.jpg",
-    "created_at": "2020-07-20T10:22:56.630Z",
-    "updated_at": "2020-07-20T11:45:55.528Z",
+    "created_at": "2020-07-20T11:55:59.112Z",
+    "updated_at": "2020-07-20T11:55:59.112Z",
     "tags": [
       "politics"
     ],
@@ -1421,7 +1421,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/gwennofear.json"
+    "url": "http://localhost:3000/gwennofear.json"
   },
   {
     "id": 67,
@@ -1429,8 +1429,8 @@
     "slug": "hakim",
     "description": "An Iraqi Marxist that makes videos from time to time.",
     "image": "/channels/37dec78a80944cdf9b95837fc305f7c4.jpg",
-    "created_at": "2020-07-20T10:22:56.651Z",
-    "updated_at": "2020-07-20T10:22:56.651Z",
+    "created_at": "2020-07-20T11:55:59.149Z",
+    "updated_at": "2020-07-20T11:55:59.149Z",
     "tags": [],
     "sources": [
       {
@@ -1438,7 +1438,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/hakim.json"
+    "url": "http://localhost:3000/hakim.json"
   },
   {
     "id": 68,
@@ -1446,8 +1446,8 @@
     "slug": "halimalrah",
     "description": "I make political videos on Canadian politics, American politics, political ideology explainers, and political philosophy.",
     "image": "/channels/aa35b8800cba4f9885e6af3549ceda80.jpg",
-    "created_at": "2020-07-20T10:22:56.661Z",
-    "updated_at": "2020-07-20T11:45:55.525Z",
+    "created_at": "2020-07-20T11:55:59.168Z",
+    "updated_at": "2020-07-20T11:55:59.168Z",
     "tags": [
       "america",
       "canada",
@@ -1475,7 +1475,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/halimalrah.json"
+    "url": "http://localhost:3000/halimalrah.json"
   },
   {
     "id": 69,
@@ -1483,8 +1483,8 @@
     "slug": "hardcorelime",
     "description": "null",
     "image": "/channels/b3bd45ebc7064d06b88642c308e7265b.jpg",
-    "created_at": "2020-07-20T10:22:56.687Z",
-    "updated_at": "2020-07-20T11:45:55.506Z",
+    "created_at": "2020-07-20T11:55:59.213Z",
+    "updated_at": "2020-07-20T11:55:59.213Z",
     "tags": [
       "australia",
       "politics"
@@ -1495,7 +1495,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/hardcorelime.json"
+    "url": "http://localhost:3000/hardcorelime.json"
   },
   {
     "id": 70,
@@ -1503,8 +1503,8 @@
     "slug": "hasanpiker",
     "description": "The revolution will not be televised.",
     "image": "/channels/491d0b66f18945609220358c2cc40ea9.jpg",
-    "created_at": "2020-07-20T10:22:56.697Z",
-    "updated_at": "2020-07-20T11:45:55.497Z",
+    "created_at": "2020-07-20T11:55:59.223Z",
+    "updated_at": "2020-07-20T11:55:59.223Z",
     "tags": [
       "alt-right",
       "antifascism",
@@ -1534,7 +1534,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/hasanpiker.json"
+    "url": "http://localhost:3000/hasanpiker.json"
   },
   {
     "id": 71,
@@ -1542,8 +1542,8 @@
     "slug": "hbomberguy",
     "description": "Internet? (media analysis and left video essay)",
     "image": "/channels/1e0ca7b146934f39a7f42d4c9cea3dfa.jpg",
-    "created_at": "2020-07-20T10:22:56.722Z",
-    "updated_at": "2020-07-20T10:22:56.722Z",
+    "created_at": "2020-07-20T11:55:59.252Z",
+    "updated_at": "2020-07-20T11:55:59.252Z",
     "tags": [],
     "sources": [
       {
@@ -1551,7 +1551,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/hbomberguy.json"
+    "url": "http://localhost:3000/hbomberguy.json"
   },
   {
     "id": 72,
@@ -1559,8 +1559,8 @@
     "slug": "honker3d",
     "description": "STUPID CITY, the new Google Earth series on architecture and urban spaces",
     "image": "/channels/97ef14d4ce1a4386a2b1eddf0cbc3582.jpg",
-    "created_at": "2020-07-20T10:22:56.735Z",
-    "updated_at": "2020-07-20T11:45:55.447Z",
+    "created_at": "2020-07-20T11:55:59.263Z",
+    "updated_at": "2020-07-20T11:55:59.263Z",
     "tags": [
       "cities",
       "communities"
@@ -1571,7 +1571,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/honker3d.json"
+    "url": "http://localhost:3000/honker3d.json"
   },
   {
     "id": 73,
@@ -1579,8 +1579,8 @@
     "slug": "huntressxthompson",
     "description": "Videos about stuff from a leftist perspective.",
     "image": "/channels/d2bc1c318c77416581724e8fc5ff4b49.jpg",
-    "created_at": "2020-07-20T10:22:56.745Z",
-    "updated_at": "2020-07-20T11:45:55.445Z",
+    "created_at": "2020-07-20T11:55:59.272Z",
+    "updated_at": "2020-07-20T11:55:59.272Z",
     "tags": [
       "racism"
     ],
@@ -1594,7 +1594,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/huntressxthompson.json"
+    "url": "http://localhost:3000/huntressxthompson.json"
   },
   {
     "id": 74,
@@ -1602,8 +1602,8 @@
     "slug": "indefenseoftoucans",
     "description": "Communist History videos, currently focusing on the Bolsheviks and Soviet History. Please subscribe if you would like to watch more of this content.",
     "image": "/channels/11cb9c100e9e4f16955a8b1566414469.jpg",
-    "created_at": "2020-07-20T10:22:56.759Z",
-    "updated_at": "2020-07-20T10:22:56.759Z",
+    "created_at": "2020-07-20T11:55:59.288Z",
+    "updated_at": "2020-07-20T11:55:59.288Z",
     "tags": [],
     "sources": [
       {
@@ -1615,7 +1615,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/indefenseoftoucans.json"
+    "url": "http://localhost:3000/indefenseoftoucans.json"
   },
   {
     "id": 75,
@@ -1623,8 +1623,8 @@
     "slug": "innuendostudios",
     "description": "I make video essays about games, web culture, and social politics.",
     "image": "/channels/d8b45ca12b0d40b79d33095f44a49c98.jpg",
-    "created_at": "2020-07-20T10:22:56.773Z",
-    "updated_at": "2020-07-20T10:22:56.773Z",
+    "created_at": "2020-07-20T11:55:59.303Z",
+    "updated_at": "2020-07-20T11:55:59.303Z",
     "tags": [],
     "sources": [
       {
@@ -1632,7 +1632,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/innuendostudios.json"
+    "url": "http://localhost:3000/innuendostudios.json"
   },
   {
     "id": 76,
@@ -1640,8 +1640,8 @@
     "slug": "inotterwords",
     "description": "One otter sets out to convince others of his positions on ethics and politics, and perhaps be convinced of other positions himself!",
     "image": "/channels/e07a84a2f0dc4a85a1c2eace76cd77e3.jpg",
-    "created_at": "2020-07-20T10:22:56.783Z",
-    "updated_at": "2020-07-20T10:22:56.783Z",
+    "created_at": "2020-07-20T11:55:59.314Z",
+    "updated_at": "2020-07-20T11:55:59.314Z",
     "tags": [],
     "sources": [
       {
@@ -1657,7 +1657,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/inotterwords.json"
+    "url": "http://localhost:3000/inotterwords.json"
   },
   {
     "id": 77,
@@ -1665,8 +1665,8 @@
     "slug": "internetcommentetiquettewitherik",
     "description": "Follow Teacher Erik as he guides you through the muck of the internet. Together, we'll learn how to leave proper and respectful internet comments!",
     "image": "/channels/00353a0fefd84c71b0ec2e23dfeed5f9.jpg",
-    "created_at": "2020-07-20T10:22:56.800Z",
-    "updated_at": "2020-07-20T10:22:56.800Z",
+    "created_at": "2020-07-20T11:55:59.334Z",
+    "updated_at": "2020-07-20T11:55:59.334Z",
     "tags": [],
     "sources": [
       {
@@ -1674,7 +1674,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/internetcommentetiquettewitherik.json"
+    "url": "http://localhost:3000/internetcommentetiquettewitherik.json"
   },
   {
     "id": 78,
@@ -1682,8 +1682,8 @@
     "slug": "jacksaintlackingsaint",
     "description": "Writer, Animator, Videographer, Director (BIG IRON). Nice to meet you! I'm here to tell stories and connect with people.",
     "image": "/channels/803e4dd8fee94e0f967ec19f4f246e48.jpg",
-    "created_at": "2020-07-20T10:22:56.808Z",
-    "updated_at": "2020-07-20T10:22:56.808Z",
+    "created_at": "2020-07-20T11:55:59.344Z",
+    "updated_at": "2020-07-20T11:55:59.344Z",
     "tags": [],
     "sources": [
       {
@@ -1691,7 +1691,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/jacksaintlackingsaint.json"
+    "url": "http://localhost:3000/jacksaintlackingsaint.json"
   },
   {
     "id": 79,
@@ -1699,8 +1699,8 @@
     "slug": "jasonfromdetroit",
     "description": "I make political commentaries, parodies, video essays, and sometimes other stuff. Subscribe for several new videos weekly! If you have questions, leave them in the discussion section.",
     "image": "/channels/ab920f188adb4a26942abccbfc587b8a.jpg",
-    "created_at": "2020-07-20T10:22:56.817Z",
-    "updated_at": "2020-07-20T10:22:56.817Z",
+    "created_at": "2020-07-20T11:55:59.353Z",
+    "updated_at": "2020-07-20T11:55:59.353Z",
     "tags": [],
     "sources": [
       {
@@ -1708,7 +1708,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/jasonfromdetroit.json"
+    "url": "http://localhost:3000/jasonfromdetroit.json"
   },
   {
     "id": 80,
@@ -1716,8 +1716,8 @@
     "slug": "jaydeeforrester",
     "description": "You can expect randomness. Short stories, rants, poetry, original music and lots of morbid humor. Shit knows what! I don't care! Welcome to all!",
     "image": "/channels/ca9ddaec388c4e2485f6adf912683e46.jpg",
-    "created_at": "2020-07-20T10:22:56.825Z",
-    "updated_at": "2020-07-20T10:22:56.825Z",
+    "created_at": "2020-07-20T11:55:59.364Z",
+    "updated_at": "2020-07-20T11:55:59.364Z",
     "tags": [],
     "sources": [
       {
@@ -1725,7 +1725,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/jaydeeforrester.json"
+    "url": "http://localhost:3000/jaydeeforrester.json"
   },
   {
     "id": 81,
@@ -1733,8 +1733,8 @@
     "slug": "jimsterling",
     "description": "The YouTube home of videogame not-journalist Jim Sterling. A game critic and raconteur, he runs The Jimquisition as a crowdfunded video series, podcast, and game review site, he is one third of FistShark Marketing, and he is trying to understand this YouTube thing!",
     "image": "/channels/4724c53234a74c6ea8b034ab68f06678.jpg",
-    "created_at": "2020-07-20T10:22:56.835Z",
-    "updated_at": "2020-07-20T11:45:55.398Z",
+    "created_at": "2020-07-20T11:55:59.373Z",
+    "updated_at": "2020-07-20T11:55:59.373Z",
     "tags": [
       "gaming"
     ],
@@ -1752,7 +1752,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/jimsterling.json"
+    "url": "http://localhost:3000/jimsterling.json"
   },
   {
     "id": 82,
@@ -1760,8 +1760,8 @@
     "slug": "jose",
     "description": "I'm a Canadian YouTube person creating lefty content that undermines the garbage flow of right wing reactionary drivel that pollutes YouTube.",
     "image": "/channels/9f82b85addc9429b9d11c5cacaca03f5.jpg",
-    "created_at": "2020-07-20T10:22:56.854Z",
-    "updated_at": "2020-07-20T10:22:56.854Z",
+    "created_at": "2020-07-20T11:55:59.395Z",
+    "updated_at": "2020-07-20T11:55:59.395Z",
     "tags": [],
     "sources": [
       {
@@ -1777,7 +1777,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/jose.json"
+    "url": "http://localhost:3000/jose.json"
   },
   {
     "id": 83,
@@ -1785,8 +1785,8 @@
     "slug": "justwondering",
     "description": "Animated video essays trying to think through the human world right now. We come from philosophy, sociology and the arts. Worrying about the anthropocene, what to cook and how to live in capitalism.",
     "image": "/channels/dff0a9460ecf4e1f87e55ff4935a7815.jpg",
-    "created_at": "2020-07-20T10:22:56.875Z",
-    "updated_at": "2020-07-20T11:45:55.394Z",
+    "created_at": "2020-07-20T11:55:59.417Z",
+    "updated_at": "2020-07-20T11:55:59.417Z",
     "tags": [
       "arts",
       "critical theory",
@@ -1812,7 +1812,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/justwondering.json"
+    "url": "http://localhost:3000/justwondering.json"
   },
   {
     "id": 84,
@@ -1820,8 +1820,8 @@
     "slug": "katblaque",
     "description": "Opinion Vlogger, Children's Illustrator and Thrift Store Addict",
     "image": "/channels/09337d4194be487e9089301ff96b3447.jpg",
-    "created_at": "2020-07-20T10:22:56.904Z",
-    "updated_at": "2020-07-20T11:45:55.392Z",
+    "created_at": "2020-07-20T11:55:59.444Z",
+    "updated_at": "2020-07-20T11:55:59.444Z",
     "tags": [
       "creators of color"
     ],
@@ -1831,7 +1831,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/katblaque.json"
+    "url": "http://localhost:3000/katblaque.json"
   },
   {
     "id": 85,
@@ -1839,8 +1839,8 @@
     "slug": "kathrin",
     "description": "Hi my name is Kathrin and I make videos every two to three weeks about political ecology, climate change, activism, feminism, sexual violence, economic and social injustices, veganism, environmentalism and other social issues from an anti-capitalist, intersectional perspective.",
     "image": "/channels/f552a3f7e712482890ee7f777a7814d6.jpg",
-    "created_at": "2020-07-20T10:22:56.915Z",
-    "updated_at": "2020-07-20T10:22:56.915Z",
+    "created_at": "2020-07-20T11:55:59.453Z",
+    "updated_at": "2020-07-20T11:55:59.453Z",
     "tags": [],
     "sources": [
       {
@@ -1860,7 +1860,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/kathrin.json"
+    "url": "http://localhost:3000/kathrin.json"
   },
   {
     "id": 86,
@@ -1868,8 +1868,8 @@
     "slug": "kayandskittles",
     "description": "I'm a synthwave producer and Big Politic Chum from the country what has all the tea. But not the good tea.",
     "image": "/channels/1a28f756fc524e17ac66f384609e0d78.jpg",
-    "created_at": "2020-07-20T10:22:56.942Z",
-    "updated_at": "2020-07-20T11:45:55.380Z",
+    "created_at": "2020-07-20T11:55:59.480Z",
+    "updated_at": "2020-07-20T11:55:59.480Z",
     "tags": [
       "capitalism",
       "fascism"
@@ -1884,7 +1884,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/kayandskittles.json"
+    "url": "http://localhost:3000/kayandskittles.json"
   },
   {
     "id": 87,
@@ -1892,8 +1892,8 @@
     "slug": "kevinlogan",
     "description": "I take on the manospherian, alt-right, anti-feminist, anti-social justice fuckwads of the world, with the occasional cat video thrown in for good measure!",
     "image": "/channels/8502e1c237914ccbbf5dbbe568e7976b.jpg",
-    "created_at": "2020-07-20T10:22:56.956Z",
-    "updated_at": "2020-07-20T10:22:56.956Z",
+    "created_at": "2020-07-20T11:55:59.496Z",
+    "updated_at": "2020-07-20T11:55:59.496Z",
     "tags": [],
     "sources": [
       {
@@ -1901,7 +1901,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/kevinlogan.json"
+    "url": "http://localhost:3000/kevinlogan.json"
   },
   {
     "id": 88,
@@ -1909,8 +1909,8 @@
     "slug": "knowingbetter",
     "description": "I make videos about History, Government, and Psychology so that maybe next time you're in a conversation or you see a stupid meme on facebook, you'll know better.",
     "image": "/channels/d6696f71e2db4465a2aca7206a11a327.jpg",
-    "created_at": "2020-07-20T10:22:56.967Z",
-    "updated_at": "2020-07-20T10:22:56.967Z",
+    "created_at": "2020-07-20T11:55:59.505Z",
+    "updated_at": "2020-07-20T11:55:59.505Z",
     "tags": [],
     "sources": [
       {
@@ -1918,7 +1918,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/knowingbetter.json"
+    "url": "http://localhost:3000/knowingbetter.json"
   },
   {
     "id": 89,
@@ -1926,8 +1926,8 @@
     "slug": "kristiwinters",
     "description": "Progressive. Feminist. Atheist. Social scientist. Nerd.",
     "image": "/channels/56db266698ac43509a75b0cbf4a9317b.jpg",
-    "created_at": "2020-07-20T10:22:56.976Z",
-    "updated_at": "2020-07-20T10:22:56.976Z",
+    "created_at": "2020-07-20T11:55:59.516Z",
+    "updated_at": "2020-07-20T11:55:59.516Z",
     "tags": [],
     "sources": [
       {
@@ -1935,7 +1935,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/kristiwinters.json"
+    "url": "http://localhost:3000/kristiwinters.json"
   },
   {
     "id": 90,
@@ -1943,8 +1943,8 @@
     "slug": "kurzgesagtinanutshell",
     "description": "Videos explaining things with optimistic nihilism. We are a small team who want to make science look beautiful. Because it is beautiful. Currently we make one animation video per month. Follow us on Twitter, Facebook to get notified when a new one comes out.",
     "image": "/channels/9f31ab2d01bc4f1d8be9ba8545f5dfad.jpg",
-    "created_at": "2020-07-20T10:22:56.987Z",
-    "updated_at": "2020-07-20T11:45:55.143Z",
+    "created_at": "2020-07-20T11:55:59.526Z",
+    "updated_at": "2020-07-20T11:55:59.526Z",
     "tags": [
       "nihilism"
     ],
@@ -1970,7 +1970,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/kurzgesagtinanutshell.json"
+    "url": "http://localhost:3000/kurzgesagtinanutshell.json"
   },
   {
     "id": 91,
@@ -1978,8 +1978,8 @@
     "slug": "kylekallgrenbhh",
     "description": "A mildly immature look at movies and movie-related nonsense.",
     "image": "/channels/2d0479706235477b8bdd64625f493f00.jpg",
-    "created_at": "2020-07-20T10:22:57.019Z",
-    "updated_at": "2020-07-20T10:22:57.019Z",
+    "created_at": "2020-07-20T11:55:59.557Z",
+    "updated_at": "2020-07-20T11:55:59.557Z",
     "tags": [],
     "sources": [
       {
@@ -1987,7 +1987,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/kylekallgrenbhh.json"
+    "url": "http://localhost:3000/kylekallgrenbhh.json"
   },
   {
     "id": 92,
@@ -1995,8 +1995,8 @@
     "slug": "left1ne",
     "description": "A philosopher on the path to radicalize you.",
     "image": "/channels/2120328f55c244b0b0d312a667a721ba.jpg",
-    "created_at": "2020-07-20T10:22:57.029Z",
-    "updated_at": "2020-07-20T10:22:57.029Z",
+    "created_at": "2020-07-20T11:55:59.569Z",
+    "updated_at": "2020-07-20T11:55:59.569Z",
     "tags": [],
     "sources": [
       {
@@ -2004,7 +2004,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/left1ne.json"
+    "url": "http://localhost:3000/left1ne.json"
   },
   {
     "id": 93,
@@ -2012,8 +2012,8 @@
     "slug": "letstalkaboutstuff",
     "description": "this is a channel where a trans person named sarah makes video essays about stuff. sometimes that stuff includes movies, video games, or other flavors of media.",
     "image": "/channels/369fb017cd984bcc80438d2bae5e2cc9.jpg",
-    "created_at": "2020-07-20T10:22:57.039Z",
-    "updated_at": "2020-07-20T10:22:57.039Z",
+    "created_at": "2020-07-20T11:55:59.580Z",
+    "updated_at": "2020-07-20T11:55:59.580Z",
     "tags": [],
     "sources": [
       {
@@ -2021,7 +2021,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/letstalkaboutstuff.json"
+    "url": "http://localhost:3000/letstalkaboutstuff.json"
   },
   {
     "id": 94,
@@ -2029,8 +2029,8 @@
     "slug": "libertariansocialistrants",
     "description": "Hello! I'm a libertarian socialist. Here you will find my rants about the world we live in from an anarchist perspective.",
     "image": "/channels/6d4166dc9b1b46029897f4f6248e95ad.jpg",
-    "created_at": "2020-07-20T10:22:57.050Z",
-    "updated_at": "2020-07-20T10:22:57.050Z",
+    "created_at": "2020-07-20T11:55:59.589Z",
+    "updated_at": "2020-07-20T11:55:59.589Z",
     "tags": [],
     "sources": [
       {
@@ -2038,7 +2038,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/libertariansocialistrants.json"
+    "url": "http://localhost:3000/libertariansocialistrants.json"
   },
   {
     "id": 95,
@@ -2046,8 +2046,8 @@
     "slug": "lindsayellis",
     "description": "(film analysis and critiqe, feminist perspective)",
     "image": "/channels/adb4cf41fd004a3483857bf59654435f.jpg",
-    "created_at": "2020-07-20T10:22:57.059Z",
-    "updated_at": "2020-07-20T10:22:57.059Z",
+    "created_at": "2020-07-20T11:55:59.600Z",
+    "updated_at": "2020-07-20T11:55:59.600Z",
     "tags": [],
     "sources": [
       {
@@ -2055,7 +2055,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/lindsayellis.json"
+    "url": "http://localhost:3000/lindsayellis.json"
   },
   {
     "id": 96,
@@ -2063,8 +2063,8 @@
     "slug": "linkesau",
     "description": "I do political video essays on YouTube. The videos are way too long and it takes a lot of time to work on them. Help!!",
     "image": "/channels/d5ce7c9c8ed9444d80213f7a5b196c40.jpg",
-    "created_at": "2020-07-20T10:22:57.070Z",
-    "updated_at": "2020-07-20T11:45:54.362Z",
+    "created_at": "2020-07-20T11:55:59.613Z",
+    "updated_at": "2020-07-20T11:55:59.613Z",
     "tags": [
       "germany",
       "nazism"
@@ -2079,7 +2079,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/linkesau.json"
+    "url": "http://localhost:3000/linkesau.json"
   },
   {
     "id": 97,
@@ -2087,8 +2087,8 @@
     "slug": "literallygarbage",
     "description": "the german che-pard",
     "image": "/channels/f1c019f0ac3a4e878f0891a3fa43504f.jpg",
-    "created_at": "2020-07-20T10:22:57.086Z",
-    "updated_at": "2020-07-20T11:45:55.356Z",
+    "created_at": "2020-07-20T11:55:59.628Z",
+    "updated_at": "2020-07-20T11:55:59.628Z",
     "tags": [
       "antifascism",
       "capitalism",
@@ -2112,7 +2112,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/literallygarbage.json"
+    "url": "http://localhost:3000/literallygarbage.json"
   },
   {
     "id": 98,
@@ -2120,8 +2120,8 @@
     "slug": "literaryhangover",
     "description": "A leftist podcast by Matt Lech (from The Majority Report and The Michael Brooks Show). Primarily concerned with literary analysis.",
     "image": "/channels/8cdbfe9402c2424fa88227805c60beea.jpg",
-    "created_at": "2020-07-20T10:22:57.106Z",
-    "updated_at": "2020-07-20T10:22:57.106Z",
+    "created_at": "2020-07-20T11:55:59.649Z",
+    "updated_at": "2020-07-20T11:55:59.649Z",
     "tags": [],
     "sources": [
       {
@@ -2129,7 +2129,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/literaryhangover.json"
+    "url": "http://localhost:3000/literaryhangover.json"
   },
   {
     "id": 99,
@@ -2137,8 +2137,8 @@
     "slug": "lunaoi",
     "description": "I am a Vietnamese YouTuber living in Hanoi, and I love bringing you stories and informations every week about life, culture, food, and travel in my beautiful home country :)",
     "image": "/channels/395e8b8594d54f03997675912843fd56.jpg",
-    "created_at": "2020-07-20T10:22:57.120Z",
-    "updated_at": "2020-07-20T10:22:57.120Z",
+    "created_at": "2020-07-20T11:55:59.658Z",
+    "updated_at": "2020-07-20T11:55:59.658Z",
     "tags": [],
     "sources": [
       {
@@ -2150,7 +2150,7 @@
         "kind": "patreon"
       }
     ],
-    "url": "http://localhost:3000/channels/lunaoi.json"
+    "url": "http://localhost:3000/lunaoi.json"
   },
   {
     "id": 100,
@@ -2158,8 +2158,8 @@
     "slug": "madblender",
     "description": "I'm Leslie and on this channel I discuss all kinds of issues from a leftist perspective. Find me on twitter @madblender",
     "image": "/channels/5aedd5ceb4f44100932b2623aa0e4491.jpg",
-    "created_at": "2020-07-20T10:22:57.135Z",
-    "updated_at": "2020-07-20T10:22:57.135Z",
+    "created_at": "2020-07-20T11:55:59.673Z",
+    "updated_at": "2020-07-20T11:55:59.673Z",
     "tags": [],
     "sources": [
       {
@@ -2167,7 +2167,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/madblender.json"
+    "url": "http://localhost:3000/madblender.json"
   },
   {
     "id": 101,
@@ -2175,8 +2175,8 @@
     "slug": "mariajorge",
     "description": "Brazilian left-communist commenting on politics, social issues, and books.",
     "image": "/channels/68cfe2838f3848cdbb9d35ca9ace3688.jpg",
-    "created_at": "2020-07-20T10:22:57.146Z",
-    "updated_at": "2020-07-20T10:22:57.146Z",
+    "created_at": "2020-07-20T11:55:59.683Z",
+    "updated_at": "2020-07-20T11:55:59.683Z",
     "tags": [],
     "sources": [
       {
@@ -2192,7 +2192,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/mariajorge.json"
+    "url": "http://localhost:3000/mariajorge.json"
   },
   {
     "id": 102,
@@ -2200,8 +2200,8 @@
     "slug": "maru",
     "description": "Palestine and film analysis from a critical and post-colonial perspective.",
     "image": "/channels/eaed9e04168f47e08e6e48283d8f220b.jpg",
-    "created_at": "2020-07-20T10:22:57.165Z",
-    "updated_at": "2020-07-20T11:45:54.278Z",
+    "created_at": "2020-07-20T11:55:59.703Z",
+    "updated_at": "2020-07-20T11:55:59.703Z",
     "tags": [
       "creators of color",
       "palestine"
@@ -2220,7 +2220,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/maru.json"
+    "url": "http://localhost:3000/maru.json"
   },
   {
     "id": 103,
@@ -2228,8 +2228,8 @@
     "slug": "meanstv",
     "description": "Means TV is a digital streaming platform with original shows and movies of various genre: news, talk shows, documentary, sitcoms, stand-up comedy, adult animation, dramas and more, featuring your favorite leftist journalists, activists, comedians and influencers.",
     "image": "/channels/799c685ede694759940fc336385a7d58.jpg",
-    "created_at": "2020-07-20T10:22:57.185Z",
-    "updated_at": "2020-07-20T11:45:54.259Z",
+    "created_at": "2020-07-20T11:55:59.724Z",
+    "updated_at": "2020-07-20T11:55:59.724Z",
     "tags": [
       "documentaries",
       "news",
@@ -2245,7 +2245,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/meanstv.json"
+    "url": "http://localhost:3000/meanstv.json"
   },
   {
     "id": 104,
@@ -2253,8 +2253,8 @@
     "slug": "mexie",
     "description": "PhD graduate from Toronto. I studied Human Geography / Political Ecology, focusing on the intersections between political economy and global environmental governance. This sobering experience has led me to be the staunch anti-capitalist, vegan activist you see today! I make educational videos about political economy/capitalism, environmental issues, veganism, and issues relating to social/economic justice",
     "image": "/channels/4b39feac4f66480695b0ed986bf7ca3f.jpg",
-    "created_at": "2020-07-20T10:22:57.199Z",
-    "updated_at": "2020-07-20T11:45:55.341Z",
+    "created_at": "2020-07-20T11:55:59.739Z",
+    "updated_at": "2020-07-20T11:55:59.739Z",
     "tags": [
       "activism",
       "america",
@@ -2291,7 +2291,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/mexie.json"
+    "url": "http://localhost:3000/mexie.json"
   },
   {
     "id": 105,
@@ -2299,8 +2299,8 @@
     "slug": "miamulder",
     "description": "Historian and general smart person who does youtube now. Tired and angry a lot. Trans Woman",
     "image": "/channels/d97acda915eb41e2a22abde033443b04.jpg",
-    "created_at": "2020-07-20T10:22:57.228Z",
-    "updated_at": "2020-07-20T10:22:57.228Z",
+    "created_at": "2020-07-20T11:55:59.770Z",
+    "updated_at": "2020-07-20T11:55:59.770Z",
     "tags": [],
     "sources": [
       {
@@ -2308,7 +2308,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/miamulder.json"
+    "url": "http://localhost:3000/miamulder.json"
   },
   {
     "id": 106,
@@ -2316,8 +2316,8 @@
     "slug": "mysticmuttering",
     "description": "I am a folksinger and songwriter with a passion for radical activism, geekery, and magick.",
     "image": "/channels/c5729f90fca04a0d8e1b8e2f7fb2f6ab.jpg",
-    "created_at": "2020-07-20T10:22:57.239Z",
-    "updated_at": "2020-07-20T10:22:57.239Z",
+    "created_at": "2020-07-20T11:55:59.781Z",
+    "updated_at": "2020-07-20T11:55:59.781Z",
     "tags": [],
     "sources": [
       {
@@ -2325,7 +2325,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/mysticmuttering.json"
+    "url": "http://localhost:3000/mysticmuttering.json"
   },
   {
     "id": 107,
@@ -2333,8 +2333,8 @@
     "slug": "neverspeakinabsolutes",
     "description": "I'm a former public librarian (MLS) and current stay-at-home dad. I make video essays that seek to improve the quality and the subject of discourse online. Some of my videos deal with problems that don't get enough attention like peak oil and its political and economic implications.",
     "image": "/channels/4022e93978794515a8bd91155ff49a24.jpg",
-    "created_at": "2020-07-20T10:22:57.249Z",
-    "updated_at": "2020-07-20T10:22:57.249Z",
+    "created_at": "2020-07-20T11:55:59.790Z",
+    "updated_at": "2020-07-20T11:55:59.790Z",
     "tags": [],
     "sources": [
       {
@@ -2342,7 +2342,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/neverspeakinabsolutes.json"
+    "url": "http://localhost:3000/neverspeakinabsolutes.json"
   },
   {
     "id": 108,
@@ -2350,8 +2350,8 @@
     "slug": "noncompete",
     "description": "Leftist, Anarchist, Communist, Feminist video essays.",
     "image": "/channels/44b0a9b4a9cb401f8949144515966e94.jpg",
-    "created_at": "2020-07-20T10:22:57.258Z",
-    "updated_at": "2020-07-20T11:45:57.582Z",
+    "created_at": "2020-07-20T11:55:59.800Z",
+    "updated_at": "2020-07-20T11:55:59.800Z",
     "tags": [
       "activism",
       "anarchism",
@@ -2378,7 +2378,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/noncompete.json"
+    "url": "http://localhost:3000/noncompete.json"
   },
   {
     "id": 109,
@@ -2386,8 +2386,8 @@
     "slug": "novaramedia",
     "description": "Novara Media is an independent media organisation addressing the issues – from a crisis of capitalism to racism and climate change – that are set to define the 21st century.",
     "image": "/channels/65b5201079a74b39b645c747e9cdf972.jpg",
-    "created_at": "2020-07-20T10:22:57.284Z",
-    "updated_at": "2020-07-20T10:22:57.284Z",
+    "created_at": "2020-07-20T11:55:59.828Z",
+    "updated_at": "2020-07-20T11:55:59.828Z",
     "tags": [],
     "sources": [
       {
@@ -2395,7 +2395,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/novaramedia.json"
+    "url": "http://localhost:3000/novaramedia.json"
   },
   {
     "id": 110,
@@ -2403,8 +2403,8 @@
     "slug": "nyxfears",
     "description": "Exploring meaning and nuance in cinema that is both artful and genre. I am interested in finding what is interesting about film as opposed to what is good or bad. I seek to create fun content that speaks to the meaningful experience of how we watch and create movies.",
     "image": "/channels/c88d63427fae4b028dc7aa7ee90bc73c.jpg",
-    "created_at": "2020-07-20T10:22:57.294Z",
-    "updated_at": "2020-07-20T10:22:57.294Z",
+    "created_at": "2020-07-20T11:55:59.838Z",
+    "updated_at": "2020-07-20T11:55:59.838Z",
     "tags": [],
     "sources": [
       {
@@ -2428,7 +2428,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/nyxfears.json"
+    "url": "http://localhost:3000/nyxfears.json"
   },
   {
     "id": 111,
@@ -2436,8 +2436,8 @@
     "slug": "obambay",
     "description": "Anti-SJWs are the new SJWs.",
     "image": "/channels/245c86f50923431f881212d6fc6bbe7d.jpg",
-    "created_at": "2020-07-20T10:22:57.328Z",
-    "updated_at": "2020-07-20T10:22:57.328Z",
+    "created_at": "2020-07-20T11:55:59.869Z",
+    "updated_at": "2020-07-20T11:55:59.869Z",
     "tags": [],
     "sources": [
       {
@@ -2445,7 +2445,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/obambay.json"
+    "url": "http://localhost:3000/obambay.json"
   },
   {
     "id": 112,
@@ -2453,8 +2453,8 @@
     "slug": "onemanleft",
     "description": "Modern folk music for the proletariat.",
     "image": "/channels/1ed4eaca11eb4b649bf59e949992f909.jpg",
-    "created_at": "2020-07-20T10:22:57.338Z",
-    "updated_at": "2020-07-20T11:45:55.168Z",
+    "created_at": "2020-07-20T11:55:59.879Z",
+    "updated_at": "2020-07-20T11:55:59.879Z",
     "tags": [
       "anarchism",
       "antifascism",
@@ -2468,7 +2468,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/onemanleft.json"
+    "url": "http://localhost:3000/onemanleft.json"
   },
   {
     "id": 113,
@@ -2476,8 +2476,8 @@
     "slug": "patriciataxxon",
     "description": "I make music (maybe)(and media video essays)",
     "image": "/channels/fb5e28e4bafc4ab3aad87401fe7e1429.jpg",
-    "created_at": "2020-07-20T10:22:57.348Z",
-    "updated_at": "2020-07-20T11:45:54.622Z",
+    "created_at": "2020-07-20T11:55:59.888Z",
+    "updated_at": "2020-07-20T11:55:59.888Z",
     "tags": [
       "anti-capitalism",
       "gaming",
@@ -2493,7 +2493,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/patriciataxxon.json"
+    "url": "http://localhost:3000/patriciataxxon.json"
   },
   {
     "id": 114,
@@ -2501,8 +2501,8 @@
     "slug": "pdmorrin",
     "description": "Irish leftist video essays and all manner of nonsense",
     "image": "/channels/850d4693c36d43a9acaa057ebeb48c5f.jpg",
-    "created_at": "2020-07-20T10:22:57.363Z",
-    "updated_at": "2020-07-20T10:22:57.363Z",
+    "created_at": "2020-07-20T11:55:59.904Z",
+    "updated_at": "2020-07-20T11:55:59.904Z",
     "tags": [],
     "sources": [
       {
@@ -2510,7 +2510,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/pdmorrin.json"
+    "url": "http://localhost:3000/pdmorrin.json"
   },
   {
     "id": 115,
@@ -2518,8 +2518,8 @@
     "slug": "perseus999",
     "description": "From the streets of Athens",
     "image": "/channels/3b1f899ba8f548f68f2da52e85c179cb.jpg",
-    "created_at": "2020-07-20T10:22:57.373Z",
-    "updated_at": "2020-07-20T10:22:57.373Z",
+    "created_at": "2020-07-20T11:55:59.914Z",
+    "updated_at": "2020-07-20T11:55:59.914Z",
     "tags": [],
     "sources": [
       {
@@ -2527,7 +2527,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/perseus999.json"
+    "url": "http://localhost:3000/perseus999.json"
   },
   {
     "id": 116,
@@ -2535,8 +2535,8 @@
     "slug": "petercoffin",
     "description": "The official channel of satirist and weirdo Peter Coffin. Home to Very Important Documentaries (infotainment) and Adversaries (commercial critique).",
     "image": "/channels/fafc70d333c640eb8ff064fe21463877.jpg",
-    "created_at": "2020-07-20T10:22:57.383Z",
-    "updated_at": "2020-07-20T11:45:54.879Z",
+    "created_at": "2020-07-20T11:55:59.923Z",
+    "updated_at": "2020-07-20T11:55:59.923Z",
     "tags": [
       "anti-capitalism",
       "gender",
@@ -2553,7 +2553,7 @@
         "kind": "patreon"
       }
     ],
-    "url": "http://localhost:3000/channels/petercoffin.json"
+    "url": "http://localhost:3000/petercoffin.json"
   },
   {
     "id": 117,
@@ -2561,8 +2561,8 @@
     "slug": "philosophytube",
     "description": "I'm Olly, giving away a philosophy degree for free! Subscribe to learn and boost your brain power!",
     "image": "/channels/f61f807507b1437e80a790917be45af8.jpg",
-    "created_at": "2020-07-20T10:22:57.398Z",
-    "updated_at": "2020-07-20T11:45:53.998Z",
+    "created_at": "2020-07-20T11:55:59.938Z",
+    "updated_at": "2020-07-20T11:55:59.938Z",
     "tags": [
       "antifascism",
       "education",
@@ -2574,7 +2574,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/philosophytube.json"
+    "url": "http://localhost:3000/philosophytube.json"
   },
   {
     "id": 118,
@@ -2582,8 +2582,8 @@
     "slug": "polidice",
     "description": "I use my videos to argue my positions on issues ranging from economics to healthcare, immigration, social justice, the environment, and any other issue or topic that comes to mind.",
     "image": "/channels/cf1e84929f4246899645636104108828.jpg",
-    "created_at": "2020-07-20T10:22:57.408Z",
-    "updated_at": "2020-07-20T10:22:57.408Z",
+    "created_at": "2020-07-20T11:55:59.949Z",
+    "updated_at": "2020-07-20T11:55:59.949Z",
     "tags": [],
     "sources": [
       {
@@ -2599,7 +2599,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/polidice.json"
+    "url": "http://localhost:3000/polidice.json"
   },
   {
     "id": 119,
@@ -2607,8 +2607,8 @@
     "slug": "politicalaphasia",
     "description": "null",
     "image": "/channels/c589e851ff204dab9204181c8321be1c.jpg",
-    "created_at": "2020-07-20T10:22:57.427Z",
-    "updated_at": "2020-07-20T10:22:57.427Z",
+    "created_at": "2020-07-20T11:55:59.969Z",
+    "updated_at": "2020-07-20T11:55:59.969Z",
     "tags": [],
     "sources": [
       {
@@ -2616,7 +2616,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/politicalaphasia.json"
+    "url": "http://localhost:3000/politicalaphasia.json"
   },
   {
     "id": 120,
@@ -2624,8 +2624,8 @@
     "slug": "popculturedetective",
     "description": "A series of critical video essays looking at media through a critical lens with an emphasis on the intersections of politics, masculinity and entertainment.. Hosted by Jonathan McIntosh.",
     "image": "/channels/176e73c1995b47fa97e1b48c8db17600.jpg",
-    "created_at": "2020-07-20T10:22:57.437Z",
-    "updated_at": "2020-07-20T10:22:57.437Z",
+    "created_at": "2020-07-20T11:55:59.979Z",
+    "updated_at": "2020-07-20T11:55:59.979Z",
     "tags": [],
     "sources": [
       {
@@ -2633,7 +2633,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/popculturedetective.json"
+    "url": "http://localhost:3000/popculturedetective.json"
   },
   {
     "id": 121,
@@ -2641,8 +2641,8 @@
     "slug": "potholer54",
     "description": "The main purpose of this channel is to explain in simple terms the conclusions of scientific research, and correct some of the unsourced crap we get fed on the Internet.",
     "image": "/channels/b3faae9c9d6143f68f98764460572f13.jpg",
-    "created_at": "2020-07-20T10:22:57.447Z",
-    "updated_at": "2020-07-20T10:22:57.447Z",
+    "created_at": "2020-07-20T11:55:59.989Z",
+    "updated_at": "2020-07-20T11:55:59.989Z",
     "tags": [],
     "sources": [
       {
@@ -2650,7 +2650,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/potholer54.json"
+    "url": "http://localhost:3000/potholer54.json"
   },
   {
     "id": 122,
@@ -2658,8 +2658,8 @@
     "slug": "prolekult",
     "description": "Prolekult is a Marxist film, writing and culture platform based in Birmingham, England. The purpose of the project is to provide high-quality film content looking at world politics, culture and economics from a Marxist perspective.",
     "image": "/channels/d8e3e153f50847f48ae4e04bcf8e6920.jpg",
-    "created_at": "2020-07-20T10:22:57.456Z",
-    "updated_at": "2020-07-20T11:45:54.617Z",
+    "created_at": "2020-07-20T11:55:59.999Z",
+    "updated_at": "2020-07-20T11:55:59.999Z",
     "tags": [
       "anti-capitalism",
       "culture",
@@ -2684,7 +2684,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/prolekult.json"
+    "url": "http://localhost:3000/prolekult.json"
   },
   {
     "id": 123,
@@ -2692,8 +2692,8 @@
     "slug": "punksforprogress",
     "description": "5 Punk Rock Anticapitalists covering the world's events from a Socialist perspective. We would like this Marxist Media collective to grow, so we are WAY open to submissions and hearing from anyone interested in covering the goings on in their own regions, and that means anywhere in the world! So, are you Antifascist? Are you at the very least Socialism curious?",
     "image": "/channels/134012215367406d88193f0c741b2450.jpg",
-    "created_at": "2020-07-20T10:22:57.482Z",
-    "updated_at": "2020-07-20T10:22:57.482Z",
+    "created_at": "2020-07-20T11:56:00.027Z",
+    "updated_at": "2020-07-20T11:56:00.027Z",
     "tags": [],
     "sources": [
       {
@@ -2701,7 +2701,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/punksforprogress.json"
+    "url": "http://localhost:3000/punksforprogress.json"
   },
   {
     "id": 124,
@@ -2709,8 +2709,8 @@
     "slug": "queertransmission",
     "description": "A weekly YouTube Livestream where I discuss Leftie/Queer stuff with a variety of guests",
     "image": "/channels/bd2ffbd451214b90a89ebe2011d4c10b.jpg",
-    "created_at": "2020-07-20T10:22:57.492Z",
-    "updated_at": "2020-07-20T10:22:57.492Z",
+    "created_at": "2020-07-20T11:56:00.037Z",
+    "updated_at": "2020-07-20T11:56:00.037Z",
     "tags": [],
     "sources": [
       {
@@ -2718,7 +2718,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/queertransmission.json"
+    "url": "http://localhost:3000/queertransmission.json"
   },
   {
     "id": 125,
@@ -2726,8 +2726,8 @@
     "slug": "quintonreviews",
     "description": "Hi! I'm Quinton! On this channel, I do a lot of stuff. Some reviews, some commentary, some satire, some comedy. In the end, it's all about making you laugh. As a great man once said, 'Our only thought is to entertain you!'",
     "image": "/channels/119e311519554b568057e392f49b3396.jpg",
-    "created_at": "2020-07-20T10:22:57.504Z",
-    "updated_at": "2020-07-20T10:22:57.504Z",
+    "created_at": "2020-07-20T11:56:00.046Z",
+    "updated_at": "2020-07-20T11:56:00.046Z",
     "tags": [],
     "sources": [
       {
@@ -2735,7 +2735,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/quintonreviews.json"
+    "url": "http://localhost:3000/quintonreviews.json"
   },
   {
     "id": 126,
@@ -2743,8 +2743,8 @@
     "slug": "radicalreviewer",
     "description": "Hello, I am the Radical Reviewer. I review and analyze Radical and Leftist literature and media.",
     "image": "/channels/ff9d30fc0d5f4a06a81732795d0705ae.jpg",
-    "created_at": "2020-07-20T10:22:57.515Z",
-    "updated_at": "2020-07-20T10:22:57.515Z",
+    "created_at": "2020-07-20T11:56:00.056Z",
+    "updated_at": "2020-07-20T11:56:00.056Z",
     "tags": [],
     "sources": [
       {
@@ -2752,7 +2752,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/radicalreviewer.json"
+    "url": "http://localhost:3000/radicalreviewer.json"
   },
   {
     "id": 127,
@@ -2760,8 +2760,8 @@
     "slug": "rationaldisconnect",
     "description": "I make videos about politics, social justice, and science. They aren't very good, but they're getting there.",
     "image": "/channels/a3275a1ddf3f4cdca450dcb252fe3039.jpg",
-    "created_at": "2020-07-20T10:22:57.524Z",
-    "updated_at": "2020-07-20T10:22:57.524Z",
+    "created_at": "2020-07-20T11:56:00.066Z",
+    "updated_at": "2020-07-20T11:56:00.066Z",
     "tags": [],
     "sources": [
       {
@@ -2769,7 +2769,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/rationaldisconnect.json"
+    "url": "http://localhost:3000/rationaldisconnect.json"
   },
   {
     "id": 128,
@@ -2777,8 +2777,8 @@
     "slug": "realmedia",
     "description": "A channel dedicated to covering the 'News You Don't See' + more!",
     "image": "/channels/b188e4b06abf472a9bb9d0edb6206c73.jpg",
-    "created_at": "2020-07-20T10:22:57.535Z",
-    "updated_at": "2020-07-20T10:22:57.535Z",
+    "created_at": "2020-07-20T11:56:00.075Z",
+    "updated_at": "2020-07-20T11:56:00.075Z",
     "tags": [],
     "sources": [
       {
@@ -2786,7 +2786,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/realmedia.json"
+    "url": "http://localhost:3000/realmedia.json"
   },
   {
     "id": 129,
@@ -2794,8 +2794,8 @@
     "slug": "rebeccawatson",
     "description": "Rebecca leads a team of skeptical female activists at Skepchick.org. She travels around the world delivering entertaining talks on science, atheism, feminism, and skepticism. There is currently an asteroid orbiting the sun with her name on it. Assorted nerdery.",
     "image": "/channels/2153b667e234417f9964622e98f0fb73.jpg",
-    "created_at": "2020-07-20T10:22:57.544Z",
-    "updated_at": "2020-07-20T10:22:57.544Z",
+    "created_at": "2020-07-20T11:56:00.085Z",
+    "updated_at": "2020-07-20T11:56:00.085Z",
     "tags": [],
     "sources": [
       {
@@ -2811,7 +2811,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/rebeccawatson.json"
+    "url": "http://localhost:3000/rebeccawatson.json"
   },
   {
     "id": 130,
@@ -2819,8 +2819,8 @@
     "slug": "reddebrek",
     "description": "Educate, Agitate, Organise. News and Activism",
     "image": "/channels/303ecf6912ad4bca8d8b9fc6c783289c.jpg",
-    "created_at": "2020-07-20T10:22:57.564Z",
-    "updated_at": "2020-07-20T10:22:57.564Z",
+    "created_at": "2020-07-20T11:56:00.104Z",
+    "updated_at": "2020-07-20T11:56:00.104Z",
     "tags": [],
     "sources": [
       {
@@ -2828,7 +2828,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/reddebrek.json"
+    "url": "http://localhost:3000/reddebrek.json"
   },
   {
     "id": 131,
@@ -2836,8 +2836,8 @@
     "slug": "redline",
     "description": "",
     "image": "/channels/8bfbc9953eff4bba9180b169c1bec480.jpg",
-    "created_at": "2020-07-20T10:22:57.574Z",
-    "updated_at": "2020-07-20T10:22:57.574Z",
+    "created_at": "2020-07-20T11:56:00.115Z",
+    "updated_at": "2020-07-20T11:56:00.115Z",
     "tags": [],
     "sources": [
       {
@@ -2845,7 +2845,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/redline.json"
+    "url": "http://localhost:3000/redline.json"
   },
   {
     "id": 132,
@@ -2853,8 +2853,8 @@
     "slug": "redplateaus",
     "description": "A new channel that specialises in Marxist and anarchist theory.",
     "image": "/channels/4bad3311f8864908a8be06b5bc817e03.jpg",
-    "created_at": "2020-07-20T10:22:57.584Z",
-    "updated_at": "2020-07-20T10:22:57.584Z",
+    "created_at": "2020-07-20T11:56:00.125Z",
+    "updated_at": "2020-07-20T11:56:00.125Z",
     "tags": [],
     "sources": [
       {
@@ -2862,7 +2862,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/redplateaus.json"
+    "url": "http://localhost:3000/redplateaus.json"
   },
   {
     "id": 133,
@@ -2870,8 +2870,8 @@
     "slug": "redstarvideos",
     "description": "We make dank memes and dope political analysis.",
     "image": "/channels/898101747c984319aa53b30c559e5fef.jpg",
-    "created_at": "2020-07-20T10:22:57.593Z",
-    "updated_at": "2020-07-20T10:22:57.593Z",
+    "created_at": "2020-07-20T11:56:00.135Z",
+    "updated_at": "2020-07-20T11:56:00.135Z",
     "tags": [],
     "sources": [
       {
@@ -2879,7 +2879,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/redstarvideos.json"
+    "url": "http://localhost:3000/redstarvideos.json"
   },
   {
     "id": 134,
@@ -2887,8 +2887,8 @@
     "slug": "reeducation",
     "description": "RE-EDUCATION Is a video series about Anarcho-Communism, Anti Capitalism,",
     "image": "/channels/a1965f388c274a3cbd22cd961081f22d.jpg",
-    "created_at": "2020-07-20T10:22:57.603Z",
-    "updated_at": "2020-07-20T11:45:54.382Z",
+    "created_at": "2020-07-20T11:56:00.145Z",
+    "updated_at": "2020-07-20T11:56:00.145Z",
     "tags": [
       "activism",
       "alt-right",
@@ -2902,7 +2902,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/reeducation.json"
+    "url": "http://localhost:3000/reeducation.json"
   },
   {
     "id": 135,
@@ -2910,8 +2910,8 @@
     "slug": "reichwingwatch",
     "description": "Exposing the rise of the authoritarian right.",
     "image": "/channels/d4a5d3785f134e8bab22b52ea9ee6c1c.jpg",
-    "created_at": "2020-07-20T10:22:57.613Z",
-    "updated_at": "2020-07-20T11:45:54.045Z",
+    "created_at": "2020-07-20T11:56:00.154Z",
+    "updated_at": "2020-07-20T11:56:00.154Z",
     "tags": [
       "fascism",
       "nationalism",
@@ -2935,7 +2935,7 @@
         "kind": "patreon"
       }
     ],
-    "url": "http://localhost:3000/channels/reichwingwatch.json"
+    "url": "http://localhost:3000/reichwingwatch.json"
   },
   {
     "id": 136,
@@ -2943,8 +2943,8 @@
     "slug": "renegadecut",
     "description": "An educational web series about philosophies espoused by individual films. Common topics include politics and social issues.",
     "image": "/channels/7b519c9a0b10459fbebd7b5ec350c3f3.jpg",
-    "created_at": "2020-07-20T10:22:57.641Z",
-    "updated_at": "2020-07-20T10:22:57.641Z",
+    "created_at": "2020-07-20T11:56:00.181Z",
+    "updated_at": "2020-07-20T11:56:00.181Z",
     "tags": [],
     "sources": [
       {
@@ -2952,7 +2952,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/renegadecut.json"
+    "url": "http://localhost:3000/renegadecut.json"
   },
   {
     "id": 137,
@@ -2960,8 +2960,8 @@
     "slug": "resonanceaudio",
     "description": "We are recording anarchist and related texts and distributing them in audio form. In this way we hope to make anarchist ideas more accessible, and anarchist practice more informed. We may not agree with every word of every text we record, but we hope that the distribution of these texts in audio form continues lively anarchist discussions — and ultimately we hope that those discussions lead us into the streets.",
     "image": "/channels/293b9182d5b2486daa9c51f1a2233d71.jpg",
-    "created_at": "2020-07-20T10:22:57.651Z",
-    "updated_at": "2020-07-20T10:22:57.651Z",
+    "created_at": "2020-07-20T11:56:00.191Z",
+    "updated_at": "2020-07-20T11:56:00.191Z",
     "tags": [],
     "sources": [
       {
@@ -2969,7 +2969,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/resonanceaudio.json"
+    "url": "http://localhost:3000/resonanceaudio.json"
   },
   {
     "id": 138,
@@ -2977,8 +2977,8 @@
     "slug": "revolutiontube",
     "description": "Welcome to RevolutionTube! Here you will find a bunch of political video essays.",
     "image": "/channels/f463e6680c824937b4e8fd44ec8c06f1.jpg",
-    "created_at": "2020-07-20T10:22:57.661Z",
-    "updated_at": "2020-07-20T10:22:57.661Z",
+    "created_at": "2020-07-20T11:56:00.201Z",
+    "updated_at": "2020-07-20T11:56:00.201Z",
     "tags": [],
     "sources": [
       {
@@ -2986,7 +2986,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/revolutiontube.json"
+    "url": "http://localhost:3000/revolutiontube.json"
   },
   {
     "id": 139,
@@ -2994,8 +2994,8 @@
     "slug": "reyrosho",
     "description": "Challenging Society Through Commentary",
     "image": "/channels/5a30c84a6e2046a4a652b0040d6d3d3d.jpg",
-    "created_at": "2020-07-20T10:22:57.670Z",
-    "updated_at": "2020-07-20T11:45:54.512Z",
+    "created_at": "2020-07-20T11:56:00.213Z",
+    "updated_at": "2020-07-20T11:56:00.213Z",
     "tags": [
       "media",
       "society"
@@ -3006,7 +3006,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/reyrosho.json"
+    "url": "http://localhost:3000/reyrosho.json"
   },
   {
     "id": 140,
@@ -3014,8 +3014,8 @@
     "slug": "richarddwolff",
     "description": "An educational web series about philosophies espoused by individual films. Common topics include politics and social issues.",
     "image": "/channels/cbfa6c6d5c65440aabf3995544453baa.jpg",
-    "created_at": "2020-07-20T10:22:57.681Z",
-    "updated_at": "2020-07-20T10:22:57.681Z",
+    "created_at": "2020-07-20T11:56:00.222Z",
+    "updated_at": "2020-07-20T11:56:00.222Z",
     "tags": [],
     "sources": [
       {
@@ -3023,7 +3023,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/richarddwolff.json"
+    "url": "http://localhost:3000/richarddwolff.json"
   },
   {
     "id": 141,
@@ -3031,8 +3031,8 @@
     "slug": "richardwolffbriefly",
     "description": "I'm not Richard Wolff. Posting byte-sized videos, audio segments and animated videos. Soon to be scheduled, hopefully.",
     "image": "/channels/a00824e676dc49f88754fbb121f30695.jpg",
-    "created_at": "2020-07-20T10:22:57.693Z",
-    "updated_at": "2020-07-20T11:45:54.506Z",
+    "created_at": "2020-07-20T11:56:00.232Z",
+    "updated_at": "2020-07-20T11:56:00.232Z",
     "tags": [
       "democracy",
       "socialism"
@@ -3047,7 +3047,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/richardwolffbriefly.json"
+    "url": "http://localhost:3000/richardwolffbriefly.json"
   },
   {
     "id": 142,
@@ -3055,8 +3055,8 @@
     "slug": "rightwingwatchdotorg",
     "description": "People For the American Way's Right Wing Watch is dedicated to monitoring and reporting on the activities of right-wing political organizations, in order to expose the agenda of the extreme Right. We hope that by shedding light on the activities of right-wing organizations, we can expose the risks that their extreme and intolerant agendas present to our country.",
     "image": "/channels/d7c8499967ca43c99237b8929e99c6b5.jpg",
-    "created_at": "2020-07-20T10:22:57.708Z",
-    "updated_at": "2020-07-20T10:22:57.708Z",
+    "created_at": "2020-07-20T11:56:00.249Z",
+    "updated_at": "2020-07-20T11:56:00.249Z",
     "tags": [],
     "sources": [
       {
@@ -3068,7 +3068,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/rightwingwatchdotorg.json"
+    "url": "http://localhost:3000/rightwingwatchdotorg.json"
   },
   {
     "id": 143,
@@ -3076,8 +3076,8 @@
     "slug": "ron",
     "description": "Name's Ron. I'm 30, I live in Springfield (Illinois), and I'm an activist. By which I mean I'm a fat slob who goes out on marches sometimes.",
     "image": "/channels/686daf2a449640f8b2aaa27047234307.jpg",
-    "created_at": "2020-07-20T10:22:57.723Z",
-    "updated_at": "2020-07-20T10:22:57.723Z",
+    "created_at": "2020-07-20T11:56:00.263Z",
+    "updated_at": "2020-07-20T11:56:00.263Z",
     "tags": [],
     "sources": [
       {
@@ -3085,7 +3085,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/ron.json"
+    "url": "http://localhost:3000/ron.json"
   },
   {
     "id": 144,
@@ -3093,8 +3093,8 @@
     "slug": "rotfrontgaming",
     "description": "I do a mix of Lefty Politics and Gaming.",
     "image": "/channels/641aa4c84990429c9aae23d785d1accf.jpg",
-    "created_at": "2020-07-20T10:22:57.734Z",
-    "updated_at": "2020-07-20T10:22:57.734Z",
+    "created_at": "2020-07-20T11:56:00.271Z",
+    "updated_at": "2020-07-20T11:56:00.271Z",
     "tags": [],
     "sources": [
       {
@@ -3102,7 +3102,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/rotfrontgaming.json"
+    "url": "http://localhost:3000/rotfrontgaming.json"
   },
   {
     "id": 145,
@@ -3110,8 +3110,8 @@
     "slug": "sarahz",
     "description": "(^з^)-☆ Video essays critiquing popular media (I like to focus on television and adaptations, but I also like to critique film and literature sometimes!). I try to focus on media through both a critical lens, talking about media as it pertains to larger society, and an analytical lens, providing substantive analysis on the work itself.",
     "image": "/channels/83044cd5c2e94428a3bc8fc9528fd008.jpg",
-    "created_at": "2020-07-20T10:22:57.744Z",
-    "updated_at": "2020-07-20T10:22:57.744Z",
+    "created_at": "2020-07-20T11:56:00.281Z",
+    "updated_at": "2020-07-20T11:56:00.281Z",
     "tags": [],
     "sources": [
       {
@@ -3131,7 +3131,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/sarahz.json"
+    "url": "http://localhost:3000/sarahz.json"
   },
   {
     "id": 146,
@@ -3139,8 +3139,8 @@
     "slug": "sarcasmitron",
     "description": "Low Level Milkshake Violence Studies PhD. Aspiring Game Developer, actual failed youtuber.",
     "image": "/channels/7d29e91197284d199d4519ebe57a7104.jpg",
-    "created_at": "2020-07-20T10:22:57.768Z",
-    "updated_at": "2020-07-20T10:22:57.768Z",
+    "created_at": "2020-07-20T11:56:00.306Z",
+    "updated_at": "2020-07-20T11:56:00.306Z",
     "tags": [],
     "sources": [
       {
@@ -3152,7 +3152,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/sarcasmitron.json"
+    "url": "http://localhost:3000/sarcasmitron.json"
   },
   {
     "id": 147,
@@ -3160,8 +3160,8 @@
     "slug": "satenmadpun",
     "description": "montrealtwinklooking4subs",
     "image": "/channels/6cbc848fbbdb4177be0416ccff811ba0.jpg",
-    "created_at": "2020-07-20T10:22:57.783Z",
-    "updated_at": "2020-07-20T10:22:57.783Z",
+    "created_at": "2020-07-20T11:56:00.320Z",
+    "updated_at": "2020-07-20T11:56:00.320Z",
     "tags": [],
     "sources": [
       {
@@ -3181,7 +3181,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/satenmadpun.json"
+    "url": "http://localhost:3000/satenmadpun.json"
   },
   {
     "id": 148,
@@ -3189,8 +3189,8 @@
     "slug": "seculartalk",
     "description": "Home of news & politics commentary from the libertarian-left; populist; social democratic; agnostic-atheist perspective.",
     "image": "/channels/00c9d7c2ec224356abdeeec315a5aad4.jpg",
-    "created_at": "2020-07-20T10:22:57.815Z",
-    "updated_at": "2020-07-20T11:45:53.996Z",
+    "created_at": "2020-07-20T11:56:00.354Z",
+    "updated_at": "2020-07-20T11:56:00.354Z",
     "tags": [
       "news"
     ],
@@ -3208,7 +3208,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/seculartalk.json"
+    "url": "http://localhost:3000/seculartalk.json"
   },
   {
     "id": 149,
@@ -3216,8 +3216,8 @@
     "slug": "shaun",
     "description": "Reclaiming the Skull. Video essays critiqing the alt-right.",
     "image": "/channels/67e99da0bd3f4afe90779c825ff40f2c.jpg",
-    "created_at": "2020-07-20T10:22:57.836Z",
-    "updated_at": "2020-07-20T10:22:57.836Z",
+    "created_at": "2020-07-20T11:56:00.375Z",
+    "updated_at": "2020-07-20T11:56:00.375Z",
     "tags": [],
     "sources": [
       {
@@ -3237,7 +3237,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/shaun.json"
+    "url": "http://localhost:3000/shaun.json"
   },
   {
     "id": 150,
@@ -3245,8 +3245,8 @@
     "slug": "shonenronin",
     "description": "Leftist anime analysis channel",
     "image": "/channels/e8d8375d93bf40268eada3d6f5f120ae.jpg",
-    "created_at": "2020-07-20T10:22:57.861Z",
-    "updated_at": "2020-07-20T11:45:54.472Z",
+    "created_at": "2020-07-20T11:56:00.402Z",
+    "updated_at": "2020-07-20T11:56:00.402Z",
     "tags": [
       "anime"
     ],
@@ -3260,7 +3260,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/shonenronin.json"
+    "url": "http://localhost:3000/shonenronin.json"
   },
   {
     "id": 151,
@@ -3268,8 +3268,8 @@
     "slug": "silverface",
     "description": "I do commentary, opinions, and other things. That's about it.",
     "image": "/channels/1f3ab45fa4474250927f6cf8c4a78730.jpg",
-    "created_at": "2020-07-20T10:22:57.878Z",
-    "updated_at": "2020-07-20T10:22:57.878Z",
+    "created_at": "2020-07-20T11:56:00.421Z",
+    "updated_at": "2020-07-20T11:56:00.421Z",
     "tags": [],
     "sources": [
       {
@@ -3289,7 +3289,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/silverface.json"
+    "url": "http://localhost:3000/silverface.json"
   },
   {
     "id": 152,
@@ -3297,8 +3297,8 @@
     "slug": "simonobirek",
     "description": "My name is Simon Obirek, and I suffer from an existential crisis. This channel is all about exploring this phenomenon.",
     "image": "/channels/5eef0e6d947b4a2c8eb8b8838d4c0ce0.jpg",
-    "created_at": "2020-07-20T10:22:57.907Z",
-    "updated_at": "2020-07-20T11:45:54.313Z",
+    "created_at": "2020-07-20T11:56:00.449Z",
+    "updated_at": "2020-07-20T11:56:00.449Z",
     "tags": [
       "nihilism",
       "philosophy"
@@ -3313,7 +3313,7 @@
         "kind": "patreon"
       }
     ],
-    "url": "http://localhost:3000/channels/simonobirek.json"
+    "url": "http://localhost:3000/simonobirek.json"
   },
   {
     "id": 153,
@@ -3321,8 +3321,8 @@
     "slug": "sjaydoubleview",
     "description": "Destroying Western Civilization with Shitposts and Bad Memes.",
     "image": "/channels/70bc5cb4245f4246829eaca5a31d728f.jpg",
-    "created_at": "2020-07-20T10:22:57.922Z",
-    "updated_at": "2020-07-20T10:22:57.922Z",
+    "created_at": "2020-07-20T11:56:00.464Z",
+    "updated_at": "2020-07-20T11:56:00.464Z",
     "tags": [],
     "sources": [
       {
@@ -3330,7 +3330,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/sjaydoubleview.json"
+    "url": "http://localhost:3000/sjaydoubleview.json"
   },
   {
     "id": 154,
@@ -3338,8 +3338,8 @@
     "slug": "sjw101thepoliticalgamer",
     "description": "I'm an advocate of social justice and a gamer and make no apologies for either. Open minded and willing to consider alternative viewpoints to my own, expect me to challenge you if you are sowing fear, ignorance or are misled.",
     "image": "/channels/f523d562da3741ee9de67d463e3660bd.jpg",
-    "created_at": "2020-07-20T10:22:57.931Z",
-    "updated_at": "2020-07-20T10:22:57.931Z",
+    "created_at": "2020-07-20T11:56:00.474Z",
+    "updated_at": "2020-07-20T11:56:00.474Z",
     "tags": [],
     "sources": [
       {
@@ -3347,7 +3347,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/sjw101thepoliticalgamer.json"
+    "url": "http://localhost:3000/sjw101thepoliticalgamer.json"
   },
   {
     "id": 155,
@@ -3355,8 +3355,8 @@
     "slug": "somemorenews",
     "description": "Hello, I am a news dude and, news-wise, here is some of it.",
     "image": "/channels/cbd10bebb60c495fb81ad5c35ce22fa9.jpg",
-    "created_at": "2020-07-20T10:22:57.941Z",
-    "updated_at": "2020-07-20T11:45:57.504Z",
+    "created_at": "2020-07-20T11:56:00.484Z",
+    "updated_at": "2020-07-20T11:56:00.484Z",
     "tags": [
       "america",
       "antifascism",
@@ -3375,7 +3375,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/somemorenews.json"
+    "url": "http://localhost:3000/somemorenews.json"
   },
   {
     "id": 156,
@@ -3383,8 +3383,8 @@
     "slug": "spacebabies",
     "description": "This is a channel where Space Baby talk about Art, History and Politics.",
     "image": "/channels/ed599a9a72c14b99a4108c45a0f7f85a.jpg",
-    "created_at": "2020-07-20T10:22:57.952Z",
-    "updated_at": "2020-07-20T11:45:54.441Z",
+    "created_at": "2020-07-20T11:56:00.494Z",
+    "updated_at": "2020-07-20T11:56:00.494Z",
     "tags": [
       "arts",
       "history",
@@ -3408,7 +3408,7 @@
         "kind": "patreon"
       }
     ],
-    "url": "http://localhost:3000/channels/spacebabies.json"
+    "url": "http://localhost:3000/spacebabies.json"
   },
   {
     "id": 157,
@@ -3416,8 +3416,8 @@
     "slug": "stepbackhistory",
     "description": "Step Back is a history channel that invites you to consider the past and how it connects to today. We make videos that take a historical topic and look at it from a new angle.",
     "image": "/channels/8615e092a28942b4a6735998f5ea0acd.jpg",
-    "created_at": "2020-07-20T10:22:57.977Z",
-    "updated_at": "2020-07-20T10:22:57.977Z",
+    "created_at": "2020-07-20T11:56:00.520Z",
+    "updated_at": "2020-07-20T11:56:00.520Z",
     "tags": [],
     "sources": [
       {
@@ -3425,7 +3425,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/stepbackhistory.json"
+    "url": "http://localhost:3000/stepbackhistory.json"
   },
   {
     "id": 158,
@@ -3433,8 +3433,8 @@
     "slug": "stimulator",
     "description": "Anarchist video collective cranking out radical videos since 1994. sub.Media is a video production ensemble, which aims to promote anarchist and anti-capitalist ideas, and aid social struggles through the dissemination of radical films and videos. Founded in 1994, sub.Media has produced hundreds of videos on everything from anti-globalization protests to films about shoplifting. Our films have been screened around the world in social centers and movie theaters and have been watched by millions on the internet.",
     "image": "/channels/bfd2bfae988d4bb9b11394d029707491.jpg",
-    "created_at": "2020-07-20T10:22:57.986Z",
-    "updated_at": "2020-07-20T10:22:57.986Z",
+    "created_at": "2020-07-20T11:56:00.530Z",
+    "updated_at": "2020-07-20T11:56:00.530Z",
     "tags": [],
     "sources": [
       {
@@ -3450,7 +3450,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/stimulator.json"
+    "url": "http://localhost:3000/stimulator.json"
   },
   {
     "id": 159,
@@ -3458,8 +3458,8 @@
     "slug": "suckmyopinion",
     "description": "Im a Democratic Socialist Atheist trying to push the LEFT to victory.",
     "image": "/channels/9a224374caa24cd686bc90c188d4f6b2.jpg",
-    "created_at": "2020-07-20T10:22:58.007Z",
-    "updated_at": "2020-07-20T11:45:54.437Z",
+    "created_at": "2020-07-20T11:56:00.550Z",
+    "updated_at": "2020-07-20T11:56:00.550Z",
     "tags": [
       "socialism"
     ],
@@ -3469,7 +3469,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/suckmyopinion.json"
+    "url": "http://localhost:3000/suckmyopinion.json"
   },
   {
     "id": 160,
@@ -3477,8 +3477,8 @@
     "slug": "sunflowersocialist",
     "description": "I'm a democratic socialist activist, DSA member and student from Kansas making vlogs and videos on politics and current events",
     "image": "/channels/51516539a81b4c09af619781a1c2820b.jpg",
-    "created_at": "2020-07-20T10:22:58.017Z",
-    "updated_at": "2020-07-20T11:45:54.434Z",
+    "created_at": "2020-07-20T11:56:00.560Z",
+    "updated_at": "2020-07-20T11:56:00.560Z",
     "tags": [
       "activism",
       "america",
@@ -3499,7 +3499,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/sunflowersocialist.json"
+    "url": "http://localhost:3000/sunflowersocialist.json"
   },
   {
     "id": 161,
@@ -3507,8 +3507,8 @@
     "slug": "t1j",
     "description": "This channel is mostly video essays about things that interest me, usually from a progressive socdem point of view. I also livestream weekly. Sometimes I do other stuff too tho.",
     "image": "/channels/5742ccc1555e473aaf71682c78962874.jpg",
-    "created_at": "2020-07-20T10:22:58.038Z",
-    "updated_at": "2020-07-20T11:45:54.431Z",
+    "created_at": "2020-07-20T11:56:00.581Z",
+    "updated_at": "2020-07-20T11:56:00.581Z",
     "tags": [
       "creators of color"
     ],
@@ -3518,7 +3518,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/t1j.json"
+    "url": "http://localhost:3000/t1j.json"
   },
   {
     "id": 162,
@@ -3526,8 +3526,8 @@
     "slug": "theantifada",
     "description": "The Antifada is more than a podcast. It’s a specter haunting the globe. It is the synthesis of the two most frightening things for the cheerleaders of this reactionary hell world, one ravaged by the unbounded savagery of capital and it’s states: antifa super-soldiers and intifada; bash the fash and a global uprising.",
     "image": "/channels/f635e3f102fd4df69939c35e1d7d8a0f.jpg",
-    "created_at": "2020-07-20T10:22:58.048Z",
-    "updated_at": "2020-07-20T10:22:58.048Z",
+    "created_at": "2020-07-20T11:56:00.591Z",
+    "updated_at": "2020-07-20T11:56:00.591Z",
     "tags": [],
     "sources": [
       {
@@ -3543,7 +3543,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/theantifada.json"
+    "url": "http://localhost:3000/theantifada.json"
   },
   {
     "id": 163,
@@ -3551,8 +3551,8 @@
     "slug": "thebronxblogger",
     "description": "Justice is what love looks like in public -Dr. Cornel West",
     "image": "/channels/ac71111ca82d428c8e22f700e80263f0.jpg",
-    "created_at": "2020-07-20T10:22:58.069Z",
-    "updated_at": "2020-07-20T10:22:58.069Z",
+    "created_at": "2020-07-20T11:56:00.614Z",
+    "updated_at": "2020-07-20T11:56:00.614Z",
     "tags": [],
     "sources": [
       {
@@ -3560,7 +3560,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/thebronxblogger.json"
+    "url": "http://localhost:3000/thebronxblogger.json"
   },
   {
     "id": 164,
@@ -3568,8 +3568,8 @@
     "slug": "thedevtopiancommune",
     "description": "A leftist gaming and political channel that makes gaming videos with leftist jokes, humor, and/or topics. Along with gaming, the channel makes leftist political videos that are usually short.",
     "image": "/channels/fc0ccf9e45724cb1bdaae1b48d297d6e.jpg",
-    "created_at": "2020-07-20T10:22:58.081Z",
-    "updated_at": "2020-07-20T11:45:54.430Z",
+    "created_at": "2020-07-20T11:56:00.625Z",
+    "updated_at": "2020-07-20T11:56:00.625Z",
     "tags": [
       "gaming",
       "socialism"
@@ -3584,7 +3584,7 @@
         "kind": "patreon"
       }
     ],
-    "url": "http://localhost:3000/channels/thedevtopiancommune.json"
+    "url": "http://localhost:3000/thedevtopiancommune.json"
   },
   {
     "id": 165,
@@ -3592,8 +3592,8 @@
     "slug": "thedoubletake",
     "description": "A channel that looks at things from a left-leaning, but fair perspective. Critiques not just right-wing reactionaries, but the psychology that makes it possible.",
     "image": "/channels/80266f2c9b4d45b0b328b2e1d4276ede.jpg",
-    "created_at": "2020-07-20T10:22:58.096Z",
-    "updated_at": "2020-07-20T10:22:58.096Z",
+    "created_at": "2020-07-20T11:56:00.640Z",
+    "updated_at": "2020-07-20T11:56:00.640Z",
     "tags": [],
     "sources": [
       {
@@ -3601,7 +3601,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/thedoubletake.json"
+    "url": "http://localhost:3000/thedoubletake.json"
   },
   {
     "id": 166,
@@ -3609,8 +3609,8 @@
     "slug": "thefinnishbolshevik",
     "description": "I'm a young Finnish Communist & Marxist-Leninist. This channel is about the science of Marxism-Leninism. I give information and my personal thoughts on various topics dealing with Marxism-Leninism. Feel free to ask questions and voice your opinion.",
     "image": "/channels/fb24f9d5c5ed4760a5961eeb93afb798.jpg",
-    "created_at": "2020-07-20T10:22:58.105Z",
-    "updated_at": "2020-07-20T11:45:54.016Z",
+    "created_at": "2020-07-20T11:56:00.650Z",
+    "updated_at": "2020-07-20T11:56:00.650Z",
     "tags": [
       "communism"
     ],
@@ -3624,7 +3624,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/thefinnishbolshevik.json"
+    "url": "http://localhost:3000/thefinnishbolshevik.json"
   },
   {
     "id": 167,
@@ -3632,8 +3632,8 @@
     "slug": "thegrayzone",
     "description": "The Grayzone is a news and politics website dedicated to original investigative journalism and analysis, edited by journalist Max Blumenthal.",
     "image": "/channels/e3225259396342b8ae3a22bccbb855f7.jpg",
-    "created_at": "2020-07-20T10:22:58.120Z",
-    "updated_at": "2020-07-20T10:22:58.120Z",
+    "created_at": "2020-07-20T11:56:00.666Z",
+    "updated_at": "2020-07-20T11:56:00.666Z",
     "tags": [],
     "sources": [
       {
@@ -3641,7 +3641,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/thegrayzone.json"
+    "url": "http://localhost:3000/thegrayzone.json"
   },
   {
     "id": 168,
@@ -3649,8 +3649,8 @@
     "slug": "thehumanistreport",
     "description": "The Humanist Report is a video + audio podcast. This channel disseminates sociopolitical and religious news stories that is supplemented with progressive commentary.",
     "image": "/channels/bf753761fd69421b9375ef9096f0682c.jpg",
-    "created_at": "2020-07-20T10:22:58.130Z",
-    "updated_at": "2020-07-20T10:22:58.130Z",
+    "created_at": "2020-07-20T11:56:00.675Z",
+    "updated_at": "2020-07-20T11:56:00.675Z",
     "tags": [],
     "sources": [
       {
@@ -3666,7 +3666,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/thehumanistreport.json"
+    "url": "http://localhost:3000/thehumanistreport.json"
   },
   {
     "id": 169,
@@ -3674,8 +3674,8 @@
     "slug": "theintercept",
     "description": "The Intercept is an investigative nonprofit news organization dedicated to producing fearless, adversarial journalism. We believe journalism should bring transparency and accountability to powerful governmental and corporate institutions.",
     "image": "/channels/a62a1b641834494fadfc97898d131384.jpg",
-    "created_at": "2020-07-20T10:22:58.149Z",
-    "updated_at": "2020-07-20T11:45:54.133Z",
+    "created_at": "2020-07-20T11:56:00.695Z",
+    "updated_at": "2020-07-20T11:56:00.695Z",
     "tags": [
       "journalism",
       "news",
@@ -3699,7 +3699,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/theintercept.json"
+    "url": "http://localhost:3000/theintercept.json"
   },
   {
     "id": 170,
@@ -3707,8 +3707,8 @@
     "slug": "thejimmydoreshow",
     "description": "We Release Clips Daily!",
     "image": "/channels/1e62b15d5202488c86e01bf7366f7a4e.jpg",
-    "created_at": "2020-07-20T10:22:58.174Z",
-    "updated_at": "2020-07-20T10:22:58.174Z",
+    "created_at": "2020-07-20T11:56:00.721Z",
+    "updated_at": "2020-07-20T11:56:00.721Z",
     "tags": [],
     "sources": [
       {
@@ -3716,7 +3716,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/thejimmydoreshow.json"
+    "url": "http://localhost:3000/thejimmydoreshow.json"
   },
   {
     "id": 171,
@@ -3724,8 +3724,8 @@
     "slug": "thejuicemedia",
     "description": "#GenuineSatire' We make Honest Government Ads & Rap News. You can keep us going on Patreon: http://www.patreon.com/thejuicemedi",
     "image": "/channels/3eceaf2301704bcd90e4c944b32861ca.jpg",
-    "created_at": "2020-07-20T10:22:58.184Z",
-    "updated_at": "2020-07-20T11:45:54.118Z",
+    "created_at": "2020-07-20T11:56:00.731Z",
+    "updated_at": "2020-07-20T11:56:00.731Z",
     "tags": [
       "australia",
       "news"
@@ -3752,7 +3752,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/thejuicemedia.json"
+    "url": "http://localhost:3000/thejuicemedia.json"
   },
   {
     "id": 172,
@@ -3760,8 +3760,8 @@
     "slug": "thekavernacle",
     "description": "Give a man a gun and he’ll rob a bank. Give a man a bank and he’ll rob the world",
     "image": "/channels/733cbc41ec884181872a4b56cadc7eae.jpg",
-    "created_at": "2020-07-20T10:22:58.214Z",
-    "updated_at": "2020-07-20T11:45:54.115Z",
+    "created_at": "2020-07-20T11:56:00.762Z",
+    "updated_at": "2020-07-20T11:56:00.762Z",
     "tags": [
       "economics",
       "politics"
@@ -3784,7 +3784,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/thekavernacle.json"
+    "url": "http://localhost:3000/thekavernacle.json"
   },
   {
     "id": 173,
@@ -3792,8 +3792,8 @@
     "slug": "theliberalsanityproject",
     "description": "Proudly blocked by: Ethan Ralph, Ian Miles Cheong, Blaire White, Jeff Holiday, JF Gariepy, Alt Hype, Michele Catlin, Steve Shives, Stefan Molyneux, Shoeonhead, Hi I Think I'm Real, Atheism is Unstoppable, Kevin Logan, Tonkasaw, Styxhexenhammer666, Academic Agent, William Legate, Zyntrax, Peter Sweden, Millennial Woes, Tara McCarthy, Kristi Winters, Vince James, Ask Yourself, Dave Rubin, and Adam Friended.",
     "image": "/channels/4606398d3e2e40b098a9812723a74da4.jpg",
-    "created_at": "2020-07-20T10:22:58.237Z",
-    "updated_at": "2020-07-20T10:22:58.237Z",
+    "created_at": "2020-07-20T11:56:00.788Z",
+    "updated_at": "2020-07-20T11:56:00.788Z",
     "tags": [],
     "sources": [
       {
@@ -3809,7 +3809,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/theliberalsanityproject.json"
+    "url": "http://localhost:3000/theliberalsanityproject.json"
   },
   {
     "id": 174,
@@ -3817,8 +3817,8 @@
     "slug": "themajorityreport",
     "description": "The Majority Report is a daily, political talk show at majority.fm live at 12PM ET.",
     "image": "/channels/bf374a9defd3456ca460ede3a96b7712.jpg",
-    "created_at": "2020-07-20T10:22:58.257Z",
-    "updated_at": "2020-07-20T11:45:54.103Z",
+    "created_at": "2020-07-20T11:56:00.811Z",
+    "updated_at": "2020-07-20T11:56:00.811Z",
     "tags": [
       "news"
     ],
@@ -3828,7 +3828,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/themajorityreport.json"
+    "url": "http://localhost:3000/themajorityreport.json"
   },
   {
     "id": 175,
@@ -3836,8 +3836,8 @@
     "slug": "themichaelbrooksshow",
     "description": "The Vanguard of the New Left. Features guests, analysis of politics and culture from a socialist perspective.",
     "image": "/channels/7ba5b88b078840e3af9ae478f50868bb.jpg",
-    "created_at": "2020-07-20T10:22:58.267Z",
-    "updated_at": "2020-07-20T10:22:58.267Z",
+    "created_at": "2020-07-20T11:56:00.821Z",
+    "updated_at": "2020-07-20T11:56:00.821Z",
     "tags": [],
     "sources": [
       {
@@ -3857,7 +3857,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/themichaelbrooksshow.json"
+    "url": "http://localhost:3000/themichaelbrooksshow.json"
   },
   {
     "id": 176,
@@ -3865,8 +3865,8 @@
     "slug": "thenewsymbolization",
     "description": "We critique and outgrow reactionary and capitalist realist discourses. Reclaim the future.",
     "image": "/channels/92444f6af4f24a589df555692deb90e8.jpg",
-    "created_at": "2020-07-20T10:22:58.292Z",
-    "updated_at": "2020-07-20T10:22:58.292Z",
+    "created_at": "2020-07-20T11:56:00.848Z",
+    "updated_at": "2020-07-20T11:56:00.848Z",
     "tags": [],
     "sources": [
       {
@@ -3878,7 +3878,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/thenewsymbolization.json"
+    "url": "http://localhost:3000/thenewsymbolization.json"
   },
   {
     "id": 177,
@@ -3886,8 +3886,8 @@
     "slug": "theorypleeb",
     "description": "Just a lowly critical theory geek aiming to corrupt the youth with videos. These videos will supply you with some of the critical resources for understanding and deconstructing ideology and the systems of oppression it upholds.",
     "image": "/channels/bbc98479ed3e496b82442ef2577cb99e.jpg",
-    "created_at": "2020-07-20T10:22:58.307Z",
-    "updated_at": "2020-07-20T11:45:54.096Z",
+    "created_at": "2020-07-20T11:56:00.863Z",
+    "updated_at": "2020-07-20T11:56:00.863Z",
     "tags": [
       "anti-capitalism",
       "gaming",
@@ -3899,7 +3899,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/theorypleeb.json"
+    "url": "http://localhost:3000/theorypleeb.json"
   },
   {
     "id": 178,
@@ -3907,8 +3907,8 @@
     "slug": "thepeoplesbayonet",
     "description": "Hi! I am just a concerned citizen trying to figure out the world! My series The Problem updates whenever I finish a video!",
     "image": "/channels/f69aaeadb3574d82a6abd37195bc6478.jpg",
-    "created_at": "2020-07-20T10:22:58.317Z",
-    "updated_at": "2020-07-20T10:22:58.317Z",
+    "created_at": "2020-07-20T11:56:00.873Z",
+    "updated_at": "2020-07-20T11:56:00.873Z",
     "tags": [],
     "sources": [
       {
@@ -3924,7 +3924,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/thepeoplesbayonet.json"
+    "url": "http://localhost:3000/thepeoplesbayonet.json"
   },
   {
     "id": 179,
@@ -3932,8 +3932,8 @@
     "slug": "theprogressivevoice",
     "description": "Reporting and Analyzing the news objectively, Progressive Liberal",
     "image": "/channels/85c2d648f97a48f5ab8ccb263ba92a1b.jpg",
-    "created_at": "2020-07-20T10:22:58.337Z",
-    "updated_at": "2020-07-20T10:22:58.337Z",
+    "created_at": "2020-07-20T11:56:00.894Z",
+    "updated_at": "2020-07-20T11:56:00.894Z",
     "tags": [],
     "sources": [
       {
@@ -3941,7 +3941,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/theprogressivevoice.json"
+    "url": "http://localhost:3000/theprogressivevoice.json"
   },
   {
     "id": 180,
@@ -3949,8 +3949,8 @@
     "slug": "therationalnational",
     "description": "Independent political commentary, media criticism, news and entertainment, with petty attempts at comedy; hosted by David Doel.",
     "image": "/channels/f4c3ce545c4846aaaa6cc9916afb3692.jpg",
-    "created_at": "2020-07-20T10:22:58.346Z",
-    "updated_at": "2020-07-20T11:45:54.090Z",
+    "created_at": "2020-07-20T11:56:00.904Z",
+    "updated_at": "2020-07-20T11:56:00.904Z",
     "tags": [
       "news"
     ],
@@ -3960,7 +3960,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/therationalnational.json"
+    "url": "http://localhost:3000/therationalnational.json"
   },
   {
     "id": 181,
@@ -3968,8 +3968,8 @@
     "slug": "therealnewsnetwork",
     "description": "The Real News Network (TRNN) produces independent, verifiable, fact-based journalism that engages ordinary people in solving the critical problems of our times.",
     "image": "/channels/671a353ecb7b4d5e8feef8a775145cdf.jpg",
-    "created_at": "2020-07-20T10:22:58.356Z",
-    "updated_at": "2020-07-20T10:22:58.356Z",
+    "created_at": "2020-07-20T11:56:00.914Z",
+    "updated_at": "2020-07-20T11:56:00.914Z",
     "tags": [],
     "sources": [
       {
@@ -3977,7 +3977,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/therealnewsnetwork.json"
+    "url": "http://localhost:3000/therealnewsnetwork.json"
   },
   {
     "id": 182,
@@ -3985,8 +3985,8 @@
     "slug": "theserfs",
     "description": "In a media landscape blemished with uncertainty two indentured plebs bring you their comedic spin on the weekly news. The only escape from the black death is a few moments to swill ale in a disease ridden tavern. If you like what you see and hear please subscribe, share, and like at will. Be sure to check out our podcast at www.weareserfs.com",
     "image": "/channels/dd21ea0aa5174d84a91bd344b557df10.jpg",
-    "created_at": "2020-07-20T10:22:58.366Z",
-    "updated_at": "2020-07-20T11:45:54.004Z",
+    "created_at": "2020-07-20T11:56:00.924Z",
+    "updated_at": "2020-07-20T11:56:00.924Z",
     "tags": [
       "canada"
     ],
@@ -4016,7 +4016,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/theserfs.json"
+    "url": "http://localhost:3000/theserfs.json"
   },
   {
     "id": 183,
@@ -4024,8 +4024,8 @@
     "slug": "thespartacastleague",
     "description": "Socialist Furries doing a deep dive of the news, current events, and hard-hitting commentary while keeping it funny and entertaining.",
     "image": "/channels/c16d376f92c8495e85a55d26c02860dc.jpg",
-    "created_at": "2020-07-20T10:22:58.402Z",
-    "updated_at": "2020-07-20T10:22:58.402Z",
+    "created_at": "2020-07-20T11:56:00.959Z",
+    "updated_at": "2020-07-20T11:56:00.959Z",
     "tags": [],
     "sources": [
       {
@@ -4033,7 +4033,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/thespartacastleague.json"
+    "url": "http://localhost:3000/thespartacastleague.json"
   },
   {
     "id": 184,
@@ -4041,8 +4041,8 @@
     "slug": "theswoletariat",
     "description": "Strength & Socialism",
     "image": "/channels/3026178b69764db49b0b459cccab50f8.jpg",
-    "created_at": "2020-07-20T10:22:58.412Z",
-    "updated_at": "2020-07-20T11:45:53.972Z",
+    "created_at": "2020-07-20T11:56:00.970Z",
+    "updated_at": "2020-07-20T11:56:00.970Z",
     "tags": [
       "socialism"
     ],
@@ -4060,7 +4060,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/theswoletariat.json"
+    "url": "http://localhost:3000/theswoletariat.json"
   },
   {
     "id": 185,
@@ -4068,8 +4068,8 @@
     "slug": "theyoungturks",
     "description": "(liberal news show) We are a rare show that combines all of the news that people care about in one place. We are not afraid to talk about politics and entertainment and sports and pop culture. But that is not the revolution either.",
     "image": "/channels/c512199c57384a299500d3b779b822ec.jpg",
-    "created_at": "2020-07-20T10:22:58.433Z",
-    "updated_at": "2020-07-20T10:22:58.433Z",
+    "created_at": "2020-07-20T11:56:00.989Z",
+    "updated_at": "2020-07-20T11:56:00.989Z",
     "tags": [],
     "sources": [
       {
@@ -4077,7 +4077,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/theyoungturks.json"
+    "url": "http://localhost:3000/theyoungturks.json"
   },
   {
     "id": 186,
@@ -4085,8 +4085,8 @@
     "slug": "thomavella",
     "description": "Gender-neutral video essayist and musician, seeking to spread the good word of libertarian socialism far and wide. they/them.",
     "image": "/channels/2b7ccd4753e54bde91e3101a6ae7500c.jpg",
-    "created_at": "2020-07-20T10:22:58.444Z",
-    "updated_at": "2020-07-20T10:22:58.444Z",
+    "created_at": "2020-07-20T11:56:01.000Z",
+    "updated_at": "2020-07-20T11:56:01.000Z",
     "tags": [],
     "sources": [
       {
@@ -4094,7 +4094,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/thomavella.json"
+    "url": "http://localhost:3000/thomavella.json"
   },
   {
     "id": 187,
@@ -4102,8 +4102,8 @@
     "slug": "thoughtslime",
     "description": "I'm a smug anarchist poseur vomiting out video essays for you. I love you.",
     "image": "/channels/6189703012944b26ab9e14e30fae388e.jpg",
-    "created_at": "2020-07-20T10:22:58.455Z",
-    "updated_at": "2020-07-20T11:45:53.967Z",
+    "created_at": "2020-07-20T11:56:01.012Z",
+    "updated_at": "2020-07-20T11:56:01.012Z",
     "tags": [
       "alt-right",
       "anarchism",
@@ -4124,7 +4124,7 @@
         "kind": "patreon"
       }
     ],
-    "url": "http://localhost:3000/channels/thoughtslime.json"
+    "url": "http://localhost:3000/thoughtslime.json"
   },
   {
     "id": 188,
@@ -4132,8 +4132,8 @@
     "slug": "threearrows",
     "description": "Doing stuff about the bad history on the far-right and more.",
     "image": "/channels/f51509bd24ef4a50821320af8c73f5ed.jpg",
-    "created_at": "2020-07-20T10:22:58.476Z",
-    "updated_at": "2020-07-20T10:22:58.476Z",
+    "created_at": "2020-07-20T11:56:01.033Z",
+    "updated_at": "2020-07-20T11:56:01.033Z",
     "tags": [],
     "sources": [
       {
@@ -4141,7 +4141,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/threearrows.json"
+    "url": "http://localhost:3000/threearrows.json"
   },
   {
     "id": 189,
@@ -4149,8 +4149,8 @@
     "slug": "tmm",
     "description": "Leftist Video Essays",
     "image": "/channels/f24e91eef7b64c3d8f285c5a76a9d671.jpg",
-    "created_at": "2020-07-20T10:22:58.486Z",
-    "updated_at": "2020-07-20T10:22:58.486Z",
+    "created_at": "2020-07-20T11:56:01.042Z",
+    "updated_at": "2020-07-20T11:56:01.042Z",
     "tags": [],
     "sources": [
       {
@@ -4166,7 +4166,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/tmm.json"
+    "url": "http://localhost:3000/tmm.json"
   },
   {
     "id": 190,
@@ -4174,8 +4174,8 @@
     "slug": "tomnicholas",
     "description": "I aim to provide some introductions to key theories and concepts in the humanities in my series What the Theory?, provide an insight into my PhD journey through my PhD vlogs and uncover the cultural politics of some of the most popular current TV shows and movies through my series Politix.",
     "image": "/channels/9e71f4d80a274e5d9df3eaec26a716fe.jpg",
-    "created_at": "2020-07-20T10:22:58.507Z",
-    "updated_at": "2020-07-20T11:45:53.964Z",
+    "created_at": "2020-07-20T11:56:01.063Z",
+    "updated_at": "2020-07-20T11:56:01.063Z",
     "tags": [
       "hegemony",
       "postmodernism"
@@ -4194,7 +4194,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/tomnicholas.json"
+    "url": "http://localhost:3000/tomnicholas.json"
   },
   {
     "id": 191,
@@ -4202,8 +4202,8 @@
     "slug": "tovarishchendymion",
     "description": "Marxist youtuber making Marxist material",
     "image": "/channels/e7ebab20029b4db5b7a42d20c831424f.jpg",
-    "created_at": "2020-07-20T10:22:58.527Z",
-    "updated_at": "2020-07-20T10:22:58.527Z",
+    "created_at": "2020-07-20T11:56:01.082Z",
+    "updated_at": "2020-07-20T11:56:01.082Z",
     "tags": [],
     "sources": [
       {
@@ -4211,7 +4211,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/tovarishchendymion.json"
+    "url": "http://localhost:3000/tovarishchendymion.json"
   },
   {
     "id": 192,
@@ -4219,8 +4219,8 @@
     "slug": "trashsmash",
     "description": "Surveys and defeats of various trash, myths, prejudices and delusions are to some extent common in society. Art nauchpop.",
     "image": "/channels/bf2f1bb3c5894b8abeed41f09e36dd9a.jpg",
-    "created_at": "2020-07-20T10:22:58.538Z",
-    "updated_at": "2020-07-20T11:45:53.962Z",
+    "created_at": "2020-07-20T11:56:01.090Z",
+    "updated_at": "2020-07-20T11:56:01.090Z",
     "tags": [
       "belarusian",
       "homophobia"
@@ -4235,7 +4235,7 @@
         "kind": "patreon"
       }
     ],
-    "url": "http://localhost:3000/channels/trashsmash.json"
+    "url": "http://localhost:3000/trashsmash.json"
   },
   {
     "id": 193,
@@ -4243,8 +4243,8 @@
     "slug": "unicornriot",
     "description": "Unicorn Riot is a channel for alternative media, art and culture. All Unicorn Riot Media is Redistributable Under Creative Commons License Non-Commercial Share-Alike. We are a 501(c)(3) non-profit media collective - all donations are tax deductible",
     "image": "/channels/3c2c5497b6c0440e945f1b5034351bb6.jpg",
-    "created_at": "2020-07-20T10:22:58.553Z",
-    "updated_at": "2020-07-20T10:22:58.553Z",
+    "created_at": "2020-07-20T11:56:01.103Z",
+    "updated_at": "2020-07-20T11:56:01.103Z",
     "tags": [],
     "sources": [
       {
@@ -4256,7 +4256,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/unicornriot.json"
+    "url": "http://localhost:3000/unicornriot.json"
   },
   {
     "id": 194,
@@ -4264,8 +4264,8 @@
     "slug": "vaush",
     "description": "Hey, comrades! This channel exists so I can channel my creative energy, artistic talent, and rhetorical skill into something productive and useful to others. In time, it will be a weapon against fascism. Until that point, I'll be learning how to make YouTube videos.",
     "image": "/channels/cf32e077e29844ce94637e121ae2df74.jpg",
-    "created_at": "2020-07-20T10:22:58.569Z",
-    "updated_at": "2020-07-20T11:45:53.953Z",
+    "created_at": "2020-07-20T11:56:01.116Z",
+    "updated_at": "2020-07-20T11:56:01.116Z",
     "tags": [
       "antifascism"
     ],
@@ -4287,7 +4287,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/vaush.json"
+    "url": "http://localhost:3000/vaush.json"
   },
   {
     "id": 195,
@@ -4295,8 +4295,8 @@
     "slug": "veggieanarchist",
     "description": "Hi, I'm non-binary Eastern Europian green anarchist who just started with BreadTube. On my channel you will find (soon more) vegan recipes and video essays.",
     "image": "/channels/6021eb06f9f6487da151f8cb5e784059.jpg",
-    "created_at": "2020-07-20T10:22:58.594Z",
-    "updated_at": "2020-07-20T11:45:53.950Z",
+    "created_at": "2020-07-20T11:56:01.140Z",
+    "updated_at": "2020-07-20T11:56:01.140Z",
     "tags": [
       "anarchism",
       "anti-capitalism",
@@ -4308,7 +4308,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/veggieanarchist.json"
+    "url": "http://localhost:3000/veggieanarchist.json"
   },
   {
     "id": 196,
@@ -4316,8 +4316,8 @@
     "slug": "versobooks",
     "description": "Verso Books is the largest independent, radical publishing house in the English-speaking world, publishing one hundred books a year. The channel features a lot of discussions of various publications.",
     "image": "/channels/d843b0fcc50447719bfa3506135c4e85.jpg",
-    "created_at": "2020-07-20T10:22:58.605Z",
-    "updated_at": "2020-07-20T11:45:53.946Z",
+    "created_at": "2020-07-20T11:56:01.151Z",
+    "updated_at": "2020-07-20T11:56:01.151Z",
     "tags": [
       "organizing"
     ],
@@ -4327,7 +4327,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/versobooks.json"
+    "url": "http://localhost:3000/versobooks.json"
   },
   {
     "id": 197,
@@ -4335,8 +4335,8 @@
     "slug": "vicberger",
     "description": "Vic Berger IV's YouTube channel.",
     "image": "/channels/df8ca52e100b4c4a8b83cad0103bdb6a.jpg",
-    "created_at": "2020-07-20T10:22:58.615Z",
-    "updated_at": "2020-07-20T11:45:53.942Z",
+    "created_at": "2020-07-20T11:56:01.160Z",
+    "updated_at": "2020-07-20T11:56:01.160Z",
     "tags": [
       "hypernormalization",
       "politics"
@@ -4347,7 +4347,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/vicberger.json"
+    "url": "http://localhost:3000/vicberger.json"
   },
   {
     "id": 198,
@@ -4355,8 +4355,8 @@
     "slug": "wisecrack",
     "description": "Wisecrack is a collective of comedians, academics, filmmakers, and artists who are super curious about the world around us. Our channel explores big ideas in unusual (and hopefully super entertaining) ways. We dive into philosophy and critical thinking through the lens of movies, TV shows, video games, and books.",
     "image": "/channels/c368593a2c2c4fe6a199b7397570af07.jpg",
-    "created_at": "2020-07-20T10:22:58.625Z",
-    "updated_at": "2020-07-20T10:22:58.625Z",
+    "created_at": "2020-07-20T11:56:01.170Z",
+    "updated_at": "2020-07-20T11:56:01.170Z",
     "tags": [],
     "sources": [
       {
@@ -4364,7 +4364,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/wisecrack.json"
+    "url": "http://localhost:3000/wisecrack.json"
   },
   {
     "id": 199,
@@ -4372,8 +4372,8 @@
     "slug": "xexizy",
     "description": "Marxist youtuber determined to bring about the social revolution through the internet, somehow.",
     "image": "/channels/5b42cc48a8624e3193015758d99891cf.jpg",
-    "created_at": "2020-07-20T10:22:58.637Z",
-    "updated_at": "2020-07-20T10:22:58.637Z",
+    "created_at": "2020-07-20T11:56:01.179Z",
+    "updated_at": "2020-07-20T11:56:01.179Z",
     "tags": [],
     "sources": [
       {
@@ -4381,7 +4381,7 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/xexizy.json"
+    "url": "http://localhost:3000/xexizy.json"
   },
   {
     "id": 200,
@@ -4389,8 +4389,8 @@
     "slug": "yazminsky",
     "description": "An examination of the 1999 strategy game Sid Meier's Alpha Centauri-- its history, the way it comments on the political anxieties of its own time, how it grapples with the legacy of the Civilization games, and what it has to teach us.",
     "image": "/channels/6ee95fc9fab94886947881a7048b0435.jpg",
-    "created_at": "2020-07-20T10:22:58.648Z",
-    "updated_at": "2020-07-20T11:45:53.940Z",
+    "created_at": "2020-07-20T11:56:01.190Z",
+    "updated_at": "2020-07-20T11:56:01.190Z",
     "tags": [
       "culture",
       "philosophy",
@@ -4407,7 +4407,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/yazminsky.json"
+    "url": "http://localhost:3000/yazminsky.json"
   },
   {
     "id": 201,
@@ -4415,8 +4415,8 @@
     "slug": "yugopnik",
     "description": "Politically conscious leftist Slav who sometimes makes YouTube videos. Tovarishch. He/Him. Alcohol enthusiast.",
     "image": "/channels/71c46fd613984f3d89c6afa985a785b0.jpg",
-    "created_at": "2020-07-20T10:22:58.663Z",
-    "updated_at": "2020-07-20T10:22:58.663Z",
+    "created_at": "2020-07-20T11:56:01.207Z",
+    "updated_at": "2020-07-20T11:56:01.207Z",
     "tags": [],
     "sources": [
       {
@@ -4428,7 +4428,7 @@
         "kind": "twitter"
       }
     ],
-    "url": "http://localhost:3000/channels/yugopnik.json"
+    "url": "http://localhost:3000/yugopnik.json"
   },
   {
     "id": 202,
@@ -4436,8 +4436,8 @@
     "slug": "zeria",
     "description": "AKA Floating into Bliss. I focus on analyzing the media I enjoy as well as exploring its creators and fandoms. Come for the topical content, stay for the yuri and Ikuhara.",
     "image": "/channels/820c2199f7384b1581ad36700c024181.jpg",
-    "created_at": "2020-07-20T10:22:58.678Z",
-    "updated_at": "2020-07-20T11:45:53.933Z",
+    "created_at": "2020-07-20T11:56:01.222Z",
+    "updated_at": "2020-07-20T11:56:01.222Z",
     "tags": [
       "anime",
       "depression"
@@ -4460,7 +4460,7 @@
         "kind": "website"
       }
     ],
-    "url": "http://localhost:3000/channels/zeria.json"
+    "url": "http://localhost:3000/zeria.json"
   },
   {
     "id": 203,
@@ -4468,8 +4468,8 @@
     "slug": "zerobooks",
     "description": "Zero Books publishes books of critical theory, cultural criticism, Marxist economics, experimental fiction, and books on aesthetics. This channel features short videos that use memes, gifs, and popular culture to illustrate and explain the ideas in our books",
     "image": "/channels/990595f06f874261a44799850a9b72b4.jpg",
-    "created_at": "2020-07-20T10:22:58.705Z",
-    "updated_at": "2020-07-20T11:45:57.798Z",
+    "created_at": "2020-07-20T11:56:01.247Z",
+    "updated_at": "2020-07-20T11:56:01.247Z",
     "tags": [],
     "sources": [
       {
@@ -4477,6 +4477,6 @@
         "kind": "youtube"
       }
     ],
-    "url": "http://localhost:3000/channels/zerobooks.json"
+    "url": "http://localhost:3000/zerobooks.json"
   }
 ]

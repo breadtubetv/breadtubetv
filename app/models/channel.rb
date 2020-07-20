@@ -14,7 +14,7 @@ class Channel < ApplicationRecord
     slug
   end
 
-  def sync
+  def sync!
     youtube.videos.each do |yt_video|
       puts "yt_video.inspect"
       video_source = video_sources.find_or_initialize_by(
@@ -33,5 +33,7 @@ class Channel < ApplicationRecord
       video_source.video = video
       video_source.save!
     end
+
+    self.touch
   end
 end

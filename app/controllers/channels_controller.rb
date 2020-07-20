@@ -23,7 +23,7 @@ class ChannelsController < ApplicationController
 
   # GET /channels/1/sync
   def sync
-    @channel.sync
+    @channel.sync!
 
     redirect_to channel_path(@channel)
   end
