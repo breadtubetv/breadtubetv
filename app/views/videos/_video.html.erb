@@ -8,16 +8,16 @@
           <%= video.description %>
         </abbr>
       </p>
-      <p>
-        <small>
+      <div class="mb-2" style="overflow: hidden">
+        <small class="float-left  ">
           <%= link_to video.channel.name, video.channel, title: video.channel.name %>
         </small>
         <small class="float-right">
           <%= video.published_at.to_s(:formatted) %>
         </small>
-      </p>
+      </div>
       <%= link_to "Watch", video.youtube.url, class: "btn btn-primary", target: :blank %>
-      <div class="btn-group">
+      <div class="btn-group float-right">
         <%= link_to "Edit", edit_video_path(video), class: "btn btn-info" %>
         <%= link_to 'Destroy', video, method: :delete, class: "btn btn-danger", data: { confirm: 'Are you sure?' } %>
       </div>

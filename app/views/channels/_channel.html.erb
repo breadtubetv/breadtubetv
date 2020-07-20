@@ -9,7 +9,7 @@
         </abbr>
       </p>
       <%= link_to "Watch", channel.sources.first.url, class: "btn btn-primary", target: :blank %>
-      <div class="btn-group">
+      <div class="btn-group float-right">
         <%= link_to "Edit", edit_channel_path(channel), class: "btn btn-info" %>
         <%= link_to 'Destroy', channel, method: :delete, class: "btn btn-danger", data: { confirm: 'Are you sure?' } %>
       </div>
