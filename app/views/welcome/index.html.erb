@@ -1,14 +1,14 @@
-<h3>Featured Channels</h3>
+<h2 class="mt-4">Featured Channels</h2>
 
-<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
+<div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-4 row-cols-xl-6">
   <% @features.each do |feature| %>
     <%= render feature.channel %>
   <% end %>
 </div>
 
-<h3 class="mt-4">Random Videos</h3>
+<h2 class="mt-4">Random Videos</h2>
 
-<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-5">
+<div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 row-cols-lg-6 row-cols-xl-9">
   <% @videos.each do |video| %>
     <%= render video %>
   <% end %>

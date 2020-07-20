@@ -2,8 +2,12 @@
   <div class="card card-block">
     <%= link_to(image_tag(channel.image, class: "card-img-top"), channel) %>
     <div class="card-body">
-      <h5 class="card-title"><%= link_to channel.name, channel %></h5>
-      <p class="card-text"><%= truncate channel.description %></p>
+      <h5 class="card-title text-truncate"><%= link_to channel.name, channel, title: channel.name %></h5>
+      <p class="card-text text-truncate">
+        <abbr title="<%= channel.description %>">
+          <%= channel.description %>
+        </abbr>
+      </p>
       <%= link_to "Watch", channel.sources.first.url, class: "btn btn-primary", target: :blank %>
       <div class="btn-group">
         <%= link_to "Edit", edit_channel_path(channel), class: "btn btn-info" %>

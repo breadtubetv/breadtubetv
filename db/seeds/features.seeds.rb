@@ -1,5 +1,6 @@
 after :channels, :videos do
-  Channel.order("RANDOM()").limit(10).each do |channel|
+  [:literallygarbage, :noncompete, :prolekult, :themajorityreport, :philosophytube, :thoughtslime, :contrapoints, :angiespeaks, :petercoffin,].each do |channel_slug|
+    channel = Channel.find_by(slug: channel_slug)
     Feature.create!(channel: channel, expired_at: Time.now + (rand(10) + 1).days)
 
     puts "Featured: #{ channel.name } Channel"
