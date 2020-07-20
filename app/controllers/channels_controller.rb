@@ -4,7 +4,7 @@ class ChannelsController < ApplicationController
   # GET /channels
   # GET /channels.json
   def index
-    @pagy, @channels = pagy(Channel.order(slug: :asc))
+    @pagy, @channels = pagy(Channel.order(slug: :asc), items: params[:items])
   end
 
   # GET /channels/1

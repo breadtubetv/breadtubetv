@@ -1,8 +1,9 @@
-
-
 <%= link_to 'Edit', edit_channel_path(@channel) %> |
 <%= link_to 'Back', channels_path %> |
-<%= link_to 'Sync', sync_channel_path(@channel) %>
+
+<% if Rails.env.development? %>
+  <%= link_to 'Sync', sync_channel_path(@channel) %>
+<% end %>
 
 <p>
   <strong>Image:</strong>

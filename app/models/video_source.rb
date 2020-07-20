@@ -3,6 +3,10 @@ class VideoSource < ApplicationRecord
 
   belongs_to :video
 
+  def kind
+    type.to_s.gsub("VideoSource::", "").downcase
+  end
+
   private def set_ident
     raise NotImplementedError
   end

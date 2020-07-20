@@ -5,6 +5,7 @@ class CreateChannels < ActiveRecord::Migration[6.0]
       t.string :slug
       t.text :description
       t.string :image
+      t.text :tags, array: true, default: []
 
       t.timestamps
     end
