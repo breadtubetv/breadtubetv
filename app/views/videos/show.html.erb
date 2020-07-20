@@ -1,6 +1,6 @@
 <p>
   <strong>Name:</strong>
-  <%= @video.name %>
+  <%= @video.name.html_safe %>
 </p>
 
 <p>
@@ -10,7 +10,7 @@
 
 <p>
   <strong>Description:</strong>
-  <%= simple_format @video.description %>
+  <%= @video.description %>
 </p>
 
 <p>
@@ -22,6 +22,12 @@
   <strong>Channel:</strong>
   <%= link_to @video.channel.name, @video.channel %>
 </p>
+
+<% @video.sources.each do |source| %>
+  <div class="embed-responsive embed-responsive-16by9">
+    <iframe class="embed-responsive-item" src="<%= source.embed_url %>"></iframe>
+  </div>
+<% end %>
 
 <p>
   <strong>Tags:</strong>
