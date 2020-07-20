@@ -6,13 +6,14 @@ channels.each do |channel_data|
     name: channel_data["name"],
     description: channel_data["description"],
     slug: channel_data["slug"],
-    image: channel_data["image"]
+    image: channel_data["image"],
+    tags: channel_data["tags"]
   )
 
   puts "Created: #{ channel.name } Channel"
   
-  (channel_data["sources"] + channel_data["socials"]).each do |source|
-    type = source["type"].capitalize
+  channel_data["sources"].each do |source|
+    type = source["kind"].capitalize
 
     channel.sources.create!(url: source["url"], type: "ChannelSource::#{ type }")
     

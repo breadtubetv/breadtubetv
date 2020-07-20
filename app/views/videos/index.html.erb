@@ -8,11 +8,11 @@
   </div>
 </div>
 
-<div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-4 row-cols-xl-6">
+<%= card_row do %>
   <% @videos.each do |video| %>
     <%= render video %>
   <% end %>
-</div>
+<% end %>
 
 <br>
 

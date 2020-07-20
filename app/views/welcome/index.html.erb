@@ -1,23 +1,23 @@
 <h2 class="mt-4">Latest Videos</h2>
 
-<div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 row-cols-lg-6 row-cols-xl-9">
+<%= card_row do %>
   <% @latest_videos.each do |video| %>
     <%= render video %>
   <% end %>
-</div>
+<% end %>
 
 <h2 class="mt-4">Featured Channels</h2>
 
-<div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-4 row-cols-xl-6">
+<%= card_row do %>
   <% @features.each do |feature| %>
     <%= render feature.channel %>
   <% end %>
-</div>
+<% end %>
 
 <h2 class="mt-4">Random Videos</h2>
 
-<div class="row row-cols-1 row-cols-sm-3 row-cols-md-3 row-cols-lg-6 row-cols-xl-9">
+<%= card_row do %>
   <% @random_videos.each do |video| %>
     <%= render video %>
   <% end %>
-</div>
+<% end %>

@@ -30,9 +30,9 @@ ActiveRecord::Schema.define(version: 2020_07_19_013243) do
     t.string "slug"
     t.text "description"
     t.string "image"
+    t.text "tags", default: [], array: true
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
-    t.string "tags", default: [], array: true
   end
 
   create_table "features", force: :cascade do |t|
