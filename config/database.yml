@@ -1,7 +1,7 @@
 shared:
   adapter: postgresql
   encoding: unicode
-  url: <%= ENV.fetch("DB_URL", "") %>
+  url: <%= ENV.fetch("DATABASE_URL", "") %>
   host: <%= ENV.fetch("DB_HOST", "postgres") %>
   port: <%= ENV.fetch("DB_PORT", 5432) %>
   username: <%= ENV.fetch("DB_USERNAME", "postgres") %>
