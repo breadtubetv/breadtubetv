@@ -1,5 +1,6 @@
 class VideosController < ApplicationController
   before_action :set_video, only: [:show, :edit, :update, :destroy]
+  before_action :set_channel, only: [:show]
 
   # GET /videos
   # GET /videos.json
@@ -10,6 +11,7 @@ class VideosController < ApplicationController
   # GET /videos/1
   # GET /videos/1.json
   def show
+    @videos = @channel.videos.latest.limit(10)
   end
 
   # GET /videos/new
@@ -65,6 +67,10 @@ class VideosController < ApplicationController
     # Use callbacks to share common setup or constraints between actions.
     def set_video
       @video = Video.find(params[:id])
+    end
+
+    def set_channel
+      @channel = @video.channel
     end
 
     # Only allow a list of trusted parameters through.

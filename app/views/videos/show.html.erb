@@ -4,39 +4,41 @@
   </div>
 <% end %>
 
-<p>
-  <strong>Name:</strong>
-  <%= @video.name.html_safe %>
-</p>
+<div class="container mt-4">
+  <div class="row">
+    <div class="col-8">
+      <h1 class="h4">
+        <%= @video.name.html_safe %>
+      </h1>
 
-<p>
-  <strong>Slug:</strong>
-  <%= @video.slug %>
-</p>
+      <p>
+        <%= simple_format @video.description %>
+      </p>
 
-<p>
-  <strong>Description:</strong>
-  <%= @video.description %>
-</p>
+      <p>
+        <strong>published at:</strong>
+        <%= @video.published_at %>
+      </p>
 
-<p>
-  <strong>published at:</strong>
-  <%= @video.published_at %>
-</p>
+      <p>
+        <strong>Channel:</strong>
+        <%= link_to @video.channel.name, @video.channel %>
+      </p>
 
-<p>
-  <strong>Channel:</strong>
-  <%= link_to @video.channel.name, @video.channel %>
-</p>
+      <p>
+        <strong>Tags:</strong>
+        <ul>
+          <% @video.tags.each do |tag| %>
+            <li><%= tag %></li>
+          <% end %>
+        </ul>
+      </p>
 
-<p>
-  <strong>Tags:</strong>
-  <ul>
-    <% @video.tags.each do |tag| %>
-      <li><%= tag %></li>
-    <% end %>
-  </ul>
-</p>
-
-<%= link_to 'Edit', edit_video_path(@video) %> |
-<%= link_to 'Back', videos_path %>
+      <%= link_to 'Edit', edit_video_path(@video) %> |
+      <%= link_to 'Back', videos_path %>
+    </div>
+    <div class="col-4">
+      <%= render @videos %>
+    </div>
+  </div>
+</div>

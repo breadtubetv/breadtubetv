@@ -1,19 +1,21 @@
-<div class="row mt-4 mb-2">
-  <div class="col">
-    <h1 class="h2 float-left">Videos</h1>
+<div class="container-fluid">
+	<div class="row mt-4 mb-2">
+	  <div class="col">
+	    <h1 class="h2 float-left">Videos</h1>
 
-    <div class="float-right">
-      <%== pagy_bootstrap_combo_nav_js(@pagy) %>
-    </div>
-  </div>
+	    <div class="float-right">
+	      <%== pagy_bootstrap_combo_nav_js(@pagy) %>
+	    </div>
+	  </div>
+	</div>
+
+	<%= card_row do %>
+	  <% @videos.each do |video| %>
+	    <%= render video %>
+	  <% end %>
+	<% end %>
+
+	<br>
+
+	<%= link_to 'New video', new_video_path %>
 </div>
-
-<%= card_row do %>
-  <% @videos.each do |video| %>
-    <%= render video %>
-  <% end %>
-<% end %>
-
-<br>
-
-<%= link_to 'New video', new_video_path %>

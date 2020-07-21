@@ -1,23 +1,29 @@
-<h2 class="mt-4 mb-3"><%= link_to "Latest Videos", videos_path %></h2>
+<div class="container-fluid">
+ 	<div class="row">
+ 		<div class="col">
+			<h2 class="mt-4 mb-3"><%= link_to "Latest Videos", videos_path %></h2>
 
-<%= card_row do %>
-  <% @latest_videos.each do |video| %>
-    <%= render video %>
-  <% end %>
-<% end %>
+			<%= card_row do %>
+			  <% @latest_videos.each do |video| %>
+			    <%= render video %>
+			  <% end %>
+			<% end %>
 
-<h2 class="mt-4 mb-3"><%= link_to "Featured Channels", channels_path %></h2>
+			<h2 class="mt-4 mb-3"><%= link_to "Featured Channels", channels_path %></h2>
 
-<%= card_row do %>
-  <% @features.each do |feature| %>
-    <%= render feature.channel %>
-  <% end %>
-<% end %>
+			<%= card_row do %>
+			  <% @features.each do |feature| %>
+			    <%= render feature.channel %>
+			  <% end %>
+			<% end %>
 
-<h2 class="mt-4 mb-3"><%= link_to "Random Videos", videos_path %></h2>
+			<h2 class="mt-4 mb-3"><%= link_to "Random Videos", videos_path %></h2>
 
-<%= card_row do %>
-  <% @random_videos.each do |video| %>
-    <%= render video %>
-  <% end %>
-<% end %>
+			<%= card_row do %>
+			  <% @random_videos.each do |video| %>
+			    <%= render video %>
+			  <% end %>
+			<% end %>
+		</div>
+	</div>
+</div>
