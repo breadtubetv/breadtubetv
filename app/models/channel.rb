@@ -14,6 +14,7 @@ class Channel < ApplicationRecord
 
   validates :name, :slug, presence: true, uniqueness: true
 
+  scope :order_by_slug, -> { order(slug: :asc) }
   scope :order_by_oldest, -> { order(updated_at: :asc) }
 
   def to_param
@@ -27,6 +28,6 @@ class Channel < ApplicationRecord
   end
 
   private def set_slug
-    self.slug ||= name.parameterize
+    self.slug ||= name&.parameterize
   end
 end

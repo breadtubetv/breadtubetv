@@ -8,10 +8,6 @@ class Video < ApplicationRecord
   scope :latest, -> { order(published_at: :desc) }
   scope :random, -> { order("RANDOM()") }
 
-  def name
-    self[:name].gsub("#{channel.name} ", "")
-  end
-
   def image
     youtube.image
   end
