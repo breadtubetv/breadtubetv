@@ -9,7 +9,7 @@ class Video < ApplicationRecord
   scope :random, -> { order("RANDOM()") }
 
   def name
-    self[:name]&.gsub(channel.name, "")
+    self[:name]&.gsub(/#{channel.name}/i, "")&.gsub(" - ","")&.gsub(" |  | "," | ")&.gsub("  "," ")&.split.map(&:capitalize).join(' ')
   end
 
   def image
