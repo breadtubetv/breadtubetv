@@ -4,7 +4,7 @@ class VideosController < ApplicationController
   # GET /videos
   # GET /videos.json
   def index
-    @pagy, @videos = pagy(Video.published.latest.includes(:channel), items: params[:items])
+    @pagy, @videos = pagy(Video.published.latest.includes(:channel, :sources), items: params[:items])
   end
 
   # GET /videos/1

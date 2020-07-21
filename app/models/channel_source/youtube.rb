@@ -7,12 +7,12 @@ class ChannelSource::Youtube < ChannelSource
 
   def sync!
     videos.each do |yt_video|
-      video_source = video_sources.find_or_initialize_by(
+      video_source = channel.video_sources.find_or_initialize_by(
         url: "https://www.youtube.com/watch?v=#{ yt_video.id }",
         type: "VideoSource::Youtube"
       )
 
-      video = video_source.video || videos.new
+      video = video_source.video || channel.videos.new
 
       video.update!(
         name: yt_video.title,

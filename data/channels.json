@@ -1,12 +1,46 @@
 [
   {
+    "id": 220,
+    "name": "1Dime",
+    "slug": "1dime",
+    "description": "A channel dedicated to countering the hegemony of one dimensional thought.\n\nThis includes videos about philosophy, politics, and critical theory in relation to various cultural topics and issues in general. The goal of this channel is to explain important socio-political issues using theory and cultural topics as an accessible window for a more unique, engaging and educational experience.",
+    "image": "/channels/1b1ec9efe348f9af4da01b6b4f9ba899.jpg",
+    "created_at": "2020-07-21T13:00:59.840Z",
+    "updated_at": "2020-07-21T13:01:00.852Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCQWoY8CkEGeE4t62djCZk-A",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/1dime.json"
+  },
+  {
+    "id": 219,
+    "name": "Alki",
+    "slug": "alki",
+    "description": "",
+    "image": "/channels/4a2c24ef2ed3b33ef7c614821115ce2e.jpg",
+    "created_at": "2020-07-21T13:00:29.895Z",
+    "updated_at": "2020-07-21T13:00:31.019Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCnfHdFGB7IdhfTd07jsdoJA",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/alki.json"
+  },
+  {
     "id": 1,
     "name": "AnActualJoke",
     "slug": "anactualjoke",
     "description": "Anarchist Trans Girl. She/Her. Making Video Essays and hot takes.",
     "image": "/channels/85dce8d0d2a149819a96965b871e7a42.jpg",
     "created_at": "2020-07-20T11:55:57.704Z",
-    "updated_at": "2020-07-20T11:55:57.704Z",
+    "updated_at": "2020-07-21T13:11:24.895Z",
     "tags": [
       "anarchism"
     ],
@@ -80,6 +114,23 @@
       }
     ],
     "url": "http://localhost:3000/anarchopac.json"
+  },
+  {
+    "id": 209,
+    "name": "AndarNation Propaganda",
+    "slug": "andarnation-propaganda",
+    "description": "Hey there. \nHere be a leftist YouTube channel. Call it Leftube or Breadtube, but whatever you choose, I hope you find my wares to be good. I talk about theories. I talk about whatever is on my mind in any given two week period. Sometimes its Crusader Kings 2, other times its disco, lite-brites, or groceries. Remember, everything is political. Everything. The air you breath to the ground you walk on. In fact, those two examples are some of the most political.",
+    "image": "/channels/c489de887c60dfe81bdddcb696ed2eb0.jpg",
+    "created_at": "2020-07-21T12:50:41.819Z",
+    "updated_at": "2020-07-21T13:12:42.140Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCc6GeOlEuTjHyhg3UX902TQ",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/andarnation-propaganda.json"
   },
   {
     "id": 4,
@@ -332,6 +383,23 @@
       }
     ],
     "url": "http://localhost:3000/badmouseproductions.json"
+  },
+  {
+    "id": 216,
+    "name": "based bolshevik",
+    "slug": "based-bolshevik",
+    "description": "Hey\n\nWhat's up, I'm Based Bolshevik, I make vids about whatever the hell I want. I'm a Marxist-Leninist, Trans, and several other things right wingers hate. I personally did the Holodomor. ☭ My Instagram is @based_bolshevik and my Twitter is @basedbolshevik.\n\nHave a goddamn based motherfuckin day",
+    "image": "/channels/87c452fce445205c228f7c75b68e5faa.jpg",
+    "created_at": "2020-07-21T12:57:34.410Z",
+    "updated_at": "2020-07-21T12:57:35.444Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCty-crGERPLW2AqkHC1E2tQ",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/based-bolshevik.json"
   },
   {
     "id": 14,
@@ -614,7 +682,7 @@
     "description": "SPEED BOAT DOPE COCAINE GENESIS",
     "image": "/channels/dfa9ba17db4b46b79858b68b9db60095.jpg",
     "created_at": "2020-07-20T11:55:58.224Z",
-    "updated_at": "2020-07-20T11:55:58.224Z",
+    "updated_at": "2020-07-21T12:53:09.642Z",
     "tags": [],
     "sources": [
       {
@@ -740,6 +808,40 @@
       }
     ],
     "url": "http://localhost:3000/claudiabrown.json"
+  },
+  {
+    "id": 211,
+    "name": "Comrade Pierre Tru-Dank",
+    "slug": "comrade-pierre-tru-dank",
+    "description": "Syndical-communist, Marxist, Cockshottian, ultra-left, cybernetic squad, Sorelian, futurist, proletarian internationalist, economics student, adept power-lifter, stoic practitioner, \"gymcel\", and most certainly a pessimistic lefty eceleb. Pierre is one of the original /leftypol/ \"gang of four\" who aims to rejuvenate a dying online left from its idpol, reformist, sensationalist, and red liberal/conservative plague.\n\nBunkerchan: \nhttps://www.bunkerchan.xyz/\n\nUnofficial Leftypol Discord: \nhttps://discord.gg/3aACuq5\n\nMy Discord: \nhttps://discord.gg/pPV38P\n\nBitchute: \nhttps://www.bitchute.com/channel/FD73P4QcJzaP/\n\nDeviant Art: \nhttps://www.deviantart.com/pierretrudank\n\nInstagram: \nhttps://www.instagram.com/pierretrudanke/?hl=en\n\nTwitter: \nhttps://twitter.com/SARMseller420",
+    "image": "/channels/8b4cb301e0a910547026e157085664eb.jpg",
+    "created_at": "2020-07-21T12:52:02.874Z",
+    "updated_at": "2020-07-21T12:52:04.958Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCSML_bQOzJAGMf9U51CKbrA",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/comrade-pierre-tru-dank.json"
+  },
+  {
+    "id": 215,
+    "name": "Connor W Goode",
+    "slug": "connor-w-goode",
+    "description": "A leftist channel that discusses things related to leftism... like Star Wars.",
+    "image": "/channels/88079047232b5bec86ca513027ba95dd.jpg",
+    "created_at": "2020-07-21T12:57:22.853Z",
+    "updated_at": "2020-07-21T12:57:23.743Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UC2QqKn6zjZlgbE7Pe_voZIw",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/connor-w-goode.json"
   },
   {
     "id": 35,
@@ -920,6 +1022,23 @@
       }
     ],
     "url": "http://localhost:3000/currentaffairs.json"
+  },
+  {
+    "id": 205,
+    "name": "Dankey Kang",
+    "slug": "dankey-kang",
+    "description": "A communist youtuber from Tennessee who makes videos about theory, current events, history, and the weird depraved world of the alt-right incel maga chud pepe boys, collectively called the Chuds. A proud member of the PCUSA and the Iron Curtain Podcast.\n\n I believe in scientific socialism, to that end, in the revolutionary path laid out by Marx, Engels, Lenin, Stalin, and Mao (as well as many other prominent communist leaders and authors). Together the ML community on youtube should help each-other and support one another to help counter anti-communist propaganda, while forming effective and wide-reaching propaganda efforts of our own. Though it cannot replace real, boots-on-the-ground activism and Party work, your voice, your comments, and your contributions to the online sphere DOES HELP! It was how I became a Marxist-Leninist from an anarchist. Support the community!",
+    "image": "/channels/fef4d6da9eaac9cc377a4714d08bdcad.jpg",
+    "created_at": "2020-07-21T12:05:47.902Z",
+    "updated_at": "2020-07-21T13:12:05.870Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCktxmYOVYpsuHgerHqzLEkg",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/dankey-kang.json"
   },
   {
     "id": 43,
@@ -1226,6 +1345,23 @@
     "url": "http://localhost:3000/essenceofthought.json"
   },
   {
+    "id": 210,
+    "name": "Faint Signals from Vega",
+    "slug": "faint-signals-from-vega",
+    "description": "Videos about anything I find interesting.\n\nTrish Y. Roberts",
+    "image": "/channels/801e3a28ef675b94fba82bc1644a476f.jpg",
+    "created_at": "2020-07-21T12:51:41.346Z",
+    "updated_at": "2020-07-21T12:51:52.723Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCK1GmseubBz5fDEz79CIM9g",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/faint-signals-from-vega.json"
+  },
+  {
     "id": 57,
     "name": "Faraday Speaks",
     "slug": "faradayspeaks",
@@ -1344,6 +1480,23 @@
     "url": "http://localhost:3000/friendlyjordies.json"
   },
   {
+    "id": 212,
+    "name": "無用野餐 Fruitless Picnic",
+    "slug": "fruitless-picnic",
+    "description": "頻道開始的原因是因為我認為分析政治、哲學、藝術...等等的中文資源較少，同時很多又很無聊。而我也同意一句話：「我們之所以感到自由的原因，是因為我們沒有足夠表達我們不自由的詞彙。」\n我希望我的觀眾能夠把我的影片當成工具，開始察覺自己身邊周遭的事情。\nI started this channel because I felt that there wasn't enough resources in Chinese about philosophy, art, politics...ect. especially lacking is interesting/ entertaining videos. I also believe in the quote,\" We feel free because we lack the very language to articulate our unfreedom.\" \nI also wish to let others outside of Asia to get into a glimpse of Taiwan's leftist history.",
+    "image": "/channels/cab7404e980c7a6e836da1b6af608e98.jpg",
+    "created_at": "2020-07-21T12:54:07.212Z",
+    "updated_at": "2020-07-21T12:54:09.064Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCEUb49lt99HabRI0en01uPg",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/fruitless-picnic.json"
+  },
+  {
     "id": 63,
     "name": "Germinal",
     "slug": "germinal",
@@ -1430,7 +1583,7 @@
     "description": "An Iraqi Marxist that makes videos from time to time.",
     "image": "/channels/37dec78a80944cdf9b95837fc305f7c4.jpg",
     "created_at": "2020-07-20T11:55:59.149Z",
-    "updated_at": "2020-07-20T11:55:59.149Z",
+    "updated_at": "2020-07-21T12:59:33.707Z",
     "tags": [],
     "sources": [
       {
@@ -1574,6 +1727,23 @@
     "url": "http://localhost:3000/honker3d.json"
   },
   {
+    "id": 204,
+    "name": "How To Activism",
+    "slug": "how-to-activism",
+    "description": "Leftist focusing on what to do with our leftist beliefs.",
+    "image": "/channels/76e13e422e017eba25495b640774f16f.jpg",
+    "created_at": "2020-07-21T11:31:59.742Z",
+    "updated_at": "2020-07-21T13:11:47.331Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCi7j9y2om2JXEXzHdDgupgw",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/how-to-activism.json"
+  },
+  {
     "id": 73,
     "name": "Huntress X Thompson",
     "slug": "huntressxthompson",
@@ -1694,6 +1864,23 @@
     "url": "http://localhost:3000/jacksaintlackingsaint.json"
   },
   {
+    "id": 228,
+    "name": "Jacob Geller",
+    "slug": "jacob-geller",
+    "description": "Talking about video games, architecture, politics, empathy, and more- typically at the same time, always unpredictably.",
+    "image": "/channels/789b18a3da2756fafc4ce09ac93ad512.jpg",
+    "created_at": "2020-07-21T13:07:23.204Z",
+    "updated_at": "2020-07-21T13:07:24.351Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCeTfBygNb1TahcNpZyELO8g",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/jacob-geller.json"
+  },
+  {
     "id": 79,
     "name": "Jason From Detroit",
     "slug": "jasonfromdetroit",
@@ -1755,6 +1942,40 @@
     "url": "http://localhost:3000/jimsterling.json"
   },
   {
+    "id": 223,
+    "name": "JohntheDuncan",
+    "slug": "johntheduncan",
+    "description": "PhD researcher in Human Rights, austerity and neoliberalism |Disco Socialist trying to YouTube Patreon | https://www.patreon.com/johntheduncan| Twitter: https://twitter.com/Johntheduncan?s=09 | Twitch: https://www.twitch.tv/johntheduncan\n\nhe/him",
+    "image": "/channels/7b7511012e816b0efc0243576f90ea25.jpg",
+    "created_at": "2020-07-21T13:03:21.118Z",
+    "updated_at": "2020-07-21T13:03:22.493Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCjZNuiHWaxFhtaI1EAlSXlg",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/johntheduncan.json"
+  },
+  {
+    "id": 222,
+    "name": "jojos_w0rld_",
+    "slug": "jojos_w0rld_",
+    "description": "Memes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes\nMemes",
+    "image": "/channels/2d92d9c377924b5b0358bd5dcf1fcd18.jpg",
+    "created_at": "2020-07-21T13:02:36.409Z",
+    "updated_at": "2020-07-21T13:02:37.341Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCqPeoFEzKF-p1TMYR4kmIiw",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/jojos_w0rld_.json"
+  },
+  {
     "id": 82,
     "name": "José",
     "slug": "jose",
@@ -1778,6 +1999,23 @@
       }
     ],
     "url": "http://localhost:3000/jose.json"
+  },
+  {
+    "id": 225,
+    "name": "Jouelzy",
+    "slug": "jouelzy",
+    "description": "Jouelzy is a top African American woman vlogger advocating for the #SmartBrownGirl, with witty commentary on current cultural topics the impact women of color throughout the African diaspora.\n\n↳ Join the SBG Book Club https://smartbrowngirl.com\n↳ Shop #SmartBrownGirl http://shop.smartbrowngirl.com\n\nPO Box 18096\nCharlotte, NC 28218",
+    "image": "/channels/547429d48e88efe4474162c50dac96ca.jpg",
+    "created_at": "2020-07-21T13:05:44.374Z",
+    "updated_at": "2020-07-21T13:05:53.352Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCv9NcQt6aPj_gcYeIBsmjqw",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/jouelzy.json"
   },
   {
     "id": 83,
@@ -2007,6 +2245,23 @@
     "url": "http://localhost:3000/left1ne.json"
   },
   {
+    "id": 214,
+    "name": "leftclicktv",
+    "slug": "leftclicktv",
+    "description": "leftclicktv is a sometimes-funny, progressive political show focusing on Indian current affairs with an internationalist perspective.\n\nHosted by Rishwajeet Singh.",
+    "image": "/channels/58af539b236e4f362bca0041d06f91f1.jpg",
+    "created_at": "2020-07-21T12:56:04.360Z",
+    "updated_at": "2020-07-21T12:56:05.177Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCRb6IMG0DDgmdVsVS8jkY0w",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/leftclicktv.json"
+  },
+  {
     "id": 93,
     "name": "let's talk about stuff",
     "slug": "letstalkaboutstuff",
@@ -2132,6 +2387,23 @@
     "url": "http://localhost:3000/literaryhangover.json"
   },
   {
+    "id": 227,
+    "name": "LonerBox",
+    "slug": "lonerbox",
+    "description": "Politics, history and occasionally some music.",
+    "image": "/channels/adc6a649304676a060406cc0d7dce122.jpg",
+    "created_at": "2020-07-21T13:06:52.414Z",
+    "updated_at": "2020-07-21T13:06:53.281Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCi5pr6jdzVMWNObsiiAYpEA",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/lonerbox.json"
+  },
+  {
     "id": 99,
     "name": "Luna Oi",
     "slug": "lunaoi",
@@ -2168,6 +2440,23 @@
       }
     ],
     "url": "http://localhost:3000/madblender.json"
+  },
+  {
+    "id": 206,
+    "name": "Maggie Mae Fish",
+    "slug": "maggie-mae-fish",
+    "description": "I critique films that you love because I want to make my own.",
+    "image": "/channels/cbfce747918949fb6c8e7d1390146fc8.jpg",
+    "created_at": "2020-07-21T12:45:12.937Z",
+    "updated_at": "2020-07-21T13:12:16.585Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UChBD4NpITiW2CzIz5GwppDA",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/maggie-mae-fish.json"
   },
   {
     "id": 101,
@@ -3105,6 +3394,23 @@
     "url": "http://localhost:3000/rotfrontgaming.json"
   },
   {
+    "id": 217,
+    "name": "ROTFUNK",
+    "slug": "rotfunk",
+    "description": "",
+    "image": "/channels/5e58ee77fa879e0707ce2cd357ebd00b.jpg",
+    "created_at": "2020-07-21T12:58:22.715Z",
+    "updated_at": "2020-07-21T12:58:23.922Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UC8ThOHr891InjT1l3yTpjrA",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/rotfunk.json"
+  },
+  {
     "id": 145,
     "name": "Sarah Z",
     "slug": "sarahz",
@@ -3378,6 +3684,23 @@
     "url": "http://localhost:3000/somemorenews.json"
   },
   {
+    "id": 213,
+    "name": "Space Commune",
+    "slug": "space-commune",
+    "description": "Art, propaganda, culture, politics, organizing and more from a leftist perspective.",
+    "image": "/channels/bf75bfd9831a62b1fb6df85c3db69d04.jpg",
+    "created_at": "2020-07-21T12:55:37.669Z",
+    "updated_at": "2020-07-21T12:55:38.713Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UC2q_e-cOHAmpRT1j0xI19Cg",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/space-commune.json"
+  },
+  {
     "id": 156,
     "name": "Space Babies",
     "slug": "spacebabies",
@@ -3453,6 +3776,23 @@
     "url": "http://localhost:3000/stimulator.json"
   },
   {
+    "id": 207,
+    "name": "StrucciMovies",
+    "slug": "struccimovies",
+    "description": "Hi! Shannon Strucci here. I'm a professional editor and a film enthusiast. This page hosts my introductory webseries SO YOU WANNA BE A FILM NERD along with some other video essays.",
+    "image": "/channels/4be1e03e7d0c158c0613754743b7f4ac.jpg",
+    "created_at": "2020-07-21T12:45:46.063Z",
+    "updated_at": "2020-07-21T13:11:36.665Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCh9DnjvObUcvvwrYbJ4-cLQ",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/struccimovies.json"
+  },
+  {
     "id": 159,
     "name": "Suck My Opinion",
     "slug": "suckmyopinion",
@@ -3519,6 +3859,23 @@
       }
     ],
     "url": "http://localhost:3000/t1j.json"
+  },
+  {
+    "id": 221,
+    "name": "The Weird Amorphous Blob",
+    "slug": "the-weird-amorphous-blob",
+    "description": "L(G)BTQ+. I tend to make video essays about movies and occasionally politics. Leftist.\nI made a channel for some original music that is royalty-free.\n\nTwitter: @Eat_Cheese_8_Sp\nPotato.",
+    "image": "/channels/9e1ce36b0f17b5da638f9166b7e2c74b.jpg",
+    "created_at": "2020-07-21T13:01:35.591Z",
+    "updated_at": "2020-07-21T13:01:36.604Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UC_wMCdeqlsUfKkQjLJesVzg",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/the-weird-amorphous-blob.json"
   },
   {
     "id": 162,
@@ -4350,6 +4707,40 @@
     "url": "http://localhost:3000/vicberger.json"
   },
   {
+    "id": 208,
+    "name": "Viki 1999",
+    "slug": "viki-1999",
+    "description": "I make videos about different topics related to politics. They are mostly explainy-type videos but sometimes I make opinion based videos as well.\n\nWant to E-mail me? Use viki1999mail@gmail.com!",
+    "image": "/channels/a3f9eceae579404c69ff4a631869e446.jpg",
+    "created_at": "2020-07-21T12:49:55.762Z",
+    "updated_at": "2020-07-21T13:12:27.971Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCdUh5QoIsGENSQIkhLm-0OQ",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/viki-1999.json"
+  },
+  {
+    "id": 224,
+    "name": "why it's cringe",
+    "slug": "why-it-s-cringe",
+    "description": "this channel is dedicating to proving why everything to ever exist, is indeed cringe",
+    "image": "/channels/3a83b3e74121792b9c35e0a1c64a71f1.jpg",
+    "created_at": "2020-07-21T13:04:05.501Z",
+    "updated_at": "2020-07-21T13:04:06.406Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCTBHvh-XBYuYBYsPMtaNFhw",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/why-it-s-cringe.json"
+  },
+  {
     "id": 198,
     "name": "Wisecrack",
     "slug": "wisecrack",
@@ -4365,6 +4756,23 @@
       }
     ],
     "url": "http://localhost:3000/wisecrack.json"
+  },
+  {
+    "id": 218,
+    "name": "Xanderhal",
+    "slug": "xanderhal",
+    "description": "I am a Leftist streamer that talks about politics and plays video games. If you like my content, drop a sub, it helps a lot.",
+    "image": "/channels/a15ddee59c2572580498940dd362258f.jpg",
+    "created_at": "2020-07-21T12:59:13.922Z",
+    "updated_at": "2020-07-21T12:59:20.101Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UCcWkShE9dqAw8uM1RJC99fQ",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/xanderhal.json"
   },
   {
     "id": 199,
@@ -4478,5 +4886,22 @@
       }
     ],
     "url": "http://localhost:3000/zerobooks.json"
+  },
+  {
+    "id": 226,
+    "name": "Zoomer Nation",
+    "slug": "zoomer-nation",
+    "description": "Leftist commentator. I believe in facts, empathy, and strive to tackle complex issues.",
+    "image": "/channels/f204487f39bc5cfd117b8f8b5ac556f9.jpg",
+    "created_at": "2020-07-21T13:06:32.224Z",
+    "updated_at": "2020-07-21T13:06:36.232Z",
+    "tags": [],
+    "sources": [
+      {
+        "url": "https://www.youtube.com/channel/UC_Fn0N0Dg9r3325z5x12WPw",
+        "kind": "youtube"
+      }
+    ],
+    "url": "http://localhost:3000/zoomer-nation.json"
   }
 ]
