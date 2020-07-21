@@ -2,6 +2,7 @@ class ChannelSource::Youtube < ChannelSource
   after_initialize :set_youtube
 
   def videos
+    @yt = Yt::Channel.new(id: ident)
     @yt.videos
   end
 
@@ -26,7 +27,6 @@ class ChannelSource::Youtube < ChannelSource
   end
 
   private def set_youtube
-    @yt = Yt::Channel.new(id: ident)
   end
 
   private def set_ident
