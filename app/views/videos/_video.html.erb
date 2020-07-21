@@ -2,7 +2,7 @@
   <div class="card card-block">
     <%= link_to(image_tag(video.image, class: "card-img-top"), video) %>
     <div class="card-body">
-      <h5 class="card-title"><%= link_to video.name.html_safe, video, title: video.name %></h5>
+      <h5 class="card-title text-truncate"><%= link_to video.name.html_safe, video, title: video.name %></h5>
       <p class="card-text text-truncate">
         <abbr title="<%= video.description %>">
           <%= video.description %>
