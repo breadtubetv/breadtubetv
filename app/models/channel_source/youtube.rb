@@ -5,7 +5,7 @@ class ChannelSource::Youtube < ChannelSource
     @yt.videos
   end
 
-  def sync
+  def sync!
     videos.each do |yt_video|
       puts "yt_video.inspect"
       video_source = video_sources.find_or_initialize_by(
