@@ -9,7 +9,7 @@ shared:
   timeout: 5000
 
 development: &shared
-  database: breadtubetv_development_rebuild
+  database: breadtubetv_development
   
 test: &shared
   database: breadtubetv_test
