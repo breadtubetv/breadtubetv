@@ -1,41 +1,60 @@
-<% @video.sources.each do |source| %>
-  <div class="embed-responsive embed-responsive-16by9" style="max-height: 100vh">
-    <iframe class="embed-responsive-item" src="<%= source.embed_url %>" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
-<% end %>
 
-<div class="container mt-4">
+<div class="container-fluid mt-4">
   <div class="row">
     <div class="col-8">
-      <h1 class="h4">
-        <%= @video.name.html_safe %>
-      </h1>
+      <% @video.sources.each do |source| %>
+        <div class="embed-responsive embed-responsive-16by9" style="max-height: 100vh">
+          <iframe class="embed-responsive-item" src="<%= source.embed_url %>" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      <% end %>
 
-      <p>
-        <%= simple_format @video.description %>
-      </p>
+      <div class="row mt-4" style="overflow: hidden">
+        <div class="col-8">
+          <h1 class="h4 font-weight-bold">
+            <%= @video.name.html_safe %>
+          </h1>
+          
+          <%= simple_format @video.description %>
 
-      <p>
-        <strong>published at:</strong>
-        <%= @video.published_at %>
-      </p>
+          <%= link_to 'Edit', edit_video_path(@video) %> |
+          <%= link_to 'Back', videos_path %>
 
-      <p>
-        <strong>Channel:</strong>
-        <%= link_to @video.channel.name, @video.channel %>
-      </p>
+          <p>
+            <ul>
+              <% @video.tags.each do |tag| %>
+                <li><%= tag %></li>
+              <% end %>
+            </ul>
+          </p>
+        </div>
 
-      <p>
-        <strong>Tags:</strong>
-        <ul>
-          <% @video.tags.each do |tag| %>
-            <li><%= tag %></li>
-          <% end %>
-        </ul>
-      </p>
+        <div class="col-4">
+          <select>
+            <% @video.sources.each do |source| %>
+              <option>Playing From: <%= source.kind %></option>
+            <% end %>
+          </select>
 
-      <%= link_to 'Edit', edit_video_path(@video) %> |
-      <%= link_to 'Back', videos_path %>
+
+          <div style="overflow: hidden" class="mt-4">
+            <div class="float-left">
+              <h5 class="mb-0">
+                <%= link_to @video.channel.name, @video.channel %>
+              </h5>
+              <p class="mt-0">
+                <small>
+                  <%= @video.published_at %>
+                </small>
+              </p>
+            </div>
+            <%= image_tag @video.channel.image, class: "float-right", style: "width: 40px" %>
+          </div>
+          <p>
+            <%= @video.channel.description %>
+          </p>
+
+        </div>
+      </div>
     </div>
     <div class="col-4">
       <%= render @videos %>
