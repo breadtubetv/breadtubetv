@@ -1,13 +1,7 @@
 class ChannelSource::Youtube < ChannelSource
-  after_initialize :set_youtube
-
-  def videos
-    @yt = Yt::Channel.new(id: ident)
-    @yt.videos
-  end
-
   def sync!
-    videos.each do |yt_video|
+    yt = Yt::Channel.new(id: ident)
+    yt.videos.each do |yt_video|
       video_source = channel.video_sources.find_or_initialize_by(
         url: "https://www.youtube.com/watch?v=#{ yt_video.id }",
         type: "VideoSource::Youtube"
@@ -24,9 +18,6 @@ class ChannelSource::Youtube < ChannelSource
       video_source.video = video
       video_source.save!
     end
-  end
-
-  private def set_youtube
   end
 
   private def set_ident
