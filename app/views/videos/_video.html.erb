@@ -2,10 +2,10 @@
   <div class="card card-block">
     <%= link_to(image_tag(video.image, class: "card-img-top"), video) %>
     <div class="card-body">
-      <h5 class="card-title text-truncate mb-0">
-        <small><%= link_to video.name.html_safe, video, title: video.name %></small>
-      </h5>
       <% if !defined?(locals[:simple]) %>
+        <h5 class="card-title text-truncate mb-0">
+          <small><%= link_to video.name.html_safe, video, title: video.name %></small>
+        </h5>
         <p class="card-text text-truncate">
           <abbr title="<%= video.description %>">
             <%= video.description %>&nbsp;
@@ -22,6 +22,11 @@
         <div class="my-0">
           <small><%= video.published_at.to_s %></small>
         </div>
+      <% else %>
+
+        <h5 class="card-title mb-0">
+          <small><%= link_to video.name.html_safe, video, title: video.name %></small>
+        </h5>
       <% end %>
     </div>
   </div>
