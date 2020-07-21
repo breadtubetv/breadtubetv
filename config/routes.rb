@@ -3,6 +3,7 @@
 Rails.application.routes.draw do
   root 'welcome#index'
   
+  resources :videos, param: :slug
   resources :features
 
   resources :channel_sources
@@ -14,6 +15,6 @@ Rails.application.routes.draw do
       get :sync
     end
   end
-  resources :videos, only: [:index]
-  resources :videos, path: '/', param: :slug
+  # resources :videos, only: [:index]
+  # resources :videos, path: '/', param: :slug
 end
