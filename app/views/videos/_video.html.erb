@@ -5,7 +5,7 @@
       <h5 class="card-title text-truncate"><%= link_to video.name.html_safe, video, title: video.name %></h5>
       <p class="card-text text-truncate">
         <abbr title="<%= video.description %>">
-          <%= video.description %>
+          <%= video.description %>&nbsp;
         </abbr>
       </p>
       <%= link_to "Watch", video.youtube.url, class: "btn btn-block btn-primary", target: :blank %>
