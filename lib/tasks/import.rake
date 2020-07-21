@@ -51,3 +51,5 @@ namespace :sync do
     end
   end
 end
+
+task

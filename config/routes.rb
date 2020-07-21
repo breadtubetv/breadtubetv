@@ -3,13 +3,13 @@
 Rails.application.routes.draw do
   root 'welcome#index'
   
-  resources :videos
   resources :features
 
   resources :channel_sources
   resources :video_sources
 
   resources :channels, only: [:index]
+  resources :videos, path: '/', param: :slug
   resources :channels, path: '/', param: :slug, except: [:index] do
     member do
       get :sync
