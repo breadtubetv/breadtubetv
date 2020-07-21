@@ -11,7 +11,7 @@ class VideosController < ApplicationController
   # GET /videos/1
   # GET /videos/1.json
   def show
-    @videos = @channel.videos.latest.limit(10)
+    @videos = @channel.videos.random.limit(5)
   end
 
   # GET /videos/new
