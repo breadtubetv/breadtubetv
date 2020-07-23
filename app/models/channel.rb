@@ -21,6 +21,10 @@ class Channel < ApplicationRecord
 
   friendly_id :name
 
+  def to_s
+    name
+  end
+
   def sync!
     youtube.sync!
 

@@ -1,30 +1,40 @@
+<% simple = defined?(locals[:simple]) %>
+
 <div class="col mb-4">
   <div class="card card-block">
     <%= link_to(image_tag(video.image, class: "card-img-top"), [video.channel, video]) %>
-    <div class="card-body">
+    <div class="card-body p-2">
+      <%= logo_tag video.channel.image, float: "left" %>
       <h5 class="card-title text-truncate mb-0">
-        <small><%= link_to video.name.html_safe, [video.channel, video], title: video.name.html_safe %></small>
+        <small>
+          <%= link_to video.name.html_safe, [video.channel, video], title: video.name.html_safe %>
+        </small>
       </h5>
-      <% if !defined?(locals[:simple]) %>
-        <p class="card-text text-truncate">
-          <small>
-            <abbr title="<%= video.description %>">
-              <%= video.description.html_safe %>&nbsp;
-            </abbr>
-          </small>
-        </p>
+      <!--p class="card-text text-truncate mb-0">
+        <small>
+          <abbr title="<%= video.description %>">
+            <%= video.description.html_safe %>&nbsp;
+          </abbr>
+        </small>
+      </p-->
+      <div class="mb-0 d-block overflow-hidden text-nowrap">
+        <small class="d-inline-block text-truncate" style="max-width: 50%;">
+          <%= link_to video.channel.name, video.channel, title: video.channel.name %>
+        </small>
+        <small class="d-inline-block text-truncate" style="max-width: 40%;">
+          &middot;
+          <%= time_ago_in_words(video.published_at).gsub("about", "") %> ago
+        </small>
+      </div>
+    </div>
+    <% unless simple %>
+      <div class="card-footer p-2">
         <%= link_to "Watch", video.youtube.url, class: "btn btn-block btn-primary", target: :blank %>
         <div class="btn-group btn-group-sm btn-block mt-2">
           <%= link_to "Edit", edit_channel_video_path(video.channel, video), class: "btn btn-light btn-outline-dark" %>
           <%= link_to 'Destroy', [video.channel, video], method: :delete, class: "btn btn-outline-danger", data: { confirm: 'Are you sure?' } %>
         </div>
-        <div class="mt-3 mb-0 text-truncate">
-          <small><%= link_to video.channel.name, video.channel, title: video.channel.name %></small>
-        </div>
-      <% end %>
-      <div class="my-0">
-        <small><%= video.published_at.to_s(:formatted) %></small>
       </div>
-    </div>
+    <% end %>
   </div>
 </div>

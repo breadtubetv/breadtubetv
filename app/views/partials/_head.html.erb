@@ -1,4 +1,4 @@
-<title>BreadTube.tv</title>
+<title><%= [page_title, t('title.site')].reject(&:blank?).join(' | ').html_safe %></title>
 <%= csrf_meta_tags %>
 <%= csp_meta_tag %>
 

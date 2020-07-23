@@ -14,6 +14,10 @@ class Video < ApplicationRecord
 
   friendly_id :name, use: :scoped, scope: :channel
 
+  def to_s
+    name
+  end
+
   def image
     youtube.image
   end

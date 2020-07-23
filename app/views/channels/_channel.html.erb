@@ -1,7 +1,7 @@
 <div class="col mb-4">
   <div class="card card-block">
     <%= link_to(image_tag(channel.image, class: "card-img-top"), channel) %>
-    <div class="card-body">
+    <div class="card-body p-2">
       <h5 class="card-title text-truncate mb-0"><%= link_to channel.name, channel, title: channel.name %></h5>
       <p class="card-text text-truncate">
         <small>
@@ -10,6 +10,8 @@
           </abbr>
         </small>
       </p>
+    </div>
+    <div class="card-footer p-2">
       <%= link_to "Watch", channel.youtube.url, class: "btn btn-block btn-primary", target: :blank %>
       <div class="btn-group btn-group-sm btn-block mt-2">
         <%= link_to "Edit", edit_channel_path(channel), class: "btn btn-light btn-outline-dark" %>

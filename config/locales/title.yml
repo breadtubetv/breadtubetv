@@ -1,0 +1,9 @@
+en:
+  title:
+    site: BreadTube.tv
+    channels:
+      index: Channels
+      show: '%{channel}'
+    videos:
+      index: Videos
+      show: '%{video} - %{channel}'

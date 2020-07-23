@@ -5,10 +5,10 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item <%= 'active' if current_class?(videos_path) %>">
+      <li class="nav-item <%= 'active' if current_class?(:videos) %>">
         <%= link_to I18n.t(:videos), videos_path, class: "nav-link" %>
       </li>
-      <li class="nav-item <%= 'active' if current_class?(channels_path) %>">
+      <li class="nav-item <%= 'active' if current_class?(:channels) %>">
         <%= link_to I18n.t(:channels), channels_path, class: "nav-link" %>
       </li>
     </ul>
