@@ -7,18 +7,20 @@ class VideoSource::Youtube < VideoSource
     "https://www.youtube.com/embed/#{ ident }"
   end
 
-  def sync!
+  def sync!(data = nil)
+    data ||= api
+
     update!(
-      view_count: api.view_count,
-      like_count: api.like_count,
-      dislike_count: api.dislike_count,
-      favorite_count: api.favorite_count,
-      comment_count: api.comment_count,
-      duration: api.duration,
-      length: api.length,
-      scheduled: api.scheduled?,
-      scheduled_at: api.scheduled_at,
-      tags: api.tags
+      view_count: data.view_count,
+      like_count: data.like_count,
+      dislike_count: data.dislike_count,
+      favorite_count: data.favorite_count,
+      comment_count: data.comment_count,
+      duration: data.duration,
+      length: data.length,
+      scheduled: data.scheduled?,
+      scheduled_at: data.scheduled_at,
+      tags: data.tags
     )
   end
 

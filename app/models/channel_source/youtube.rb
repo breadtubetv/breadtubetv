@@ -19,7 +19,7 @@ class ChannelSource::Youtube < ChannelSource
       )
 
       video_source.video = video
-      video_source.save!
+      video_source.sync!(yt_video)
     end
   end
 
