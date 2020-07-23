@@ -16,7 +16,7 @@
           
           <%= simple_format @video.description %>
 
-          <%= link_to 'Edit', edit_video_path(@video) %> |
+          <%= link_to 'Edit', edit_channel_video_path(@video.channel, @video) %> |
           <%= link_to 'Back', videos_path %>
 
           <p>

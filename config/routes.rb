@@ -9,11 +9,12 @@ Rails.application.routes.draw do
   resources :video_sources
 
   resources :channels, only: [:index]
+  resources :videos, only: [:index]
+
   resources :channels, path: '/', except: [:index] do
     member do
       get :sync
     end
-      resources :videos, only: :show, path: '/'
+    resources :videos, path: '/', except: [:index]
   end
-  resources :videos, except: :show
 end

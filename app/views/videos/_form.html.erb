@@ -1,4 +1,4 @@
-<%= form_with(model: video, local: true) do |form| %>
+<%= form_with(model: [video.channel, video], local: true) do |form| %>
   <% if video.errors.any? %>
     <div id="error_explanation">
       <h2><%= pluralize(video.errors.count, "error") %> prohibited this video from being saved:</h2>

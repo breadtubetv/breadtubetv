@@ -1,6 +1,6 @@
 class VideosController < ApplicationController
-  before_action :set_video, only: [:show, :edit, :update, :destroy]
-  before_action :set_channel, only: [:show]
+  before_action :set_channel, except: [:index]
+  before_action :set_video, except: [:index]
 
   # GET /videos
   # GET /videos.json
@@ -67,12 +67,12 @@ class VideosController < ApplicationController
 
   private
     # Use callbacks to share common setup or constraints between actions.
-    def set_video
-      @video = Channel.friendly.find(params[:channel_id]).videos.friendly.find(params[:id])
+    def set_channel
+      @channel = Channel.friendly.find(params[:channel_id])
     end
 
-    def set_channel
-      @channel = @video.channel
+    def set_video
+      @video = @channel.videos.friendly.find(params[:id])
     end
 
     # Only allow a list of trusted parameters through.
