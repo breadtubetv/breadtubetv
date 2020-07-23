@@ -33,6 +33,7 @@ ActiveRecord::Schema.define(version: 2020_07_19_013243) do
     t.text "tags", default: [], array: true
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.index ["slug"], name: "index_channels_on_slug", unique: true
   end
 
   create_table "features", force: :cascade do |t|
@@ -48,6 +49,16 @@ ActiveRecord::Schema.define(version: 2020_07_19_013243) do
     t.string "ident", null: false
     t.string "url", null: false
     t.string "type", null: false
+    t.integer "view_count"
+    t.integer "like_count"
+    t.integer "dislike_count"
+    t.integer "favorite_count"
+    t.integer "comment_count"
+    t.integer "duration"
+    t.string "length"
+    t.integer "scheduled"
+    t.datetime "scheduled_at"
+    t.text "tags", default: [], array: true
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["video_id"], name: "index_video_sources_on_video_id"
@@ -62,6 +73,7 @@ ActiveRecord::Schema.define(version: 2020_07_19_013243) do
     t.text "tags", default: [], array: true
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.index ["channel_id", "slug"], name: "index_videos_on_channel_id_and_slug", unique: true
     t.index ["channel_id"], name: "index_videos_on_channel_id"
   end
 

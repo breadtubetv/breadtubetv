@@ -5,6 +5,16 @@ class CreateVideoSources < ActiveRecord::Migration[6.0]
       t.string :ident, null: false
       t.string :url, null: false
       t.string :type, null: false
+      t.integer :view_count
+      t.integer :like_count
+      t.integer :dislike_count
+      t.integer :favorite_count
+      t.integer :comment_count
+      t.integer :duration
+      t.string :length
+      t.integer :scheduled
+      t.datetime :scheduled_at
+      t.text :tags, array: true, default: []
 
       t.timestamps
     end

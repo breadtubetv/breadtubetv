@@ -14,11 +14,19 @@ class Video < ApplicationRecord
 
   friendly_id :name, use: :scoped, scope: :channel
 
+  validates :slug, uniqueness: { scope: :channel }
+
   def to_s
     name
   end
 
   def image
     youtube.image
+  end
+
+  def sync!
+    youtube.sync!
+
+    self.touch
   end
 end

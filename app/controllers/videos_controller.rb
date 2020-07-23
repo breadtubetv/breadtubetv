@@ -1,6 +1,6 @@
 class VideosController < ApplicationController
-  before_action :set_channel, only: [:show, :edit, :update, :destroy]
-  before_action :set_video, only: [:show, :edit, :update, :destroy]
+  before_action :set_channel, only: [:show, :edit, :sync, :update, :destroy]
+  before_action :set_video, only: [:show, :edit, :sync, :update, :destroy]
 
   # GET /videos
   # GET /videos.json
@@ -23,6 +23,13 @@ class VideosController < ApplicationController
 
   # GET /videos/1/edit
   def edit
+  end
+
+  # GET /channels/1/sync
+  def sync
+    @video.sync!
+
+    redirect_to channel_video_path(@channel, @video)
   end
 
   # POST /videos

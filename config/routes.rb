@@ -15,6 +15,10 @@ Rails.application.routes.draw do
     member do
       get :sync, :edit # fixes the video path taking over
     end
-    resources :videos, path: '/', except: [:index, :new, :create]
+    resources :videos, path: '/', except: [:index, :new, :create] do
+      member do
+        get :sync
+      end
+    end
   end
 end

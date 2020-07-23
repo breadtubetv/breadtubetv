@@ -20,6 +20,15 @@
           <%= link_to 'Edit', edit_channel_video_path(@video.channel, @video) %> |
           <%= link_to 'Back', videos_path %>
 
+          <% if Rails.env.development? %>
+            <%= link_to 'Sync', sync_channel_video_path(@channel, @video) %>
+          <% end %>
+
+          <br />
+          <div>
+            <%= @video.youtube.inspect %>
+          </div>
+
           <p>
             <ul>
               <% @video.tags.each do |tag| %>
