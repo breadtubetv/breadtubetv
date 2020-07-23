@@ -10,7 +10,7 @@
   </div>
 
   <div class="row">
-    <div class="col-12 col-md-2 mb-3">
+    <div class="col-12 col-md-3 col-lg-2 mb-3">
       <%= search_form_for @q do |f| %>
         <%= f.input :name_or_description_or_channel_name_cont, label: 'Search' %>
 
@@ -18,7 +18,7 @@
       <% end %>
     </div>
 
-    <div class="col-12 col-md-10">
+    <div class="col-12 col-md-9 col-lg-10">
       <%= card_row do %>
         <% @videos.each do |video| %>
           <%= render video %>
