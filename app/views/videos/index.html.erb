@@ -9,13 +9,24 @@
 	  </div>
 	</div>
 
-	<%= card_row do %>
-	  <% @videos.each do |video| %>
-	    <%= render video %>
-	  <% end %>
-	<% end %>
 
-	<br>
+  <div class="row">
+    <div class="col col-md-2">
+      <%= search_form_for @q do |f| %>
+        <%= f.input :name_or_description_or_channel_name_cont, label: 'Search' %>
 
-	<%= link_to 'New video', new_video_path %>
+        <%= f.button :submit, class: 'btn-primary btn-block' %>
+      <% end %>
+    </div>
+
+    <div class="col col-md-10">
+			<%= card_row do %>
+			  <% @videos.each do |video| %>
+			    <%= render video %>
+			  <% end %>
+			<% end %>
+		</div>
+	</div>
+
+	<%#= link_to 'New video', new_video_path %>
 </div>

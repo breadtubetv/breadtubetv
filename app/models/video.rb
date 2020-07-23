@@ -14,10 +14,6 @@ class Video < ApplicationRecord
     slug
   end
 
-  def name
-    self[:name]&.gsub(/#{channel.name}/i, "")&.gsub(" - ","")&.gsub(" |  | "," | ")&.gsub("  "," ")&.split.map(&:capitalize).join(' ')
-  end
-
   def image
     youtube.image
   end
