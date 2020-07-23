@@ -1,3 +1,5 @@
+image: "ruby:2.7"
+
 test:
   stage: test
   script:
