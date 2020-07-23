@@ -1,0 +1,33 @@
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <h3><%= I18n.t(:content) %></h3>
+
+      <ul class="list-unstyled">
+        <li><%= link_to I18n.t(:videos), videos_path %></li>
+        <li><%= link_to I18n.t(:channels), channels_path %></li>
+      </ul>
+    </div>
+    <div class="col">
+      <h3><%= I18n.t(:community) %></h3>
+
+      <ul class="list-unstyled">
+        <li><%= link_to I18n.t(:guide), '#' %></li>
+        <li><%= link_to I18n.t(:creators), '#' %></li>
+        <li><%= link_to I18n.t(:developers), '#' %></li>
+      </ul>
+    </div>
+    <div class="col">
+      <h3><%= I18n.t(:about) %></h3>
+
+      <ul class="list-unstyled">
+        <li><%= link_to I18n.t(:whats_breadtubetv), '#' %></li>
+        <li><%= link_to I18n.t(:privacy_policy), '#' %></li>
+        <li><%= link_to I18n.t(:contact_us), '#' %></li>
+      </ul>
+    </div>
+    <div class="col">
+      <h3><%= I18n.t(:find_us_on) %></h3>
+    </div>
+  </div>
+</div>

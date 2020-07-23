@@ -3,13 +3,13 @@
 one:
   name: Video One
   slug: videoone
-  description: MyText
+  description: This is the first video
   published_at: 2020-07-18 13:43:45
   channel: one
 
 two:
   name: Video Two
   slug: videotwo
-  description: MyText
+  description: This is the second video
   published_at: 2020-07-18 13:43:45
   channel: two

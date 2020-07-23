@@ -30,4 +30,18 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  about: About
+  breadtubetv: BreadTube.tv
+  channel: Channel
+  channels: Channels
+  community: Community
+  contact_us: Contact Us
+  content: Content
+  creators: Creators
+  developers: Developers
+  find_us_on: Find Us On
+  guide: Guide
+  privacy_policy: Privacy Policy
+  video: Video
+  videos: Videos
+  whats_breadtubetv: What's BreadTube.tv?

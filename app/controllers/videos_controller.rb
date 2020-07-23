@@ -1,6 +1,6 @@
 class VideosController < ApplicationController
-  before_action :set_channel, except: [:index]
-  before_action :set_video, except: [:index]
+  before_action :set_channel, only: [:show, :edit, :update, :destroy]
+  before_action :set_video, only: [:show, :edit, :update, :destroy]
 
   # GET /videos
   # GET /videos.json
@@ -32,7 +32,7 @@ class VideosController < ApplicationController
 
     respond_to do |format|
       if @video.save
-        format.html { redirect_to [@channel, @video], notice: 'Video was successfully created.' }
+        format.html { redirect_to channel_video_path(@video.channel, @video), notice: 'Video was successfully created.' }
         format.json { render :show, status: :created, location: @video }
       else
         format.html { render :new }
@@ -46,7 +46,7 @@ class VideosController < ApplicationController
   def update
     respond_to do |format|
       if @video.update(video_params)
-        format.html { redirect_to [@channel, @video], notice: 'Video was successfully updated.' }
+        format.html { redirect_to channel_video_path(@video.channel, @video), notice: 'Video was successfully updated.' }
         format.json { render :show, status: :ok, location: @video }
       else
         format.html { render :edit }

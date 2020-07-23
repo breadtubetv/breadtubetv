@@ -1,11 +1,13 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  video: videoone
-  url: MyString
+  video: one
+  url: https://www.youtube.com/watch?v=12345
+  ident: 12345
   type: VideoSource::Youtube
 
 two:
-  video: videotwo
-  url: Video Two
+  video: two
+  url: https://www.youtube.com/watch?v=67890
+  ident: 67890
   type: VideoSource::Youtube

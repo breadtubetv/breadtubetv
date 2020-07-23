@@ -11,22 +11,7 @@
       if you'd like to be involved with developing this site.
     </div>
 
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <a class="navbar-brand" href="/">BreadTube.tv</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item <%= 'active' if current_class?(videos_path) %>">
-            <%= link_to "Videos", videos_path, class: "nav-link" %>
-          </li>
-          <li class="nav-item <%= 'active' if current_class?(channels_path) %>">
-            <%= link_to "Channels", channels_path, class: "nav-link" %>
-          </li>
-        </ul>
-      </div>
-    </nav>
+    <%= render "partials/navbar" %>
 
     <% if notice %>
       <div class="alert alert-success alert-dismissible fade show" role="alert">
@@ -38,5 +23,7 @@
     <% end %>
 
     <%= yield %>
+
+    <%= render "partials/footer" %>
   </body>
 </html>

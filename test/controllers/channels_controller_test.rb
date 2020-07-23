@@ -17,7 +17,7 @@ class ChannelsControllerTest < ActionDispatch::IntegrationTest
 
   test "should create channel" do
     assert_difference('Channel.count') do
-      post channels_url, params: { channel: { description: @channel.description, image: @channel.image, name: @channel.name, slug: @channel.slug } }
+      post channels_url, params: { channel: { description: @channel.description, image: @channel.image, name: "#{@channel.name} Again" } }
     end
 
     assert_redirected_to channel_url(Channel.last)
