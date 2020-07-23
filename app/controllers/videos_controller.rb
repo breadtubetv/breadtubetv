@@ -68,7 +68,7 @@ class VideosController < ApplicationController
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_video
-      @video = Video.find_by(id: params[:slug].split("/")[2])
+      @video = Channel.friendly.find(params[:channel_id]).videos.friendly.find(params[:id])
     end
 
     def set_channel

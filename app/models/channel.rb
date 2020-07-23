@@ -2,6 +2,8 @@ require 'rss'
 require 'open-uri'
 
 class Channel < ApplicationRecord
+  extend FriendlyId
+
   after_initialize :set_slug
 
   has_many :features, dependent: :destroy
@@ -17,17 +19,11 @@ class Channel < ApplicationRecord
   scope :order_by_slug, -> { order(slug: :asc) }
   scope :order_by_oldest, -> { order(updated_at: :asc) }
 
-  def to_param
-    slug
-  end
+  friendly_id :name, use: :slugged
 
   def sync!
     youtube.sync!
 
     self.touch
-  end
-
-  private def set_slug
-    self.slug ||= name&.parameterize
   end
 end

@@ -1,5 +1,7 @@
 class Video < ApplicationRecord
-  after_initialize :set_slug
+  extend FriendlyId
+
+  before_save :set_slug
 
   belongs_to :channel
 
@@ -10,15 +12,9 @@ class Video < ApplicationRecord
   scope :latest, -> { order(published_at: :desc) }
   scope :random, -> { order("RANDOM()") }
 
-  def to_param
-    slug
-  end
+  friendly_id :name, use: :scoped, scope: :channel
 
   def image
     youtube.image
-  end
-
-  private def set_slug
-    self.slug ||= "#{channel.slug}/#{name&.parameterize}/#{id}".html_safe
   end
 end

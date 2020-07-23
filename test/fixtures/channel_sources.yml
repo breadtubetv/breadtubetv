@@ -3,9 +3,11 @@
 one:
   channel: one
   url: https://youtube.com/c/12345
-  kind: youtube
+  ident: 12345
+  type: ChannelSource::Youtube
 
 two:
   channel: two
   url: https://youtube.com/c/67890
-  kind: youtube
+  ident: 67890
+  type: ChannelSource::Youtube

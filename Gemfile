@@ -26,6 +26,7 @@ gem 'pagy'
 gem 'yt'
 gem 'ransack'
 gem 'simple_form'
+gem 'friendly_id'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
