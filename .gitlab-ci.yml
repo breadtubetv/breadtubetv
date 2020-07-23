@@ -1,7 +1,16 @@
-staging:
+test:
+  stage: test
+  script:
+  - apt-get update -qy
+  - apt-get install -y nodejs
+  - bundle install --path /cache
+  - bundle exec rake db:test:prepare
+  - bundle exec rake test
+
+deploy:
   stage: deploy
   script:
   - gem install dpl
-  - dpl --provider=heroku --app=gitlab-ci-ruby-test-staging --api-key=$HEROKU_STAGING_API_KEY
+  - dpl --provider=heroku --app=breadtubetv --api-key=$HEROKU_API_KEY
   only:
   - master
