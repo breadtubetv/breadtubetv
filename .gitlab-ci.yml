@@ -6,7 +6,8 @@ test:
   - apt-get update -qy
   - apt-get install -y nodejs
   - gem install bundler
-  - bundle install --path /cache
+  - bundle config set path '/cache'
+  - bundle install
   - bundle exec rake db:test:prepare
   - bundle exec rake test
 
