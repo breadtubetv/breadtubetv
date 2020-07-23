@@ -3,6 +3,7 @@ test:
   script:
   - apt-get update -qy
   - apt-get install -y nodejs
+  - gem install bundler
   - bundle install --path /cache
   - bundle exec rake db:test:prepare
   - bundle exec rake test
