@@ -1,17 +1,16 @@
 <div class="container-fluid">
-	<div class="row mt-4 mb-2">
-	  <div class="col">
-	    <h1 class="h2 float-left">Videos</h1>
+  <div class="row mt-4 mb-2">
+    <div class="col">
+      <h1 class="h2 float-left">Videos</h1>
 
-	    <div class="float-right">
-	      <%== pagy_bootstrap_combo_nav_js(@pagy) %>
-	    </div>
-	  </div>
-	</div>
-
+      <div class="float-right">
+        <%== pagy_bootstrap_combo_nav_js(@pagy) %>
+      </div>
+    </div>
+  </div>
 
   <div class="row">
-    <div class="col col-md-2">
+    <div class="col-12 col-md-2 mb-3">
       <%= search_form_for @q do |f| %>
         <%= f.input :name_or_description_or_channel_name_cont, label: 'Search' %>
 
@@ -19,14 +18,14 @@
       <% end %>
     </div>
 
-    <div class="col col-md-10">
-			<%= card_row do %>
-			  <% @videos.each do |video| %>
-			    <%= render video %>
-			  <% end %>
-			<% end %>
-		</div>
-	</div>
+    <div class="col-12 col-md-10">
+      <%= card_row do %>
+        <% @videos.each do |video| %>
+          <%= render video %>
+        <% end %>
+      <% end %>
+    </div>
+  </div>
 
-	<%#= link_to 'New video', new_video_path %>
+  <%#= link_to 'New video', new_video_path %>
 </div>

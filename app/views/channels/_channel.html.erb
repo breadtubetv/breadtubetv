@@ -2,11 +2,13 @@
   <div class="card card-block">
     <%= link_to(image_tag(channel.image, class: "card-img-top"), channel) %>
     <div class="card-body">
-      <h5 class="card-title text-truncate"><%= link_to channel.name, channel, title: channel.name %></h5>
+      <h5 class="card-title text-truncate mb-0"><%= link_to channel.name, channel, title: channel.name %></h5>
       <p class="card-text text-truncate">
-        <abbr title="<%= channel.description %>">
-          <%= truncate(channel.description, length: 90) %>&nbsp;
-        </abbr>
+        <small>
+          <abbr title="<%= channel.description %>">
+            <%= truncate(channel.description, length: 90) %>&nbsp;
+          </abbr>
+        </small>
       </p>
       <%= link_to "Watch", channel.youtube.url, class: "btn btn-block btn-primary", target: :blank %>
       <div class="btn-group btn-group-sm btn-block mt-2">

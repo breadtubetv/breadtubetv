@@ -19,7 +19,7 @@ class Channel < ApplicationRecord
   scope :order_by_slug, -> { order(slug: :asc) }
   scope :order_by_oldest, -> { order(updated_at: :asc) }
 
-  friendly_id :name, use: :slugged
+  friendly_id :name
 
   def sync!
     youtube.sync!

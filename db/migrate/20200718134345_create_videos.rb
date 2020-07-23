@@ -10,5 +10,6 @@ class CreateVideos < ActiveRecord::Migration[6.0]
 
       t.timestamps
     end
+    add_index :videos, :slug, unique: true
   end
 end
