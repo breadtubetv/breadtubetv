@@ -52,4 +52,15 @@ namespace :sync do
   end
 end
 
-task
+task :backup => ["backup:channels", "backup:videos"]
+
+namespace :backup do
+
+  task :channels => [:environment] do
+    `curl localhost:3000/channels.json?items=100000 > data/channels.json`
+  end
+
+  task :videos => [:environment] do
+    `curl localhost:3000/videos.json?items=100000 > data/videos.json`
+  end
+end
