@@ -8,6 +8,7 @@ test:
   - gem install bundler
   - bundle config set path '/cache'
   - bundle install
+  - yarn install --check-files
   - bundle exec rake db:test:prepare
   - bundle exec rake test
 
