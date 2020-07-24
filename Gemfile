@@ -27,6 +27,7 @@ gem 'yt'
 gem 'ransack'
 gem 'simple_form'
 gem 'friendly_id'
+gem 'font-awesome-sass'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
