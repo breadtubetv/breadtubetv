@@ -10,10 +10,20 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_07_19_013243) do
+ActiveRecord::Schema.define(version: 2020_07_24_090913) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "channel_socials", force: :cascade do |t|
+    t.bigint "channel_id", null: false
+    t.string "url"
+    t.string "ident"
+    t.string "type", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["channel_id"], name: "index_channel_socials_on_channel_id"
+  end
 
   create_table "channel_sources", force: :cascade do |t|
     t.bigint "channel_id", null: false
@@ -23,6 +33,16 @@ ActiveRecord::Schema.define(version: 2020_07_19_013243) do
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["channel_id"], name: "index_channel_sources_on_channel_id"
+  end
+
+  create_table "channel_supports", force: :cascade do |t|
+    t.bigint "channel_id", null: false
+    t.string "url"
+    t.string "ident"
+    t.string "type", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["channel_id"], name: "index_channel_supports_on_channel_id"
   end
 
   create_table "channels", force: :cascade do |t|
@@ -77,7 +97,9 @@ ActiveRecord::Schema.define(version: 2020_07_19_013243) do
     t.index ["channel_id"], name: "index_videos_on_channel_id"
   end
 
+  add_foreign_key "channel_socials", "channels"
   add_foreign_key "channel_sources", "channels"
+  add_foreign_key "channel_supports", "channels"
   add_foreign_key "features", "channels"
   add_foreign_key "video_sources", "videos"
   add_foreign_key "videos", "channels"

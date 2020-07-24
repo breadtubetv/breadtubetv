@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Channel:</strong>
+  <%= @channel_support.channel %>
+</p>
+
+<p>
+  <strong>Url:</strong>
+  <%= @channel_support.url %>
+</p>
+
+<p>
+  <strong>Ident:</strong>
+  <%= @channel_support.ident %>
+</p>
+
+<%= link_to 'Edit', edit_channel_support_path(@channel_support) %> |
+<%= link_to 'Back', channel_supports_path %>

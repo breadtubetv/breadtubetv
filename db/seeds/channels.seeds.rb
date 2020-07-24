@@ -19,4 +19,18 @@ channels.each do |channel_data|
     
     puts "Created: #{ channel.name } #{ type } Source"
   end
+  channel_data["socials"].each do |social|
+    type = social["kind"].capitalize
+
+    channel.socials.create!(url: source["url"], type: "ChannelSocial::#{ type }")
+    
+    puts "Created: #{ channel.name } #{ type } Social"
+  end
+  channel_data["supports"].each do |support|
+    type = support["kind"].capitalize
+
+    channel.supports.create!(url: source["url"], type: "ChannelSupport::#{ type }")
+    
+    puts "Created: #{ channel.name } #{ type } Support"
+  end
 end

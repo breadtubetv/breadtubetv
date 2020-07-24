@@ -1,0 +1,25 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Channel Socials</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Channel</th>
+      <th>Url</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @channel_socials.each do |channel_social| %>
+      <tr>
+        <td><%= channel_social.channel %></td>
+        <td><%= link_to I18n.t(channel_social.kind), channel_social.url %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Channel Social', new_channel_social_path %>

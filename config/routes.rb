@@ -1,6 +1,8 @@
 # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 
 Rails.application.routes.draw do
+  resources :channel_supports
+  resources :channel_socials
   root 'pages#home'
   get 'privacy', to: 'pages#privacy'
 

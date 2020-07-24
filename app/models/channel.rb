@@ -15,6 +15,9 @@ class Channel < ApplicationRecord
   has_one :youtube, class_name: "::ChannelSource::Youtube"
   has_one :breadtube, class_name: "::ChannelSource::Breadtube"
 
+  has_many :socials, class_name: "::ChannelSocial", dependent: :destroy
+  has_many :supports, class_name: "::ChannelSupport", dependent: :destroy
+
   validates :name, :slug, presence: true, uniqueness: true
 
   scope :order_by_slug, -> { order(slug: :asc) }

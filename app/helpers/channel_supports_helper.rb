@@ -1,0 +1,2 @@
+module ChannelSupportsHelper
+end

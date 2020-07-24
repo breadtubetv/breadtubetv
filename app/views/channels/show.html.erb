@@ -45,6 +45,28 @@
   </ul>
 </p>
 
+<p>
+  <strong>Socials:</strong>
+  <ul>
+    <% @channel.socials.order_by_type.each do |social| %>
+      <li>
+        <%= link_to I18n.t(social.kind), social.url, target: "_blank" %>
+      </li>
+    <% end %>
+  </ul>
+</p>
+
+<p>
+  <strong>Support:</strong>
+  <ul>
+    <% @channel.supports.order_by_type.each do |support| %>
+      <li>
+        <%= link_to I18n.t(support.kind), support.url, target: "_blank" %>
+      </li>
+    <% end %>
+  </ul>
+</p>
+
 <%= @channel.videos.count %>
 
 <%= card_row do %>
