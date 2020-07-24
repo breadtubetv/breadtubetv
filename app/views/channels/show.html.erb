@@ -3,8 +3,8 @@
     <div class="col">
       <div class="overflow-hidden align-text-bottom">
         <%= image_tag @channel.image, class: "float-left", style: "width: 100px" %>
-        <div class="float-left ml-2">
-          <h1><%= @channel.name %></h1>
+        <div class="float-left ml-3" style="width: calc(100% - 120px); max-width: 60em">
+          <h1><%= link_to @channel.name, @channel %></h1>
           <%= @channel.description %>
         </div>
       </div>
@@ -30,7 +30,7 @@
 
   <div class="row mt-4">
     <div class="col">
-      <h2 class="float-left"><%= link_to I18n.t(:videos), @channel %></h2>
+      <h2 class="float-left"><%=  I18n.t(:videos) %></h2>
 
       <div class="float-right">
         <%== pagy_bootstrap_combo_nav_js(@pagy) %>
