@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
-  <a class="navbar-brand" href="/"><%= I18n.t(:breadtubetv) %></a>
+  <a class="navbar-brand font-weight-bold" href="/"><%= I18n.t(:breadtubetv) %></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -15,7 +15,7 @@
     <ul class="navbar-nav pull-right">
       <li class="nav-item">
         <%= 
-          link_to peertube_upload_path, class: "nav-link border rounded p-1 px-3 m-1 bg-light text-dark font-weight-bold", title: I18n.t(:upload) do 
+          link_to peertube_upload_path, class: "nav-link border rounded p-1 px-3 m-1 bg-peertube border-peertube font-weight-bold", title: I18n.t(:upload) do 
             icon('fas', 'upload') + " " + I18n.t(:upload)
           end
         %>

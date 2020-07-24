@@ -6,17 +6,10 @@
     <div class="card-body p-2">
       <%= logo_tag video.channel.image, float: "left" %>
       <h5 class="card-title text-truncate mb-0">
-        <small>
+        <small class="font-weight-bold">
           <%= link_to video.name.html_safe, [video.channel, video], title: video.name.html_safe %>
         </small>
       </h5>
-      <!--p class="card-text text-truncate mb-0">
-        <small>
-          <abbr title="<%= video.description %>">
-            <%= video.description.html_safe %>&nbsp;
-          </abbr>
-        </small>
-      </p-->
       <div class="mb-0 d-block overflow-hidden text-nowrap">
         <small class="d-inline-block text-truncate" style="max-width: 50%;">
           <%= link_to video.channel.name, video.channel, title: video.channel.name %>
@@ -26,18 +19,20 @@
           <%= time_ago_in_words(video.published_at).gsub("about", "") %> ago
         </small>
       </div>
-    </div>
-    <% unless simple %>
-      <div class="card-footer p-2">
+      <% if !simple %>
         <div class="btn-group btn-group-sm btn-block mt-2">
           <% video.sources.order_by_type.each do |source| %>
-            <%= link_to I18n.t(source.kind), source.url, class: "btn btn-#{ source.kind }", target: :blank %>
+            <%= link_to I18n.t(source.kind), source.url, class: "btn btn-#{ source.kind } font-weight-bold", target: :blank %>
           <% end %>
         </div>
+      <% end %>
+    </div>
+    <% if !simple && Rails.env.development? %>
+      <div class="card-footer p-2">
         <div class="btn-group btn-group-sm btn-block mt-2">
-          <%= link_to "Edit", edit_channel_video_path(video.channel, video), class: "btn btn-light btn-outline-dark" %>
-          <%= link_to 'Destroy', [video.channel, video], method: :delete, class: "btn btn-outline-danger", data: { confirm: 'Are you sure?' } %>
-        </div>
+          <%= link_to "Edit", edit_channel_video_path(video.channel, video), class: "btn btn-light btn-outline-dark font-weight-bold" %>
+          <%= link_to 'Destroy', [video.channel, video], method: :delete, class: "btn btn-outline-danger font-weight-bold", data: { confirm: 'Are you sure?' } %>
+        </div> 
       </div>
     <% end %>
   </div>
