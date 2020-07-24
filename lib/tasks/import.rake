@@ -1,8 +1,12 @@
 desc "Import Objects"
 
 namespace :import do
-  task :channel, [:youtube] => [:environment] do |task, args|
-    url = args[:youtube]
+  task :peertube, [:channel] => [:environment] do |task, args|
+    # TODO https://watch.breadtube.tv/api/v1/channels
+  end
+
+  task :youtube, [:channel] => [:environment] do |task, args|
+    url = args[:channel]
     ident = url.gsub("https://www.youtube.com/channel/","")
     image_hash = SecureRandom.hex(16)
     image_path = "/channels/#{ image_hash }.jpg"
@@ -43,7 +47,7 @@ namespace :import do
 end
 
 namespace :sync do
-  task :channels, [:slug] => [:environment] do |task, args|
+  task :channel, [:slug] => [:environment] do |task, args|
     channel = Channel.friendly.find(args[:slug])
     channel.sync!
     puts "Channel: #{ channe.name} Synced!"
