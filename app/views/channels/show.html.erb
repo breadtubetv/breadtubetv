@@ -16,6 +16,12 @@
 </p>
 
 <p>
+  <%= @channel.updated_at.to_s(:formatted) %>
+  <br/>
+  <%= time_ago_in_words @channel.updated_at.to_s(:formatted) %>
+</p>
+
+<p>
   <strong>Slug:</strong>
   <%= @channel.slug %>
 </p>

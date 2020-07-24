@@ -43,6 +43,12 @@ namespace :import do
 end
 
 namespace :sync do
+  task :channels, [:slug] => [:environment] do |task, args|
+    channel = Channel.friendly.find(args[:slug])
+    channel.sync!
+    puts "Channel: #{ channe.name} Synced!"
+  end
+
   task :channels => [:environment] do
     Channel.order_by_oldest.where('updated_at > ?', 1.days.ago.to_date.end_of_day).each do |channel|
       channel.sync!
@@ -55,7 +61,6 @@ end
 task :backup => ["backup:channels", "backup:videos"]
 
 namespace :backup do
-
   task :channels => [:environment] do
     `curl localhost:3000/channels.json?items=100000 > data/channels.json`
   end

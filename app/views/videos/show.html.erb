@@ -3,14 +3,27 @@
 <div class="container-fluid mt-4">
   <div class="row">
     <div class="col col-sm-8 col-md-9">
-      <% @video.sources.each do |source| %>
-        <div class="embed-responsive embed-responsive-16by9" style="max-height: 100vh">
-          <iframe class="embed-responsive-item" src="<%= source.embed_url %>" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-      <% end %>
+      <div class="tab-content" id="pills-tabContent">
+        <% @video.sources.order_by_type.each_with_index do |source, index| %>
+          <% id = "video_sources-#{ source.kind }" %>
+          <div class="tab-pane fade show <%= 'active' if (index == 0) %>" id="<%= id %>" role="tabpanel" aria-labelledby="<%= id %>">
+            <div class="embed-responsive embed-responsive-16by9" style="max-height: 100vh">
+              <iframe class="embed-responsive-item" src="<%= source.embed_url %>" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>
+          </div>
+        <% end %>
+      </div>
+      <ul class="nav nav-pills mt-1" id="sources-tab" role="tablist">
+        <% @video.sources.order_by_type.each_with_index do |source, index| %>
+          <% id = "video_sources-#{ source.kind }" %>
+          <li class="nav-item">
+            <a class="nav-link <%= 'active' if (index == 0) %>" id="<%= id %>" data-toggle="pill" href="#<%= id %>" role="tab" aria-controls="<%= id %>" aria-selected="true"><%= I18n.t source.kind %></a>
+          </li>
+        <% end %>
+      </ul>
 
       <div class="row mt-4" style="overflow: hidden">
-        <div class="col-12 col-md-9 col-lg-10 mb-3">
+        <div class="col-12 col-md-9 col-lg-9 col-xl-10 mb-3">
           <h1 class="h4 font-weight-bold">
             <%= @video.name.html_safe %>
           </h1>
@@ -24,11 +37,6 @@
             <%= link_to 'Sync', sync_channel_video_path(@channel, @video) %>
           <% end %>
 
-          <br />
-          <div>
-            <%= @video.youtube.inspect %>
-          </div>
-
           <p>
             <ul>
               <% @video.tags.each do |tag| %>
@@ -38,13 +46,7 @@
           </p>
         </div>
 
-        <div class="col-12 col-md-3 col-lg-2">
-          <select>
-            <% @video.sources.each do |source| %>
-              <option>Playing From: <%= source.kind %></option>
-            <% end %>
-          </select>
-
+        <div class="col-12 col-md-3 col-lg-3 col-xl-2">
           <div style="overflow: hidden" class="mt-4">
             <div class="float-left">
               <h5 class="mb-0">
@@ -66,6 +68,14 @@
 
         </div>
       </div>
+      <% if Rails.env.development? %>
+        <div>
+          <%= @video.inspect %>
+        </div>
+        <div>
+          <%= @video.youtube.inspect %>
+        </div>
+      <% end %>
     </div>
     <div class="col-12 col-sm-4 col-md-3">
       <%= render @videos, locals: { simple: true } %>

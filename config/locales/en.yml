@@ -31,6 +31,7 @@
 
 en:
   about: About
+  breadtube: BreadTube
   breadtubetv: BreadTube.tv
   channel: Channel
   channels: Channels
@@ -44,4 +45,5 @@ en:
   privacy_policy: Privacy Policy
   video: Video
   videos: Videos
+  youtube: YouTube
   whats_breadtubetv: What's BreadTube.tv?

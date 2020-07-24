@@ -3,6 +3,8 @@ class VideoSource < ApplicationRecord
 
   belongs_to :video
 
+  scope :order_by_type, -> { order(type: :asc) }
+
   def kind
     type.to_s.gsub("VideoSource::", "").downcase
   end

@@ -13,6 +13,7 @@ class Channel < ApplicationRecord
 
   has_many :sources, class_name: "::ChannelSource", dependent: :destroy
   has_one :youtube, class_name: "::ChannelSource::Youtube"
+  has_one :breadtube, class_name: "::ChannelSource::Breadtube"
 
   validates :name, :slug, presence: true, uniqueness: true
 
