@@ -47,6 +47,7 @@
 
         <div class="col-12 col-md-3 col-lg-3 col-xl-2">
           <div class="overflow-hidden">
+            <%= logo_tag @video.channel.image, float: "left" %>
             <div class="float-left" style="width: calc(100% - 50px)">
               <h5 class="mb-0">
                 <small class="font-weight-bold">
@@ -54,7 +55,6 @@
                 </small>
               </h5>
             </div>
-            <%= logo_tag @video.channel.image %>
           </div>
           <p>
             <small>
