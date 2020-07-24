@@ -20,10 +20,10 @@ $theme-colors: (
 );
 
 a.source-peertube {
-  color: $purple !important;
+  color: map-get($theme-colors, "peertube") !important;
 }
 
 .nav-pills .nav-link.active.source-peertube {
-  background-color: $purple !important;
+  background-color: map-get($theme-colors, "peertube") !important;
   color: $white !important;
 }
