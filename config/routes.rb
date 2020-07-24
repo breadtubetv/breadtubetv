@@ -5,6 +5,8 @@ Rails.application.routes.draw do
   resources :channel_socials
   root 'pages#home'
   get 'privacy', to: 'pages#privacy'
+  get 'peertube', to: redirect('https://watch.breadtube.tv/')
+  get 'youtube', to: redirect('https://www.youtube.com/channel/UCv8O1dx5UjWHlJuo_Wl6o5w')
 
   resources :features
 

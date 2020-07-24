@@ -22,14 +22,14 @@ channels.each do |channel_data|
   channel_data["socials"].each do |social|
     type = social["kind"].capitalize
 
-    channel.socials.create!(url: source["url"], type: "ChannelSocial::#{ type }")
+    channel.socials.create!(url: social["url"], type: "ChannelSocial::#{ type }")
     
     puts "Created: #{ channel.name } #{ type } Social"
   end
   channel_data["supports"].each do |support|
     type = support["kind"].capitalize
 
-    channel.supports.create!(url: source["url"], type: "ChannelSupport::#{ type }")
+    channel.supports.create!(url: support["url"], type: "ChannelSupport::#{ type }")
     
     puts "Created: #{ channel.name } #{ type } Support"
   end

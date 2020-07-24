@@ -13,9 +13,9 @@ class Video < ApplicationRecord
   scope :latest, -> { order(published_at: :desc) }
   scope :random, -> { order("RANDOM()") }
 
-  friendly_id :name, use: :scoped, scope: :channel
+  validates :slug, uniqueness: { scope: :channel_id }
 
-  validates :slug, uniqueness: { scope: :channel }
+  friendly_id :name, use: :scoped, scope: :channel
 
   def to_s
     name
