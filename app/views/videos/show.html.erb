@@ -23,11 +23,17 @@
       </ul>
 
       <div class="row overflow-hidden">
-        <div class="col-12 col-md-9 col-lg-9 col-xl-10 mb-3">
-          <h1 class="h4 font-weight-bold">
+        <div class="col-12 col-md-9 col-lg-9 col-xl-10">
+          <h1 class="h4 font-weight-bold mb-0">
             <%= @video.name.html_safe %>
           </h1>
           
+          <p class="my-0">
+            <small>
+              <%= @video.published_at %>
+            </small>
+          </p>
+
           <%= simple_format @video.description %>
 
           <p>
@@ -47,11 +53,6 @@
                   <%= link_to @video.channel.name, @video.channel %>
                 </small>
               </h5>
-              <p class="my-0">
-                <small>
-                  <%= @video.published_at %>
-                </small>
-              </p>
             </div>
             <%= logo_tag @video.channel.image %>
           </div>
