@@ -2,7 +2,8 @@
 
 Rails.application.routes.draw do
   root 'pages#home'
-  
+  get 'privacy', to: 'pages#privacy'
+
   resources :features
 
   resources :channel_sources

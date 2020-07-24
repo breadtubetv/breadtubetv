@@ -30,4 +30,9 @@ class Channel < ApplicationRecord
 
     self.touch
   end
+
+  def normalize_friendly_id(string)
+    super.gsub("-", "")
+  end
+
 end
