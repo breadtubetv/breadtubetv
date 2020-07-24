@@ -11,6 +11,8 @@ $blue: #336699;
 $purple: #9B51E0;
 $orange: #F2690D;
 
+$link-color: lighten($blue, 20%);
+
 $theme-colors: (
   "youtube": $blue,
   "peertube": $orange,
