@@ -31,7 +31,6 @@
 
 en:
   about: About
-  breadtube: BreadTube
   breadtubetv: BreadTube.tv
   channel: Channel
   channels: Channels
@@ -42,6 +41,7 @@ en:
   developers: Developers
   find_us_on: Find Us On
   guide: Guide
+  peertube: PeerTube
   privacy_policy: Privacy Policy
   video: Video
   videos: Videos

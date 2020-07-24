@@ -34,8 +34,13 @@
 <p>
   <strong>Sources:</strong>
   <ul>
-    <% @channel.sources.each do |source| %>
-      <li><%= link_to source.type.to_s.gsub("ChannelSource::",""), source.url %></li>
+    <% @channel.sources.order_by_type.each do |source| %>
+      <li>
+        <%= link_to I18n.t(source.kind), source.url, target: "_blank" %>
+        <ul>
+          <li><%= source.rss_url %></li>
+        </ul>
+      </li>
     <% end %>
   </ul>
 </p>

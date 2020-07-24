@@ -2,7 +2,7 @@ class ChannelSource < ApplicationRecord
   belongs_to :channel
   before_create :set_ident
 
-  scope :has_videos, -> { where(has_videos: true) }
+  scope :order_by_type, -> { order(type: :asc) }
 
   def to_builder
     Jbuilder.new do |source|

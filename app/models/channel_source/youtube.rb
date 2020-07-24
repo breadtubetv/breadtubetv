@@ -1,4 +1,8 @@
 class ChannelSource::Youtube < ChannelSource
+  def rss_url
+    "https://www.youtube.com/feeds/videos.xml?channel_id=#{ ident }"
+  end
+
   def api_videos
     @api_videos ||= api.videos
   end
