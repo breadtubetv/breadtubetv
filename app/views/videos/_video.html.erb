@@ -29,7 +29,7 @@
     </div>
     <% if !simple && Rails.env.development? %>
       <div class="card-footer p-2">
-        <div class="btn-group btn-group-sm btn-block mt-2">
+        <div class="btn-group btn-group-sm btn-block">
           <%= link_to "Edit", edit_channel_video_path(video.channel, video), class: "btn btn-light btn-outline-dark font-weight-bold" %>
           <%= link_to 'Destroy', [video.channel, video], method: :delete, class: "btn btn-outline-danger font-weight-bold", data: { confirm: 'Are you sure?' } %>
         </div> 
