@@ -15,7 +15,7 @@
     <ul class="navbar-nav pull-right">
       <li class="nav-item">
         <%= 
-          link_to LINKS[:peertube_upload], class: "nav-link border rounded p-1 px-3 m-1 bg-peertube border-peertube font-weight-bold", title: I18n.t(:upload) do 
+          link_to LINKS[:peertube_upload], target: "_blank", class: "nav-link border rounded p-1 px-3 m-1 bg-peertube border-peertube font-weight-bold", title: I18n.t(:upload) do
             icon('fas', 'upload') + " " + I18n.t(:upload)
           end
         %>
