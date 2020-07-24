@@ -1,7 +1,7 @@
 <div class="container-fluid">
   <div class="row my-2">
     <div class="col">
-      <h2 class=""><%= link_to "Latest Videos", videos_path %></h2>
+      <h2 class=""><%= link_to I18n.t(:latest_videos), videos_path %></h2>
 
       <%= card_row do %>
         <% @latest_videos.each do |video| %>
@@ -13,7 +13,7 @@
 
   <div class="row my-2">
     <div class="col">
-      <h2><%= link_to "Featured Channels", channels_path %></h2>
+      <h2><%= link_to I18n.t(:featured_channels), channels_path %></h2>
 
       <%= card_row do %>
         <% @features.each do |feature| %>
@@ -25,7 +25,7 @@
 
   <div class="row my-2">
     <div class="col">
-      <h2><%= link_to "Random Videos", videos_path %></h2>
+      <h2><%= link_to I18n.t(:random_videos), videos_path %></h2>
 
       <%= card_row do %>
         <% @random_videos.each do |video| %>
