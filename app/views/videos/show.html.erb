@@ -17,7 +17,9 @@
         <% @video.sources.order_by_type.each_with_index do |source, index| %>
           <% id = "video_sources-#{ source.kind }" %>
           <li class="nav-item">
-            <a class="nav-link <%= 'active' if (index == 0) %>" id="<%= id %>" data-toggle="pill" href="#<%= id %>" role="tab" aria-controls="<%= id %>" aria-selected="true"><%= I18n.t source.kind %></a>
+            <a class="nav-link <%= 'active' if (index == 0) %> source-<%= source.kind %>" id="<%= id %>" data-toggle="pill" href="#<%= id %>" role="tab" aria-controls="<%= id %>" aria-selected="true">
+              <%= I18n.t source.kind %>
+            </a>
           </li>
         <% end %>
       </ul>
