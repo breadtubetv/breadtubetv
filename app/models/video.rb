@@ -6,8 +6,8 @@ class Video < ApplicationRecord
   belongs_to :channel
 
   has_many :sources, class_name: "VideoSource", dependent: :destroy
+  has_one :peertube, class_name: "VideoSource::Peertube"
   has_one :youtube, class_name: "VideoSource::Youtube"
-  has_one :breadtube, class_name: "VideoSource::Breadtube"
 
   scope :published, -> { where.not(published_at: nil) }
   scope :latest, -> { order(published_at: :desc) }
