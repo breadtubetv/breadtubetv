@@ -1,7 +1,5 @@
-<%= content_for :title, t("titles.videos.show", name: @video.name) %>
-
-<div class="container-fluid mt-4">
-  <div class="row">
+<div class="container-fluid">
+  <div class="row mt-2">
     <div class="col col-sm-8 col-md-9">
       <div class="tab-content" id="pills-tabContent">
         <% @video.sources.order_by_type.each_with_index do |source, index| %>
@@ -31,13 +29,6 @@
           </h1>
           
           <%= simple_format @video.description %>
-
-          <%= link_to 'Edit', edit_channel_video_path(@video.channel, @video) %> |
-          <%= link_to 'Back', videos_path %>
-
-          <% if Rails.env.development? %>
-            <%= link_to 'Sync', sync_channel_video_path(@channel, @video) %>
-          <% end %>
 
           <p>
             <ul>
@@ -73,6 +64,8 @@
         </div>
       </div>
       <% if Rails.env.development? %>
+        <%= link_to 'Edit', edit_channel_video_path(@video.channel, @video) %>
+        <%= link_to 'Sync', sync_channel_video_path(@channel, @video) %>
         <div>
           <%= @video.inspect %>
         </div>
