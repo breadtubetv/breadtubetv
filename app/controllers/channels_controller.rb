@@ -1,5 +1,6 @@
 class ChannelsController < ApplicationController
-  before_action :set_channel, only: [:show, :edit, :sync, :update, :destroy]
+  before_action :set_channel, only: [:edit, :sync, :update, :destroy]
+  before_action :set_channel_and_videos, only: [:show]
 
   # GET /channels
   # GET /channels.json
@@ -73,7 +74,16 @@ class ChannelsController < ApplicationController
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_channel
-      @channel = Channel.includes(:videos, :sources, :supports, :socials).friendly.find(params[:id])
+      @channel = Channel.includes(:sources).friendly.find(params[:id])
+    end
+
+    def set_channel_and_videos
+      @channel = Channel.includes(:sources, :supports, :socials, :videos).friendly.find(params[:id])
+      @videos = @channel.videos.published.latest
+      @sources = @channel.sources.order_by_type
+      @socials = @channel.socials.order_by_type
+      @supports = @channel.supports.order_by_type
+      @pagy, @videos = pagy(@videos, items: params[:items])
     end
 
     # Only allow a list of trusted parameters through.

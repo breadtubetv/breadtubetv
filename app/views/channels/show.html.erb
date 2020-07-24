@@ -1,76 +1,56 @@
-<%= link_to 'Edit', edit_channel_path(@channel) %> |
-<%= link_to 'Back', channels_path %> |
+<div class="container-fluid">
+  <div class="row my-3">
+    <div class="col">
+      <div class="overflow-hidden align-text-bottom">
+        <%= image_tag @channel.image, class: "float-left", style: "width: 100px" %>
+        <div class="float-left ml-2">
+          <h1><%= @channel.name %></h1>
+          <%= @channel.description %>
+        </div>
+      </div>
+    </div>
+  </div>
 
-<% if Rails.env.development? %>
-  <%= link_to 'Sync', sync_channel_path(@channel) %>
-<% end %>
+  <div class="row">
+    <div class="col">
+      
+      <% @sources.each do |source| %>
+        <%= link_to I18n.t(source.kind), source.url, class: "btn btn-sm btn-#{ source.kind } font-weight-bold", target: :blank %>
+      <% end %>
 
-<p>
-  <strong>Image:</strong>
-  <%= image_tag @channel.image %>
-</p>
+      <% @socials.each do |social| %>
+        <%= link_to I18n.t(social.kind), social.url, class: "btn btn-sm btn-#{ social.kind } font-weight-bold", target: :blank %>
+      <% end %>
+      
+      <% @supports.each do |support| %>
+        <%= link_to I18n.t(support.kind), support.url, class: "btn btn-sm btn-#{ support.kind } font-weight-bold", target: :blank %>
+      <% end %>
+    </div>
+  </div>
 
-<p>
-  <strong>Name:</strong>
-  <%= @channel.name %>
-</p>
+  <div class="row mt-4">
+    <div class="col">
+      <h2 class="float-left"><%= link_to I18n.t(:videos), @channel %></h2>
 
-<p>
-  <%= @channel.updated_at.to_s(:formatted) %>
-  <br/>
-  <%= time_ago_in_words @channel.updated_at.to_s(:formatted) %>
-</p>
+      <div class="float-right">
+        <%== pagy_bootstrap_combo_nav_js(@pagy) %>
+      </div>
+    </div>
+  </div>
 
-<p>
-  <strong>Slug:</strong>
-  <%= @channel.slug %>
-</p>
+  <div class="row">
+    <div class="col">
 
-<p>
-  <strong>Description:</strong>
-  <%= @channel.description %>
-</p>
+      <%= card_row do %>
+        <% @videos.each do |video| %>
+          <%= render video %>
+        <% end %>
+      <% end %>
 
-<p>
-  <strong>Sources:</strong>
-  <ul>
-    <% @channel.sources.order_by_type.each do |source| %>
-      <li>
-        <%= link_to I18n.t(source.kind), source.url, target: "_blank" %>
-        <ul>
-          <li><%= source.rss_url %></li>
-        </ul>
-      </li>
-    <% end %>
-  </ul>
-</p>
-
-<p>
-  <strong>Socials:</strong>
-  <ul>
-    <% @channel.socials.order_by_type.each do |social| %>
-      <li>
-        <%= link_to I18n.t(social.kind), social.url, target: "_blank" %>
-      </li>
-    <% end %>
-  </ul>
-</p>
-
-<p>
-  <strong>Support:</strong>
-  <ul>
-    <% @channel.supports.order_by_type.each do |support| %>
-      <li>
-        <%= link_to I18n.t(support.kind), support.url, target: "_blank" %>
-      </li>
-    <% end %>
-  </ul>
-</p>
-
-<%= @channel.videos.count %>
-
-<%= card_row do %>
-  <% @channel.videos.published.latest.each do |video| %>
-    <%= render video %>
-  <% end %>
-<% end %>
+      <% if Rails.env.development? %>
+        <%= link_to 'Edit', edit_channel_path(@channel) %> |
+        <%= link_to 'Sync', sync_channel_path(@channel) %>
+      <% end %>
+    </div>
+  </div>
+</div>
