@@ -4,13 +4,7 @@
     <%= render "partials/head" %>
   </head>
 
-  <body>
-    <div class="alert alert-warning mb-0 text-center" role="alert">
-      This is a work-in-progress, content will be reset every hour.
-      Contact <a href="https://twitter.com/dirkkellycom" target="_blank">@dirkkellycom</a>
-      if you'd like to be involved with developing this site.
-    </div>
-
+  <body style="padding-top: 80px">
     <%= render "partials/navbar" %>
 
     <% if notice %>
@@ -26,5 +20,12 @@
 
     <%= render "partials/footer" %>
     <%= render "partials/foot" %>
+
+    <div class="alert alert-warning mb-0 text-center" role="alert">
+      This is a work-in-progress, content will be reset every hour.
+      Contact <a href="https://twitter.com/dirkkellycom" target="_blank">@dirkkellycom</a>
+      if you'd like to be involved with developing this site.
+    </div>
+
   </body>
 </html>
