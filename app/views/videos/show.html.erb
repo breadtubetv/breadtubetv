@@ -63,6 +63,14 @@
           </p>
         </div>
       </div>
+    </div>
+    <div class="col-12 col-sm-4 col-md-3">
+      <div class="row row-cols-1">
+        <%= render @videos, locals: { simple: true } %>
+      </div>
+    </div>
+  </div>
+  
       <% if Rails.env.development? %>
         <%= link_to 'Edit', edit_channel_video_path(@video.channel, @video) %>
         <%= link_to 'Sync', sync_channel_video_path(@channel, @video) %>
@@ -73,9 +81,4 @@
           <%= @video.youtube.inspect %>
         </div>
       <% end %>
-    </div>
-    <div class="col-12 col-sm-4 col-md-3">
-      <%= render @videos, locals: { simple: true } %>
-    </div>
-  </div>
 </div>

@@ -1,6 +1,15 @@
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark fixed-top">
-  <a class="navbar-brand font-weight-bold" href="/"><%= I18n.t(:breadtubetv) %></a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <a class="navbar-brand font-weight-bold mr-auto mr-sm-3" href="/"><%= I18n.t(:breadtubetv) %></a>
+  <ul class="navbar-nav mr-right d-block d-sm-none">
+    <li class="nav-item">
+      <%= 
+        link_to LINKS[:peertube_upload], target: "_blank", class: "nav-link border rounded p-1 px-3 m-1 bg-peertube border-peertube font-weight-bold", title: I18n.t(:upload) do
+          icon('fas', 'upload') 
+        end
+      %>
+    </li>
+  </ul>
+  <button class="navbar-toggler mr-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -12,7 +21,7 @@
         <%= link_to I18n.t(:channels), channels_path, class: "nav-link" %>
       </li>
     </ul>
-    <ul class="navbar-nav pull-right">
+    <ul class="navbar-nav mr-right d-none d-sm-block">
       <li class="nav-item">
         <%= 
           link_to LINKS[:peertube_upload], target: "_blank", class: "nav-link border rounded p-1 px-3 m-1 bg-peertube border-peertube font-weight-bold", title: I18n.t(:upload) do
