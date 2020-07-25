@@ -4,11 +4,12 @@ class ChannelSource::Youtube < ChannelSource
   end
 
   def api_videos
-    @api_videos ||= api.videos
+    @api_videos ||= api.videos.where(published_after: last_synced)
   end
 
   def sync!
     api_videos.each do |yt_video|
+      puts "Syncing: #{ yt_video.title.html_safe } Video"
       video_source = channel.video_sources.find_or_initialize_by(
         url: "https://www.youtube.com/watch?v=#{ yt_video.id }",
         type: "VideoSource::Youtube"
@@ -24,7 +25,15 @@ class ChannelSource::Youtube < ChannelSource
 
       video_source.video = video
       video_source.sync!(yt_video)
+
+      update(synced_at: yt_video.published_at)
     end
+
+    touch(:synced_at)
+  end
+
+  private def last_synced
+    synced_at&.rfc3339 || channel.videos.latest.first&.published_at
   end
 
   private def api

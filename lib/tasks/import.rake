@@ -50,11 +50,11 @@ namespace :sync do
   task :channel, [:slug] => [:environment] do |task, args|
     channel = Channel.friendly.find(args[:slug])
     channel.sync!
-    puts "Channel: #{ channe.name} Synced!"
+    puts "Channel: #{ channel.name} Synced!"
   end
 
   task :channels => [:environment] do
-    Channel.order_by_oldest.where('updated_at > ?', 1.days.ago.to_date.end_of_day).each do |channel|
+    Channel.order_by_slug.needs_sync.each do |channel|
       channel.sync!
       puts "Channel: #{ channel.name } Synced!"
       sleep(10)

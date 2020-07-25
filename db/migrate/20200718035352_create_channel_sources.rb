@@ -5,6 +5,7 @@ class CreateChannelSources < ActiveRecord::Migration[6.0]
       t.string :ident, null: false
       t.string :url, null: false
       t.string :type, null: false
+      t.timestamp :synced_at
 
       t.timestamps
     end

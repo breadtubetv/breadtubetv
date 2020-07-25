@@ -36,5 +36,9 @@ after :channels do
         puts "Created: #{ video.name } #{ type } Source"
       end
     end
+
+    if !channel.youtube.synced_at || (video.published_at > channel.youtube.synced_at)
+      channel.youtube.update(synced_at: video.published_at)
+    end
   end
 end

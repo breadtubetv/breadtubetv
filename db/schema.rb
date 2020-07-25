@@ -30,6 +30,7 @@ ActiveRecord::Schema.define(version: 2020_07_24_090913) do
     t.string "ident", null: false
     t.string "url", null: false
     t.string "type", null: false
+    t.datetime "synced_at"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
     t.index ["channel_id"], name: "index_channel_sources_on_channel_id"
