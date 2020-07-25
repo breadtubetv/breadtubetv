@@ -12,15 +12,15 @@
       </p>
       <div class="btn-group btn-group-sm btn-block mt-2">
         <% channel.sources.order_by_type.each do |source| %>
-          <%= link_to I18n.t(source.kind), source.url, class: "btn btn-#{ source.kind } font-weight-bold", target: :blank %>
+          <%= link_to I18n.t(source.kind), source.url, class: "btn btn-#{ source.kind }", target: :blank %>
         <% end %>
       </div>
     </div>
     <% if Rails.env.development? %>
       <div class="card-footer p-2">
         <div class="btn-group btn-group-sm btn-block">
-          <%= link_to "Edit", edit_channel_path(channel), class: "btn btn-light btn-outline-dark font-weight-bold" %>
-          <%= link_to 'Destroy', channel, method: :delete, class: "btn btn-outline-danger font-weight-bold", data: { confirm: 'Are you sure?' } %>
+          <%= link_to "Edit", edit_channel_path(channel), class: "btn btn-light btn-outline-dark" %>
+          <%= link_to 'Destroy', channel, method: :delete, class: "btn btn-outline-danger", data: { confirm: 'Are you sure?' } %>
         </div>
       </div>
     <% end %>

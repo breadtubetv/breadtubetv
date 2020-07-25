@@ -2,7 +2,9 @@
   <div class="row my-2">
     <div class="col">
       <div class="d-block d-md-flex justify-content-between">
-        <h1 class="h2 mb-2 mr-auto"><%= link_to I18n.t(:channels), channels_path %></h1>
+        <h1 class="h2 mb-2 mr-auto">
+          <%= link_to I18n.t(:channels), channels_path %>
+        </h1>
 
         <div class="mb-2 mr-0 mr-md-2">
           <%= search_form_for @q, wrapper: :inline_form do |f| %>

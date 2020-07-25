@@ -12,3 +12,16 @@ abbr[title] {
 .pagy-bootstrap-combo-nav-js .btn-group {
   width: 100%;
 }
+
+a.source-peertube {
+  color: map-get($theme-colors, "peertube") !important;
+}
+
+.nav-pills .nav-link.active.source-peertube {
+  background-color: map-get($theme-colors, "peertube") !important;
+  color: $white !important;
+}
+
+.nav-item.active {
+  text-decoration: underline;
+}

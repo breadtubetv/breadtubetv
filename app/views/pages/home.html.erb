@@ -1,7 +1,9 @@
 <div class="container-fluid">
   <div class="row my-2">
     <div class="col">
-      <h2 class=""><%= link_to I18n.t(:latest_videos), videos_path %></h2>
+      <h2 class="">
+        <%= link_to I18n.t(:latest_videos), videos_path %>
+      </h2>
 
       <%= card_row do %>
         <% @latest_videos.each do |video| %>

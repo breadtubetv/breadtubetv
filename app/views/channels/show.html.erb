@@ -15,15 +15,15 @@
     <div class="col">
       
       <% @sources.each do |source| %>
-        <%= link_to I18n.t(source.kind), source.url, class: "btn btn-sm btn-#{ source.kind } font-weight-bold", target: :blank %>
+        <%= link_to I18n.t(source.kind), source.url, class: "btn btn-sm btn-#{ source.kind }", target: :blank %>
       <% end %>
 
       <% @socials.each do |social| %>
-        <%= link_to I18n.t(social.kind), social.url, class: "btn btn-sm btn-#{ social.kind } font-weight-bold", target: :blank %>
+        <%= link_to I18n.t(social.kind), social.url, class: "btn btn-sm btn-#{ social.kind }", target: :blank %>
       <% end %>
       
       <% @supports.each do |support| %>
-        <%= link_to I18n.t(support.kind), support.url, class: "btn btn-sm btn-#{ support.kind } font-weight-bold", target: :blank %>
+        <%= link_to I18n.t(support.kind), support.url, class: "btn btn-sm btn-#{ support.kind }", target: :blank %>
       <% end %>
     </div>
   </div>

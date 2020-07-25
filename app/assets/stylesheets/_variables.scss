@@ -15,6 +15,10 @@ $yellow: #F9CB40;
 
 $link-color: $blue;
 
+$font-weight-bold: 700;
+$headings-font-weight: $font-weight-bold;
+$btn-font-weight: $font-weight-bold;
+
 $theme-colors: (
   "discord": #7289da,
   "kofi": #FF5F5F,
@@ -27,12 +31,3 @@ $theme-colors: (
   "youtube": $blue,
   "website": #21759b
 );
-
-a.source-peertube {
-  color: map-get($theme-colors, "peertube") !important;
-}
-
-.nav-pills .nav-link.active.source-peertube {
-  background-color: map-get($theme-colors, "peertube") !important;
-  color: $white !important;
-}

@@ -12,10 +12,10 @@
           </small>
         </h5>
         <div class="mb-0 d-block overflow-hidden text-nowrap">
-          <small class="d-inline-block text-truncate" style="max-width: 50%;">
+          <small class="d-inline-block text-truncate font-weight-bold" style="max-width: 70%;">
             <%= link_to video.channel.name, video.channel, title: video.channel.name %>
           </small>
-          <small class="d-inline-block text-truncate" style="max-width: 40%;">
+          <small class="d-inline-block text-truncate" style="max-width: 30%;">
             &middot;
             <%= time_ago_in_words(video.published_at).gsub("about", "") %> ago
           </small>
@@ -24,7 +24,7 @@
       <% if !simple %>
         <div class="btn-group btn-group-sm btn-block mt-2">
           <% video.sources.order_by_type.each do |source| %>
-            <%= link_to I18n.t(source.kind), source.url, class: "btn btn-#{ source.kind } font-weight-bold", target: :blank %>
+            <%= link_to I18n.t(source.kind), source.url, class: "btn btn-#{ source.kind }", target: :blank %>
           <% end %>
         </div>
       <% end %>
@@ -32,8 +32,8 @@
     <% if !simple && !Rails.env.development? %>
       <div class="card-footer p-2">
         <div class="btn-group btn-group-sm btn-block">
-          <%= link_to "Edit", edit_channel_video_path(video.channel, video), class: "btn btn-light btn-outline-dark font-weight-bold" %>
-          <%= link_to 'Destroy', [video.channel, video], method: :delete, class: "btn btn-outline-danger font-weight-bold", data: { confirm: 'Are you sure?' } %>
+          <%= link_to "Edit", edit_channel_video_path(video.channel, video), class: "btn btn-light btn-outline-dark" %>
+          <%= link_to 'Destroy', [video.channel, video], method: :delete, class: "btn btn-outline-danger", data: { confirm: 'Are you sure?' } %>
         </div> 
       </div>
     <% end %>

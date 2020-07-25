@@ -15,16 +15,16 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item <%= 'active' if current_class?(:videos) %>">
-        <%= link_to I18n.t(:videos), videos_path, class: "nav-link" %>
+        <%= link_to I18n.t(:videos), videos_path, class: "nav-link font-weight-bold" %>
       </li>
       <li class="nav-item <%= 'active' if current_class?(:channels) %>">
-        <%= link_to I18n.t(:channels), channels_path, class: "nav-link" %>
+        <%= link_to I18n.t(:channels), channels_path, class: "nav-link font-weight-bold" %>
       </li>
     </ul>
     <ul class="navbar-nav mr-right d-none d-sm-block">
       <li class="nav-item">
         <%= 
-          link_to LINKS[:peertube_upload], target: "_blank", class: "nav-link border rounded p-1 px-3 m-1 bg-peertube border-peertube font-weight-bold", title: I18n.t(:upload) do
+          link_to LINKS[:peertube_upload], target: "_blank", class: "nav-link border rounded p-1 px-3 m-1 bg-peertube border-peertube", title: I18n.t(:upload) do
             icon('fas', 'upload') + " " + I18n.t(:upload)
           end
         %>
