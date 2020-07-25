@@ -1,3 +1,8 @@
+<%= content_for :head do %>
+  <meta property="og:image" content="<%= @video.image %>">
+  <meta name="description" content="<%= @video.description %>">
+<% end %>
+
 <div class="container-fluid">
   <div class="row mt-2">
     <div class="col col-sm-8 col-md-9">

@@ -1,3 +1,8 @@
+<%= content_for :head do %>
+  <meta property="og:image" content="<%= @channel.image %>">
+  <meta name="description" content="<%= @channel.description %>">
+<% end %>
+
 <div class="container-fluid">
   <div class="row my-3">
     <div class="col">
