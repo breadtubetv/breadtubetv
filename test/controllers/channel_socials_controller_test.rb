@@ -17,7 +17,7 @@ class ChannelSocialsControllerTest < ActionDispatch::IntegrationTest
 
   test "should create channel_social" do
     assert_difference('ChannelSocial.count') do
-      post channel_socials_url, params: { channel_social: { channel: @channel_social.channel, ident: @channel_social.ident, url: @channel_social.url } }
+      post channel_socials_url, params: { channel_social: { channel_id: @channel_social.channel_id, ident: @channel_social.ident, url: @channel_social.url } }
     end
 
     assert_redirected_to channel_social_url(ChannelSocial.last)
@@ -34,7 +34,7 @@ class ChannelSocialsControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should update channel_social" do
-    patch channel_social_url(@channel_social), params: { channel_social: { channel: @channel_social.channel, ident: @channel_social.ident, url: @channel_social.url } }
+    patch channel_social_url(@channel_social), params: { channel_social: { channel_id: @channel_social.channel_id, ident: @channel_social.ident, url: @channel_social.url } }
     assert_redirected_to channel_social_url(@channel_social)
   end
 

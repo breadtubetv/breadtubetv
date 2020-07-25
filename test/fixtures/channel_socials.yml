@@ -1,11 +1,13 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  channel: 
+  channel: one
   url: MyString
   ident: MyString
+  type: ChannelSocial::Twitter
 
 two:
-  channel: 
+  channel: two
   url: MyString
   ident: MyString
+  type: ChannelSocial::Facebook
