@@ -7,11 +7,13 @@ $grid-breakpoints: (
 );
 
 $white: #FFFFFF;
-$blue: #336699;
-$purple: #9B51E0;
+$blue: #20A4F3;
+$purple: #AD6FE7;
 $orange: #F2690D;
+$green: #0CA761;
+$yellow: #F9CB40;
 
-$link-color: lighten($blue, 20%);
+$link-color: $blue;
 
 $theme-colors: (
   "discord": #7289da,
