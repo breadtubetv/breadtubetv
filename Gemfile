@@ -28,6 +28,7 @@ gem 'ransack'
 gem 'simple_form'
 gem 'friendly_id'
 gem 'font-awesome-sass'
+gem 'peertube', git: 'https://gitlab.com/breadtube/peertube-ruby.git'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'

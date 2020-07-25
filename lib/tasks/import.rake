@@ -1,10 +1,6 @@
 desc "Import Objects"
 
 namespace :import do
-  task :peertube, [:channel] => [:environment] do |task, args|
-    # TODO https://watch.breadtube.tv/api/v1/channels
-  end
-
   task :youtube, [:channel] => [:environment] do |task, args|
     url = args[:channel]
     ident = url.gsub("https://www.youtube.com/channel/","")
