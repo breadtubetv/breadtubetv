@@ -4,20 +4,22 @@
   <div class="card card-block">
     <%= link_to(image_tag(video.image, class: "card-img-top"), [video.channel, video]) %>
     <div class="card-body p-2">
-      <%= logo_tag video.channel.image, float: "left" %>
-      <h5 class="card-title text-truncate mb-0">
-        <small class="font-weight-bold">
-          <%= link_to video.name.html_safe, [video.channel, video], title: video.name.html_safe %>
-        </small>
-      </h5>
-      <div class="mb-0 d-block overflow-hidden text-nowrap">
-        <small class="d-inline-block text-truncate" style="max-width: 50%;">
-          <%= link_to video.channel.name, video.channel, title: video.channel.name %>
-        </small>
-        <small class="d-inline-block text-truncate" style="max-width: 40%;">
-          &middot;
-          <%= time_ago_in_words(video.published_at).gsub("about", "") %> ago
-        </small>
+      <div  style="height: 100px">
+        <%= logo_tag video.channel.image, float: "left" %>
+        <h5 class="card-title mb-2 overflow-hidden" style="height: 72px">
+          <small class="font-weight-bold">
+            <%= link_to video.name.html_safe, [video.channel, video], title: video.name.html_safe %>
+          </small>
+        </h5>
+        <div class="mb-0 d-block overflow-hidden text-nowrap">
+          <small class="d-inline-block text-truncate" style="max-width: 50%;">
+            <%= link_to video.channel.name, video.channel, title: video.channel.name %>
+          </small>
+          <small class="d-inline-block text-truncate" style="max-width: 40%;">
+            &middot;
+            <%= time_ago_in_words(video.published_at).gsub("about", "") %> ago
+          </small>
+        </div>
       </div>
       <% if !simple %>
         <div class="btn-group btn-group-sm btn-block mt-2">
@@ -27,7 +29,7 @@
         </div>
       <% end %>
     </div>
-    <% if !simple && Rails.env.development? %>
+    <% if !simple && !Rails.env.development? %>
       <div class="card-footer p-2">
         <div class="btn-group btn-group-sm btn-block">
           <%= link_to "Edit", edit_channel_video_path(video.channel, video), class: "btn btn-light btn-outline-dark font-weight-bold" %>

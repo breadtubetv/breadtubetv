@@ -9,24 +9,26 @@ class ChannelSource::Youtube < ChannelSource
 
   def sync!
     api_videos.each do |yt_video|
-      puts "Syncing: #{ yt_video.title.html_safe } Video"
-      video_source = channel.video_sources.find_or_initialize_by(
-        url: "https://www.youtube.com/watch?v=#{ yt_video.id }",
-        type: "VideoSource::Youtube"
-      )
+      ActiveRecord::Base.transaction do
+        puts "Syncing: #{ yt_video.title.html_safe } Video"
+        video_source = channel.video_sources.find_or_initialize_by(
+          url: "https://www.youtube.com/watch?v=#{ yt_video.id }",
+          type: "VideoSource::Youtube"
+        )
 
-      video = video_source.video || channel.videos.new
+        video = video_source.video || channel.videos.new
 
-      video.update!(
-        name: yt_video.title,
-        description: yt_video.description,
-        published_at: yt_video.published_at
-      )
+        video.update!(
+          name: yt_video.title,
+          description: yt_video.description,
+          published_at: yt_video.published_at
+        )
 
-      video_source.video = video
-      video_source.sync!(yt_video)
+        video_source.video = video
+        video_source.sync!(yt_video)
 
-      update(synced_at: yt_video.published_at)
+        update!(synced_at: yt_video.published_at)
+      end
     end
 
     touch(:synced_at)
