@@ -1,24 +1,27 @@
 <div class="container-fluid">
   <div class="row my-2">
     <div class="col">
-      <h1 class="h2 float-left"><%= I18n.t(:videos) %></h1>
+      <div class="d-block d-md-flex justify-content-between">
+        <h1 class="h2 mb-2 mr-auto"><%= link_to I18n.t(:videos), videos_path %></h1>
 
-      <div class="float-right">
-        <%== pagy_bootstrap_combo_nav_js(@pagy) %>
+        <div class="mb-2 mr-0 mr-md-2">
+          <%= search_form_for @q, wrapper: :inline_form do |f| %>
+            <div class="input-group">
+              <%= f.input_field :name_or_description_or_channel_name_cont, label: 'Search', class: 'form-control border-white border-top-none', type: :search %>
+              <div class="input-group-append">
+                <%= f.button :submit, class: 'btn-primary' %>
+              </div>
+            </div>
+          <% end %>
+        </div>
+
+        <div class="mb-2">
+          <%== pagy_bootstrap_combo_nav_js(@pagy) %>
+        </div>
       </div>
     </div>
-  </div>
 
-  <div class="row">
-    <div class="col-12 col-md-3 col-lg-2 mb-3">
-      <%= search_form_for @q do |f| %>
-        <%= f.input :name_or_description_or_channel_name_cont, label: 'Search' %>
-
-        <%= f.button :submit, class: 'btn-primary btn-block' %>
-      <% end %>
-    </div>
-
-    <div class="col-12 col-md-9 col-lg-10">
+    <div class="col-12">
       <%= card_row do %>
         <% @videos.each do |video| %>
           <%= render video %>
