@@ -8,7 +8,7 @@
         <li><%= link_to I18n.t(:channels), channels_path %></li>
       </ul>
     </div>
-    <div class="col-12 col-md">
+    <!--div class="col-12 col-md">
       <h3><%= I18n.t(:community) %></h3>
 
       <ul class="list-unstyled">
@@ -16,26 +16,26 @@
         <li><%= link_to I18n.t(:creators), '#' %></li>
         <li><%= link_to I18n.t(:developers), '#' %></li>
       </ul>
-    </div>
+    </div-->
     <div class="col-12 col-md">
       <h3><%= I18n.t(:about) %></h3>
 
       <ul class="list-unstyled">
-        <li><%= link_to I18n.t(:whats_breadtubetv), '#' %></li>
-        <li><%= link_to I18n.t(:privacy_policy), '#' %></li>
-        <li><%= link_to I18n.t(:contact_us), '#' %></li>
+        <li><%= link_to I18n.t(:whats_breadtubetv), about_path %></li>
+        <li><%= link_to I18n.t(:privacy_policy), privacy_path %></li>
+        <li><%= mail_to "#{ADMIN_EMAIL}?subject=BreadTube.tv", I18n.t(:contact_us) %></li>
       </ul>
     </div>
     <div class="col-12 col-md">
       <h3><%= I18n.t(:find_us_on) %></h3>
 
       <ul class="list-unstyled">
-        <li><%= link_to I18n.t(:youtube), LINKS[:youtube] %></li>
-        <li><%= link_to I18n.t(:peertube), LINKS[:peertube] %></li>
-        <li><%= link_to I18n.t(:reddit), LINKS[:reddit] %></li>
-        <li><%= link_to I18n.t(:twitter), LINKS[:twitter] %></li>
-        <li><%= link_to I18n.t(:facebook), LINKS[:facebook] %></li>
-        <li><%= link_to I18n.t(:discord), LINKS[:discord] %></li>
+        <li><%= link_to I18n.t(:youtube), youtube_path %></li>
+        <li><%= link_to I18n.t(:peertube), peertube_path %></li>
+        <li><%= link_to I18n.t(:reddit), reddit_path %></li>
+        <li><%= link_to I18n.t(:twitter), twitter_path %></li>
+        <li><%= link_to I18n.t(:facebook), facebook_path %></li>
+        <li><%= link_to I18n.t(:discord), discord_path %></li>
       </ul>
     </div>
   </div>

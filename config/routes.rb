@@ -1,15 +1,13 @@
 # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
 
 Rails.application.routes.draw do
-  resources :channel_supports
-  resources :channel_socials
   root 'pages#home'
   get 'privacy', to: 'pages#privacy'
+  get 'about', to: 'pages#about'
 
-  resources :features
-
-  resources :channel_sources
-  resources :video_sources
+  LINKS.each do |path, url|
+    get path.to_s.gsub("_","/"), to: redirect(url)
+  end
 
   resources :channels, only: [:index, :new, :create]
   resources :videos, only: [:index, :new, :create]

@@ -7,3 +7,6 @@ en:
     videos:
       index: Videos
       show: '%{video} - %{channel}'
+    pages:
+      about: About Us
+      privacy: Privacy Policy

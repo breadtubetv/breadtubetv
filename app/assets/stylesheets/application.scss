@@ -29,3 +29,8 @@ a.source-peertube {
 .nav-link {
   font-weight: $font-weight-bold;
 }
+
+blockquote {
+  border-left: 2px solid $white;
+  padding-left: $list-inline-padding;
+}

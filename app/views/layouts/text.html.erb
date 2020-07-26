@@ -1,0 +1,11 @@
+<% markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML, autolink: true, tables: true) %>
+<%= render(layout: "layouts/base") do %>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col col-sm-6 col-md-5">
+        <h1 class="h2 my-2"><%= page_title %></h1>
+        <%= markdown.render(yield).html_safe %>
+      </div>
+    </div>
+  </div>
+<% end %>
