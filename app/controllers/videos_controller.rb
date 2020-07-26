@@ -79,9 +79,11 @@ class VideosController < ApplicationController
     end
 
     def set_video
-      @video = @channel.videos.find_by(slug: params[:id]) || VideoSource.where('lower(ident) = ?', params[:id].downcase).first&.video
-
-      if !@video
+      if @video = @channel.videos.find_by(slug: params[:id])
+        return @video
+      elsif @source = VideoSource.where('lower(ident) = ?', params[:id].downcase).first
+        redirect_to channel_video_path(@channel, @source.video)
+      else
         raise ActiveRecord::RecordNotFound
       end
     end
