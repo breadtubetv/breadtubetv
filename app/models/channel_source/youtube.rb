@@ -4,7 +4,11 @@ class ChannelSource::Youtube < ChannelSource
   end
 
   def api_videos
-    @api_videos ||= api.videos.where(published_after: last_synced)
+    @api_videos ||= if last_synced
+                         api.videos.where(published_after: last_synced)
+                       else
+                         api.videos
+                       end
   end
 
   def sync!
