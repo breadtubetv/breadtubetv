@@ -1,6 +1,6 @@
 GIT
   remote: https://gitlab.com/breadtube/peertube-ruby.git
-  revision: 8db9653ce287728db4753a935c039e8390483395
+  revision: 2a9d5d19e4716244c14227ec87378498c3b5e200
   specs:
     peertube (1.0.0)
       json (~> 2.1, >= 2.1.0)
