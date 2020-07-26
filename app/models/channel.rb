@@ -19,7 +19,7 @@ class Channel < ApplicationRecord
 
   scope :order_by_slug, -> { order(slug: :asc) }
   scope :order_by_oldest, -> { order(updated_at: :asc) }
-  scope :order_by_latest, -> { order(updated_at: :desc) }
+  scope :order_by_latest, -> { order(published_at: :desc) }
   scope :needs_sync, -> { joins(:sources).merge(ChannelSource.needs_sync) }
 
   friendly_id :name

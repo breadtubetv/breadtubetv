@@ -5,7 +5,7 @@ class VideosController < ApplicationController
   # GET /videos
   # GET /videos.json
   def index
-    @q = Video.published.latest.includes(:channel, :sources).ransack(params[:q])
+    @q = Video.includes(:channel, :sources).published.latest.ransack(params[:q])
     @videos = @q.result(distinct: true)
     @pagy, @videos = pagy(@videos, items: params[:items])
   end

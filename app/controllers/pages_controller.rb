@@ -3,7 +3,7 @@ class PagesController < ApplicationController
 
   def home
     @latest_videos = Video.includes(:channel, :sources, :youtube).published.random.this_week.limit(12)
-    @features = Feature.includes(:channel, { channel: :sources }).all.limit(12)
-    @random_videos = Video.includes(:channel, :sources, :youtube).published.random.limit(24)
+    @features = Feature.includes(:channel, { channel: :sources }).random.limit(12)
+    @random_videos = Video.includes(:channel, :sources, :youtube).published.random.limit(12)
   end
 end
