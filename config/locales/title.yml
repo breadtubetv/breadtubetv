@@ -8,5 +8,5 @@ en:
       index: Videos
       show: '%{video} - %{channel}'
     pages:
-      about: About Us
+      about: What's BreadTube.tv?
       privacy: Privacy Policy
