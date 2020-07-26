@@ -13,4 +13,32 @@ LINKS = {
   youtube: 'https://www.youtube.com/channel/UCv8O1dx5UjWHlJuo_Wl6o5w'
 }
 
+REDIRECTS = {
+  "literallygarbage": "danieltorres",
+  "antifada": "theantifada",
+  "bronxblogger": "thebronxblogger",
+  "devtopiancommune": "thedevtopiancommune",
+  "doubletake": "thedoubletake",
+  "finnishbolshevik": "thefinnishbolshevik",
+  "grayzone": "thegrayzone",
+  "humanistreport": "thehumanistreport",
+  "intercept": "theintercept",
+  "jimmydoreshow": "thejimmydoreshow",
+  "juicemedia": "thejuicemedia",
+  "kavernacle": "thekavernacle",
+  "liberalsanityproject": "theliberalsanityproject",
+  "majorityreport": "themajorityreport",
+  "michaelbrooksshow": "themichaelbrooksshow",
+  "newsymbolization": "thenewsymbolization",
+  "orypleeb": "theorypleeb",
+  "peoplesbayonet": "thepeoplesbayonet",
+  "progressivevoice": "theprogressivevoice",
+  "rationalnational": "therationalnational",
+  "realnewsnetwork": "therealnewsnetwork",
+  "serfs": "theserfs",
+  "spartacastleague": "thespartacastleague",
+  "swoletariat": "theswoletariat",
+  "youngturks": "theyoungturks"
+}
+
 ADMIN_EMAIL = 'admin@breadtube.tv'

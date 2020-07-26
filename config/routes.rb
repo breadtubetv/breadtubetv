@@ -9,6 +9,10 @@ Rails.application.routes.draw do
     get path.to_s.gsub("_","/"), to: redirect(url)
   end
 
+  REDIRECTS.each do |from, to|
+    get from, to: redirect(to)
+  end
+
   resources :channels, only: [:index, :new, :create]
   resources :videos, only: [:index, :new, :create]
 

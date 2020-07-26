@@ -1,6 +1,3 @@
-require 'rss'
-require 'open-uri'
-
 class Channel < ApplicationRecord
   extend FriendlyId
 
@@ -38,5 +35,4 @@ class Channel < ApplicationRecord
   def normalize_friendly_id(string)
     super.gsub("-", "")
   end
-
 end
