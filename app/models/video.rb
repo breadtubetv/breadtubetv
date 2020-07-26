@@ -12,6 +12,7 @@ class Video < ApplicationRecord
   scope :published, -> { where.not(published_at: nil) }
   scope :latest, -> { order(published_at: :desc) }
   scope :random, -> { order("RANDOM()") }
+  scope :this_week, -> { where(published_at: 1.week.ago..1.second.ago) }
 
   validates :slug, uniqueness: { scope: :channel_id }
 
@@ -22,7 +23,9 @@ class Video < ApplicationRecord
   end
 
   def image
-    sources.first&.image
+    youtube&.image
+  rescue
+    "https://via.placeholder.com/480x360"
   end
 
   def sync!

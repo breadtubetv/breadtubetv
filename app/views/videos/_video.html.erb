@@ -2,7 +2,7 @@
 
 <div class="col mb-4">
   <div class="card card-block">
-    <%= link_to(image_tag(video.image, class: "card-img-top"), [video.channel, video]) %>
+    <%= link_to(image_tag(video.image, class: "card-img-top", style: "min-height: 240px"), [video.channel, video]) %>
     <div class="card-body p-2">
       <div  style="height: 100px">
         <%= logo_tag video.channel.image %>
