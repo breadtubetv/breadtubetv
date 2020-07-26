@@ -23,7 +23,7 @@
       </div>
       <% if !simple %>
         <div class="btn-group btn-group-sm btn-block mt-2">
-          <% video.sources.order_by_type.each do |source| %>
+          <% video.sources.each do |source| %>
             <%= link_to I18n.t(source.kind), source.url, class: "btn btn-#{ source.kind }", target: :blank %>
           <% end %>
         </div>

@@ -22,9 +22,7 @@ class Video < ApplicationRecord
   end
 
   def image
-    youtube.image
-  rescue
-    raise id.inspect
+    sources.first&.image
   end
 
   def sync!

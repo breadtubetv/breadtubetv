@@ -11,7 +11,7 @@
         </small>
       </p>
       <div class="btn-group btn-group-sm btn-block mt-2">
-        <% channel.sources.order_by_type.each do |source| %>
+        <% channel.sources.each do |source| %>
           <%= link_to I18n.t(source.kind), source.url, class: "btn btn-#{ source.kind }", target: :blank %>
         <% end %>
       </div>

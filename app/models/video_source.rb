@@ -5,6 +5,10 @@ class VideoSource < ApplicationRecord
 
   scope :order_by_type, -> { order(type: :asc) }
 
+  def self.default_scope
+    order_by_type
+  end
+
   def kind
     type.to_s.gsub("VideoSource::", "").downcase
   end
