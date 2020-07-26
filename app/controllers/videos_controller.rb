@@ -79,7 +79,11 @@ class VideosController < ApplicationController
     end
 
     def set_video
-      @video = @channel.videos.friendly.find(params[:id])
+      @video = @channel.videos.find_by(slug: params[:id]) || VideoSource.where('lower(ident) = ?', params[:id].downcase).first&.video
+
+      if !@video
+        raise ActiveRecord::RecordNotFound
+      end
     end
 
     # Only allow a list of trusted parameters through.
