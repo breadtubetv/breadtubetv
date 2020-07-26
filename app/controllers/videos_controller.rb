@@ -13,7 +13,7 @@ class VideosController < ApplicationController
   # GET /videos/1
   # GET /videos/1.json
   def show
-    @videos = @channel.videos.random.limit(5)
+    @videos = @channel.videos.includes(:channel, :sources).random.limit(5)
   end
 
   # GET /videos/new
