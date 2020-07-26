@@ -19,6 +19,7 @@ if Rails.env.development?
   PEERTUBE_AUTH.merge(JSON.parse(token_response.body))
 
   Peertube.configure do |config|
+    config.host = "watch.breadtube.tv"
     config.access_token = PEERTUBE_AUTH["access_token"]
   end
 end

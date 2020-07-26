@@ -23,7 +23,7 @@
       <ul class="list-unstyled">
         <li><%= link_to I18n.t(:whats_breadtubetv), about_path %></li>
         <li><%= link_to I18n.t(:privacy_policy), privacy_path %></li>
-        <li><%= mail_to "#{ADMIN_EMAIL}?subject=BreadTube.tv", I18n.t(:contact_us) %></li>
+        <li><%= link_to I18n.t(:contact_us), LINKS[:dirkkellycom], target: "_blank" %></li>
       </ul>
     </div>
     <div class="col-12 col-md">

@@ -1,4 +1,5 @@
 LINKS = {
+  dirkkellycom: 'https://twitter.com/dirkkellycom',
   discord: 'https://discord.com/invite/ynn9rHE',
   discord_developers: 'https://discord.com/invite/tfKt2X',
   facebook: 'https://www.facebook.com/breadtubetv',
