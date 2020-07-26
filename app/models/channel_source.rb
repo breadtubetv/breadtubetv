@@ -3,7 +3,7 @@ class ChannelSource < ApplicationRecord
   before_create :set_ident
 
   scope :order_by_type, -> { order(type: :asc) }
-  scope :needs_sync, -> { where(synced_at: ..1.day.ago) }
+  scope :needs_sync, -> { where(synced_at: nil) }
 
   def self.default_scope
     order_by_type

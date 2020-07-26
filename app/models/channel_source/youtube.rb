@@ -4,11 +4,7 @@ class ChannelSource::Youtube < ChannelSource
   end
 
   def api_videos
-    @api_videos ||= if last_synced
-                         api.videos.where(published_after: last_synced)
-                       else
-                         api.videos
-                       end
+    @api_videos ||= api.videos.where(published_after: 1.months.ago.rfc3339)
   end
 
   def sync!
@@ -36,10 +32,6 @@ class ChannelSource::Youtube < ChannelSource
     end
 
     touch(:synced_at)
-  end
-
-  private def last_synced
-    synced_at&.rfc3339 || channel.videos.latest.first&.published_at
   end
 
   private def api
