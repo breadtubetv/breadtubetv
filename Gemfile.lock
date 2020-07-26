@@ -128,6 +128,7 @@ GEM
     puma (4.3.5)
       nio4r (~> 2.0)
     rack (2.2.3)
+    rack-force_domain (0.3.0)
     rack-proxy (0.6.5)
       rack
     rack-test (1.1.0)
@@ -247,6 +248,7 @@ DEPENDENCIES
   peertube!
   pg
   puma (~> 4.1)
+  rack-force_domain
   rails (~> 6.0.3, >= 6.0.3.2)
   ransack
   redcarpet
