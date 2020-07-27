@@ -30,6 +30,8 @@ class Channel < ApplicationRecord
 
   def sync!
     youtube.sync!
+
+    self.touch
   end
 
   def normalize_friendly_id(string)
