@@ -23,9 +23,7 @@ class Video < ApplicationRecord
   end
 
   def image
-    youtube&.image
-  rescue
-    "https://via.placeholder.com/480x360"
+    youtube&.image || VIDEO_PLACEHOLDER_IMAGE
   end
 
   def sync!

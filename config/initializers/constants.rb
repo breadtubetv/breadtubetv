@@ -1,3 +1,5 @@
+VIDEO_PLACEHOLDER_IMAGE = 'https://via.placeholder.com/480x360'
+
 LINKS = {
   dirkkellycom: 'https://twitter.com/dirkkellycom',
   discord: 'https://discord.com/invite/ynn9rHE',
