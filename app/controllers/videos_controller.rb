@@ -1,6 +1,7 @@
 class VideosController < ApplicationController
   before_action :set_channel, only: [:show, :edit, :sync, :update, :destroy]
   before_action :set_video, only: [:show, :edit, :sync, :update, :destroy]
+  before_action :not_production, only: [:new, :create, :edit, :update, :destroy]
 
   # GET /videos
   # GET /videos.json

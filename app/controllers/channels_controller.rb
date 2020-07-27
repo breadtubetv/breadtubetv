@@ -1,6 +1,7 @@
 class ChannelsController < ApplicationController
   before_action :set_channel, only: [:edit, :sync, :update, :destroy]
   before_action :set_channel_and_videos, only: [:show]
+  before_action :not_production, only: [:new, :create, :edit, :update, :destroy]
 
   # GET /channels
   # GET /channels.json
