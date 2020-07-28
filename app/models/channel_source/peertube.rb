@@ -4,6 +4,6 @@ class ChannelSource::Peertube < ChannelSource
   end
 
   private def set_ident
-    self.ident = url.gsub("https://watch.breadtube.tv/video-channels/", "").gsub(/videos$/,"").gsub(/\//,"")
+    self.ident = url.gsub(/https?:\/\/.*\/video-channels\//, "").gsub(/\/videos\/?$/, "")
   end
 end
