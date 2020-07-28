@@ -15,7 +15,7 @@ namespace :breadtube do
     end
 
     task :channels => [:environment] do
-      Channel.order_by_slug.needs_sync.each do |channel|
+      Channel.needs_sync.each do |channel|
         channel.sync!
         puts "Channel: #{ channel.name } Synced!"
         sleep(10)

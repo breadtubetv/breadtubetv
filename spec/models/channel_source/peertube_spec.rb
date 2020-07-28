@@ -21,7 +21,7 @@ RSpec.describe ChannelSource::Peertube do
   describe "#before_create" do
     let(:ident) { "dirkkellycom" }
 
-    it "removes the BreadTube.tv url wrapper and returns the identifier" do
+    it "extracts the ident from the peertube url" do
       channel_source.url = "https://watch.breadtube.tv/video-channels/#{ ident }/videos"
       channel_source.save!
       expect(channel_source.ident).to eq ident
@@ -33,7 +33,7 @@ RSpec.describe ChannelSource::Peertube do
       expect(channel_source.ident).to eq ident
     end
 
-    it "strips trailing slash" do
+    it "supports other domains" do
       channel_source.url = "https://peertube.video/video-channels/#{ ident }/videos/"
       channel_source.save!
       expect(channel_source.ident).to eq ident

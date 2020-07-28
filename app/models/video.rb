@@ -18,6 +18,8 @@ class Video < ApplicationRecord
 
   friendly_id :name, use: :scoped, scope: :channel
 
+  accepts_nested_attributes_for :youtube
+
   def to_s
     name
   end

@@ -19,23 +19,11 @@
 
   <div class="row my-2">
     <div class="col">
-      <h2><%= link_to I18n.t(:featured_channels), channels_path %></h2>
+      <h2><%= link_to I18n.t(:random_channels), channels_path %></h2>
 
       <%= card_row do %>
-        <% @features.each do |feature| %>
-          <%= render feature.channel %>
-        <% end %>
-      <% end %>
-    </div>
-  </div>
-
-  <div class="row my-2">
-    <div class="col">
-      <h2><%= link_to I18n.t(:random_videos), videos_path %></h2>
-
-      <%= card_row do %>
-        <% @random_videos.each do |video| %>
-          <%= render video %>
+        <% @random_channels.each do |channel| %>
+          <%= render channel %>
         <% end %>
       <% end %>
     </div>
