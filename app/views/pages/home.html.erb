@@ -28,4 +28,16 @@
       <% end %>
     </div>
   </div>
+
+  <div class="row my-2">
+    <div class="col">
+      <h2><%= link_to I18n.t(:random_videos), videos_path %></h2>
+
+      <%= card_row do %>
+        <% @random_videos.each do |video| %>
+          <%= render video %>
+        <% end %>
+      <% end %>
+    </div>
+  </div>
 </div>
