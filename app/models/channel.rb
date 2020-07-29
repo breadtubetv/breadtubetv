@@ -21,6 +21,7 @@ class Channel < ApplicationRecord
   scope :order_by_oldest, -> { order(updated_at: :asc) }
   scope :order_by_latest, -> { order(published_at: :desc) }
   scope :random, -> { order("RANDOM()") }
+  scope :needs_update, -> { where(updated_at: ..1.day.ago) }
   scope :needs_sync, -> { joins(:sources).merge(ChannelSource.needs_sync).order("channel_sources.synced_at desc") }
   scope :needs_videos, -> { includes(:videos).where(videos: { channel_id: nil} ) }
 
