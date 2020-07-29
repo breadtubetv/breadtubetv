@@ -4,43 +4,17 @@ namespace :breadtube do
     task :reset => [:environment] do
       `heroku run rake db:schema:load DISABLE_DATABASE_ENVIRONMENT_CHECK=1 db:seed`
     end
-  end
 
-  namespace :refresh do
-    desc "Feed"
-    task :channel, [:slug] => [:environment] do |task, args|
-      channel = Channel.friendly.find(args[:slug])
-      channel.refresh!
-    end
-
-    task :channels => [:environment] do
-      Channel.order_by_oldest.each do |channel|
-        channel.refresh!
-        puts "Channel: #{ channel.name } Synced!"
-        sleep(3)
-      end
+    desc "Pull down Heroku database"
+    task :pull => [:environment] do
+      `./scripts/heroku_pull.sh`
     end
   end
 
-  namespace :sync do
-    desc "Sync"
-    task :channel, [:slug] => [:environment] do |task, args|
-      channel = Channel.friendly.find(args[:slug])
-      channel.sync!
-      puts "Channel: #{ channel.name} Synced!"
+  namespace :import do
+    task :youtube, [:channel, :url] => [:environment] do |task, args|
     end
 
-    task :channels => [:environment] do
-      Channel.random.needs_videos.needs_sync.each do |channel|
-        channel.sync!
-        puts "Channel: #{ channel.name } Synced!"
-        sleep(10)
-      end
-    end
-  end
-
-  desc "PeerTube"
-  namespace :peertube do
     desc "Assign Channel from PeerTube"
     task :assign, [:channel, :url] => [:environment] do |task, args|
       channel = Channel.friendly.find(args[:channel])
@@ -49,7 +23,45 @@ namespace :breadtube do
       )
       puts "Source: #{ channel.name } - #{ source.url }"
     end
+  end
 
+  namespace :refresh do
+    desc "Refresh Channel from RSS Feed"
+    task :channel, [:slug] => [:environment] do |task, args|
+      channel = Channel.friendly.find(args[:slug])
+      channel.refresh!
+    end
+
+    desc "Refresh all Channels from RSS Feed"
+    task :channels => [:environment] do
+      Channel.order_by_oldest.each do |channel|
+        channel.refresh!
+        puts "Refreshed: #{ channel.name } Channel"
+        sleep(3)
+      end
+    end
+  end
+
+  namespace :sync do
+    desc "Sync Channel from API"
+    task :channel, [:slug] => [:environment] do |task, args|
+      channel = Channel.friendly.find(args[:slug])
+      channel.sync!
+      puts "Synced: #{ channel.name} Channel"
+    end
+
+    desc "Sync all Channels from API"
+    task :channels => [:environment] do
+      Channel.random.needs_videos.needs_sync.each do |channel|
+        channel.sync!
+        puts "Synced: #{ channel.name } Channel"
+        sleep(10)
+      end
+    end
+  end
+
+  desc "PeerTube"
+  namespace :peertube do
     desc "Import Channel from PeerTube"
     task :import, [:channel] => [:environment] do |task, args|
       channel = Channel.friendly.find(args[:channel])
