@@ -3,38 +3,64 @@ class ChannelSource::Youtube < ChannelSource
     "https://www.youtube.com/feeds/videos.xml?channel_id=#{ ident }"
   end
 
-  def api_videos
-    @api_videos ||= api.videos.where(published_after: sync_from)
+  def refresh!
+    @xml = HTTParty.get(rss_url).body
+    feed = Feedjira.parse(@xml)
+    feed.entries.each do |entry|
+      puts "Refreshing: #{ entry.title.html_safe } Video"
+
+      video_source = channel.video_sources.find_or_initialize_by(
+        url: entry.url,
+        type: "VideoSource::Youtube"
+      )
+
+      video = video_source.video || channel.videos.new
+
+      video.update!(
+        name: entry.title,
+        description: entry.content,
+        published_at: entry.published,
+        youtube_attributes: {
+          id: video_source.id,
+          url: entry.url,
+          view_count: entry.media_views,
+          like_count: entry.media_star_count
+        } 
+      )
+    end
+
+    touch(:synced_at)
   end
 
   def sync!
-    api_videos.each do |yt_video|
+    api_videos.each do |entry|
       ActiveRecord::Base.transaction do
-        puts "Syncing: #{ yt_video.title.html_safe } Video"
+        puts "Syncing: #{ entry.title.html_safe } Video"
+
         video_source = channel.video_sources.find_or_initialize_by(
-          url: "https://www.youtube.com/watch?v=#{ yt_video.id }",
+          url: "https://www.youtube.com/watch?v=#{ entry.id }",
           type: "VideoSource::Youtube"
         )
 
         video = video_source.video || channel.videos.new
 
         video.update!(
-          name: yt_video.title,
-          description: yt_video.description,
-          published_at: yt_video.published_at,
+          name: entry.title,
+          description: entry.description,
+          published_at: entry.published_at,
           youtube_attributes: {
             id: video_source.id,
-            url: "https://www.youtube.com/watch?v=#{ yt_video.id }",
-            view_count: yt_video.view_count,
-            like_count: yt_video.like_count,
-            dislike_count: yt_video.dislike_count,
-            favorite_count: yt_video.favorite_count,
-            comment_count: yt_video.comment_count,
-            duration: yt_video.duration,
-            length: yt_video.length,
-            scheduled: yt_video.scheduled?,
-            scheduled_at: yt_video.scheduled_at,
-            tags: yt_video.tags
+            url: "https://www.youtube.com/watch?v=#{ entry.id }",
+            view_count: entry.view_count,
+            like_count: entry.like_count,
+            dislike_count: entry.dislike_count,
+            favorite_count: entry.favorite_count,
+            comment_count: entry.comment_count,
+            duration: entry.duration,
+            length: entry.length,
+            scheduled: entry.scheduled?,
+            scheduled_at: entry.scheduled_at,
+            tags: entry.tags
           }
         )
       end
@@ -43,8 +69,12 @@ class ChannelSource::Youtube < ChannelSource
     touch(:synced_at)
   end
 
+  private def api_videos
+    @api_videos ||= api.videos.where(published_after: sync_from)
+  end
+
   private def sync_from
-    (channel.videos.last&.published_at || 1.month.ago).rfc3339
+    1.month.ago.rfc3339
   end
 
   private def api

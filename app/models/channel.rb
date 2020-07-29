@@ -22,11 +22,18 @@ class Channel < ApplicationRecord
   scope :order_by_latest, -> { order(published_at: :desc) }
   scope :random, -> { order("RANDOM()") }
   scope :needs_sync, -> { joins(:sources).merge(ChannelSource.needs_sync).order("channel_sources.synced_at desc") }
+  scope :needs_videos, -> { includes(:videos).where(videos: { channel_id: nil} ) }
 
   friendly_id :name
 
   def to_s
     name
+  end
+
+  def refresh!
+    youtube.refresh!
+
+    self.touch
   end
 
   def sync!

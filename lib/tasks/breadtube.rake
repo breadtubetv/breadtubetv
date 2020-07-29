@@ -6,6 +6,22 @@ namespace :breadtube do
     end
   end
 
+  namespace :feed do
+    desc "Feed"
+    task :channel, [:slug] => [:environment] do |task, args|
+      channel = Channel.friendly.find(args[:slug])
+      channel.refresh!
+    end
+
+    task :channels => [:environment] do
+      Channel.random.needs_videos.each do |channel|
+        channel.refresh!
+        puts "Channel: #{ channel.name } Synced!"
+        sleep(3)
+      end
+    end
+  end
+
   namespace :sync do
     desc "Sync"
     task :channel, [:slug] => [:environment] do |task, args|
@@ -15,7 +31,7 @@ namespace :breadtube do
     end
 
     task :channels => [:environment] do
-      Channel.needs_sync.each do |channel|
+      Channel.random.needs_videos.needs_sync.each do |channel|
         channel.sync!
         puts "Channel: #{ channel.name } Synced!"
         sleep(10)
