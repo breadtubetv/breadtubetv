@@ -1,4 +1,5 @@
 class Channel < ApplicationRecord
+  include Discard::Model
   extend FriendlyId
 
   after_initialize :set_slug

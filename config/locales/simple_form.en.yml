@@ -21,8 +21,8 @@ en:
     #       email: 'E-mail.'
     placeholders:
       defaults:
-        name_or_description_cont: 'name, description'
-        name_or_description_or_channel_name_cont: 'name, channel, description'
+        name_or_description_or_slug,cont: 'name, description'
+        name_or_description_or_slug_or_channel_name_or_channel_slug_cont: 'name, channel, description'
     # include_blanks:
     #   defaults:
     #     age: 'Rather not say'

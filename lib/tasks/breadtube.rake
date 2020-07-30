@@ -11,19 +11,26 @@ namespace :breadtube do
     end
   end
 
-  namespace :import do
-    task :youtube, [:channel, :url] => [:environment] do |task, args|
-    end
+  # namespace :import do
+  #   task :youtube, [:channel, :url] => [:environment] do |task, args|
+  #     channel = Channel.friendly.find(args[:channel])
+  #     if channel.youtube
+  #       puts "Exists: #{ channel.name } - #{ source.url }"
+  #     else
+  #       channel.create_peertube(url: args[:url])
+  #       puts "Imported: #{ channel.name } - #{ source.url }"
+  #     end
+  #   end
 
-    desc "Assign Channel from PeerTube"
-    task :assign, [:channel, :url] => [:environment] do |task, args|
-      channel = Channel.friendly.find(args[:channel])
-      source = channel.peertube || channel.create_peertube(
-        url: args[:url]
-      )
-      puts "Source: #{ channel.name } - #{ source.url }"
-    end
-  end
+  #   desc "Assign Channel from PeerTube"
+  #   task :assign, [:channel, :url] => [:environment] do |task, args|
+  #     channel = Channel.friendly.find(args[:channel])
+  #     source = channel.peertube || channel.create_peertube(
+  #       url: args[:url]
+  #     )
+  #     puts "Imported: #{ channel.name } - #{ source.url }"
+  #   end
+  # end
 
   namespace :refresh do
     desc "Refresh Channel from RSS Feed"
@@ -34,7 +41,7 @@ namespace :breadtube do
 
     desc "Refresh all Channels from RSS Feed"
     task :channels => [:environment] do
-      Channel.order_by_oldest.each do |channel|
+      Channel.kept.order_by_oldest.each do |channel|
         channel.refresh!
         puts "Refreshed: #{ channel.name } Channel"
         sleep(3)
@@ -52,7 +59,7 @@ namespace :breadtube do
 
     desc "Sync all Channels from API"
     task :channels => [:environment] do
-      Channel.random.needs_videos.needs_sync.each do |channel|
+      Channel.kept.random.needs_videos.needs_sync.each do |channel|
         channel.sync!
         puts "Synced: #{ channel.name } Channel"
         sleep(10)

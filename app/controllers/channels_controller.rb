@@ -6,7 +6,7 @@ class ChannelsController < ApplicationController
   # GET /channels
   # GET /channels.json
   def index
-    @q = Channel.includes(:sources).order_by_slug.ransack(params[:q])
+    @q = Channel.kept.includes(:sources).order_by_slug.ransack(params[:q])
     @channels = @q.result(distinct: true)
     @pagy, @channels = pagy(@channels, items: params[:items])
   end
@@ -75,12 +75,12 @@ class ChannelsController < ApplicationController
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_channel
-      @channel = Channel.includes(:sources).friendly.find(params[:id])
+      @channel = Channel.kept.includes(:sources).friendly.find(params[:id])
     end
 
     def set_channel_and_videos
-      @channel = Channel.includes(:sources, :supports, :socials, :videos).friendly.find(params[:id])
-      @videos = @channel.videos.includes(:channel, :sources).published.latest
+      @channel = Channel.kept.includes(:sources, :supports, :socials, :videos).friendly.find(params[:id])
+      @videos = @channel.videos.kept.includes(:channel, :sources).published.latest
       @sources = @channel.sources.order_by_type
       @socials = @channel.socials.order_by_type
       @supports = @channel.supports.order_by_type

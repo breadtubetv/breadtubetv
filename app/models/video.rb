@@ -1,4 +1,5 @@
 class Video < ApplicationRecord
+  include Discard::Model
   extend FriendlyId
 
   before_save :set_slug

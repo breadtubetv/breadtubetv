@@ -4,9 +4,7 @@ class ChannelSource::Youtube < ChannelSource
   end
 
   def refresh!
-    @xml = HTTParty.get(rss_url).body
-    feed = Feedjira.parse(@xml)
-    feed.entries.each do |entry|
+    rss_videos.each do |entry|
       puts "Refreshing: #{ entry.title.html_safe } Video"
 
       video_source = channel.video_sources.find_or_initialize_by(
@@ -67,6 +65,20 @@ class ChannelSource::Youtube < ChannelSource
     end
 
     touch(:synced_at)
+  end
+
+  private def rss_videos
+    begin
+      xml = HTTParty.get(rss_url).body
+      feed = Feedjira.parse(xml)
+
+      @rss_videos = feed.entries
+    rescue Feedjira::NoParserAvailable => e
+      puts channel.inspect
+      puts ident
+      puts rss_url
+      puts xml
+    end
   end
 
   private def api_videos

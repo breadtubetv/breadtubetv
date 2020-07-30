@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_07_24_090913) do
+ActiveRecord::Schema.define(version: 2020_07_30_150852) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -54,6 +54,8 @@ ActiveRecord::Schema.define(version: 2020_07_24_090913) do
     t.text "tags", default: [], array: true
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.datetime "discarded_at"
+    t.index ["discarded_at"], name: "index_channels_on_discarded_at"
     t.index ["slug"], name: "index_channels_on_slug", unique: true
   end
 
@@ -94,8 +96,10 @@ ActiveRecord::Schema.define(version: 2020_07_24_090913) do
     t.text "tags", default: [], array: true
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.datetime "discarded_at"
     t.index ["channel_id", "slug"], name: "index_videos_on_channel_id_and_slug", unique: true
     t.index ["channel_id"], name: "index_videos_on_channel_id"
+    t.index ["discarded_at"], name: "index_videos_on_discarded_at"
   end
 
   add_foreign_key "channel_socials", "channels"

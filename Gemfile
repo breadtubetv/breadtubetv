@@ -32,6 +32,7 @@ gem 'peertube', git: 'https://gitlab.com/breadtube/peertube-ruby.git'
 gem 'redcarpet'
 gem 'feedjira'
 gem 'httparty'
+gem 'discard'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'

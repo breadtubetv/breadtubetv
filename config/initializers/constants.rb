@@ -17,19 +17,21 @@ LINKS = {
 }
 
 REDIRECTS = {
-  "literallygarbage": "danieltorres",
   "antifada": "theantifada",
   "bronxblogger": "thebronxblogger",
   "devtopiancommune": "thedevtopiancommune",
   "doubletake": "thedoubletake",
   "finnishbolshevik": "thefinnishbolshevik",
   "grayzone": "thegrayzone",
+  "gutian": "", # Channel Deleted
   "humanistreport": "thehumanistreport",
   "intercept": "theintercept",
+  "jaydeeforrester": "", # Channel Deleted
   "jimmydoreshow": "thejimmydoreshow",
   "juicemedia": "thejuicemedia",
   "kavernacle": "thekavernacle",
   "liberalsanityproject": "theliberalsanityproject",
+  "literallygarbage": "danieltorres",
   "majorityreport": "themajorityreport",
   "michaelbrooksshow": "themichaelbrooksshow",
   "newsymbolization": "thenewsymbolization",
