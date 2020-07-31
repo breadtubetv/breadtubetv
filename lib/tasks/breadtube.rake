@@ -11,26 +11,26 @@ namespace :breadtube do
     end
   end
 
-  # namespace :import do
-  #   task :youtube, [:channel, :url] => [:environment] do |task, args|
-  #     channel = Channel.friendly.find(args[:channel])
-  #     if channel.youtube
-  #       puts "Exists: #{ channel.name } - #{ source.url }"
-  #     else
-  #       channel.create_peertube(url: args[:url])
-  #       puts "Imported: #{ channel.name } - #{ source.url }"
-  #     end
-  #   end
+  namespace :import do
+    task :youtube, [:channel, :url] => [:environment] do |task, args|
+      channel = Channel.friendly.find(args[:channel])
+      if channel.youtube
+        puts "Exists: #{ channel.name } - #{ source.url }"
+      else
+        channel.create_youtube(url: args[:url])
+        puts "Imported: #{ channel.name } - #{ source.url }"
+      end
+    end
 
-  #   desc "Assign Channel from PeerTube"
-  #   task :assign, [:channel, :url] => [:environment] do |task, args|
-  #     channel = Channel.friendly.find(args[:channel])
-  #     source = channel.peertube || channel.create_peertube(
-  #       url: args[:url]
-  #     )
-  #     puts "Imported: #{ channel.name } - #{ source.url }"
-  #   end
-  # end
+    desc "Assign Channel from PeerTube"
+    task :assign, [:channel, :url] => [:environment] do |task, args|
+      channel = Channel.friendly.find(args[:channel])
+      source = channel.peertube || channel.create_peertube(
+        url: args[:url]
+      )
+      puts "Imported: #{ channel.name } - #{ source.url }"
+    end
+  end
 
   namespace :refresh do
     desc "Refresh Channel from RSS Feed"

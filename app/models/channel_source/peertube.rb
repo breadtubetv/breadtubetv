@@ -4,6 +4,6 @@ class ChannelSource::Peertube < ChannelSource
   end
 
   private def set_ident
-    self.ident = url.gsub(/https?:\/\/.*\/video-channels\//, "").gsub(/\/videos\/?$/, "")
+    self.ident = url[/https?:\/\/.*\/video-channels\/(\w*)$?\/?\??/,1]
   end
 end

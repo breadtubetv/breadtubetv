@@ -94,6 +94,6 @@ class ChannelSource::Youtube < ChannelSource
   end
 
   private def set_ident
-    self.ident = url.gsub("https://www.youtube.com/channel/", "")
+    self.ident = url[/https?:\/\/w?w?w?\.?youtube\.com\/channel\/(\w*)$?\/?\??/,1]
   end
 end
