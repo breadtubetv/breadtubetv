@@ -15,7 +15,6 @@ namespace :breadtube do
     task :youtube, [:url] => [:environment] do |task, args|
       url = args[:url]
       ident = url.gsub("https://www.youtube.com/channel/","")
-      image_path = "/channels/#{ channel.slug }.jpg"
 
       yt = Yt::Channel.new(id: ident)
 
@@ -27,7 +26,6 @@ namespace :breadtube do
         @channel = Channel.new(
           name: yt.title,
           description: yt.description,
-          image: image_path,
           sources: [
             ChannelSource.new(
               type: "ChannelSource::Youtube",
@@ -35,6 +33,10 @@ namespace :breadtube do
             )
           ]
         )
+
+        image_path = "/channels/#{ @channel.slug }.jpg"
+
+        @channel.image = image_path
 
         if @channel.save!
           puts "Created: #{ @channel.name } Channel"
