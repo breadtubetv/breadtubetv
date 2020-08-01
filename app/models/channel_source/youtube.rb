@@ -3,6 +3,10 @@ class ChannelSource::Youtube < ChannelSource
     "https://www.youtube.com/feeds/videos.xml?channel_id=#{ ident }"
   end
 
+  def rss_title
+    rss_feed.title
+  end
+
   def refresh!
     rss_videos.each do |entry|
       puts "Refreshing: #{ entry.title.html_safe } Video"
@@ -67,18 +71,20 @@ class ChannelSource::Youtube < ChannelSource
     touch(:synced_at)
   end
 
-  private def rss_videos
+  private def rss_feed
     begin
       xml = HTTParty.get(rss_url).body
-      feed = Feedjira.parse(xml)
-
-      @rss_videos = feed.entries
+      @rss_feed = Feedjira.parse(xml)
     rescue Feedjira::NoParserAvailable => e
       puts channel.inspect
       puts ident
       puts rss_url
       puts xml
     end
+  end
+
+  private def rss_videos
+    @rss_videos = rss_feed.entries
   end
 
   private def api_videos

@@ -1,4 +1,4 @@
-if Rails.env.development?
+if Rails.env.development? && ENV.fetch("PEERTUBE_USERNAME", "")
   PEERTUBE_AUTH = {}
 
   client_url = "https://watch.breadtube.tv/api/v1/oauth-clients/local"

@@ -12,13 +12,14 @@ namespace :breadtube do
   end
 
   namespace :import do
-    task :youtube, [:channel, :url] => [:environment] do |task, args|
-      channel = Channel.friendly.find(args[:channel])
-      if channel.youtube
-        puts "Exists: #{ channel.name } - #{ source.url }"
-      else
-        channel.create_youtube(url: args[:url])
-        puts "Imported: #{ channel.name } - #{ source.url }"
+    task :youtube, [:url] => [:environment] do |task, args|
+      youtube = ChannelSource::YouTube.find_by(url: args[:url])
+
+      unless youtube.present?
+        channel = Channel.new(
+          title: youtube.rss_title,
+          youtube: youtube
+        )
       end
     end
 
@@ -100,8 +101,6 @@ namespace :breadtube do
     task :import, [:url] => [:environment] do |task, args|
       url = args[:url]
       ident = url.gsub("https://www.youtube.com/channel/","")
-      image_hash = SecureRandom.hex(16)
-      image_path = "/channels/#{ image_hash }.jpg"
 
       yt = Yt::Channel.new(id: ident)
 
@@ -121,6 +120,8 @@ namespace :breadtube do
             )
           ]
         )
+
+        image_path = "/channels/#{ channel.slug }.jpg"
 
         if @channel.save!
           URI.open(yt.thumbnail_url) do |image|
