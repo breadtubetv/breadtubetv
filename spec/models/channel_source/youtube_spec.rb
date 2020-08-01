@@ -24,7 +24,7 @@ RSpec.describe ChannelSource::Youtube do
   end
 
   describe "#before_create" do
-    let(:ident) { "UC6YURf7CpM2hH1AxxbelTrg" }
+    let(:ident) { "UCSz-ziy51O6KtZjWZVio_wQ" }
 
     it "extracts the ident from the peertube url" do
       channel_source.url = "https://www.youtube.com/channel/#{ ident }"
