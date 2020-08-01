@@ -42,7 +42,7 @@ namespace :breadtube do
           puts "Created: #{ @channel.name } Channel"
 
           if Rails.env.development?
-            URI.open(yt.thumbnail_url) do |image|
+            URI.open(yt.thumbnail_url(:high)) do |image|
               File.open("public#{ image_path }", "wb") do |file|
                 file.write(image.read)
               end
@@ -141,6 +141,21 @@ namespace :breadtube do
     desc "Download videos.json to data/ folder"
     task :videos => [:environment] do
       `curl localhost:3000/videos.json?items=100000 > data/videos.json`
+    end
+  end
+
+  namespace :images do
+    task :youtube => [:environment] do
+      ChannelSource::Youtube.all.each do |source|
+        yt = Yt::Channel.new(id: source.ident)
+
+        URI.open(yt.thumbnail_url(:high)) do |image|
+          File.open("public#{ source.channel.image }", "wb") do |file|
+            file.write(image.read)
+          end
+          puts "Downloaded: #{ source.channel.image }"
+        end
+      end
     end
   end
 end
