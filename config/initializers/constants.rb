@@ -3,7 +3,7 @@ VIDEO_PLACEHOLDER_IMAGE = 'https://via.placeholder.com/480x360'
 LINKS = {
   dirkkellycom: 'https://twitter.com/dirkkellycom',
   discord: 'https://discord.com/invite/ynn9rHE',
-  discord_developers: 'https://discord.com/invite/tfKt2X',
+  discord_developers: 'https://discord.com/invite/WNP38Bf',
   facebook: 'https://www.facebook.com/breadtubetv',
   gitlab: 'https://gitlab.com/breadtube',
   gitlab_peertube: 'https://gitlab.com/breadtube/peertube',

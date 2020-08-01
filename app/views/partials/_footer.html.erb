@@ -8,15 +8,6 @@
         <li><%= link_to I18n.t(:channels), channels_path %></li>
       </ul>
     </div>
-    <!--div class="col-12 col-md">
-      <h3><%= I18n.t(:community) %></h3>
-
-      <ul class="list-unstyled">
-        <li><%= link_to I18n.t(:guide), '#' %></li>
-        <li><%= link_to I18n.t(:creators), '#' %></li>
-        <li><%= link_to I18n.t(:developers), '#' %></li>
-      </ul>
-    </div-->
     <div class="col-12 col-md">
       <h3><%= I18n.t(:about) %></h3>
 
@@ -24,6 +15,16 @@
         <li><%= link_to I18n.t(:whats_breadtubetv), about_path %></li>
         <li><%= link_to I18n.t(:privacy_policy), privacy_path %></li>
         <li><%= link_to I18n.t(:contact_us), LINKS[:dirkkellycom], target: "_blank" %></li>
+      </ul>
+    </div>
+    <div class="col-12 col-md">
+      <h3><%= I18n.t(:community) %></h3>
+
+      <ul class="list-unstyled">
+        <!--li><%= link_to I18n.t(:guide), '#' %></li>
+        <li><%= link_to I18n.t(:creators), '#' %></li-->
+        <li><%= link_to I18n.t(:developers), gitlab_path %></li>
+        <li><%= link_to I18n.t(:developers_discord), discord_developers_path %></li>
       </ul>
     </div>
     <div class="col-12 col-md">
