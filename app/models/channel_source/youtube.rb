@@ -3,10 +3,6 @@ class ChannelSource::Youtube < ChannelSource
     "https://www.youtube.com/feeds/videos.xml?channel_id=#{ ident }"
   end
 
-  def rss_title
-    rss_feed.title
-  end
-
   def refresh!
     rss_videos.each do |entry|
       puts "Refreshing: #{ entry.title.html_safe } Video"
@@ -88,11 +84,15 @@ class ChannelSource::Youtube < ChannelSource
   end
 
   private def api_videos
-    @api_videos ||= api.videos.where(published_after: sync_from)
+    @api_videos ||= api.videos.where(published_before: sync_to.rfc3339, published_after: sync_from.rfc3339)
+  end
+
+  private def sync_to
+    channel.videos.latest.last.published_at
   end
 
   private def sync_from
-    1.month.ago.rfc3339
+    (sync_to - 1.month)
   end
 
   private def api
