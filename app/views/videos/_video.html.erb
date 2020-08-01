@@ -2,10 +2,10 @@
 
 <div class="col mb-4">
   <div class="card card-block">
-    <%= link_to(image_tag(video.image, class: "card-img-top"), [video.channel, video]) %>
+    <%= link_to(image_tag(video.image, class: "card-img-top", alt: video.name), [video.channel, video]) %>
     <div class="card-body p-2">
       <div  style="height: 100px">
-        <%= logo_tag video.channel.image %>
+        <%= logo_tag video.channel %>
         <h5 class="card-title mb-2 overflow-hidden" style="height: 72px">
           <small class="font-weight-bold">
             <%= link_to video.name.html_safe, [video.channel, video], title: video.name.html_safe %>

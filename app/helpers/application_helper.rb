@@ -1,8 +1,8 @@
 module ApplicationHelper
   include Pagy::Frontend
 
-  def logo_tag(image, float: "left", width: "42px")
-    image_tag(image, class: "float-#{float} mt-1 mr-1 rounded-circle", style: "width: #{ width }")
+  def logo_tag(objekt, float: "left", width: "42px")
+    image_tag(objekt.image, class: "float-#{float} mt-1 mr-1 rounded-circle", style: "width: #{ width }", alt: objekt.name)
   end
 
   def current_class?(test_controller)

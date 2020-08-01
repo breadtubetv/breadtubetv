@@ -1,6 +1,8 @@
 <div class="col mb-4">
   <div class="card card-block">
-    <%= link_to(image_tag(channel.image, class: "card-img-top", style: "min-height: 300px"), channel) %>
+    <%= link_to(
+          image_tag(channel.image, class: "card-img-top", style: "min-height: 300px", alt: channel.name),
+          channel) %>
     <div class="card-body p-2">
       <h5 class="card-title text-truncate mb-0"><%= link_to channel.name, channel, title: channel.name %></h5>
       <p class="card-text mb-0" style="height: 72px">
