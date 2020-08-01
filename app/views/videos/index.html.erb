@@ -9,7 +9,7 @@
         <div class="mb-2 mr-0 mr-md-2">
           <%= search_form_for @q, wrapper: :inline_form do |f| %>
             <div class="input-group">
-              <%= f.input_field :name_or_description_or_channel_name_cont, label: 'Search', class: 'form-control border-white border-top-none', type: :search %>
+              <%= f.input_field :name_or_slug_or_description_or_channel_name_or_channel_slug_cont, label: 'Search', class: 'form-control border-white border-top-none', type: :search %>
               <div class="input-group-append">
                 <%= f.button :submit, class: 'btn-primary' %>
               </div>

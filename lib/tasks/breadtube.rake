@@ -97,8 +97,8 @@ namespace :breadtube do
 
   namespace :youtube do
     desc "Create or Update Channel from YouTube"
-    task :import, [:channel] => [:environment] do |task, args|
-      url = args[:channel]
+    task :import, [:url] => [:environment] do |task, args|
+      url = args[:url]
       ident = url.gsub("https://www.youtube.com/channel/","")
       image_hash = SecureRandom.hex(16)
       image_path = "/channels/#{ image_hash }.jpg"
