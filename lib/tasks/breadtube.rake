@@ -13,13 +13,42 @@ namespace :breadtube do
 
   namespace :import do
     task :youtube, [:url] => [:environment] do |task, args|
-      youtube = ChannelSource::YouTube.find_by(url: args[:url])
+      url = args[:url]
+      ident = url.gsub("https://www.youtube.com/channel/","")
 
-      unless youtube.present?
-        channel = Channel.new(
-          title: youtube.rss_title,
-          youtube: youtube
+      yt = Yt::Channel.new(id: ident)
+
+      if channel_source = ChannelSource.find_by(url: url)
+        @channel = channel_source.channel
+
+        puts "Exists: #{ @channel.name }"
+      else
+        @channel = Channel.new(
+          name: yt.title,
+          description: yt.description,
+          image: image_path,
+          sources: [
+            ChannelSource.new(
+              type: "ChannelSource::Youtube",
+              url: url
+            )
+          ]
         )
+
+        image_path = "/channels/#{ channel.slug }.jpg"
+
+        if @channel.save!
+          URI.open(yt.thumbnail_url) do |image|
+            File.open("public#{ image_path }", "wb") do |file|
+              file.write(image.read)
+            end
+          end
+
+          puts "Created: #{ @channel.name } Channel"
+        end
+
+        @channel.refresh!
+        puts "Refreshed: #{ @channel.name } Channel"
       end
     end
 
@@ -92,46 +121,6 @@ namespace :breadtube do
         end
       rescue Peertube::ApiError => e
         puts "Exception when calling VideoApi->videos_get: #{e}"
-      end
-    end
-  end
-
-  namespace :youtube do
-    desc "Create or Update Channel from YouTube"
-    task :import, [:url] => [:environment] do |task, args|
-      url = args[:url]
-      ident = url.gsub("https://www.youtube.com/channel/","")
-
-      yt = Yt::Channel.new(id: ident)
-
-      if channel_source = ChannelSource.find_by(url: url)
-        @channel = channel_source.channel
-
-        puts "Channel: #{ @channel.name } Exists"
-      else
-        @channel = Channel.new(
-          name: yt.title,
-          description: yt.description,
-          image: image_path,
-          sources: [
-            ChannelSource.new(
-              type: "ChannelSource::Youtube",
-              url: url
-            )
-          ]
-        )
-
-        image_path = "/channels/#{ channel.slug }.jpg"
-
-        if @channel.save!
-          URI.open(yt.thumbnail_url) do |image|
-            File.open("public#{ image_path }", "wb") do |file|
-              file.write(image.read)
-            end
-          end
-
-          puts "Channel: #{ @channel.name } Created!"
-        end
       end
     end
   end
