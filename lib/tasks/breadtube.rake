@@ -15,6 +15,7 @@ namespace :breadtube do
     task :youtube, [:url] => [:environment] do |task, args|
       url = args[:url]
       ident = url.gsub("https://www.youtube.com/channel/","")
+      image_path = "/channels/#{ channel.slug }.jpg"
 
       yt = Yt::Channel.new(id: ident)
 
@@ -35,20 +36,21 @@ namespace :breadtube do
           ]
         )
 
-        image_path = "/channels/#{ channel.slug }.jpg"
-
         if @channel.save!
-          URI.open(yt.thumbnail_url) do |image|
-            File.open("public#{ image_path }", "wb") do |file|
-              file.write(image.read)
+          puts "Created: #{ @channel.name } Channel"
+
+          if Rails.env.development?
+            URI.open(yt.thumbnail_url) do |image|
+              File.open("public#{ image_path }", "wb") do |file|
+                file.write(image.read)
+              end
             end
+            puts "Downloaded: #{ @channel.image }"
           end
 
-          puts "Created: #{ @channel.name } Channel"
+          @channel.refresh!
+          puts "Refreshed: #{ @channel.name } Channel"
         end
-
-        @channel.refresh!
-        puts "Refreshed: #{ @channel.name } Channel"
       end
     end
 
