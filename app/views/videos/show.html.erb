@@ -1,3 +1,4 @@
+<% markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML, autolink: true, space_after_headers: true) %>
 <%= content_for :head do %>
   <meta property="og:image" content="<%= @video.image %>">
   <meta name="description" content="<%= @video.description %>">
@@ -39,7 +40,9 @@
             </small>
           </p>
 
-          <%= simple_format @video.description %>
+          <div class="links-target-blank">
+            <%= markdown.render(@video.description).html_safe %>
+          </div>
 
           <p>
             <ul>

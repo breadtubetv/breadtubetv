@@ -17,5 +17,5 @@ require("channels")
 // const imagePath = (name) => images(name, true)
 
 $(document).ready(function(){
-  $('.container-text a').attr('target', '_blank');
+  $('.links-target-blank a').attr('target', '_blank');
 });
