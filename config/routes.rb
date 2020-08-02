@@ -2,8 +2,9 @@
 
 Rails.application.routes.draw do
   root 'pages#home'
-  get 'privacy', to: 'pages#privacy'
   get 'about', to: 'pages#about'
+  get 'privacy', to: 'pages#privacy'
+  get 'process', to: 'pages#process'
 
   LINKS.each do |path, url|
     get path.to_s.gsub("_","/"), to: redirect(url)

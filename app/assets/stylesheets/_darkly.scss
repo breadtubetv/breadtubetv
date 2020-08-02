@@ -47,7 +47,7 @@ $body-color:                $white !default;
 
 // Links
 
-$link-color:                $success !default;
+$link-color:                $primary !default;
 
 $text-muted:                  $gray-600 !default;
 
@@ -102,19 +102,19 @@ $navbar-light-toggler-border-color: rgba($gray-900, .1) !default;
 // Pagination
 
 $pagination-color:                  $white !default;
-$pagination-bg:                     $success !default;
+$pagination-bg:                     $primary !default;
 $pagination-border-width:           0 !default;
 $pagination-border-color:           transparent !default;
 
 $pagination-hover-color:            $white !default;
-$pagination-hover-bg:               lighten($success, 10%) !default;
+$pagination-hover-bg:               lighten($primary, 10%) !default;
 $pagination-hover-border-color:     transparent !default;
 
 $pagination-active-bg:              $pagination-hover-bg !default;
 $pagination-active-border-color:    transparent !default;
 
 $pagination-disabled-color:         $white !default;
-$pagination-disabled-bg:            darken($success, 15%) !default;
+$pagination-disabled-bg:            darken($primary, 15%) !default;
 $pagination-disabled-border-color:  transparent !default;
 
 // Jumbotron

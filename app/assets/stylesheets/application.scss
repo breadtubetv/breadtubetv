@@ -30,7 +30,20 @@ a.source-peertube {
   font-weight: $font-weight-bold;
 }
 
-blockquote {
-  border-left: 2px solid $white;
-  padding-left: $list-inline-padding;
+.container-text {
+  text-align: justify;
+  
+  blockquote {
+    border-left: 2px solid $white;
+    padding-left: $list-inline-padding;
+    text-align: left;
+  }
+
+  h1, h2, h3, h4, h5, .h1, .h2, .h3, .h4, .h5 {
+    text-align: left;
+  }
+
+  h1 {
+    font-size: 1.7rem;
+  }
 }

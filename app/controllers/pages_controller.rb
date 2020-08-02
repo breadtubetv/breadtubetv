@@ -1,5 +1,5 @@
 class PagesController < ApplicationController
-  layout "text", only: [:about, :privacy]
+  layout "text", except: [:home]
 
   def home
     @latest_videos = Video.kept.includes(:channel, :sources, :youtube).published.random.this_week.limit(12)

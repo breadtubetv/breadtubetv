@@ -5,16 +5,17 @@ en:
   channel: Channel
   channels: Channels
   community: Community
-  contact_us: Contact Us
+  contact_us: Contact @dirkkellycom
   content: Content
   creators: Creators
   developers: Developers
-  developers_discord: Dev Discord
+  developers_discord: Developer Discord
   discord: Discord
   facebook: Facebook
   find_us_on: Find Us On
   gitlab: GitLab
   guide: Guide
+  hows_breadtubetv_work: How's BreadTube.tv Work?
   instagram: Instagram
   kofi: Ko-fi
   latest_videos: Latest Videos
@@ -25,6 +26,7 @@ en:
   privacy_policy: Privacy Policy
   random_channels: Random Channels
   random_videos: Random Videos
+  report_issue: Report Issue
   reddit: Reddit
   speaker: Speaker
   twitch: Twitch
@@ -32,6 +34,7 @@ en:
   upload: Upload
   video: Video
   videos: Videos
+  view_source_code: View Source Code
   website: Website
   whats_breadtubetv: What's BreadTube.tv?
   youtube: YouTube
