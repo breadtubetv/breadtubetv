@@ -4,6 +4,6 @@ class ChannelSource::Peertube < ChannelSource
   end
 
   private def set_ident
-    self.ident = url[/https?:\/\/.*\/video-channels\/(\w*)$?\/?\??/,1]
+    self.ident = url.to_s[/https?:\/\/.*\/video-channels\/(\w*)$?\/?\??/,1]
   end
 end

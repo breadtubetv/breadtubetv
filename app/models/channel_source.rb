@@ -1,4 +1,6 @@
 class ChannelSource < ApplicationRecord
+  after_initialize :set_ident
+
   belongs_to :channel
   before_create :set_ident
 

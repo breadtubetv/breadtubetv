@@ -100,6 +100,6 @@ class ChannelSource::Youtube < ChannelSource
   end
 
   private def set_ident
-    self.ident = url[/https?:\/\/w?w?w?\.?youtube\.com\/channel\/([\w,_,-]*)$?\/?\??/,1]
+    self.ident = url.to_s[/https?:\/\/w?w?w?\.?youtube\.com\/channel\/([\w,_,-]*)$?\/?\??/,1]
   end
 end

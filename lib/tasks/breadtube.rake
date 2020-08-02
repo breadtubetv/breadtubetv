@@ -12,46 +12,48 @@ namespace :breadtube do
   end
 
   namespace :import do
+    task :file, [:file] => [:environment] do |task, args|
+      File.foreach(args[:file]).with_index do |line, index|
+        Rake::Task["breadtube:import:youtube"].invoke(line.strip)
+        Rake::Task["breadtube:import:youtube"].reenable
+      end
+    end
+
     task :youtube, [:url] => [:environment] do |task, args|
-      url = args[:url]
-      ident = url.gsub("https://www.youtube.com/channel/","")
+      channel_source = ChannelSource::Youtube.find_or_initialize_by(url: args[:url])
 
-      yt = Yt::Channel.new(id: ident)
-
-      if channel_source = ChannelSource.find_by(url: url)
+      if channel_source.persisted?
         @channel = channel_source.channel
 
         puts "Exists: #{ @channel.name }"
       else
-        @channel = Channel.new(
-          name: yt.title,
-          description: yt.description,
-          sources: [
-            ChannelSource.new(
-              type: "ChannelSource::Youtube",
-              url: url
-            )
-          ]
-        )
+        begin
+          yt = Yt::Channel.new(id: channel_source.ident)
 
-        image_path = "/channels/#{ @channel.slug }.jpg"
+          @channel = Channel.new(
+            name: yt.title,
+            description: yt.description,
+            youtube: channel_source
+          )
 
-        @channel.image = image_path
+          image_path = "/channels/#{ @channel.slug }.jpg"
 
-        if @channel.save!
-          puts "Created: #{ @channel.name } Channel"
+          @channel.image = image_path
 
-          if Rails.env.development?
-            URI.open(yt.thumbnail_url(:high)) do |image|
-              File.open("public#{ image_path }", "wb") do |file|
-                file.write(image.read)
+          if @channel.save!
+            puts "Created: #{ @channel.name } Channel"
+
+            if Rails.env.development?
+              URI.open(yt.thumbnail_url(:high)) do |image|
+                File.open("public#{ image_path }", "wb") do |file|
+                  file.write(image.read)
+                end
               end
+              puts "Downloaded: #{ @channel.image }"
             end
-            puts "Downloaded: #{ @channel.image }"
           end
-
-          @channel.refresh!
-          puts "Refreshed: #{ @channel.name } Channel"
+        rescue Yt::Errors::NoItems
+          puts "Doesn't Exist: #{ channel_source.url }"
         end
       end
     end
