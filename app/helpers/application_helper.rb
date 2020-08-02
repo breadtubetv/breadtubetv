@@ -10,7 +10,7 @@ module ApplicationHelper
   end
 
   def card_row(&block)
-    content_tag(:div, nil, class: "row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-6", &block)
+    content_tag(:div, nil, class: "card-row row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 row-cols-xl-6", &block)
   end
 
   def text_to_true_link(tweet_text)
