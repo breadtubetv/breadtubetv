@@ -6,6 +6,9 @@
 Rails.application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
 
+  # The trailing_slash messes with the capybara has_link? matcher
+  config.action_controller.default_url_options = { trailing_slash: false }
+
   config.cache_classes = false
   config.action_view.cache_template_loading = true
 

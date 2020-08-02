@@ -1,4 +1,4 @@
-<div class="container-fluid mt-4">
+<div id="footer" class="container-fluid mt-4">
   <div class="row">
     <div class="col-12 col-md">
       <h3><%= I18n.t(:content) %></h3>
@@ -23,7 +23,7 @@
       <ul class="list-unstyled">
         <!--li><%= link_to I18n.t(:guide), '#' %></li>
         <li><%= link_to I18n.t(:creators), '#' %></li-->
-        <li><%= link_to I18n.t(:report_issue), "#{LINKS[:gitlab_issues]}?issue[title]=Report #{ page_title }", taget: "_blank" %></li>
+        <li><%= link_to I18n.t(:report_issue), "#{LINKS[:gitlab_issues]}?issue[title]=Report '#{ full_page_title }'", taget: "_blank" %></li>
         <li><%= link_to I18n.t(:view_source_code), gitlab_breadtubetv_path, target: "_blank" %></li>
         <li><%= link_to I18n.t(:developers_discord), discord_developers_path, target: "_blank" %></li>
         <li><%= link_to I18n.t(:contact_us), LINKS[:dirkkellycom], target: "_blank" %></li>

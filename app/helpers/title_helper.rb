@@ -1,4 +1,8 @@
 module TitleHelper
+  def full_page_title
+    [page_title, I18n.t('title.site')].reject(&:blank?).join(' - ').html_safe
+  end
+
   def page_title
     t page_title_translation_key,
       page_title_context.merge(default: '')
