@@ -40,9 +40,11 @@
             </small>
           </p>
 
-          <div class="links-target-blank">
-            <%= markdown.render(@video.description).html_safe %>
-          </div>
+          <% if @video.description.present? %>
+            <div class="links-target-blank">
+              <%= markdown.render(@video.description).html_safe %>
+            </div>
+          <% end %>
 
           <p>
             <ul>
