@@ -10,7 +10,9 @@
         <%= logo_tag @channel, width: "100px" %>
         <div class="float-left ml-3" style="width: calc(100% - 120px); max-width: 60em">
           <h1 class="h3"><%= link_to @channel.name, @channel %></h1>
-          <%= @channel.description %>
+          <% if @channel.description.present? %>
+            <%= simple_format markdown.render(@channel.description).html_safe %>
+          <% end %>
         </div>
       </div>
     </div>

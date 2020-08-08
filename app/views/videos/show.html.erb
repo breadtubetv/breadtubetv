@@ -1,4 +1,3 @@
-<% markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML, autolink: true, space_after_headers: true) %>
 <%= content_for :head do %>
   <meta property="og:image" content="<%= @video.image %>">
   <meta name="description" content="<%= @video.description %>">
@@ -17,6 +16,7 @@
           </div>
         <% end %>
       </div>
+
       <ul class="nav nav-pills my-3" id="sources-tab" role="tablist">
         <% @video.sources.order_by_type.each_with_index do |source, index| %>
           <% id = "video_sources-#{ source.kind }" %>
@@ -42,7 +42,7 @@
 
           <% if @video.description.present? %>
             <div class="links-target-blank">
-              <%= markdown.render(@video.description).html_safe %>
+              <%= simple_format markdown.render(@video.description).html_safe %>
             </div>
           <% end %>
 
@@ -57,38 +57,39 @@
 
         <div class="col-12 col-md-3 col-lg-3 col-xl-2">
           <div class="overflow-hidden mb-1">
-            <%= logo_tag @video.channel %>
+            <%= logo_tag @channel %>
             <div class="float-left" style="width: calc(100% - 50px)">
-              <h5 class="mb-0 ml-2">
+              <h5 class="mb-0">
                 <small class="font-weight-bold">
-                  <%= link_to @video.channel.name, @video.channel %>
+                  <%= link_to @channel.name, @channel %>
                 </small>
               </h5>
             </div>
           </div>
-          <p>
+          <% if @channel.description.present? %>
             <small>
-              <%= @video.channel.description %>
+              <%= simple_format markdown.render(@channel.description).html_safe %>
             </small>
-          </p>
+          <% end %>
         </div>
       </div>
     </div>
+
     <div class="col-12 col-sm-4 col-md-3">
       <div class="row row-cols-1">
         <%= render @videos, locals: { simple: true } %>
       </div>
     </div>
   </div>
-  
-      <% if Rails.env.development? %>
-        <%= link_to 'Edit', edit_channel_video_path(@video.channel, @video) %>
-        <%= link_to 'Sync', sync_channel_video_path(@channel, @video) %>
-        <div>
-          <%= @video.inspect %>
-        </div>
-        <div>
-          <%= @video.youtube.inspect %>
-        </div>
-      <% end %>
+
+  <% if Rails.env.development? %>
+    <%= link_to 'Edit', edit_channel_video_path(@video.channel, @video) %>
+    <%= link_to 'Sync', sync_channel_video_path(@channel, @video) %>
+    <div>
+      <%= @video.inspect %>
+    </div>
+    <div>
+      <%= @video.youtube.inspect %>
+    </div>
+  <% end %>
 </div>
