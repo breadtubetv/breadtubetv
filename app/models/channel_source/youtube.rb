@@ -31,6 +31,11 @@ class ChannelSource::Youtube < ChannelSource
   end
 
   def sync!
+    channel.update(
+      # name: api.title, Needs work on slug and channelimage
+      description: api.description
+    )
+
     api_videos.each do |entry|
       ActiveRecord::Base.transaction do
         puts "Syncing: #{ entry.title.html_safe } Video"
