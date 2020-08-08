@@ -12,6 +12,7 @@ Rails.application.routes.draw do
 
   REDIRECTS.each do |from, to|
     get from, to: redirect(to)
+    get "#{from}/*video", to: redirect("#{to}/%{video}"), constraints: { video: /.*/ }
   end
 
   resources :channels, only: [:index, :new, :create]

@@ -20,6 +20,7 @@ REDIRECTS = {
   "antifada": "theantifada",
   "bronxblogger": "thebronxblogger",
   "devtopiancommune": "thedevtopiancommune",
+  "christopherszabo": "skylarszabo",
   "doubletake": "thedoubletake",
   "finnishbolshevik": "thefinnishbolshevik",
   "grayzone": "thegrayzone",
