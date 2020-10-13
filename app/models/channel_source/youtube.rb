@@ -85,7 +85,7 @@ class ChannelSource::Youtube < ChannelSource
   end
 
   private def rss_videos
-    @rss_videos = rss_feed.entries
+    @rss_videos = rss_feed&.entries || []
   end
 
   private def api_videos
