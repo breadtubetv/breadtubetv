@@ -15,4 +15,6 @@
 <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
 <script async defer data-domain="breadtube.tv" src="https://stats.breadtube.tv/js/index.js"></script>
 
+<link href="<%= videos_url(format: :xml) %>" rel="alternate" type="application/rss+xml" title="BreadTube.tv: Videos Feed" />
+
 <%= yield :head %>
