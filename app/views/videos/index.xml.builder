@@ -9,7 +9,7 @@ xml.rss version: '2.0', 'xmlns:atom': 'http://www.w3.org/2005/Atom' do
 
     @videos.each do |video|
       xml.item do
-        xml.title video.name
+        xml.title "#{video.name} - #{video.channel.name}"
         xml.link channel_video_url(video.channel, video)
         xml.description video.description
         xml.pubDate video.published_at.rfc822
