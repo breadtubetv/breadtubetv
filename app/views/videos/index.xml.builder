@@ -1,7 +1,7 @@
 xml.rss("version" => "2.0", "xmlns:dc" => "http://purl.org/dc/elements/1.1/") do
   xml.channel do
-    xml.title(@feed_title)
-    xml.link(@url)
+    xml.title("BreadTube.tv")
+    xml.link("https://breadtube.tv/videos.xml")
     xml.description "BreadTube.tv: Recent Videos"
     xml.language "en-us"
     xml.ttl "40"
