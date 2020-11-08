@@ -1,21 +1,29 @@
-image: "ruby:2.7"
+image: "timbru31/ruby-node:2.7"
+
+services:
+  - postgres:12.3-alpine
+
+variables:
+  POSTGRES_DB: breadtubetv_test
+  POSTGRES_USER: runner
+  POSTGRES_PASSWORD: ""
+  POSTGRES_HOST_AUTH_METHOD: trust
 
 test:
   stage: test
   script:
-  - apt-get update -qy
-  - apt-get install -y nodejs
-  - gem install bundler
-  - bundle config set path '/cache'
-  - bundle install
-  - yarn install --check-files
-  - bundle exec rake db:test:prepare
-  - bundle exec rake test
+    - gem install bundler
+    - bundle config set path '/cache'
+    - bundle install
+    - npm install -g yarn gulp
+    - yarn install --force
+    - bundle exec rake db:test:prepare
+    - bundle exec rake test
 
 deploy:
   stage: deploy
   script:
-  - gem install dpl
-  - dpl --provider=heroku --app=breadtubetv --api-key=$HEROKU_API_KEY
+    - gem install dpl
+    - dpl --provider=heroku --app=breadtubetv --api-key=$HEROKU_API_KEY
   only:
-  - master
+    - master
