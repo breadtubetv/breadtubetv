@@ -44,3 +44,5 @@ yarn-debug.log*
 vendor/*
 
 .env
+
+builds/

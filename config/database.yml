@@ -4,15 +4,15 @@ shared:
   url: <%= ENV.fetch("DATABASE_URL", "") %>
   host: <%= ENV.fetch("DB_HOST", "postgres") %>
   port: <%= ENV.fetch("DB_PORT", 5432) %>
-  username: <%= ENV.fetch("DB_USERNAME", "postgres") %>
+  username: <%= ENV.fetch("POSTGRES_USER", "postgres") %>
   pool: 5
   timeout: 5000
 
 development: &shared
-  database: breadtubetv_development
-  
+  database: <%= ENV.fetch("POSTGRES_DB", "breadtubetv_development") %>
+
 test: &shared
-  database: breadtubetv_test
+  database: <%= ENV.fetch("POSTGRES_DB", "breadtubetv_test") %>
 
 production: &shared
-  database: breadtubetv_production
+  database: <%= ENV.fetch("POSTGRES_DB", "breadtubetv_production") %>
