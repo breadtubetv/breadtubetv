@@ -90,12 +90,40 @@ rails breadtube:heroku:pull
 
 ### Import a YouTube Channel
 
+Create channel and set title, description, image
+
 ```
 rails breadtube:import:youtube[<url>]
+```
 
-rails breadtube:import:youtube[https://www.youtube.com/channel/UCRwzzq8hVdFjcNw_I9wZrVQ]
+#### Locally
 
+```
 docker-compose run web rails breadtube:import:youtube[https://www.youtube.com/channel/UCRwzzq8hVdFjcNw_I9wZrVQ]
+```
+
+#### Heroku
+
+```
+heroku run rails breadtube:import:youtube[https://www.youtube.com/channel/UCR_RL13AHgqojmKC6HFfzRA]
+```
+
+### Refresh a Channel
+
+Pull in all data from the channel (uses API)
+
+```
+heroku run rails breadtube:refresh:channel[
+```
+
+### Sync a Channel
+
+Pull in last 10 videos
+
+#### Locally
+
+```
+heroku run rails breadtube:sync:channel[zoomernation]
 ```
 
 ## Roadmap

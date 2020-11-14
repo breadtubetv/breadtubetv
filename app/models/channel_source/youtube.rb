@@ -93,7 +93,7 @@ class ChannelSource::Youtube < ChannelSource
   end
 
   private def sync_to
-    channel.videos.latest.last.published_at
+    channel.videos.latest.last&.published_at || Time.now
   end
 
   private def sync_from
