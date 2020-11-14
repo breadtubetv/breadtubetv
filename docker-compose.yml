@@ -53,6 +53,10 @@ services:
         source: ./vendor/postgres/db
         target: /var/lib/postgresql
         consistency: delegated
+      - type: bind
+        source: ./tmp
+        target: /app/tmp
+        consistency: cached
     ports:
       - "5432:5432"
 
