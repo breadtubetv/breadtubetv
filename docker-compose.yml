@@ -14,7 +14,7 @@ services:
     env_file: .env
     environment:
       RAILS_ENV: development
-      WEBPACKER_DEV_SERVER_HOST: webpacker
+      # WEBPACKER_DEV_SERVER_HOST: webpacker
       RUBYOPT: -W:no-deprecated -W:no-experimental
       DB_HOST: postgres
       DB_USERNAME: postgres
@@ -28,18 +28,21 @@ services:
     ports:
       - "1234:1234"
       - "3000:3000"
+    depends_on:
+      - postgres
+  #     - webpacker
       
-  webpacker:
-    build: .
-    environment:
-      - NODE_ENV=development
-      - RAILS_ENV=development
-      - WEBPACKER_DEV_SERVER_HOST=0.0.0.0
-    command: ./bin/webpack-dev-server
-    volumes:
-      - .:/webpacker-example-app
-    ports:
-      - '127.0.0.1:3035:3035'
+  # webpacker:
+  #   build: .
+  #   environment:
+  #     NODE_ENV: development
+  #     RAILS_ENV: development
+  #     WEBPACKER_DEV_SERVER_HOST: 0.0.0.0
+  #   command: ./bin/webpack-dev-server
+  #   volumes:
+  #     - .:/webpacker-example-app
+  #   ports:
+  #     - '127.0.0.1:3035:3035'
 
   postgres:
     image: postgres:12.3-alpine
