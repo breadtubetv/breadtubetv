@@ -18,6 +18,7 @@ class Channel < ApplicationRecord
 
   validates :name, :slug, presence: true, uniqueness: true
 
+  scope :order_by_created, -> { order(created_at: :desc) }
   scope :order_by_slug, -> { order(slug: :asc) }
   scope :order_by_oldest, -> { order(updated_at: :asc) }
   scope :order_by_latest, -> { order(published_at: :desc) }
