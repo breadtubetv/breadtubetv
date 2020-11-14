@@ -78,6 +78,26 @@ The following functionality is available, designs for further improvements are a
   - [Desktop](https://xd.adobe.com/view/f7e45c84-fe46-4754-48a9-28cf24dc3a5b-81d5/screen/0758c504-650f-44e4-a108-ede9bb51b8e8/Livestreams)
   - [Mobile](https://xd.adobe.com/view/f7e45c84-fe46-4754-48a9-28cf24dc3a5b-81d5/screen/bb283909-ea2d-4996-b75f-0f1b3e8614db/video-page-mobile-4)
 
+## Administration
+
+**TODO: Images are served locally, which means channel images need to be added to the repo in development**
+**This means you need to import a channel in development and deploy the code, before importing in production**
+**Resolving this requires storing images for production on a hosted service, or not using Heroku**
+
+```
+rails breadtube:heroku:pull
+```
+
+### Import a YouTube Channel
+
+```
+rails breadtube:import:youtube[<url>]
+
+rails breadtube:import:youtube[https://www.youtube.com/channel/UCRwzzq8hVdFjcNw_I9wZrVQ]
+
+docker-compose run web rails breadtube:import:youtube[https://www.youtube.com/channel/UCRwzzq8hVdFjcNw_I9wZrVQ]
+```
+
 ## Roadmap
 
 ### 2020 Q4
